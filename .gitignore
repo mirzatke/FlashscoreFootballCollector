@@ -1,2 +1,29 @@
+# WebView2 runtime data
 Data/WebView2/
+
+# Delphi compiled units / build output
 *.dcu
+*.exe
+*.dll
+!WebView2Loader.dll
+*.bpl
+*.dcp
+*.map
+
+# Delphi IDE local/cache files
+*.dproj.local
+*.dsk
+*.~dsk
+*.identcache
+*.delphilsp.json
+*.tvsconfig
+
+# Delphi backup/history folders
+__history/
+__recovery/
+
+# Common build folders
+Win32/
+Win64/
+Debug/
+Release/
