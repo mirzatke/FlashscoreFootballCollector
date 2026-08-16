@@ -1,0 +1,3088 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/manchester-city-Wtn9Stg0/west-ham-Cxq57r8g/summary/stats/overall/?mid=INsZAAf3",
+  "match_id": "INsZAAf3",
+  "page_title": "WHU 1-3 MCI | West Ham v Manchester City 31/08/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "31.08.2024 20:30",
+  "home_team": "West Ham",
+  "away_team": "Manchester City",
+  "score": {
+    "home": "1",
+    "away": "3",
+    "display": "1 - 3"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.66",
+      "away": "1.84",
+      "raw_values": [
+        "0.66",
+        "1.84"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "32%",
+      "away": "68%",
+      "raw_values": [
+        "32%",
+        "68%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "10",
+      "away": "23",
+      "raw_values": [
+        "10",
+        "23"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "2",
+      "away": "8",
+      "raw_values": [
+        "2",
+        "8"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "3",
+      "away": "11",
+      "raw_values": [
+        "3",
+        "11"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "84%\n(284/340)",
+      "away": "92%\n(670/726)",
+      "raw_values": [
+        "84%\n(284/340)",
+        "92%\n(670/726)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "7",
+      "away": "11",
+      "raw_values": [
+        "7",
+        "11"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "1",
+      "away": "4",
+      "raw_values": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "0",
+      "away": "1",
+      "raw_values": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "3",
+      "away": "10",
+      "raw_values": [
+        "3",
+        "10"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "20",
+      "away": "11",
+      "raw_values": [
+        "20",
+        "11"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "10",
+      "away": "3",
+      "raw_values": [
+        "10",
+        "3"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "5",
+      "away": "1",
+      "raw_values": [
+        "5",
+        "1"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.66",
+        "away": "1.84",
+        "raw_values": [
+          "0.66",
+          "1.84"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "32%",
+        "away": "68%",
+        "raw_values": [
+          "32%",
+          "68%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "10",
+        "away": "23",
+        "raw_values": [
+          "10",
+          "23"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "8",
+        "raw_values": [
+          "2",
+          "8"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "11",
+        "raw_values": [
+          "3",
+          "11"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "84%\n(284/340)",
+        "away": "92%\n(670/726)",
+        "raw_values": [
+          "84%\n(284/340)",
+          "92%\n(670/726)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "11",
+        "raw_values": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "3",
+        "away": "10",
+        "raw_values": [
+          "3",
+          "10"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "20",
+        "away": "11",
+        "raw_values": [
+          "20",
+          "11"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "10",
+        "away": "3",
+        "raw_values": [
+          "10",
+          "3"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.08",
+        "away": "1.14",
+        "raw_values": [
+          "0.08",
+          "1.14"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "31%",
+        "away": "69%",
+        "raw_values": [
+          "31%",
+          "69%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "3",
+        "away": "12",
+        "raw_values": [
+          "3",
+          "12"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "5",
+        "raw_values": [
+          "2",
+          "5"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "0",
+        "away": "7",
+        "raw_values": [
+          "0",
+          "7"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "79%\n(127/160)",
+        "away": "90%\n(308/341)",
+        "raw_values": [
+          "79%\n(127/160)",
+          "90%\n(308/341)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "5",
+        "raw_values": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "14",
+        "away": "5",
+        "raw_values": [
+          "14",
+          "5"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "1",
+        "raw_values": [
+          "4",
+          "1"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.58",
+        "away": "0.70",
+        "raw_values": [
+          "0.58",
+          "0.70"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "33%",
+        "away": "67%",
+        "raw_values": [
+          "33%",
+          "67%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "7",
+        "away": "11",
+        "raw_values": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "87%\n(157/180)",
+        "away": "94%\n(362/385)",
+        "raw_values": [
+          "87%\n(157/180)",
+          "94%\n(362/385)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "6",
+        "away": "6",
+        "raw_values": [
+          "6",
+          "6"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "6",
+        "away": "6",
+        "raw_values": [
+          "6",
+          "6"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "2",
+        "raw_values": [
+          "6",
+          "2"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 23,
+          "name": "Areola",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Areola",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Wan-Bissaka",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Wan-Bissaka",
+          "source": "formation"
+        },
+        {
+          "number": 26,
+          "name": "Kilman",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Kilman",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Mavropanos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Mavropanos",
+          "source": "formation"
+        },
+        {
+          "number": 33,
+          "name": "Emerson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Emerson",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Alvarez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Alvarez",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Rodriguez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Rodriguez",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Bowen",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "20 Bowen",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Lucas Paqueta",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Lucas Paqueta",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Kudus",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Kudus",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Antonio",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Antonio",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 23,
+          "name": "Areola A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Areola A. (G)",
+          "formation_raw": "23 Areola",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Wan-Bissaka A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Wan-Bissaka A.",
+          "formation_raw": "29 Wan-Bissaka",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 26,
+          "name": "Kilman M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Kilman M.",
+          "formation_raw": "26 Kilman",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Mavropanos K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Mavropanos K.",
+          "formation_raw": "15 Mavropanos",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 33,
+          "name": "Emerson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Emerson",
+          "formation_raw": "33 Emerson",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 19,
+          "name": "Alvarez E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Alvarez E.",
+          "formation_raw": "19 Alvarez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Rodriguez G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Rodriguez G.",
+          "formation_raw": "24 Rodriguez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Bowen J.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "20 Bowen J. (C)",
+          "formation_raw": "20 Bowen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Lucas Paqueta",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Lucas Paqueta",
+          "formation_raw": "10 Lucas Paqueta",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 14,
+          "name": "Kudus M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Kudus M.",
+          "formation_raw": "14 Kudus",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Antonio M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Antonio M.",
+          "formation_raw": "9 Antonio",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 42,
+          "name": "Casey K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Casey K.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Coufal V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Coufal V.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Fabianski L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Fabianski L. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Fullkrug N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Fullkrug N.",
+          "source": "detailed"
+        },
+        {
+          "number": 39,
+          "name": "Irving A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "39 Irving A.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Luis Guilherme",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Luis Guilherme",
+          "source": "detailed"
+        },
+        {
+          "number": 28,
+          "name": "Soucek T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Soucek T.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Summerville C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Summerville C.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Todibo J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Todibo J.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Fabianski L. (G)",
+          "outgoing": "Areola A.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Fabianski L. (G) 6.4 Areola A. 46'"
+        },
+        {
+          "minute": "71",
+          "incoming": "Coufal V.",
+          "outgoing": "Emerson",
+          "incoming_rating": 5.9,
+          "side": "home",
+          "side_match_score": 12,
+          "split_match_score": null,
+          "raw": "Coufal V. 5.9 Emerson 71'"
+        },
+        {
+          "minute": "71",
+          "incoming": "Fullkrug N.",
+          "outgoing": "Antonio M.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Fullkrug N. 6.4 Antonio M. 71'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Soucek T.",
+          "outgoing": "Alvarez E.",
+          "incoming_rating": 6.2,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Soucek T. 6.2 Alvarez E. 77'"
+        },
+        {
+          "minute": "86",
+          "incoming": "Summerville C.",
+          "outgoing": "Bowen J.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Summerville C. Bowen J. 86'"
+        }
+      ],
+      "coach": "Lopetegui J."
+    },
+    "away": {
+      "formation": "3-2-4-1",
+      "formation_players": [
+        {
+          "number": 31,
+          "name": "Ederson",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "31 Ederson",
+          "source": "formation"
+        },
+        {
+          "number": 25,
+          "name": "Akanji",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Akanji",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Dias",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Dias",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Gvardiol",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Gvardiol",
+          "source": "formation"
+        },
+        {
+          "number": 82,
+          "name": "Lewis",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "82 Lewis",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Kovacic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Kovacic",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Doku",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Doku",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Silva",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Silva",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "De Bruyne",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "17 De Bruyne",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Grealish",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Grealish",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Haaland",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Haaland",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 31,
+          "name": "Ederson",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "31 Ederson (G)",
+          "formation_raw": "31 Ederson",
+          "source": "formation_detail_match",
+          "match_score": 17
+        },
+        {
+          "number": 25,
+          "name": "Akanji M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Akanji M.",
+          "formation_raw": "25 Akanji",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Dias R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Dias R.",
+          "formation_raw": "3 Dias",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Gvardiol J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Gvardiol J.",
+          "formation_raw": "24 Gvardiol",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 82,
+          "name": "Lewis R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "82 Lewis R.",
+          "formation_raw": "82 Lewis",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Kovacic M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Kovacic M.",
+          "formation_raw": "8 Kovacic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Doku J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Doku J.",
+          "formation_raw": "11 Doku",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Silva B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Silva B.",
+          "formation_raw": "20 Silva",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "De Bruyne K.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "17 De Bruyne K. (C)",
+          "formation_raw": "17 De Bruyne",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Grealish J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Grealish J.",
+          "formation_raw": "10 Grealish",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Haaland E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Haaland E. 3",
+          "formation_raw": "9 Haaland",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 3
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 6,
+          "name": "Ake N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Ake N.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Gundogan I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Gundogan I.",
+          "source": "detailed"
+        },
+        {
+          "number": 87,
+          "name": "McAtee J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "87 McAtee J.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Nunes M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Nunes M.",
+          "source": "detailed"
+        },
+        {
+          "number": 75,
+          "name": "O'Reilly N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "75 O'Reilly N.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Ortega S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "18 Ortega S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Rodri",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Rodri",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Stones J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Stones J.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Walker K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Walker K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "68",
+          "incoming": "Gundogan I.",
+          "outgoing": "Doku J.",
+          "incoming_rating": 7.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Gundogan I. 7.1 Doku J. 68'"
+        },
+        {
+          "minute": "72",
+          "incoming": "Nunes M.",
+          "outgoing": "Grealish J.",
+          "incoming_rating": 7.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Nunes M. 7.4 Grealish J. 72'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Walker K.",
+          "outgoing": "Gvardiol J.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Walker K. Gvardiol J. 88'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Ake N.",
+          "outgoing": "De Bruyne K.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Ake N. De Bruyne K. 88'"
+        }
+      ],
+      "coach": "Guardiola P."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "23 Areola",
+      "29 Wan-Bissaka",
+      "26 Kilman",
+      "15 Mavropanos",
+      "33 Emerson",
+      "19 Alvarez",
+      "24 Rodriguez",
+      "20 Bowen",
+      "10 Lucas Paqueta",
+      "14 Kudus",
+      "9 Antonio",
+      "31 Ederson",
+      "25 Akanji",
+      "3 Dias",
+      "24 Gvardiol",
+      "82 Lewis",
+      "8 Kovacic",
+      "11 Doku",
+      "20 Silva",
+      "17 De Bruyne",
+      "10 Grealish",
+      "9 Haaland",
+      "Fabianski L. (G) 6.4 Areola A. 46'",
+      "Coufal V. 5.9 Emerson 71'",
+      "Fullkrug N. 6.4 Antonio M. 71'",
+      "Soucek T. 6.2 Alvarez E. 77'",
+      "Summerville C. Bowen J. 86'",
+      "Gundogan I. 7.1 Doku J. 68'",
+      "Nunes M. 7.4 Grealish J. 72'",
+      "Walker K. Gvardiol J. 88'",
+      "Ake N. De Bruyne K. 88'",
+      "23 Areola A. (G)",
+      "29 Wan-Bissaka A.",
+      "26 Kilman M.",
+      "15 Mavropanos K.",
+      "19 Alvarez E.",
+      "24 Rodriguez G.",
+      "20 Bowen J. (C)",
+      "14 Kudus M.",
+      "9 Antonio M.",
+      "31 Ederson (G)",
+      "25 Akanji M.",
+      "3 Dias R.",
+      "24 Gvardiol J.",
+      "82 Lewis R.",
+      "8 Kovacic M.",
+      "11 Doku J.",
+      "20 Silva B.",
+      "17 De Bruyne K. (C)",
+      "10 Grealish J.",
+      "9 Haaland E. 3",
+      "42 Casey K.",
+      "5 Coufal V.",
+      "1 Fabianski L. (G)",
+      "11 Fullkrug N.",
+      "39 Irving A.",
+      "17 Luis Guilherme",
+      "28 Soucek T.",
+      "7 Summerville C.",
+      "25 Todibo J.",
+      "6 Ake N.",
+      "19 Gundogan I.",
+      "87 McAtee J.",
+      "27 Nunes M.",
+      "75 O'Reilly N.",
+      "18 Ortega S. (G)",
+      "16 Rodri",
+      "5 Stones J.",
+      "2 Walker K.",
+      "Cresswell A. Thigh Injury",
+      "Bobb O. Leg Injury",
+      "Foden P. Illness",
+      "Lopetegui J.",
+      "Guardiola P."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 38,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 109,
+    "compact_lineup_text_count": 74,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 38,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Michael Oliver is looking at his watch and immediately ends this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' West Ham earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Crysencio Summerville (West Ham) expertly controls a neat clever pass inside the box, but his effort crashes against the right post! What an opportunity that was!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' Vladimir Coufal (West Ham) makes a rough challenge and the referee blows for a foul. Manchester City will take a free kick near the side line."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Bernardo Silva (Manchester City) slides a pass forward, but one of the defenders cuts it out."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' A yellow card for a tackle by Manuel Akanji (Manchester City). Michael Oliver doesn't hesitate at all to make this decision."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 5 min. of stoppage-time to be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Rico Lewis (Manchester City) serves up a nice cross, but Alphonse Areola punches the ball away."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' The referee stops play so that a substitution can be made and Kevin De Bruyne leaves the pitch and Nathan Ake (Manchester City) comes on."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Here is a change. Josko Gvardiol is going off and Pep Guardiola gives the last tactical orders to Kyle Walker (Manchester City)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' We are about to witness a subsitution. Crysencio Summerville (West Ham) for Jarrod Bowen."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "status": "confirmed",
+      "text": "83' 1 - 3 Goal! Matheus Nunes passes the ball to the feet of Erling Haaland (Manchester City), who has an empty net in front of him and has no problems in tapping the ball in. 1:3."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Matheus Nunes (Manchester City) passes the ball into the box but an opposing player clears."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Kevin De Bruyne (Manchester City) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Kevin De Bruyne (Manchester City) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The referee points to the corner flag. It's a corner to Manchester City."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Kevin De Bruyne (Manchester City) swings a cross into the box, but it's far too close to Alphonse Areola, who smothers the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Close! Tomas Soucek (West Ham) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post. The ball goes out of play and Manchester City will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Vladimir Coufal (West Ham) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Kevin De Bruyne (Manchester City) steps up to take the corner, but the ball just sails in among the defenders."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Here comes a substitution. Edson Alvarez is given a rest as he is replaced by Tomas Soucek (West Ham)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Rico Lewis (Manchester City) sends a pass into the penalty area, but the opponent manages to cut it out. Manchester City have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' The foul by Guido Rodriguez (West Ham) is worthy of a card and a yellow is duly shown by Michael Oliver."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Manchester City keep possession of the ball by producing short passes and one-two passes from player to player."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' The game has come to an end for Jack Grealish. He has contributed as much as he could today. He will be replaced by the fresh legs of Matheus Nunes (Manchester City)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Max Kilman (West Ham) connects with the corner but his looping header goes well over. The ball goes out of play and Manchester City will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Jarrod Bowen (West Ham) will take the corner."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Julen Lopetegui has decided to substitute Michail Antonio and he is replaced by Niclas Fullkrug (West Ham)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Substitution. Vladimir Coufal (West Ham) replaces Emerson."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Mohammed Kudus (West Ham) tries to pass the ball into the penalty area but it's blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Kevin De Bruyne (Manchester City) fails to pick a body out in the box with an over-hit chip pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Kevin De Bruyne (Manchester City) quickly takes the corner kick with a short pass."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' That's the end of the game for Jeremy Doku, who is replaced by Ilkay Gundogan (Manchester City)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Kevin De Bruyne (Manchester City) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender. Manchester City force a corner. Their opponents will face another attacking threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Jeremy Doku (Manchester City) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' A defence-splitting pass is taken in his stride by Bernardo Silva (Manchester City) in the box. Without even looking up he drills a shot low towards the middle of the goal, but Alphonse Areola pulls off a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Today's referee Michael Oliver rightly decides to book Max Kilman (West Ham) for his harsh tackle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Jarrod Bowen (West Ham) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Michael Oliver shows a yellow card to Emerson (West Ham), who isn't surprised as the tackle was really hard and late."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' A huge rebound finds Guido Rodriguez (West Ham) unmarked on the edge of the box. He lines up a shot but slips just before he hits it and sends the ball miles wide of the left post. The ball is off of the pitch and it's a goal kick for Manchester City."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Jarrod Bowen (West Ham) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Jarrod Bowen (West Ham) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. West Ham have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Jarrod Bowen (West Ham) is unable to feed an accurate cross into the box. The ball goes out of play and Manchester City will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Lucas Paqueta (West Ham) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Jarrod Bowen (West Ham) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball goes out of play and Manchester City will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' The defence is alert as they clear a dangerous cross from Edson Alvarez (West Ham)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' A great pass puts Mohammed Kudus (West Ham) clear inside the box, he sidesteps the keeper but inexplicably hits his shot against the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Kevin De Bruyne (Manchester City) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Michail Antonio (West Ham) fouls an opponent. At least that's what referee Michael Oliver signals. Free kick. Manchester City will probably just try to cross the ball in from here."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Bernardo Silva (Manchester City) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' The corner is swung into the six-yard box and Bernardo Silva (Manchester City) gets his head on the ball, but he is unable to keep it down and it goes miles over the bar. The ball goes out of play and West Ham will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' There's an opportunity for Kevin De Bruyne (Manchester City) to deliver the ball into the box from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Jack Grealish (Manchester City) tries to send a low pass into the box, but it's blocked and cleared. Corner kick. Manchester City will have an opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' Jeremy Doku (Manchester City) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Manchester City are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Alphonse Areola (West Ham) is being substituted because of an injury. Julen Lopetegui sends Lukasz Fabianski on the pitch."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The referee blows his whistle to signal the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Mohammed Kudus (West Ham) controls a cross inside the six-yard box, but sends his shot slightly wide of the right post. The ball is off of the pitch and it's a goal kick for Manchester City."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 2 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Kevin De Bruyne (Manchester City) produces a shot from a direct free kick on the edge of the box. His effort sails narrowly over the crossbar. The goalkeeper was lucky there. The ball goes out of play and West Ham will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Edson Alvarez (West Ham) is penalised after knocking an opponent down. A free kick has been awarded to Manchester City."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Kevin De Bruyne (Manchester City) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Michael Oliver ignores the protests."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Jeremy Doku (Manchester City) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' An attempted cross from Jeremy Doku (Manchester City) is cleared."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Kevin De Bruyne (Manchester City) will deliver the corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' A pass across the box picks out an unmarked Rico Lewis (Manchester City) and he tries to place the ball towards the roof of the net, but it goes just over the bar. The ball is off of the pitch and it's a goal kick for West Ham."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Kevin De Bruyne (Manchester City) takes a short corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Kevin De Bruyne (Manchester City) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. Manchester City have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Kevin De Bruyne (Manchester City) sends a pass into the box, but his attempt is thwarted and cleared."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "30' 1 - 2 Erling Haaland (Manchester City) collects a sweet pass inside the box and fires the ball into the roof of the net. What a clinical finish!"
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' The ball spins up and hits the hand of Bernardo Silva (Manchester City) after he fails to control it and the referee blows his whistle for a foul. West Ham earn a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Kevin De Bruyne (Manchester City) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Jeremy Doku (Manchester City) wastes a good opportunity as his pass into the box is blocked by the defence. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Bernardo Silva (Manchester City) produces a dangerous lofted cross into the box which is intercepted."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Josko Gvardiol (Manchester City) jumps inside the box to meet the resulting set piece and aims a header towards the middle of the goal, but the goalkeeper shows his reflexes and makes a superb save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' The referee awards a corner and Kevin De Bruyne (Manchester City) goes over to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Kevin De Bruyne (Manchester City) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The ball goes out of play. Manchester City are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' A sweeping move ends with a pass to Kevin De Bruyne (Manchester City) inside the box. He lets fly low towards the middle of the goal, but Alphonse Areola was watching it all the way and makes a comfortable save."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "19' 1 - 1 An unfortunate own goal is conceded by Ruben Dias (Manchester City), who attempted to block the ball after a cross, but instead he sends it inside the bottom left corner of his own goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Jack Grealish (Manchester City) latches onto a rebound in the box and fires a shot just over the bar. That was a promising chance and maybe he should have done better! The ball goes out of play and West Ham will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Kevin De Bruyne (Manchester City) storms into the box to get on the end of a pass, but smashes his shot straight onto the right post. Unlucky!"
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Lucas Paqueta (West Ham) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul. Manchester City are awarded a free kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Referee Michael Oliver sees the trip by Aaron Wan-Bissaka (West Ham) and doesn't hesitate to blow his whistle. It's a free kick to Manchester City, but they probably won't attempt a direct shot on goal from here."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' The linesman raises his flag for offside before Bernardo Silva (Manchester City) heads on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Kevin De Bruyne (Manchester City) takes the corner with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' A sweet pass finds Kevin De Bruyne (Manchester City) on the edge of the box, and he drills the ball towards the top left corner. Alphonse Areola is almost caught out but pulls off a brilliant save at the last second. Good work from Manchester City as they win a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' A horde of players are waiting inside the penalty area for a cross from the corner, but Kevin De Bruyne (Manchester City) takes it short."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Jack Grealish (Manchester City) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. Manchester City will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Jeremy Doku (Manchester City) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for West Ham."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "10' 0 - 1 Goal! A mistake from the defence gifted a chance to a lurking Erling Haaland (Manchester City), who keeps his cool and rolls the ball into the net from close range. 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Kevin De Bruyne (Manchester City) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Bernardo Silva (Manchester City) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety. The referee blows his whistle, Manchester City are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Wow, what an escape. Kevin De Bruyne (Manchester City) has an effort from inside the box but it's brilliantly blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Kevin De Bruyne (Manchester City) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Erling Haaland (Manchester City) connects with a cross from the side, but produces a header which goes way over the bar. The ball goes out of play and West Ham will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Kevin De Bruyne (Manchester City) serves up a nice cross, but the defence clears the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Michail Antonio (West Ham) is obviously not following the Golden Rule: \"Treat others as you want to be treated.“ He makes a bad challenge and leaves Michael Oliver with no other option than to blow for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' The goalkeeper dives to deny Jarrod Bowen (West Ham), whose promising shot was aimed towards the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Guido Rodriguez (West Ham) tries to send a pass but it's blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Mohammed Kudus (West Ham) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Michail Antonio (West Ham) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Today's match has just started, enjoy the game!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out at last! Manchester City will take the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Michael Oliver will supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups Both teams starting lineups are available now, so you can have a look at them."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 83,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "status": "confirmed",
+        "text": "83' 1 - 3 Goal! Matheus Nunes passes the ball to the feet of Erling Haaland (Manchester City), who has an empty net in front of him and has no problems in tapping the ball in. 1:3.",
+        "team_side": "away",
+        "team": "Manchester City",
+        "player_team_side": "away",
+        "player_team": "Manchester City",
+        "player": "Haaland E.",
+        "shirt_number": 9,
+        "player_match_score": 144,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 3
+        },
+        "assist_player": "Nunes M.",
+        "assist_shirt_number": 27,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 30,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "30' 1 - 2 Erling Haaland (Manchester City) collects a sweet pass inside the box and fires the ball into the roof of the net. What a clinical finish!",
+        "team_side": "away",
+        "team": "Manchester City",
+        "player_team_side": "away",
+        "player_team": "Manchester City",
+        "player": "Haaland E.",
+        "shirt_number": 9,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 2
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 19,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "19' 1 - 1 An unfortunate own goal is conceded by Ruben Dias (Manchester City), who attempted to block the ball after a cross, but instead he sends it inside the bottom left corner of his own goal.",
+        "team_side": "home",
+        "team": "West Ham",
+        "player_team_side": "away",
+        "player_team": "Manchester City",
+        "player": "Dias R.",
+        "shirt_number": 3,
+        "player_match_score": 141,
+        "goal_type": "own_goal",
+        "is_penalty": false,
+        "is_own_goal": true,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 10,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "10' 0 - 1 Goal! A mistake from the defence gifted a chance to a lurking Erling Haaland (Manchester City), who keeps his cool and rolls the ball into the net from close range. 0:1.",
+        "team_side": "away",
+        "team": "Manchester City",
+        "player_team_side": "away",
+        "player_team": "Manchester City",
+        "player": "Haaland E.",
+        "shirt_number": 9,
+        "player_match_score": 146,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+1' A yellow card for a tackle by Manuel Akanji (Manchester City). Michael Oliver doesn't hesitate at all to make this decision.",
+        "team_side": "away",
+        "team": "Manchester City",
+        "player": "Akanji M.",
+        "shirt_number": 25,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' Michael Oliver shows a yellow card to Emerson (West Ham), who isn't surprised as the tackle was really hard and late.",
+        "team_side": "home",
+        "team": "West Ham",
+        "player": "Emerson",
+        "shirt_number": 33,
+        "player_match_score": 143,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 44,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "44' Kevin De Bruyne (Manchester City) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Michael Oliver ignores the protests.",
+        "team_side": "away",
+        "team": "Manchester City",
+        "player": "De Bruyne K.",
+        "shirt_number": 17,
+        "player_match_score": 142,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' The referee stops play so that a substitution can be made and Kevin De Bruyne leaves the pitch and Nathan Ake (Manchester City) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Here is a change. Josko Gvardiol is going off and Pep Guardiola gives the last tactical orders to Kyle Walker (Manchester City)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' We are about to witness a subsitution. Crysencio Summerville (West Ham) for Jarrod Bowen."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Here comes a substitution. Edson Alvarez is given a rest as he is replaced by Tomas Soucek (West Ham)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' The game has come to an end for Jack Grealish. He has contributed as much as he could today. He will be replaced by the fresh legs of Matheus Nunes (Manchester City)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' Julen Lopetegui has decided to substitute Michail Antonio and he is replaced by Niclas Fullkrug (West Ham)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' Substitution. Vladimir Coufal (West Ham) replaces Emerson."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' That's the end of the game for Jeremy Doku, who is replaced by Ilkay Gundogan (Manchester City)."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The referee blows his whistle to signal the start of the second half."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+3' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 28,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "28' The ball spins up and hits the hand of Bernardo Silva (Manchester City) after he fails to control it and the referee blows his whistle for a foul. West Ham earn a free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 18,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "18' Lucas Paqueta (West Ham) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul. Manchester City are awarded a free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 17,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "17' Referee Michael Oliver sees the trip by Aaron Wan-Bissaka (West Ham) and doesn't hesitate to blow his whistle. It's a free kick to Manchester City, but they probably won't attempt a direct shot on goal from here."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 10,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "10' Bernardo Silva (Manchester City) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety. The referee blows his whistle, Manchester City are awarded a corner kick."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 4,
+    "detected_goal_count": 4,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 4,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 180,
+    "commentary_row_count": 107,
+    "removed_commentary_noise_count": 73,
+    "goal_event_count": 4,
+    "yellow_card_event_count": 3,
+    "red_card_event_count": 0,
+    "substitution_event_count": 8,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 4,
+      "detected_goal_count": 4
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": true,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_match",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 4,
+    "structured_goal_count": 4,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 1,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 3,
+    "structured_yellow_card_count": 3,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-15T17:54:17Z",
+  "collector_profile": {
+    "competition_key": "premier_league",
+    "competition": "English Premier League",
+    "season": "2024/2025",
+    "season_key": "2024_2025",
+    "expected_match_count": 380,
+    "supports_player_stats": true
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 107,
+      "error": null
+    }
+  }
+}

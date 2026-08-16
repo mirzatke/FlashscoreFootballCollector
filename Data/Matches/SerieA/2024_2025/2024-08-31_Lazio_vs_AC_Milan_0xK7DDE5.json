@@ -1,0 +1,3072 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/ac-milan-8Sa8HInO/lazio-URcSl02h/summary/stats/overall/?mid=0xK7DDE5",
+  "match_id": "0xK7DDE5",
+  "page_title": "LAZ 2-2 ACM | Lazio v AC Milan 31/08/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "31.08.2024 22:45",
+  "home_team": "Lazio",
+  "away_team": "AC Milan",
+  "score": {
+    "home": "2",
+    "away": "2",
+    "display": "2 - 2"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.98",
+      "away": "1.28",
+      "raw_values": [
+        "1.98",
+        "1.28"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "42%",
+      "away": "58%",
+      "raw_values": [
+        "42%",
+        "58%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "7",
+      "away": "10",
+      "raw_values": [
+        "7",
+        "10"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "5",
+      "away": "7",
+      "raw_values": [
+        "5",
+        "7"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "88%\n(310/352)",
+      "away": "89%\n(458/515)",
+      "raw_values": [
+        "88%\n(310/352)",
+        "89%\n(458/515)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "4",
+      "away": "2",
+      "raw_values": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "0",
+      "away": "3",
+      "raw_values": [
+        "0",
+        "3"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "5",
+      "away": "0",
+      "raw_values": [
+        "5",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "10",
+      "away": "19",
+      "raw_values": [
+        "10",
+        "19"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "25",
+      "away": "16",
+      "raw_values": [
+        "25",
+        "16"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "12",
+      "away": "9",
+      "raw_values": [
+        "12",
+        "9"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.98",
+        "away": "1.28",
+        "raw_values": [
+          "1.98",
+          "1.28"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "42%",
+        "away": "58%",
+        "raw_values": [
+          "42%",
+          "58%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "7",
+        "away": "10",
+        "raw_values": [
+          "7",
+          "10"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "7",
+        "raw_values": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "88%\n(310/352)",
+        "away": "89%\n(458/515)",
+        "raw_values": [
+          "88%\n(310/352)",
+          "89%\n(458/515)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "5",
+        "away": "0",
+        "raw_values": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "10",
+        "away": "19",
+        "raw_values": [
+          "10",
+          "19"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "25",
+        "away": "16",
+        "raw_values": [
+          "25",
+          "16"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "12",
+        "away": "9",
+        "raw_values": [
+          "12",
+          "9"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.01",
+        "away": "0.56",
+        "raw_values": [
+          "0.01",
+          "0.56"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "44%",
+        "away": "56%",
+        "raw_values": [
+          "44%",
+          "56%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "1",
+        "away": "5",
+        "raw_values": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "84%\n(148/176)",
+        "away": "100%\n(248/0)",
+        "raw_values": [
+          "84%\n(148/176)",
+          "100%\n(248/0)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "9",
+        "raw_values": [
+          "5",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "14",
+        "away": "12",
+        "raw_values": [
+          "14",
+          "12"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.97",
+        "away": "0.72",
+        "raw_values": [
+          "1.97",
+          "0.72"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "40%",
+        "away": "60%",
+        "raw_values": [
+          "40%",
+          "60%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "92%\n(162/176)",
+        "away": "41%\n(210/515)",
+        "raw_values": [
+          "92%\n(162/176)",
+          "41%\n(210/515)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "10",
+        "raw_values": [
+          "5",
+          "10"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "4",
+        "raw_values": [
+          "11",
+          "4"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "6",
+        "raw_values": [
+          "8",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 94,
+          "name": "Provedel",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "94 Provedel",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Lazzari",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Lazzari",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Patric",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Patric",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Romagnoli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Romagnoli",
+          "source": "formation"
+        },
+        {
+          "number": 30,
+          "name": "Tavares",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Tavares",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Guendouzi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Guendouzi",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Rovella",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Rovella",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Tchaouna",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Tchaouna",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Dia",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Dia",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Zaccagni",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Zaccagni",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Castellanos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Castellanos",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 94,
+          "name": "Provedel I.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "94 Provedel I. (G)",
+          "formation_raw": "94 Provedel",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Lazzari M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Lazzari M.",
+          "formation_raw": "29 Lazzari",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Patric",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Patric",
+          "formation_raw": "4 Patric",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 13,
+          "name": "Romagnoli A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Romagnoli A.",
+          "formation_raw": "13 Romagnoli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 30,
+          "name": "Tavares N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Tavares N.",
+          "formation_raw": "30 Tavares",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Guendouzi M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Guendouzi M.",
+          "formation_raw": "8 Guendouzi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Rovella N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Rovella N.",
+          "formation_raw": "6 Rovella",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Tchaouna L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Tchaouna L.",
+          "formation_raw": "20 Tchaouna",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Dia B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Dia B.",
+          "formation_raw": "19 Dia",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Zaccagni M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Zaccagni M.",
+          "formation_raw": "10 Zaccagni",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Castellanos T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Castellanos T.",
+          "formation_raw": "11 Castellanos",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 22,
+          "name": "Castrovilli G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Castrovilli G.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Dele-Bashiru F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Dele-Bashiru F.",
+          "source": "detailed"
+        },
+        {
+          "number": 55,
+          "name": "Furlanetto A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "55 Furlanetto A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Hysaj E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Hysaj E.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Isaksen G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Isaksen G.",
+          "source": "detailed"
+        },
+        {
+          "number": 35,
+          "name": "Mandas C.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "35 Mandas C. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 77,
+          "name": "Marusic A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Marusic A.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Noslin T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Noslin T.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Pedro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Pedro",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Vecino M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Vecino M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Marusic A.",
+          "outgoing": "Lazzari M.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Marusic A. 6.5 Lazzari M. 46'"
+        },
+        {
+          "minute": "46",
+          "incoming": "Isaksen G.",
+          "outgoing": "Tchaouna L.",
+          "incoming_rating": 7.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Isaksen G. 7.1 Tchaouna L. 46'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Dele-Bashiru F.",
+          "outgoing": "Dia B.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Dele-Bashiru F. Dia B. 81'"
+        },
+        {
+          "minute": "87",
+          "incoming": "Noslin T.",
+          "outgoing": "Castellanos T.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Noslin T. Castellanos T. 87'"
+        },
+        {
+          "minute": "90",
+          "incoming": "Hysaj E.",
+          "outgoing": "Tavares N.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Hysaj E. Tavares N. 90'"
+        }
+      ],
+      "coach": "Baroni M."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 16,
+          "name": "Maignan",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Maignan",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Emerson Royal",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Emerson Royal",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Tomori",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Tomori",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Pavlovic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Pavlovic",
+          "source": "formation"
+        },
+        {
+          "number": 42,
+          "name": "Terracciano",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Terracciano",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Fofana",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Fofana",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Reijnders",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Reijnders",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Chukwueze",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Chukwueze",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Loftus-Cheek",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Loftus-Cheek",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Pulisic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pulisic",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Okafor",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Okafor",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 16,
+          "name": "Maignan M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Maignan M. (G)",
+          "formation_raw": "16 Maignan",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Emerson Royal",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Emerson Royal",
+          "formation_raw": "22 Emerson Royal",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 23,
+          "name": "Tomori F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Tomori F.",
+          "formation_raw": "23 Tomori",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 31,
+          "name": "Pavlovic S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Pavlovic S.",
+          "formation_raw": "31 Pavlovic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 42,
+          "name": "Terracciano F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Terracciano F.",
+          "formation_raw": "42 Terracciano",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Fofana Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Fofana Y.",
+          "formation_raw": "29 Fofana",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Reijnders T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Reijnders T.",
+          "formation_raw": "14 Reijnders",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Chukwueze S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Chukwueze S.",
+          "formation_raw": "21 Chukwueze",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Loftus-Cheek R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Loftus-Cheek R.",
+          "formation_raw": "8 Loftus-Cheek",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Pulisic C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pulisic C.",
+          "formation_raw": "11 Pulisic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Okafor N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Okafor N.",
+          "formation_raw": "17 Okafor",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 90,
+          "name": "Abraham T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "90 Abraham T.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Bartesaghi D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Bartesaghi D.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Calabria D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Calabria D.",
+          "source": "detailed"
+        },
+        {
+          "number": 73,
+          "name": "Camarda F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "73 Camarda F.",
+          "source": "detailed"
+        },
+        {
+          "number": 91,
+          "name": "Cuenca Martinez H. F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "91 Cuenca Martinez H. F.",
+          "source": "detailed"
+        },
+        {
+          "number": 46,
+          "name": "Gabbia M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "46 Gabbia M.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Hernandez T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Hernandez T.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Leao R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Leao R.",
+          "source": "detailed"
+        },
+        {
+          "number": 80,
+          "name": "Musah Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "80 Musah Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Raveyre N.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "25 Raveyre N. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 96,
+          "name": "Torriani L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "96 Torriani L. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Zeroli K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Zeroli K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "70",
+          "incoming": "Leao R.",
+          "outgoing": "Chukwueze S.",
+          "incoming_rating": 7.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Leao R. 7.5 Chukwueze S. 70'"
+        },
+        {
+          "minute": "70",
+          "incoming": "Musah Y.",
+          "outgoing": "Reijnders T.",
+          "incoming_rating": 6.7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Musah Y. 6.7 Reijnders T. 70'"
+        },
+        {
+          "minute": "70",
+          "incoming": "Hernandez T.",
+          "outgoing": "Emerson Royal",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 12,
+          "split_match_score": null,
+          "raw": "Hernandez T. 6.4 Emerson Royal 70'"
+        },
+        {
+          "minute": "71",
+          "incoming": "Abraham T.",
+          "outgoing": "Okafor N.",
+          "incoming_rating": 7.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Abraham T. 7.1 Okafor N. 71'"
+        }
+      ],
+      "coach": "Fonseca P."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "94 Provedel",
+      "29 Lazzari",
+      "4 Patric",
+      "13 Romagnoli",
+      "30 Tavares",
+      "8 Guendouzi",
+      "6 Rovella",
+      "20 Tchaouna",
+      "19 Dia",
+      "10 Zaccagni",
+      "11 Castellanos",
+      "16 Maignan",
+      "22 Emerson Royal",
+      "23 Tomori",
+      "31 Pavlovic",
+      "42 Terracciano",
+      "29 Fofana",
+      "14 Reijnders",
+      "21 Chukwueze",
+      "8 Loftus-Cheek",
+      "11 Pulisic",
+      "17 Okafor",
+      "Marusic A. 6.5 Lazzari M. 46'",
+      "Isaksen G. 7.1 Tchaouna L. 46'",
+      "Dele-Bashiru F. Dia B. 81'",
+      "Noslin T. Castellanos T. 87'",
+      "Hysaj E. Tavares N. 90'",
+      "Leao R. 7.5 Chukwueze S. 70'",
+      "Musah Y. 6.7 Reijnders T. 70'",
+      "Hernandez T. 6.4 Emerson Royal 70'",
+      "Abraham T. 7.1 Okafor N. 71'",
+      "94 Provedel I. (G)",
+      "29 Lazzari M.",
+      "13 Romagnoli A.",
+      "30 Tavares N.",
+      "8 Guendouzi M.",
+      "6 Rovella N.",
+      "20 Tchaouna L.",
+      "19 Dia B.",
+      "10 Zaccagni M.",
+      "11 Castellanos T.",
+      "16 Maignan M. (G)",
+      "23 Tomori F.",
+      "31 Pavlovic S.",
+      "42 Terracciano F.",
+      "29 Fofana Y.",
+      "14 Reijnders T.",
+      "21 Chukwueze S.",
+      "8 Loftus-Cheek R.",
+      "11 Pulisic C.",
+      "17 Okafor N.",
+      "22 Castrovilli G.",
+      "7 Dele-Bashiru F.",
+      "55 Furlanetto A. (G)",
+      "23 Hysaj E.",
+      "18 Isaksen G.",
+      "35 Mandas C. (G)",
+      "77 Marusic A.",
+      "14 Noslin T.",
+      "9 Pedro",
+      "5 Vecino M.",
+      "90 Abraham T.",
+      "33 Bartesaghi D.",
+      "2 Calabria D.",
+      "73 Camarda F.",
+      "91 Cuenca Martinez H. F.",
+      "46 Gabbia M.",
+      "19 Hernandez T.",
+      "10 Leao R.",
+      "80 Musah Y.",
+      "25 Raveyre N. (G)",
+      "96 Torriani L. (G)",
+      "18 Zeroli K.",
+      "Gila M. Injury",
+      "Pellegrini Lu. Injury",
+      "Bennacer I. Injury",
+      "Florenzi A. Knee Injury",
+      "Jovic L. Injury",
+      "Morata A. Muscle Injury",
+      "Sportiello M. Hand Injury",
+      "Thiaw M. Ankle Injury",
+      "Baroni M.",
+      "Fonseca P."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 10,
+    "away_substitute_count": 12,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 42,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 10,
+    "bench_boundary_score": 323.95
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 118,
+    "compact_lineup_text_count": 83,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 42,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 10,
+    "structured_away_substitute_count": 12,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 10
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' That's it for today, Davide Massa has blown his whistle and the game is over."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Christian Pulisic (AC Milan) sends in the corner, but the keeper steps in and makes a save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Tammy Abraham (AC Milan) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Ivan Provedel is alert and denies him with a nice save. The ball goes out of play. AC Milan are awarded a corner kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' The game is interrupted. Matteo Guendouzi (Lazio) is given a yellow card. He has to be more careful now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' The foul by Filippo Terracciano (AC Milan) is worthy of a card and a yellow is duly shown by Davide Massa."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' There will be a minimum of 5 min. of added time."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Marco Baroni has decided to make a change. Elseid Hysaj (Lazio) replaces Nuno Tavares."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Taty Castellanos will be replaced by Tijjani Noslin (Lazio)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Taty Castellanos (Lazio) robs an opponent of the ball and explodes in anger when Davide Massa blows for a foul. AC Milan are given an advantage. They have a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Mattia Zaccagni (Lazio) sends over a poor, overhit cross from the corner kick and the ball goes out of play. The ball goes out of play and AC Milan will have a goal kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' The main referee, Davide Massa, is apparently not going to tolerate any discussions. Patric (Lazio) is given a yellow card for dissent."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Mattia Zaccagni (Lazio) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Fisayo Dele-Bashiru (Lazio) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Mattia Zaccagni (Lazio) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' The referee stops play so that a substitution can be made and Boulaye Dia departs the field of play to be replaced by Fisayo Dele-Bashiru (Lazio)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Mattia Zaccagni (Lazio) receives a diagonal pass, bursts into the box and shoots low towards the middle of the goal. Mike Maignan is well positioned, though, and it's a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Nuno Tavares (Lazio) fails to send a pass into the box as his effort is cut out."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Davide Massa blows his whistle and signals a foul after Yunus Musah (AC Milan) brought his opponent down. It's a free kick to Lazio in a dangerous position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Gustav Isaksen (Lazio) produces a dangerous low pass into the penalty area, but the defence manage to cut it out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' The referee blows for a cooling break."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "72' 2 - 2 Goal! Tammy Abraham tees up Rafael Leao (AC Milan) inside the box, and he keeps his cool to score low into the middle of the goal. 2:2."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Substitution. Tijjani Reijnders makes way for Yunus Musah (AC Milan)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' The referee signals that it is time for a substitution and Theo Hernandez (AC Milan) will replace Emerson Royal."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Paulo Fonseca prepares a substitution. Noah Okafor is replaced by Tammy Abraham (AC Milan)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' A substitution has been made. Samuel Chukwueze is replaced by Rafael Leao (AC Milan)."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "67' 2 - 1 It's in the back of the net! Superb finishing from Boulaye Dia (Lazio). Nuno Tavares plays a fantastic through ball and finds Boulaye Dia (Lazio), who reacts quickly to get in front of the goalkeeper and fire a close-range shot into the bottom right corner. 2:1."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Davide Massa shows a yellow card to Mattia Zaccagni (Lazio), who isn't surprised as the tackle was really hard and late."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Taty Castellanos (Lazio) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "62' 1 - 1 Goal! Nuno Tavares plays in Taty Castellanos (Lazio), who shows great determination to get to the ball before a couple of defenders and from inside the box he shoots into the top of the net! Great finish - 1:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Samuel Chukwueze (AC Milan) launches an inaccurate corner kick into the penalty area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Filippo Terracciano (AC Milan) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The ball is out of play. A goal-scoring opportunity from a corner for AC Milan."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' A pass from Nuno Tavares (Lazio) is intercepted by Mike Maignan and the move breaks down."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Matteo Guendouzi (Lazio) brings his opponent down with a tackle and Davide Massa blows his whistle for a foul. AC Milan will take a free kick near the side line."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Nuno Tavares (Lazio) plays in a hopeful cross, but it doesn't find its way to any of the attacking players. The ball goes out of play and AC Milan will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' Adam Marusic (Lazio) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Davide Massa blows his whistle after Mattia Zaccagni (Lazio) brings one of his opponents down with a strong tackle. AC Milan have a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' The linesman raises his flag. Boulaye Dia (Lazio) is adjudged offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Mattia Zaccagni (Lazio) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' One of the Lazio players tripped an opponent and conceded a foul. AC Milan win a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Gustav Isaksen (Lazio) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Marco Baroni has decided to make a substitution during the half-time break. Gustav Isaksen (Lazio) comes on the pitch for Loum Tchaouna."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Marco Baroni makes a half-time substitution. Adam Marusic (Lazio) comes on in place of Manuel Lazzari."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Referee Davide Massa blows his whistle to start the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Nuno Tavares (Lazio) clips an inviting cross into the box, but there's no one in a position to get on the end of it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' We will have 2 min. of added time."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Rough tackle by Christian Pulisic (AC Milan). The referee blows his whistle for a foul. It's a free kick to Lazio, but it's in no position for a direct shot on goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Christian Pulisic (AC Milan) sends in a pass which fails to reach any of his teammates."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Lazio are ruled offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Fikayo Tomori (AC Milan) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Lazio."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' The resulting corner from Samuel Chukwueze (AC Milan) is cleared by the opposition's defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Christian Pulisic (AC Milan) steps up and sends the free kick straight into the defensive wall. The ball goes out for a corner. AC Milan can continue in their attacking effort."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' A yellow card for a tackle by Nicolo Rovella (Lazio). Davide Massa doesn't hesitate at all to make this decision."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' A cross into the box from Nuno Tavares (Lazio) is cleared."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Mattia Zaccagni (Lazio) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition. The ball goes out of play and AC Milan will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Manuel Lazzari (Lazio) sends a cross into the box, but the opposition's defence clears the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' The AC Milan players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Boulaye Dia (Lazio) should know this behaviour is beyond the rules. He was too careless with his challenge and left Davide Massa no option but to blow his whistle. AC Milan are awarded the free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Noah Okafor (AC Milan) takes a short pass in his stride inside the box, but hits a poor shot at goal that goes high over the bar. The ball is off of the pitch and it's a goal kick for Lazio."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' It’s time for the cooling break for the players to take on some fluids. It’s hot out there!"
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Taty Castellanos (Lazio) makes a rough challenge and Davide Massa blows his whistle for a foul. A free kick to AC Milan."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Flag up against Mattia Zaccagni (Lazio). He had space to move into behind the defence, but he went too soon."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Loum Tchaouna (Lazio) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Taty Castellanos (Lazio) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play. Lazio win a corner kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Noah Okafor (AC Milan) pulls the jersey of one of the opposition players and Davide Massa blows his whistle for a foul. There is a free kick near the sideline to Lazio."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Davide Massa blows his whistle. Boulaye Dia (Lazio) commits a foul after dangerous play. A free kick has been awarded to AC Milan."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' The corner kick from Mattia Zaccagni (Lazio) is headed out of the penalty area by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Davide Massa interrupts the game. One of the players from Lazio won the ball, but his effort is adjudged unfair. It's a free kick to AC Milan, but they probably won't attempt a direct shot on goal from here."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Davide Massa shows a yellow card to Youssouf Fofana (AC Milan) for a tough tackle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Christian Pulisic (AC Milan) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Samuel Chukwueze (AC Milan) takes a first-time shot inside the box after latching onto a nice lofted pass, but the effort is blocked and spins away to safety. AC Milan will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' A huge rebound finds Youssouf Fofana (AC Milan) unmarked on the edge of the box. He lines up a shot but slips just before he hits it and sends the ball miles wide of the left post. The ball goes out of play and Lazio will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Nothing comes of the resulting corner from Samuel Chukwueze (AC Milan). The defence is alert and manages to cut it out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' The corner from Christian Pulisic (AC Milan) is intercepted by the defence. AC Milan force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' One of the defenders reacts at the last minute to brilliantly block a pass from Noah Okafor (AC Milan). Corner kick. AC Milan will have an opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Youssouf Fofana (AC Milan) is unable to feed an accurate cross into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Loum Tchaouna (Lazio) rises high to head a nice lofted cross towards the middle of the goal. Unfortunately for him, his close-range effort lacks pace and Mike Maignan makes a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' The resulting corner from Mattia Zaccagni (Lazio) comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Taty Castellanos (Lazio) meets a cross inside the box, but his header is blocked by an opposing player. Lazio earn a corner."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "8' 0 - 1 Strahinja Pavlovic (AC Milan) jumped highest inside the box to meet a perfectly executed corner kick by Christian Pulisic. His header was precise and ended up inside the right post, leaving the goalkeeper flapping in the wind. The score is 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' The referee awards a corner and Christian Pulisic (AC Milan) goes over to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Christian Pulisic (AC Milan) wastes a good opportunity as his pass into the box is blocked by the defence. The ball is out of play and the linesman points at the corner flag. Corner to AC Milan."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' AC Milan are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Emerson Royal (AC Milan) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision! Lazio have a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Davide Massa couldn't ignore the rough tackle by Ruben Loftus-Cheek (AC Milan) and blew his whistle. Free kick. Lazio will probably just try to cross the ball in from here."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half of this match is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out at last! Lazio will take the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Davide Massa will supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups In the details of this match, you can glance at the lineups while the game is about to begin."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "72' 2 - 2 Goal! Tammy Abraham tees up Rafael Leao (AC Milan) inside the box, and he keeps his cool to score low into the middle of the goal. 2:2.",
+        "team_side": "away",
+        "team": "AC Milan",
+        "player_team_side": "away",
+        "player_team": "AC Milan",
+        "player": "Leao R.",
+        "shirt_number": 10,
+        "player_match_score": 139,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 2
+        },
+        "assist_player": "Abraham T.",
+        "assist_shirt_number": 90,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 67,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "67' 2 - 1 It's in the back of the net! Superb finishing from Boulaye Dia (Lazio). Nuno Tavares plays a fantastic through ball and finds Boulaye Dia (Lazio), who reacts quickly to get in front of the goalkeeper and fire a close-range shot into the bottom right corner. 2:1.",
+        "team_side": "home",
+        "team": "Lazio",
+        "player_team_side": "home",
+        "player_team": "Lazio",
+        "player": "Dia B.",
+        "shirt_number": 19,
+        "player_match_score": 157,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 1
+        },
+        "assist_player": "Tavares N.",
+        "assist_shirt_number": 30,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "62' 1 - 1 Goal! Nuno Tavares plays in Taty Castellanos (Lazio), who shows great determination to get to the ball before a couple of defenders and from inside the box he shoots into the top of the net! Great finish - 1:1.",
+        "team_side": "home",
+        "team": "Lazio",
+        "player_team_side": "home",
+        "player_team": "Lazio",
+        "player": "Castellanos T.",
+        "shirt_number": 11,
+        "player_match_score": 139,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": "Tavares N.",
+        "assist_shirt_number": 30,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 8,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "8' 0 - 1 Strahinja Pavlovic (AC Milan) jumped highest inside the box to meet a perfectly executed corner kick by Christian Pulisic. His header was precise and ended up inside the right post, leaving the goalkeeper flapping in the wind. The score is 0:1.",
+        "team_side": "away",
+        "team": "AC Milan",
+        "player_team_side": "away",
+        "player_team": "AC Milan",
+        "player": "Pavlovic S.",
+        "shirt_number": 31,
+        "player_match_score": 134,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": "Pulisic C.",
+        "assist_shirt_number": 11,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' The game is interrupted. Matteo Guendouzi (Lazio) is given a yellow card. He has to be more careful now.",
+        "team_side": "home",
+        "team": "Lazio",
+        "player": "Guendouzi M.",
+        "shirt_number": 8,
+        "player_match_score": 137,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' The main referee, Davide Massa, is apparently not going to tolerate any discussions. Patric (Lazio) is given a yellow card for dissent.",
+        "team_side": "home",
+        "team": "Lazio",
+        "player": "Patric",
+        "shirt_number": 4,
+        "player_match_score": 149,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' Davide Massa shows a yellow card to Mattia Zaccagni (Lazio), who isn't surprised as the tackle was really hard and late.",
+        "team_side": "home",
+        "team": "Lazio",
+        "player": "Zaccagni M.",
+        "shirt_number": 10,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 39,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "39' A yellow card for a tackle by Nicolo Rovella (Lazio). Davide Massa doesn't hesitate at all to make this decision.",
+        "team_side": "home",
+        "team": "Lazio",
+        "player": "Rovella N.",
+        "shirt_number": 6,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 21,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "21' Davide Massa shows a yellow card to Youssouf Fofana (AC Milan) for a tough tackle.",
+        "team_side": "away",
+        "team": "AC Milan",
+        "player": "Fofana Y.",
+        "shirt_number": 29,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' Marco Baroni has decided to make a change. Elseid Hysaj (Lazio) replaces Nuno Tavares."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "87' Taty Castellanos will be replaced by Tijjani Noslin (Lazio)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' The referee stops play so that a substitution can be made and Boulaye Dia departs the field of play to be replaced by Fisayo Dele-Bashiru (Lazio)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' Substitution. Tijjani Reijnders makes way for Yunus Musah (AC Milan)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' The referee signals that it is time for a substitution and Theo Hernandez (AC Milan) will replace Emerson Royal."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' Paulo Fonseca prepares a substitution. Noah Okafor is replaced by Tammy Abraham (AC Milan)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' A substitution has been made. Samuel Chukwueze is replaced by Rafael Leao (AC Milan)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Marco Baroni has decided to make a substitution during the half-time break. Gustav Isaksen (Lazio) comes on the pitch for Loum Tchaouna."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Marco Baroni makes a half-time substitution. Adam Marusic (Lazio) comes on in place of Manuel Lazzari."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Davide Massa blows his whistle and signals a foul after Yunus Musah (AC Milan) brought his opponent down. It's a free kick to Lazio in a dangerous position."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' Matteo Guendouzi (Lazio) brings his opponent down with a tackle and Davide Massa blows his whistle for a foul. AC Milan will take a free kick near the side line."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 53,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "53' Davide Massa blows his whistle after Mattia Zaccagni (Lazio) brings one of his opponents down with a strong tackle. AC Milan have a free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Referee Davide Massa blows his whistle to start the second half."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+3' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "45' Rough tackle by Christian Pulisic (AC Milan). The referee blows his whistle for a foul. It's a free kick to Lazio, but it's in no position for a direct shot on goal."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 31,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "31' Boulaye Dia (Lazio) should know this behaviour is beyond the rules. He was too careless with his challenge and left Davide Massa no option but to blow his whistle. AC Milan are awarded the free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 28,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "28' Taty Castellanos (Lazio) makes a rough challenge and Davide Massa blows his whistle for a foul. A free kick to AC Milan."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 25,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "25' Noah Okafor (AC Milan) pulls the jersey of one of the opposition players and Davide Massa blows his whistle for a foul. There is a free kick near the sideline to Lazio."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 25,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "25' Davide Massa blows his whistle. Boulaye Dia (Lazio) commits a foul after dangerous play. A free kick has been awarded to AC Milan."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 4,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "4' Emerson Royal (AC Milan) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision! Lazio have a free kick."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 4,
+    "detected_goal_count": 4,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 4,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 157,
+    "commentary_row_count": 91,
+    "removed_commentary_noise_count": 66,
+    "goal_event_count": 4,
+    "yellow_card_event_count": 5,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 4,
+      "detected_goal_count": 4
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": true,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_match",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 4,
+    "structured_goal_count": 4,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 4,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 1,
+    "yellow_card_event_count": 5,
+    "structured_yellow_card_count": 5,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-15T17:59:46Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2024/2025",
+    "season_key": "2024_2025",
+    "expected_match_count": 380,
+    "supports_player_stats": true
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 91,
+      "error": null
+    }
+  }
+}

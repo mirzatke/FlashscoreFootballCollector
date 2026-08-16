@@ -1,0 +1,2763 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/dortmund-nP1i5US1/freiburg-fiEQZ7C7/summary/stats/overall/?mid=0zFJlqU8",
+  "match_id": "0zFJlqU8",
+  "page_title": "FRE 2-4 DOR | Freiburg v Dortmund 16/09/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "16.09.2023 17:30",
+  "home_team": "Freiburg",
+  "away_team": "Dortmund",
+  "score": {
+    "home": "2",
+    "away": "4",
+    "display": "2 - 4"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.98",
+      "away": "1.86",
+      "raw_values": [
+        "0.98",
+        "1.86"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "46%",
+      "away": "54%",
+      "raw_values": [
+        "46%",
+        "54%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "14",
+      "away": "14",
+      "raw_values": [
+        "14",
+        "14"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "4",
+      "away": "6",
+      "raw_values": [
+        "4",
+        "6"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "8",
+      "raw_values": [
+        "6",
+        "8"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "80%\n(345/431)",
+      "away": "84%\n(373/444)",
+      "raw_values": [
+        "80%\n(345/431)",
+        "84%\n(373/444)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "1",
+      "away": "0",
+      "raw_values": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "10",
+      "away": "8",
+      "raw_values": [
+        "10",
+        "8"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "18",
+      "away": "14",
+      "raw_values": [
+        "18",
+        "14"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "17",
+      "away": "11",
+      "raw_values": [
+        "17",
+        "11"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "12",
+      "away": "16",
+      "raw_values": [
+        "12",
+        "16"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "2",
+      "raw_values": [
+        "2",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.98",
+        "away": "1.86",
+        "raw_values": [
+          "0.98",
+          "1.86"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "46%",
+        "away": "54%",
+        "raw_values": [
+          "46%",
+          "54%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "14",
+        "away": "14",
+        "raw_values": [
+          "14",
+          "14"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "4",
+        "away": "6",
+        "raw_values": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "8",
+        "raw_values": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "80%\n(345/431)",
+        "away": "84%\n(373/444)",
+        "raw_values": [
+          "80%\n(345/431)",
+          "84%\n(373/444)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "10",
+        "away": "8",
+        "raw_values": [
+          "10",
+          "8"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "18",
+        "away": "14",
+        "raw_values": [
+          "18",
+          "14"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "17",
+        "away": "11",
+        "raw_values": [
+          "17",
+          "11"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "12",
+        "away": "16",
+        "raw_values": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.76",
+        "away": "0.51",
+        "raw_values": [
+          "0.76",
+          "0.51"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "46%",
+        "away": "54%",
+        "raw_values": [
+          "46%",
+          "54%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "10",
+        "away": "6",
+        "raw_values": [
+          "10",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "7",
+        "raw_values": [
+          "4",
+          "7"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "79%\n(149/188)",
+        "away": "79%\n(160/202)",
+        "raw_values": [
+          "79%\n(149/188)",
+          "79%\n(160/202)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "9",
+        "away": "5",
+        "raw_values": [
+          "9",
+          "5"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "9",
+        "raw_values": [
+          "11",
+          "9"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "9",
+        "raw_values": [
+          "4",
+          "9"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.22",
+        "away": "1.35",
+        "raw_values": [
+          "0.22",
+          "1.35"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "46%",
+        "away": "54%",
+        "raw_values": [
+          "46%",
+          "54%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "4",
+        "away": "8",
+        "raw_values": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "81%\n(196/243)",
+        "away": "88%\n(213/242)",
+        "raw_values": [
+          "81%\n(196/243)",
+          "88%\n(213/242)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "9",
+        "away": "9",
+        "raw_values": [
+          "9",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "6",
+        "away": "2",
+        "raw_values": [
+          "6",
+          "2"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "7",
+        "raw_values": [
+          "8",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-3",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Atubolu",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Atubolu",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Lienhart",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Lienhart",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Ginter",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Ginter",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Gulde",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Gulde",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Sallai",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Sallai",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Eggestein",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Eggestein",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Hofler",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Hofler",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Kubler",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Kubler",
+          "source": "formation"
+        },
+        {
+          "number": 42,
+          "name": "Doan",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Doan",
+          "source": "formation"
+        },
+        {
+          "number": 38,
+          "name": "Gregoritsch",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Gregoritsch",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Holer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Holer",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Atubolu N.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Atubolu N. (G)",
+          "formation_raw": "1 Atubolu",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Lienhart P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Lienhart P.",
+          "formation_raw": "3 Lienhart",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Ginter M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Ginter M.",
+          "formation_raw": "28 Ginter",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Gulde M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Gulde M.",
+          "formation_raw": "5 Gulde",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Sallai R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Sallai R.",
+          "formation_raw": "22 Sallai",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Eggestein M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Eggestein M. (C)",
+          "formation_raw": "8 Eggestein",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Hofler N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Hofler N.",
+          "formation_raw": "27 Hofler",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Kubler L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Kubler L.",
+          "formation_raw": "17 Kubler",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 42,
+          "name": "Doan R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Doan R.",
+          "formation_raw": "42 Doan",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 38,
+          "name": "Gregoritsch M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Gregoritsch M.",
+          "formation_raw": "38 Gregoritsch",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Holer L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Holer L.",
+          "formation_raw": "9 Holer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 20,
+          "name": "Adamu J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Adamu J.",
+          "source": "detailed"
+        },
+        {
+          "number": 32,
+          "name": "Grifo V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Grifo V.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Makengo J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Makengo J.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Muller F.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "21 Muller F. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Philipp M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Philipp M.",
+          "source": "detailed"
+        },
+        {
+          "number": 34,
+          "name": "Rohl M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Rohl M.",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Schmidt K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Schmidt K.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Sildillia K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Sildillia K.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Weisshaupt N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Weisshaupt N.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "28",
+          "incoming": "Grifo V.",
+          "outgoing": "Gregoritsch M.",
+          "incoming_rating": 7.8,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Grifo V. 7.8 Gregoritsch M. 28'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Adamu J.",
+          "outgoing": "Holer L.",
+          "incoming_rating": 5.9,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Adamu J. 5.9 Holer L. 77'"
+        },
+        {
+          "minute": "85",
+          "incoming": "Rohl M.",
+          "outgoing": "Doan R.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Rohl M. Doan R. 85'"
+        },
+        {
+          "minute": "85",
+          "incoming": "Schmidt K.",
+          "outgoing": "Kubler L.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Schmidt K. Kubler L. 85'"
+        }
+      ],
+      "coach": "Streich C."
+    },
+    "away": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Kobel",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Kobel",
+          "source": "formation"
+        },
+        {
+          "number": 26,
+          "name": "Ryerson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Ryerson",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Hummels",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Hummels",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Schlotterbeck",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Schlotterbeck",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Bensebaini",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Bensebaini",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Brandt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Brandt",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Can",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "23 Can",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Sabitzer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Sabitzer",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Malen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Malen",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Haller",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Haller",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Adeyemi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Adeyemi",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Kobel G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Kobel G. (G)",
+          "formation_raw": "1 Kobel",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 26,
+          "name": "Ryerson J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Ryerson J.",
+          "formation_raw": "26 Ryerson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Hummels M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Hummels M. 2",
+          "formation_raw": "15 Hummels",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 2
+        },
+        {
+          "number": 4,
+          "name": "Schlotterbeck N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Schlotterbeck N.",
+          "formation_raw": "4 Schlotterbeck",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Bensebaini R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Bensebaini R.",
+          "formation_raw": "5 Bensebaini",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Brandt J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Brandt J.",
+          "formation_raw": "19 Brandt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Can E.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "23 Can E. (C)",
+          "formation_raw": "23 Can",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Sabitzer M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Sabitzer M.",
+          "formation_raw": "20 Sabitzer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Malen D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Malen D.",
+          "formation_raw": "21 Malen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Haller S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Haller S.",
+          "formation_raw": "9 Haller",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Adeyemi K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Adeyemi K.",
+          "formation_raw": "27 Adeyemi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 14,
+          "name": "Fullkrug N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Fullkrug N.",
+          "source": "detailed"
+        },
+        {
+          "number": 43,
+          "name": "Gittens J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "43 Gittens J.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Meyer A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "33 Meyer A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Moukoko Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Moukoko Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Nmecha F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Nmecha F.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Ozcan S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Ozcan S.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Reus M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Reus M.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Sule N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Sule N.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Wolf M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Wolf M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Wolf M.",
+          "outgoing": "Bensebaini R.",
+          "incoming_rating": 7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Wolf M. 7.0 Bensebaini R. 46'"
+        },
+        {
+          "minute": "59",
+          "incoming": "Fullkrug N.",
+          "outgoing": "Haller S.",
+          "incoming_rating": 7.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Fullkrug N. 7.3 Haller S. 59'"
+        },
+        {
+          "minute": "59",
+          "incoming": "Nmecha F.",
+          "outgoing": "Adeyemi K.",
+          "incoming_rating": 6.7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Nmecha F. 6.7 Adeyemi K. 59'"
+        },
+        {
+          "minute": "71",
+          "incoming": "Reus M.",
+          "outgoing": "Brandt J.",
+          "incoming_rating": 8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Reus M. 8.0 Brandt J. 71'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Moukoko Y.",
+          "outgoing": "Can E.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Moukoko Y. Can E. 84'"
+        }
+      ],
+      "coach": "Terzic E."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Atubolu",
+      "3 Lienhart",
+      "28 Ginter",
+      "5 Gulde",
+      "22 Sallai",
+      "8 Eggestein",
+      "27 Hofler",
+      "17 Kubler",
+      "42 Doan",
+      "38 Gregoritsch",
+      "9 Holer",
+      "1 Kobel",
+      "26 Ryerson",
+      "15 Hummels",
+      "4 Schlotterbeck",
+      "5 Bensebaini",
+      "19 Brandt",
+      "23 Can",
+      "20 Sabitzer",
+      "21 Malen",
+      "9 Haller",
+      "27 Adeyemi",
+      "Grifo V. 7.8 Gregoritsch M. 28'",
+      "Adamu J. 5.9 Holer L. 77'",
+      "Rohl M. Doan R. 85'",
+      "Schmidt K. Kubler L. 85'",
+      "Wolf M. 7.0 Bensebaini R. 46'",
+      "Fullkrug N. 7.3 Haller S. 59'",
+      "Nmecha F. 6.7 Adeyemi K. 59'",
+      "Reus M. 8.0 Brandt J. 71'",
+      "Moukoko Y. Can E. 84'",
+      "1 Atubolu N. (G)",
+      "3 Lienhart P.",
+      "28 Ginter M.",
+      "5 Gulde M.",
+      "22 Sallai R.",
+      "8 Eggestein M. (C)",
+      "27 Hofler N.",
+      "17 Kubler L.",
+      "42 Doan R.",
+      "38 Gregoritsch M.",
+      "9 Holer L.",
+      "1 Kobel G. (G)",
+      "26 Ryerson J.",
+      "15 Hummels M. 2",
+      "4 Schlotterbeck N.",
+      "5 Bensebaini R.",
+      "19 Brandt J.",
+      "23 Can E. (C)",
+      "20 Sabitzer M.",
+      "21 Malen D.",
+      "9 Haller S.",
+      "27 Adeyemi K.",
+      "20 Adamu J.",
+      "32 Grifo V.",
+      "33 Makengo J.",
+      "21 Muller F. (G)",
+      "26 Philipp M.",
+      "34 Rohl M.",
+      "4 Schmidt K.",
+      "25 Sildillia K.",
+      "7 Weisshaupt N.",
+      "14 Fullkrug N.",
+      "43 Gittens J.",
+      "33 Meyer A. (G)",
+      "18 Moukoko Y.",
+      "8 Nmecha F.",
+      "6 Ozcan S.",
+      "11 Reus M.",
+      "25 Sule N.",
+      "17 Wolf M.",
+      "Gunter C. Arm Injury",
+      "Keitel Y. Groin Injury",
+      "Kyereh D. Knee Injury",
+      "Rosenfelder M. Tendon Injury",
+      "Uphoff B. Muscle Injury",
+      "Duranville J. Thigh Injury",
+      "Meunier T. Thigh Injury",
+      "Morey Bauza M. Knee Injury",
+      "Streich C.",
+      "Terzic E."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 4,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 114,
+    "compact_lineup_text_count": 81,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Nothing more will happen in this game as the referee blows for full time."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "status": "confirmed",
+      "text": "90+3' 2 - 4 Marco Reus (Dortmund) has acres of space after latching on to a precise pass into the box. He doesn't hesitate to unleash a great effort which ends up in the left side of the goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 5 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Marco Reus (Dortmund) beats his marker and unleashes a thunderbolt of a shot from the edge of the box. Noah Atubolu sees the ball late but does well to stop it going into the bottom left corner."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Tobias Stieler shows the yellow card to Maximilian Eggestein (Freiburg) for a heavy challenge."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "status": "confirmed",
+      "text": "88' 2 - 3 Goal! Mats Hummels (Dortmund) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 2:3."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Philipp Lienhart (Freiburg) is awarded a yellow card for his behaviour."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Lukas Kubler comes off the pitch to be replaced by Kenneth Schmidt (Freiburg)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Christian Streich prepares a substitution. Ritsu Doan is replaced by Merlin Rohl (Freiburg)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' The game has come to an end for Emre Can. He has contributed as much as he could today. He will be replaced by the fresh legs of Youssoufa Moukoko (Dortmund)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Nicolas Hofler (Freiburg) knows that the game is over for him after receiving a red card from the referee for fouling his opponent!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Dortmund are ruled offside."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Emre Can (Dortmund) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Tobias Stieler didn't think twice about pulling it out of his pocket."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Lucas Holer doesn't have to suffer any longer with the painful injury as Junior Adamu (Freiburg) comes onto the pitch to replace him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Lucas Holer (Freiburg) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Niclas Fullkrug (Dortmund) has a good chance to get on the scoresheet and fires the ball towards goal from the edge of the penalty box, but it goes narrowly over the crossbar."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Substitution. Julian Brandt is replaced by Marco Reus (Dortmund)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' The resulting set piece from Freiburg is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Lucas Holer (Freiburg) gets to a rebound in front of goal and sends the ball towards the right-hand post. However, he couldn't beat Gregor Kobel, who shows off his superb goalkeeping ability by pulling off a great save. The referee points to the corner flag. It's a corner to Freiburg."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Vincenzo Grifo (Freiburg) crosses the ball into the box from the free kick, but the defence clears the danger."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' This yellow card was deserved. The tackle by Marius Wolf (Dortmund) was quite harsh and Tobias Stieler didn't hesitate to show him a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' The corner by Vincenzo Grifo (Freiburg) lacks accuracy as it's hit with too much power."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Maximilian Eggestein (Freiburg) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "60' 2 - 2 Goal! Niclas Fullkrug slips a clever pass through to Donyell Malen (Dortmund), who moves inside the box and sends a measured shot beyond the keeper and into the bottom left corner. 2:2."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' It will be a substitution. Felix Nmecha (Dortmund) is ready to enter the pitch as Karim Adeyemi walks off."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Here is a change. Sebastien Haller is going off and Edin Terzic gives the last tactical orders to Niclas Fullkrug (Dortmund)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' 11:8 – this is the total number of shots produced by both teams."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Vincenzo Grifo (Freiburg) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' The ball goes out of play and Dortmund have been awarded a corner kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Half-time substitution. Ramy Bensebaini will not participate anymore and Marius Wolf (Dortmund) is coming on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The second half gets underway."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+7' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 45,
+      "added_time": 6,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "45+6' 2 - 1 What a goal! Vincenzo Grifo floated in the free kick and the ball found the head of Nicolas Hofler (Freiburg), whose thundering header from near the penalty went straight into the top left corner. The score is 2:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+6' Tobias Stieler has a clear sight and sees a foul from Karim Adeyemi (Dortmund). Freiburg have a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' Ramy Bensebaini (Dortmund) is penalised."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "45+2' 1 - 1 Perfectly taken free kick! Vincenzo Grifo sends the ball in, Lucas Holer (Freiburg) manages to jump highest near the penalty spot and plants a cracking header low inside the right post. It's 1:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' The referee and his assistant both point at the corner flag. Dortmund will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 5 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Surely that's handball by one of the Freiburg players in the box, but the referee just waves play on!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Julian Brandt (Dortmund) takes the ball to the corner flag and sends it into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The referee awards a corner and Julian Brandt (Dortmund) goes over to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Julian Brandt (Dortmund) quickly takes the free kick with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Manuel Gulde (Freiburg) commits a rough foul. Tobias Stieler stops the game and makes a call. Dortmund are awarded a free kick. Let's see what they create from this."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' The ball rebounds to Ritsu Doan (Freiburg) inside the box after a goalmouth scramble, but he bends the ball well wide of the left post."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Marcel Sabitzer (Dortmund) is penalised for a foul. Tobias Stieler had a clear view and blows his whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Philipp Lienhart (Freiburg) has a sight of goal and fires from the edge of the box, but his strike rattles the left post!"
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Christian Streich is forced to make an unplanned substitution as Michael Gregoritsch (Freiburg) suffers an injury and Vincenzo Grifo comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Michael Gregoritsch (Freiburg) is having a really tough time right now. We are about to find out how serious his injury is."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Michael Gregoritsch (Freiburg) is able to continue to play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Michael Gregoritsch (Freiburg) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Julian Brandt (Dortmund) attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Donyell Malen (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Ritsu Doan (Freiburg) will try to find the head of one of his teammates from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' The corner from Ritsu Doan (Freiburg) is cleared away by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Roland Sallai (Freiburg) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The ball is out of play. A goal-scoring opportunity from a corner for Freiburg."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Michael Gregoritsch (Freiburg) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "11' 0 - 1 Goal! The ball is swung into the box from the resulting corner kick and finds Mats Hummels (Dortmund), who jumps highest and tries his luck with a header from around the penalty spot. His effort is both strong and precise enough to go into the middle of the net. The score changes to 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Julian Brandt (Dortmund) will take a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Corner kick. Julian Brandt (Dortmund) is ready to send the ball into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Dortmund win a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Nothing comes of the resulting corner from Ritsu Doan (Freiburg). The defence is alert and manages to cut it out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Julian Brandt (Dortmund) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Julian Brandt (Dortmund) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. Dortmund have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Lucas Holer (Freiburg) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' The referee signals a corner kick to Freiburg."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Today's match has just started, enjoy the game!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are on the pitch and Dortmund will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Let us introduce today's referee to you, and it's Tobias Stieler."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups We now know the starting lineups. You can find them in the match details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": {
+          "home": 2,
+          "away": 4
+        },
+        "status": "confirmed",
+        "text": "90+3' 2 - 4 Marco Reus (Dortmund) has acres of space after latching on to a precise pass into the box. He doesn't hesitate to unleash a great effort which ends up in the left side of the goal.",
+        "team_side": "away",
+        "team": "Dortmund",
+        "player_team_side": "away",
+        "player_team": "Dortmund",
+        "player": "Reus M.",
+        "shirt_number": 11,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 4
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 3
+        },
+        "status": "confirmed",
+        "text": "88' 2 - 3 Goal! Mats Hummels (Dortmund) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 2:3.",
+        "team_side": "away",
+        "team": "Dortmund",
+        "player_team_side": "away",
+        "player_team": "Dortmund",
+        "player": "Hummels M.",
+        "shirt_number": 15,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 3
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 60,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "60' 2 - 2 Goal! Niclas Fullkrug slips a clever pass through to Donyell Malen (Dortmund), who moves inside the box and sends a measured shot beyond the keeper and into the bottom left corner. 2:2.",
+        "team_side": "away",
+        "team": "Dortmund",
+        "player_team_side": "away",
+        "player_team": "Dortmund",
+        "player": "Malen D.",
+        "shirt_number": 21,
+        "player_match_score": 143,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 2
+        },
+        "assist_player": "Fullkrug N.",
+        "assist_shirt_number": 14,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 45,
+        "added_time": 6,
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "45+6' 2 - 1 What a goal! Vincenzo Grifo floated in the free kick and the ball found the head of Nicolas Hofler (Freiburg), whose thundering header from near the penalty went straight into the top left corner. The score is 2:1.",
+        "team_side": "home",
+        "team": "Freiburg",
+        "player_team_side": "home",
+        "player_team": "Freiburg",
+        "player": "Hofler N.",
+        "shirt_number": 27,
+        "player_match_score": 152,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "45+2' 1 - 1 Perfectly taken free kick! Vincenzo Grifo sends the ball in, Lucas Holer (Freiburg) manages to jump highest near the penalty spot and plants a cracking header low inside the right post. It's 1:1.",
+        "team_side": "home",
+        "team": "Freiburg",
+        "player_team_side": "home",
+        "player_team": "Freiburg",
+        "player": "Holer L.",
+        "shirt_number": 9,
+        "player_match_score": 145,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 11,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "11' 0 - 1 Goal! The ball is swung into the box from the resulting corner kick and finds Mats Hummels (Dortmund), who jumps highest and tries his luck with a header from around the penalty spot. His effort is both strong and precise enough to go into the middle of the net. The score changes to 0:1.",
+        "team_side": "away",
+        "team": "Dortmund",
+        "player_team_side": "away",
+        "player_team": "Dortmund",
+        "player": "Hummels M.",
+        "shirt_number": 15,
+        "player_match_score": 149,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Tobias Stieler shows the yellow card to Maximilian Eggestein (Freiburg) for a heavy challenge.",
+        "team_side": "home",
+        "team": "Freiburg",
+        "player": "Eggestein M.",
+        "shirt_number": 8,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Philipp Lienhart (Freiburg) is awarded a yellow card for his behaviour.",
+        "team_side": "home",
+        "team": "Freiburg",
+        "player": "Lienhart P.",
+        "shirt_number": 3,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Emre Can (Dortmund) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Tobias Stieler didn't think twice about pulling it out of his pocket.",
+        "team_side": "away",
+        "team": "Dortmund",
+        "player": "Can E.",
+        "shirt_number": 23,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' This yellow card was deserved. The tackle by Marius Wolf (Dortmund) was quite harsh and Tobias Stieler didn't hesitate to show him a yellow card.",
+        "team_side": "away",
+        "team": "Dortmund",
+        "player": "Wolf M.",
+        "shirt_number": 17,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Lukas Kubler comes off the pitch to be replaced by Kenneth Schmidt (Freiburg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Christian Streich prepares a substitution. Ritsu Doan is replaced by Merlin Rohl (Freiburg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' The game has come to an end for Emre Can. He has contributed as much as he could today. He will be replaced by the fresh legs of Youssoufa Moukoko (Dortmund)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Lucas Holer doesn't have to suffer any longer with the painful injury as Junior Adamu (Freiburg) comes onto the pitch to replace him."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' Substitution. Julian Brandt is replaced by Marco Reus (Dortmund)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 59,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "59' It will be a substitution. Felix Nmecha (Dortmund) is ready to enter the pitch as Karim Adeyemi walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 59,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "59' Here is a change. Sebastien Haller is going off and Edin Terzic gives the last tactical orders to Niclas Fullkrug (Dortmund)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Half-time substitution. Ramy Bensebaini will not participate anymore and Marius Wolf (Dortmund) is coming on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 28,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "28' Christian Streich is forced to make an unplanned substitution as Michael Gregoritsch (Freiburg) suffers an injury and Vincenzo Grifo comes on."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' Nothing more will happen in this game as the referee blows for full time."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 7,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+7' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 35,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "35' Marcel Sabitzer (Dortmund) is penalised for a foul. Tobias Stieler had a clear view and blows his whistle."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 6,
+    "detected_goal_count": 6,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 6,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 131,
+    "commentary_row_count": 71,
+    "removed_commentary_noise_count": 60,
+    "goal_event_count": 6,
+    "yellow_card_event_count": 4,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 6,
+      "detected_goal_count": 6
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 6,
+    "structured_goal_count": 6,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 3,
+    "header_goal_count": 3,
+    "yellow_card_event_count": 4,
+    "structured_yellow_card_count": 4,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T06:13:30Z",
+  "collector_profile": {
+    "competition_key": "bundesliga",
+    "competition": "German Bundesliga",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 71,
+      "error": null
+    }
+  }
+}

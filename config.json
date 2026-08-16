@@ -1,0 +1,13 @@
+{
+  "output_directory": "Data\\Matches",
+  "processed_file": "Data\\processed_matches.json",
+  "queue_file": "Data\\match_queue.json",
+  "log_file": "Data\\Logs\\WC\\WC_2026\\collector.log",
+  "page_timeout_seconds": 45,
+  "visible_browser": true,
+  "competition_results_url": "https://www.flashscore.com/football/world/world-championship/results/",
+  "competition_fixtures_url": "https://www.flashscore.com/football/world/world-championship/fixtures/",
+  "archive_2022_queue_file": "Data\\archive_2022_matches.json",
+  "archive_coverage_directory": "Data\\Coverage\\Archive2022",
+  "archive_2022_results_url": "https://www.flashscore.com/football/world/world-championship-2022/results/"
+}

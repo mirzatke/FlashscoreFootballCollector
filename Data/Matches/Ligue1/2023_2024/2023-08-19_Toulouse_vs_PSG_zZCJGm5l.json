@@ -1,0 +1,2811 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/psg-CjhkPw0k/toulouse-MLmY2yB1/summary/stats/overall/?mid=zZCJGm5l",
+  "match_id": "zZCJGm5l",
+  "page_title": "TOU 1-1 PSG | Toulouse v PSG 19/08/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "19.08.2023 23:00",
+  "home_team": "Toulouse",
+  "away_team": "PSG",
+  "score": {
+    "home": "1",
+    "away": "1",
+    "display": "1 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.29",
+      "away": "0.54",
+      "raw_values": [
+        "0.29",
+        "0.54"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "24%",
+      "away": "76%",
+      "raw_values": [
+        "24%",
+        "76%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "8",
+      "away": "16",
+      "raw_values": [
+        "8",
+        "16"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "5",
+      "away": "5",
+      "raw_values": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "73%\n(169/232)",
+      "away": "91%\n(698/767)",
+      "raw_values": [
+        "73%\n(169/232)",
+        "91%\n(698/767)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "0",
+      "away": "3",
+      "raw_values": [
+        "0",
+        "3"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "4",
+      "away": "6",
+      "raw_values": [
+        "4",
+        "6"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "2",
+      "away": "7",
+      "raw_values": [
+        "2",
+        "7"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "3",
+      "raw_values": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "11",
+      "away": "8",
+      "raw_values": [
+        "11",
+        "8"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "13",
+      "away": "18",
+      "raw_values": [
+        "13",
+        "18"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "8",
+      "away": "11",
+      "raw_values": [
+        "8",
+        "11"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "1",
+      "raw_values": [
+        "2",
+        "1"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.29",
+        "away": "0.54",
+        "raw_values": [
+          "0.29",
+          "0.54"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "24%",
+        "away": "76%",
+        "raw_values": [
+          "24%",
+          "76%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "8",
+        "away": "16",
+        "raw_values": [
+          "8",
+          "16"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "5",
+        "raw_values": [
+          "5",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "73%\n(169/232)",
+        "away": "91%\n(698/767)",
+        "raw_values": [
+          "73%\n(169/232)",
+          "91%\n(698/767)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "6",
+        "raw_values": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "7",
+        "raw_values": [
+          "2",
+          "7"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "11",
+        "away": "8",
+        "raw_values": [
+          "11",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "13",
+        "away": "18",
+        "raw_values": [
+          "13",
+          "18"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "11",
+        "raw_values": [
+          "8",
+          "11"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.29",
+        "away": "0.54",
+        "raw_values": [
+          "0.29",
+          "0.54"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "20%",
+        "away": "80%",
+        "raw_values": [
+          "20%",
+          "80%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "3",
+        "away": "8",
+        "raw_values": [
+          "3",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "69%\n(76/110)",
+        "away": "91%\n(387/426)",
+        "raw_values": [
+          "69%\n(76/110)",
+          "91%\n(387/426)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "4",
+        "away": "5",
+        "raw_values": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "6",
+        "away": "9",
+        "raw_values": [
+          "6",
+          "9"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "4",
+        "raw_values": [
+          "4",
+          "4"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.00",
+        "away": "0.00",
+        "raw_values": [
+          "0.00",
+          "0.00"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "28%",
+        "away": "72%",
+        "raw_values": [
+          "28%",
+          "72%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "5",
+        "away": "8",
+        "raw_values": [
+          "5",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "76%\n(93/122)",
+        "away": "91%\n(311/341)",
+        "raw_values": [
+          "76%\n(93/122)",
+          "91%\n(311/341)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "5",
+        "raw_values": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "9",
+        "raw_values": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "7",
+        "raw_values": [
+          "4",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-3",
+      "formation_players": [
+        {
+          "number": 50,
+          "name": "Restes",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "50 Restes",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Costa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Costa",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Nicolaisen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Nicolaisen",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Diarra",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Diarra",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Desler",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Desler",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Casseres",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Casseres",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Sierro",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Sierro",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Suazo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Suazo",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Aboukhlal",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Aboukhlal",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Dallinga",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Dallinga",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Magri",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Magri",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 50,
+          "name": "Restes G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "50 Restes G. (G)",
+          "formation_raw": "50 Restes",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Costa L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Costa L.",
+          "formation_raw": "6 Costa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Nicolaisen R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Nicolaisen R.",
+          "formation_raw": "2 Nicolaisen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Diarra M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Diarra M.",
+          "formation_raw": "23 Diarra",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Desler M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Desler M.",
+          "formation_raw": "3 Desler",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Casseres C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Casseres C.",
+          "formation_raw": "24 Casseres",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Sierro V.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Sierro V. (C)",
+          "formation_raw": "8 Sierro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Suazo G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Suazo G.",
+          "formation_raw": "17 Suazo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Aboukhlal Z.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Aboukhlal Z.",
+          "formation_raw": "7 Aboukhlal",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Dallinga T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Dallinga T.",
+          "formation_raw": "9 Dallinga",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Magri F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Magri F.",
+          "formation_raw": "19 Magri",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 21,
+          "name": "Bangre M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Bangre M.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Begraoui Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Begraoui Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Dominguez A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Dominguez A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Gelabert Pina C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gelabert Pina C.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Genreau D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Genreau D.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "Kamanzi W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Kamanzi W.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Mawissa C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Mawissa C.",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Rouault A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Rouault A.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Schmidt N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Schmidt N.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "57",
+          "incoming": "Genreau D.",
+          "outgoing": "Magri F.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Genreau D. 6.4 Magri F. 57'"
+        },
+        {
+          "minute": "71",
+          "incoming": "Begraoui Y.",
+          "outgoing": "Dallinga T.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Begraoui Y. 6.4 Dallinga T. 71'"
+        },
+        {
+          "minute": "71",
+          "incoming": "Schmidt N.",
+          "outgoing": "Casseres C.",
+          "incoming_rating": 7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Schmidt N. 7.0 Casseres C. 71'"
+        },
+        {
+          "minute": "90+3",
+          "incoming": "Bangre M.",
+          "outgoing": "Desler M.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Bangre M. Desler M. 90+3'"
+        },
+        {
+          "minute": "90+3",
+          "incoming": "Kamanzi W.",
+          "outgoing": "Aboukhlal Z.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Kamanzi W. Aboukhlal Z. 90+3'"
+        }
+      ],
+      "coach": "Martinez C."
+    },
+    "away": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 99,
+          "name": "Donnarumma",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Donnarumma",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Hakimi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Hakimi",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Marquinhos",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Marquinhos",
+          "source": "formation"
+        },
+        {
+          "number": 37,
+          "name": "Skriniar",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Skriniar",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Hernandez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Hernandez",
+          "source": "formation"
+        },
+        {
+          "number": 33,
+          "name": "Zaire-Emery",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Zaire-Emery",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Ugarte",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Ugarte",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Ruiz",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ruiz",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Vitinha",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Vitinha",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Ramos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Ramos",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Lee",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Lee",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 99,
+          "name": "Donnarumma G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Donnarumma G. (G)",
+          "formation_raw": "99 Donnarumma",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Hakimi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Hakimi A.",
+          "formation_raw": "2 Hakimi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Marquinhos",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Marquinhos (C)",
+          "formation_raw": "5 Marquinhos",
+          "source": "formation_detail_match",
+          "match_score": 17
+        },
+        {
+          "number": 37,
+          "name": "Skriniar M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Skriniar M.",
+          "formation_raw": "37 Skriniar",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Hernandez L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Hernandez L.",
+          "formation_raw": "21 Hernandez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 33,
+          "name": "Zaire-Emery W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Zaire-Emery W.",
+          "formation_raw": "33 Zaire-Emery",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Ugarte M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Ugarte M.",
+          "formation_raw": "4 Ugarte",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Ruiz F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ruiz F.",
+          "formation_raw": "8 Ruiz",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Vitinha",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Vitinha",
+          "formation_raw": "17 Vitinha",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 9,
+          "name": "Ramos G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Ramos G.",
+          "formation_raw": "9 Ramos",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Lee Kang-In",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Lee Kang-In",
+          "formation_raw": "19 Lee",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 11,
+          "name": "Asensio M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Asensio M.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Dembele O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Dembele O.",
+          "source": "detailed"
+        },
+        {
+          "number": 44,
+          "name": "Ekitike H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Ekitike H.",
+          "source": "detailed"
+        },
+        {
+          "number": 32,
+          "name": "Kurzawa L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Kurzawa L.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Mbappe K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Mbappe K.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Navas K.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Navas K. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Ndour C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Ndour C.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Pereira D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Pereira D.",
+          "source": "detailed"
+        },
+        {
+          "number": 28,
+          "name": "Soler C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Soler C.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "51",
+          "incoming": "Mbappe K.",
+          "outgoing": "Lee Kang-In",
+          "incoming_rating": 8.2,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Mbappe K. 8.2 Lee Kang-In 51'"
+        },
+        {
+          "minute": "51",
+          "incoming": "Dembele O.",
+          "outgoing": "Ruiz F.",
+          "incoming_rating": 7.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Dembele O. 7.1 Ruiz F. 51'"
+        },
+        {
+          "minute": "78",
+          "incoming": "Pereira D.",
+          "outgoing": "Hernandez L.",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Pereira D. 6.5 Hernandez L. 78'"
+        },
+        {
+          "minute": "78",
+          "incoming": "Soler C.",
+          "outgoing": "Vitinha",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 12,
+          "split_match_score": null,
+          "raw": "Soler C. 6.3 Vitinha 78'"
+        }
+      ],
+      "coach": "Luis Enrique"
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "50 Restes",
+      "6 Costa",
+      "2 Nicolaisen",
+      "23 Diarra",
+      "3 Desler",
+      "24 Casseres",
+      "8 Sierro",
+      "17 Suazo",
+      "7 Aboukhlal",
+      "9 Dallinga",
+      "19 Magri",
+      "99 Donnarumma",
+      "2 Hakimi",
+      "5 Marquinhos",
+      "37 Skriniar",
+      "21 Hernandez",
+      "33 Zaire-Emery",
+      "4 Ugarte",
+      "8 Ruiz",
+      "17 Vitinha",
+      "9 Ramos",
+      "19 Lee",
+      "Genreau D. 6.4 Magri F. 57'",
+      "Begraoui Y. 6.4 Dallinga T. 71'",
+      "Schmidt N. 7.0 Casseres C. 71'",
+      "Bangre M. Desler M. 90+3'",
+      "Kamanzi W. Aboukhlal Z. 90+3'",
+      "Mbappe K. 8.2 Lee Kang-In 51'",
+      "Dembele O. 7.1 Ruiz F. 51'",
+      "Pereira D. 6.5 Hernandez L. 78'",
+      "Soler C. 6.3 Vitinha 78'",
+      "50 Restes G. (G)",
+      "6 Costa L.",
+      "2 Nicolaisen R.",
+      "23 Diarra M.",
+      "3 Desler M.",
+      "24 Casseres C.",
+      "8 Sierro V. (C)",
+      "17 Suazo G.",
+      "7 Aboukhlal Z.",
+      "9 Dallinga T.",
+      "19 Magri F.",
+      "99 Donnarumma G. (G)",
+      "2 Hakimi A.",
+      "5 Marquinhos (C)",
+      "37 Skriniar M.",
+      "21 Hernandez L.",
+      "33 Zaire-Emery W.",
+      "4 Ugarte M.",
+      "8 Ruiz F.",
+      "9 Ramos G.",
+      "19 Lee Kang-In",
+      "21 Bangre M.",
+      "14 Begraoui Y.",
+      "30 Dominguez A. (G)",
+      "11 Gelabert Pina C.",
+      "5 Genreau D.",
+      "12 Kamanzi W.",
+      "13 Mawissa C.",
+      "4 Rouault A.",
+      "20 Schmidt N.",
+      "11 Asensio M.",
+      "10 Dembele O.",
+      "44 Ekitike H.",
+      "32 Kurzawa L.",
+      "7 Mbappe K.",
+      "1 Navas K. (G)",
+      "27 Ndour C.",
+      "15 Pereira D.",
+      "28 Soler C.",
+      "Cissoko I. Foot Injury",
+      "Flemmings J. Injury",
+      "Keben K. Injury",
+      "Onaiwu A. Injury",
+      "Skytta N. Injury",
+      "Zanden O. Surgery",
+      "Bernat J. Muscle Injury",
+      "Kimpembe P. Convalescence",
+      "Letellier A. Knee Injury",
+      "Mendes N. Muscle Injury",
+      "Mukiele N. Muscle Injury",
+      "Rico S. Head Injury",
+      "Martinez C.",
+      "Luis Enrique"
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 39,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 118,
+    "compact_lineup_text_count": 84,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 39,
+    "substitution_count": 9,
+    "coach_candidate_count": 4,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 9,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+9' The match has just finished."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Substitution. Warren Kamanzi (Toulouse) replaces Zakaria Aboukhlal."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Here is a change. Mikkel Desler (Toulouse) is going off and Carles Martinez gives the last tactical orders to Mamady Bangre."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' The game is interrupted as Kylian Mbappe (Paris SG) is flagged offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' We will have 7 min. of added time."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "87' 1 - 1 Goal! Zakaria Aboukhlal (Toulouse) calmly steps up and smashes the ball inside the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Zakaria Aboukhlal (Toulouse) is going to take the penalty!"
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Gianluigi Donnarumma (Paris SG) picked up a yellow card for talking out of turn to the referee. He has to be careful for the remainder of the match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Thomas Leonard blows for a foul after Achraf Hakimi (Paris SG) was too aggressive in the battle for the ball. No point in arguing there. Toulouse will take a penalty kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' A cross from a corner kick by Toulouse is too strong and the ball goes well out of play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Niklas Schmidt (Toulouse) puts a dangerous cross into the box, but the corner is cleared by the first man. Toulouse force a corner. Their opponents will face another attacking threat."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' What was Manuel Ugarte (Paris SG) thinking? He will not get away with that. The referee shows him a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' The percentage of ball possession is – 21:79."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Luis Enrique prepares a substitution. Vitinha is replaced by Carlos Soler (Paris SG)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' It will be a substitution. Danilo Pereira (Paris SG) is ready to enter the pitch as Lucas Hernandez walks off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Vitinha (Paris SG) gets past Guillaume Restes in goal, but is driven too wide and the angle is just too tough to find the net. The ball is off of the pitch and it's a goal kick for Toulouse."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Paris SG seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Ousmane Dembele (Paris SG) unleashes a bullet of a shot that is blocked by a defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Guillaume Restes doesn't have to worry about this one. Kylian Mbappe plays a pass into the feet of Goncalo Ramos (Paris SG), who is unable to find the target as his effort from inside the box goes well wide of the left post."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Marquinhos (Paris SG) makes a reckless foul in order to win the ball from his opponent. Thomas Leonard has a clear sight of it and blows his whistle."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' The referee stops play so that a substitution can be made and Niklas Schmidt (Toulouse) replaces Cristian Casseres."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Carles Martinez has decided to substitute Thijs Dallinga and he is replaced by Yanis Begraoui (Toulouse)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Ousmane Dembele (Paris SG) decides to take a short corner instead of crossing into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Achraf Hakimi (Paris SG) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. Paris SG will take a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' The Paris SG players are exchanging some short passes."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "62' 0 - 1 Goal! Kylian Mbappe (Paris SG) wins the battle of wills and sends an unstoppable penalty past Guillaume Restes into left side of the goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Kylian Mbappe (Paris SG) is heading towards the penalty spot to take it."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' The Paris SG players are happy as the referee awards a PENALTY after the VAR review!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' There's a break in play and referee Thomas Leonard must have got a signal in his ear as he indicates he will check that earlier penalty claim by Paris SG using VAR. This could be interesting!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' PENALTY APPEAL after Kylian Mbappe (Paris SG) goes down under a challenge from the defender. All players chase the referee but he's not interested in the penalty claim. Play continues."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Frank Magri goes off the pitch and Denis Genreau (Toulouse) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' The corner is swung in but Toulouse can’t take advantage as a defender sweeps the ball away."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Luis Enrique has decided to introduce fresh legs, with Ousmane Dembele (Paris SG) replacing Fabian Ruiz."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' A substitution has been made. Kang-In Lee is replaced by Kylian Mbappe (Paris SG)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' A goal, which was scored by Warren Zaire-Emery (Paris SG), was disallowed due to offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' Neat passing move from Paris SG in order to create new attacking opportunities."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Carles Martinez has decided to make a change. Mamady Bangre (Toulouse) replaces Mikkel Desler."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The half-time break is over and the second half is about to start."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' Thomas Leonard blows his whistle to signal the end of the first-half action."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' The linesman signals that Goncalo Ramos (Paris SG) is offside and the referee confirms the decision."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Kang-In Lee (Paris SG) receives a yellow card for a nasty tackle."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' The referee blows his whistle as Warren Zaire-Emery (Paris SG) was too aggressive in his challenge."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 2 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Paris SG are bossing possession at the moment by exchanging some precise passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' A rebound falls to Mikkel Desler (Toulouse) in space inside the box. He looks up and fires in a powerful shot at goal that flies just over the bar. The ball is off of the pitch and it's a goal kick for Paris SG."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Mikkel Desler (Toulouse) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Kang-In Lee (Paris SG) launches an inaccurate corner kick into the penalty area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Goncalo Ramos (Paris SG) unleashes a shot, but it just misses the right-hand post. The ball goes out of play and Toulouse will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Vitinha (Paris SG) had time and space on the edge of the box but sent his effort just over the bar. The ball is off of the pitch and it's a goal kick for Toulouse."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Gabriel Suazo (Toulouse) makes a rough challenge and Thomas Leonard blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Kang-In Lee (Paris SG) floats the ball in from the corner but it's intercepted."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' A fine lofted pass into the box, sent by Lucas Hernandez (Paris SG), is intercepted by the opposition's defence. The ball is out of play. Paris SG will have a chance to score from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Some great controlled play and passing in the middle of the pitch from Paris SG."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Achraf Hakimi (Paris SG) robs an opponent of the ball and explodes in anger when Thomas Leonard blows for a foul."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' The referee blows his whistle and players are going to refresh themselves."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Kang-In Lee (Paris SG) takes the corner which is cleared."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Kang-In Lee (Paris SG) steps up to take the corner, but the ball just sails in among the defenders. The referee blows his whistle, Paris SG are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Achraf Hakimi (Paris SG) cracked a first-time shot, but the goalkeeper pulled off an amazing save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Kang-In Lee (Paris SG) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Warren Zaire-Emery (Paris SG) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Great teamplay by Paris SG as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Manuel Ugarte (Paris SG) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball goes out of play and Toulouse will have a goal kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Cristian Casseres (Toulouse) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' The Paris SG players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Dangerous play by Logan Costa (Toulouse). Thomas Leonard blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Moussa Diarra (Toulouse) works the corner short."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Vincent Sierro (Toulouse) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear. Now Toulouse have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Cristian Casseres (Toulouse) makes a rough challenge and the referee blows for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Gabriel Suazo (Toulouse) sends in a lofted cross from a long-range free kick in order to find one of his teammates. His poor effort, however, sails way out of play."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Warren Zaire-Emery (Paris SG) was trying to get to the ball but clattered into the legs of the opponent as well. Thomas Leonard blows his whistle for an infringement."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Goncalo Ramos (Paris SG) sends a pass into the penalty area, but the opponent manages to cut it out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Here we go, today's match is starting right now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Paris SG will kick the game off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Thomas Leonard will supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting XIs were already announced and you can go through them in the Lineups section."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "87' 1 - 1 Goal! Zakaria Aboukhlal (Toulouse) calmly steps up and smashes the ball inside the left post.",
+        "team_side": "home",
+        "team": "Toulouse",
+        "player_team_side": "home",
+        "player_team": "Toulouse",
+        "player": "Aboukhlal Z.",
+        "shirt_number": 7,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "62' 0 - 1 Goal! Kylian Mbappe (Paris SG) wins the battle of wills and sends an unstoppable penalty past Guillaume Restes into left side of the goal.",
+        "team_side": "home",
+        "team": "Toulouse",
+        "player_team_side": "home",
+        "player_team": "Toulouse",
+        "player": "Restes G.",
+        "shirt_number": 50,
+        "player_match_score": 150,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Gianluigi Donnarumma (Paris SG) picked up a yellow card for talking out of turn to the referee. He has to be careful for the remainder of the match.",
+        "team_side": "away",
+        "team": "PSG",
+        "player": "Donnarumma G.",
+        "shirt_number": 99,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' What was Manuel Ugarte (Paris SG) thinking? He will not get away with that. The referee shows him a yellow card.",
+        "team_side": "away",
+        "team": "PSG",
+        "player": "Ugarte M.",
+        "shirt_number": 4,
+        "player_match_score": 134,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' Kang-In Lee (Paris SG) receives a yellow card for a nasty tackle.",
+        "team_side": "away",
+        "team": "PSG",
+        "player": "Lee Kang-In",
+        "shirt_number": 19,
+        "player_match_score": 169,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' Substitution. Warren Kamanzi (Toulouse) replaces Zakaria Aboukhlal."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' Here is a change. Mikkel Desler (Toulouse) is going off and Carles Martinez gives the last tactical orders to Mamady Bangre."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Luis Enrique prepares a substitution. Vitinha is replaced by Carlos Soler (Paris SG)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' It will be a substitution. Danilo Pereira (Paris SG) is ready to enter the pitch as Lucas Hernandez walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' The referee stops play so that a substitution can be made and Niklas Schmidt (Toulouse) replaces Cristian Casseres."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' Carles Martinez has decided to substitute Thijs Dallinga and he is replaced by Yanis Begraoui (Toulouse)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 57,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "57' Frank Magri goes off the pitch and Denis Genreau (Toulouse) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 51,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "51' Luis Enrique has decided to introduce fresh legs, with Ousmane Dembele (Paris SG) replacing Fabian Ruiz."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 51,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "51' A substitution has been made. Kang-In Lee is replaced by Kylian Mbappe (Paris SG)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 47,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "47' Carles Martinez has decided to make a change. Mamady Bangre (Toulouse) replaces Mikkel Desler."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "62' The Paris SG players are happy as the referee awards a PENALTY after the VAR review!",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": null,
+        "team": null,
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 60,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "60' There's a break in play and referee Thomas Leonard must have got a signal in his ear as he indicates he will check that earlier penalty claim by Paris SG using VAR. This could be interesting!",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": null,
+        "team": null,
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' Marquinhos (Paris SG) makes a reckless foul in order to win the ball from his opponent. Thomas Leonard has a clear sight of it and blows his whistle."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The half-time break is over and the second half is about to start."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+5' Thomas Leonard blows his whistle to signal the end of the first-half action."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' The referee blows his whistle as Warren Zaire-Emery (Paris SG) was too aggressive in his challenge."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 32,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "32' Gabriel Suazo (Toulouse) makes a rough challenge and Thomas Leonard blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 25,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "25' The referee blows his whistle and players are going to refresh themselves."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 23,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "23' Kang-In Lee (Paris SG) steps up to take the corner, but the ball just sails in among the defenders. The referee blows his whistle, Paris SG are awarded a corner kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 11,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "11' Cristian Casseres (Toulouse) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 10,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "10' Dangerous play by Logan Costa (Toulouse). Thomas Leonard blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 4,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "4' Warren Zaire-Emery (Paris SG) was trying to get to the ball but clattered into the legs of the opponent as well. Thomas Leonard blows his whistle for an infringement."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 2,
+    "detected_goal_count": 2,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 2,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 136,
+    "commentary_row_count": 77,
+    "removed_commentary_noise_count": 59,
+    "goal_event_count": 2,
+    "yellow_card_event_count": 3,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 2,
+      "detected_goal_count": 2
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 2,
+    "structured_goal_count": 2,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 1,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 3,
+    "structured_yellow_card_count": 3,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 2,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": false,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 1,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T06:06:18Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 77,
+      "error": null
+    }
+  }
+}

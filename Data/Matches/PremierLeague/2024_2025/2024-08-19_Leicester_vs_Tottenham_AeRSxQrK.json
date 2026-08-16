@@ -1,0 +1,2800 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/leicester-KrrdAMyI/tottenham-UDg08Ohm/summary/stats/overall/?mid=AeRSxQrK",
+  "match_id": "AeRSxQrK",
+  "page_title": "LEI 1-1 TOT | Leicester v Tottenham Hotspur 19/08/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "19.08.2024 23:00",
+  "home_team": "Leicester",
+  "away_team": "Tottenham",
+  "score": {
+    "home": "1",
+    "away": "1",
+    "display": "1 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.15",
+      "away": "0.98",
+      "raw_values": [
+        "1.15",
+        "0.98"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "29%",
+      "away": "71%",
+      "raw_values": [
+        "29%",
+        "71%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "7",
+      "away": "15",
+      "raw_values": [
+        "7",
+        "15"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "3",
+      "away": "7",
+      "raw_values": [
+        "3",
+        "7"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "2",
+      "away": "13",
+      "raw_values": [
+        "2",
+        "13"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "77%\n(211/275)",
+      "away": "90%\n(601/671)",
+      "raw_values": [
+        "77%\n(211/275)",
+        "90%\n(601/671)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "1",
+      "away": "1",
+      "raw_values": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "1",
+      "away": "6",
+      "raw_values": [
+        "1",
+        "6"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "2",
+      "away": "1",
+      "raw_values": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "13",
+      "away": "12",
+      "raw_values": [
+        "13",
+        "12"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "20",
+      "away": "20",
+      "raw_values": [
+        "20",
+        "20"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "11",
+      "away": "12",
+      "raw_values": [
+        "11",
+        "12"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "6",
+      "away": "2",
+      "raw_values": [
+        "6",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.15",
+        "away": "0.98",
+        "raw_values": [
+          "1.15",
+          "0.98"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "29%",
+        "away": "71%",
+        "raw_values": [
+          "29%",
+          "71%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "7",
+        "away": "15",
+        "raw_values": [
+          "7",
+          "15"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "7",
+        "raw_values": [
+          "3",
+          "7"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "13",
+        "raw_values": [
+          "2",
+          "13"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "77%\n(211/275)",
+        "away": "90%\n(601/671)",
+        "raw_values": [
+          "77%\n(211/275)",
+          "90%\n(601/671)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "13",
+        "away": "12",
+        "raw_values": [
+          "13",
+          "12"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "20",
+        "away": "20",
+        "raw_values": [
+          "20",
+          "20"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "11",
+        "away": "12",
+        "raw_values": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "6",
+        "away": "2",
+        "raw_values": [
+          "6",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.03",
+        "away": "0.52",
+        "raw_values": [
+          "0.03",
+          "0.52"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "27%",
+        "away": "73%",
+        "raw_values": [
+          "27%",
+          "73%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "1",
+        "away": "10",
+        "raw_values": [
+          "1",
+          "10"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "4",
+        "raw_values": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "0",
+        "away": "9",
+        "raw_values": [
+          "0",
+          "9"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "78%\n(100/128)",
+        "away": "91%\n(298/326)",
+        "raw_values": [
+          "78%\n(100/128)",
+          "91%\n(298/326)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "4",
+        "raw_values": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "3",
+        "away": "7",
+        "raw_values": [
+          "3",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "5",
+        "raw_values": [
+          "10",
+          "5"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.12",
+        "away": "0.46",
+        "raw_values": [
+          "1.12",
+          "0.46"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "31%",
+        "away": "69%",
+        "raw_values": [
+          "31%",
+          "69%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "76%\n(111/147)",
+        "away": "88%\n(303/345)",
+        "raw_values": [
+          "76%\n(111/147)",
+          "88%\n(303/345)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "10",
+        "away": "5",
+        "raw_values": [
+          "10",
+          "5"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "15",
+        "raw_values": [
+          "10",
+          "15"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "9",
+        "raw_values": [
+          "4",
+          "9"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 30,
+          "name": "Hermansen",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Hermansen",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Justin",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Justin",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Vestergaard",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Vestergaard",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Faes",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Faes",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Kristiansen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Kristiansen",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Winks",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Winks",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Ndidi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Ndidi",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Fatawu",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Fatawu",
+          "source": "formation"
+        },
+        {
+          "number": 40,
+          "name": "Buonanotte",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "40 Buonanotte",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "De Cordova-Reid",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 De Cordova-Reid",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Vardy",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "9 Vardy",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 30,
+          "name": "Hermansen M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Hermansen M. (G)",
+          "formation_raw": "30 Hermansen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Justin J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Justin J.",
+          "formation_raw": "2 Justin",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Vestergaard J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Vestergaard J.",
+          "formation_raw": "23 Vestergaard",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Faes W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Faes W.",
+          "formation_raw": "3 Faes",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Kristiansen V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Kristiansen V.",
+          "formation_raw": "16 Kristiansen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Winks H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Winks H.",
+          "formation_raw": "8 Winks",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Ndidi W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Ndidi W.",
+          "formation_raw": "6 Ndidi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Fatawu I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Fatawu I.",
+          "formation_raw": "7 Fatawu",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 40,
+          "name": "Buonanotte F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "40 Buonanotte F.",
+          "formation_raw": "40 Buonanotte",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "De Cordova-Reid B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 De Cordova-Reid B.",
+          "formation_raw": "14 De Cordova-Reid",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Vardy J.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "9 Vardy J. (C)",
+          "formation_raw": "9 Vardy",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 28,
+          "name": "Cannon T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Cannon T.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Choudhury H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Choudhury H.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Mavididi S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Mavididi S.",
+          "source": "detailed"
+        },
+        {
+          "number": 35,
+          "name": "McAteer K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "35 McAteer K.",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Nelson B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Nelson B.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Okoli C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Okoli C.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Pereira R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Pereira R.",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Soumare B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Soumare B.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Ward D.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Ward D. (G)",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "79",
+          "incoming": "Mavididi S.",
+          "outgoing": "Vardy J.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Mavididi S. 6.5 Vardy J. 79'"
+        },
+        {
+          "minute": "79",
+          "incoming": "Soumare B.",
+          "outgoing": "Buonanotte F.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Soumare B. 6.5 Buonanotte F. 79'"
+        },
+        {
+          "minute": "86",
+          "incoming": "McAteer",
+          "outgoing": "K. De Cordova-Reid B.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 12,
+          "split_match_score": 45,
+          "raw": "McAteer K. De Cordova-Reid B. 86'"
+        }
+      ],
+      "coach": "Cooper S."
+    },
+    "away": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Vicario",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Vicario",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Porro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Porro",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Romero",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Romero",
+          "source": "formation"
+        },
+        {
+          "number": 37,
+          "name": "van de Ven",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 van de Ven",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Udogie",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Udogie",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Sarr",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Sarr",
+          "source": "formation"
+        },
+        {
+          "number": 30,
+          "name": "Bentancur",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Bentancur",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Maddison",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Maddison",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Johnson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Johnson",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Solanke",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Solanke",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Son",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 Son",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Vicario G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Vicario G. (G)",
+          "formation_raw": "1 Vicario",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Porro P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Porro P.",
+          "formation_raw": "23 Porro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Romero C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Romero C.",
+          "formation_raw": "17 Romero",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 37,
+          "name": "van de Ven M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 van de Ven M.",
+          "formation_raw": "37 van de Ven",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Udogie D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Udogie D.",
+          "formation_raw": "13 Udogie",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Sarr P. M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Sarr P. M.",
+          "formation_raw": "29 Sarr",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 30,
+          "name": "Bentancur R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Bentancur R.",
+          "formation_raw": "30 Bentancur",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Maddison J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Maddison J.",
+          "formation_raw": "10 Maddison",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Johnson B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Johnson B.",
+          "formation_raw": "22 Johnson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Solanke D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Solanke D.",
+          "formation_raw": "19 Solanke",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Son Heung-Min",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 Son Heung-Min (C)",
+          "formation_raw": "7 Son",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 40,
+          "name": "Austin B.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "40 Austin B. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Bergvall L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Bergvall L.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Davies B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Davies B.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Dragusin R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Dragusin R.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Gray A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Gray A.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Kulusevski D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Kulusevski D.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Richarlison",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Richarlison",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Spence D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Spence D.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Werner T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Werner T.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "78",
+          "incoming": "Gray A.",
+          "outgoing": "Bentancur R.",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Gray A. 6.5 Bentancur R. 78'"
+        },
+        {
+          "minute": "78",
+          "incoming": "Bergvall L.",
+          "outgoing": "Sarr P. M.",
+          "incoming_rating": 7.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bergvall L. 7.5 Sarr P. M. 78'"
+        },
+        {
+          "minute": "78",
+          "incoming": "Werner T.",
+          "outgoing": "Johnson B.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Werner T. 6.4 Johnson B. 78'"
+        },
+        {
+          "minute": "79",
+          "incoming": "Kulusevski D.",
+          "outgoing": "Maddison J.",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Kulusevski D. 6.5 Maddison J. 79'"
+        },
+        {
+          "minute": "90+2",
+          "incoming": "Spence D.",
+          "outgoing": "Porro P.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Spence D. Porro P. 90+2'"
+        },
+        {
+          "minute": "90+2",
+          "incoming": "Richarlison",
+          "outgoing": "Son Heung-Min",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Richarlison Son Heung-Min 90+2'"
+        }
+      ],
+      "coach": "Postecoglou A."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "30 Hermansen",
+      "2 Justin",
+      "23 Vestergaard",
+      "3 Faes",
+      "16 Kristiansen",
+      "8 Winks",
+      "6 Ndidi",
+      "7 Fatawu",
+      "40 Buonanotte",
+      "14 De Cordova-Reid",
+      "9 Vardy",
+      "1 Vicario",
+      "23 Porro",
+      "17 Romero",
+      "37 van de Ven",
+      "13 Udogie",
+      "29 Sarr",
+      "30 Bentancur",
+      "10 Maddison",
+      "22 Johnson",
+      "19 Solanke",
+      "7 Son",
+      "Mavididi S. 6.5 Vardy J. 79'",
+      "Soumare B. 6.5 Buonanotte F. 79'",
+      "McAteer K. De Cordova-Reid B. 86'",
+      "Gray A. 6.5 Bentancur R. 78'",
+      "Bergvall L. 7.5 Sarr P. M. 78'",
+      "Werner T. 6.4 Johnson B. 78'",
+      "Kulusevski D. 6.5 Maddison J. 79'",
+      "Spence D. Porro P. 90+2'",
+      "Richarlison Son Heung-Min 90+2'",
+      "30 Hermansen M. (G)",
+      "2 Justin J.",
+      "23 Vestergaard J.",
+      "3 Faes W.",
+      "16 Kristiansen V.",
+      "8 Winks H.",
+      "6 Ndidi W.",
+      "7 Fatawu I.",
+      "40 Buonanotte F.",
+      "14 De Cordova-Reid B.",
+      "9 Vardy J. (C)",
+      "1 Vicario G. (G)",
+      "23 Porro P.",
+      "17 Romero C.",
+      "37 van de Ven M.",
+      "13 Udogie D.",
+      "29 Sarr P. M.",
+      "30 Bentancur R.",
+      "10 Maddison J.",
+      "22 Johnson B.",
+      "19 Solanke D.",
+      "7 Son Heung-Min (C)",
+      "28 Cannon T.",
+      "17 Choudhury H.",
+      "10 Mavididi S.",
+      "35 McAteer K.",
+      "26 Nelson B.",
+      "5 Okoli C.",
+      "21 Pereira R.",
+      "24 Soumare B.",
+      "1 Ward D. (G)",
+      "40 Austin B. (G)",
+      "15 Bergvall L.",
+      "33 Davies B.",
+      "6 Dragusin R.",
+      "14 Gray A.",
+      "21 Kulusevski D.",
+      "9 Richarlison",
+      "24 Spence D.",
+      "16 Werner T.",
+      "Coady C. Thigh Injury",
+      "Daka P. Ankle Injury",
+      "Opoku N. Broken Leg",
+      "Thomas L. Injury",
+      "Bissouma Y. Suspended",
+      "Forster F. Ankle Injury",
+      "Cooper S.",
+      "Postecoglou A."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 3,
+    "away_bench_substitution_match_count": 6,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 315
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 112,
+    "compact_lineup_text_count": 79,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 9,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 10,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+10' The referee blows his whistle for the final time to end this match."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 8,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+8' Wout Faes (Leicester) receives a yellow card for a nasty tackle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' Neat passing move from Tottenham in order to create new attacking opportunities."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Mads Hermansen displays his ability to read the game and clears the danger after Lucas Bergvall (Tottenham) threatened to latch onto a through ball from just outside the box."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' The referee blows his whistle, Leicester are awarded a corner kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Ange Postecoglou is forced to make a change. Pedro Porro is unable to continue due to injury, Djed Spence (Tottenham) comes on."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Ange Postecoglou has decided to substitute Heung-Min Son and he is replaced by Richarlison (Tottenham)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Wilfred Ndidi (Leicester) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the right post is denied by a decent save from Guglielmo Vicario. The ball goes out for a corner. Leicester can continue in their attacking effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 9 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' The Tottenham players are exchanging some short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Timo Werner (Tottenham) tries to slide the ball through to a teammate but it's well blocked by a defender."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Substitution. Kasey McAteer (Leicester) receives a signal from the referee and is now allowed to enter the pitch as Bobby De Cordova-Reid walks off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' A cross from a corner kick by Tottenham is too strong and the ball goes well out of play."
+    },
+    {
+      "type": "attendance",
+      "primary_type": "attendance",
+      "tags": [
+        "attendance"
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' The attendance is 31977."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Stephy Mavididi (Leicester) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Here is a change. Facundo Buonanotte is going off and Steven Cooper gives the last tactical orders to Boubakary Soumare (Leicester)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' We are about to witness a substitution. Stephy Mavididi (Leicester) is replacing Jamie Vardy."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Here comes a substitution. Dejan Kulusevski (Tottenham) is brought on as a substitute for James Maddison."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Substitution. Timo Werner (Tottenham) on for Brennan Johnson."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Ange Postecoglou decides to make a substitution. Pape Matar Sarr will be replaced by Lucas Bergvall (Tottenham)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Possibly concussed, Rodrigo Bentancur (Tottenham) leaves the field to be replaced by Archie Gray."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' The game is interrupted. Rodrigo Bentancur (Tottenham) suffers a horrific injury!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' The resulting corner from James Maddison (Tottenham) only finds one of the defenders, who heads it out of danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Jamie Vardy (Leicester) drives a shot towards the bottom left corner from inside the box, but Guglielmo Vicario leaps like a salmon and knocks the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' The Tottenham players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Close! A mistake by a defender gifts Wilfred Ndidi (Leicester) a chance inside the box, but his efforts curls just around the right post. The ball is off of the pitch and it's a goal kick for Tottenham."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' The whistle blows and Rodrigo Bentancur (Tottenham) is booked for an infringement."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' James Maddison (Tottenham) robs an opponent of the ball and explodes in anger when Chris Kavanagh blows for a foul."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "57' 1 - 1 Jamie Vardy (Leicester) leaps to connect with a delightful cross and places his sweet header inside the left post. The goalkeeper had no chance to make a save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Rodrigo Bentancur (Tottenham) has a sight of goal and shoots towards the right post, but the goalkeeper makes a superb save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' James Maddison (Tottenham) takes a short corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' What a wasted opportunity by Dominic Solanke (Tottenham)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the middle of the net, but Mads Hermansen makes a comfortable save to thwart him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Destiny Udogie (Tottenham) jumps into a tackle and Chris Kavanagh signals a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Bobby De Cordova-Reid (Leicester) was standing in a clear offside position, making it an easy call for the linesman."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Pedro Porro (Tottenham) was too fierce in his attempt to get the ball from his opponent and Chris Kavanagh blows for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' James Maddison (Tottenham) works the corner short."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Issahaku Fatawu (Leicester) makes a bad challenge and the referee blows his whistle for a foul."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The referee blows his whistle to signal the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' 1 additional min. will be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' James Maddison (Tottenham) steps up to send the ball in."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' James Maddison (Tottenham) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Some great controlled play and passing in the middle of the pitch from Tottenham."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Issahaku Fatawu (Leicester) swings a cross into the box, but it's far too close to Guglielmo Vicario, who smothers the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Great teamplay by Leicester as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' What an opportunity! Brennan Johnson (Tottenham) wins the ball from the resulting set piece and unleashes a precise shot from inside the goal area which sails narrowly wide of the left post! The ball is off of the pitch and it's a goal kick for Leicester."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' The referee blows his whistle as Wout Faes (Leicester) was too aggressive in his challenge."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "30' 0 - 1 Pedro Porro (Tottenham) gets to the ball inside the penalty area and produces a bullet header towards the goal. He aims his effort nicely inside the right post, leaving Mads Hermansen helpless. He makes it 0:1."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Dangerous play by Brennan Johnson (Tottenham). Chris Kavanagh blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Destiny Udogie (Tottenham) fails to send a pass into the box as his effort is cut out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Tottenham seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Bobby De Cordova-Reid (Leicester) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Destiny Udogie (Tottenham) was too forceful with his tackle and Chris Kavanagh interrupted the game to signal a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Dominic Solanke (Tottenham) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' A horde of players are waiting inside the penalty area for a cross from the corner, but James Maddison (Tottenham) takes it short."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Heung-Min Son (Tottenham) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. Tottenham have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' The linesman referee is pointing towards the corner flag. It will be a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Corner kick. Tottenham will have an opportunity. Brennan Johnson (Tottenham) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Chris Kavanagh blows for a foul after Harry Winks (Leicester) was too aggressive in the battle for the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' Dominic Solanke (Tottenham) rises above the defenders and places a towering header towards the middle of the goal, but Mads Hermansen is prepared to thwart his effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' The free kick is taken by James Maddison (Tottenham), but ball is cleared."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Issahaku Fatawu (Leicester) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. Tottenham are given an advantage. They have a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Dominic Solanke is not given a chance to finish after receiving a sweet pass by James Maddison (Tottenham). The ball goes out of play and Leicester will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' The ball is off of the pitch and it's a goal kick for Leicester. Cristian Gabriel Romero (Tottenham) jumps for a cross and produces a fine header from near the penalty spot, but it goes narrowly wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' James Maddison (Tottenham) decides to speed play up with a short corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' James Maddison (Tottenham) takes the corner which is cleared. Tottenham have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Destiny Udogie (Tottenham) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Leicester are bossing possession at the moment by exchanging some precise passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Tottenham take a short corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' A cross into the box from Pape Matar Sarr (Tottenham) is cleared. Tottenham force a corner. Their opponents will face another attacking threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' James Maddison (Tottenham) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' James Maddison (Tottenham) takes the corner which is cleared by the opposition's defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Heung-Min Son (Tottenham) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The ball is out of play and Tottenham manage to earn a corner."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Jannik Vestergaard (Leicester) makes an overly-aggressive challenge and Chris Kavanagh blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Leicester force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Dominic Solanke (Tottenham) is adjudged to have been offside when making his run."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The match has just started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Tottenham will kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Today's referee will be Chris Kavanagh."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting XIs were already announced and you can go through them in the Lineups section."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 57,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "57' 1 - 1 Jamie Vardy (Leicester) leaps to connect with a delightful cross and places his sweet header inside the left post. The goalkeeper had no chance to make a save.",
+        "team_side": "home",
+        "team": "Leicester",
+        "player_team_side": "home",
+        "player_team": "Leicester",
+        "player": "Vardy J.",
+        "shirt_number": 9,
+        "player_match_score": 134,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 30,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "30' 0 - 1 Pedro Porro (Tottenham) gets to the ball inside the penalty area and produces a bullet header towards the goal. He aims his effort nicely inside the right post, leaving Mads Hermansen helpless. He makes it 0:1.",
+        "team_side": "away",
+        "team": "Tottenham",
+        "player_team_side": "away",
+        "player_team": "Tottenham",
+        "player": "Porro P.",
+        "shirt_number": 23,
+        "player_match_score": 134,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 8,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+8' Wout Faes (Leicester) receives a yellow card for a nasty tackle.",
+        "team_side": "home",
+        "team": "Leicester",
+        "player": "Faes W.",
+        "shirt_number": 3,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' The whistle blows and Rodrigo Bentancur (Tottenham) is booked for an infringement.",
+        "team_side": "away",
+        "team": "Tottenham",
+        "player": "Bentancur R.",
+        "shirt_number": 30,
+        "player_match_score": 136,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+2' Ange Postecoglou is forced to make a change. Pedro Porro is unable to continue due to injury, Djed Spence (Tottenham) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+2' Ange Postecoglou has decided to substitute Heung-Min Son and he is replaced by Richarlison (Tottenham)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Substitution. Kasey McAteer (Leicester) receives a signal from the referee and is now allowed to enter the pitch as Bobby De Cordova-Reid walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' Here is a change. Facundo Buonanotte is going off and Steven Cooper gives the last tactical orders to Boubakary Soumare (Leicester)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' We are about to witness a substitution. Stephy Mavididi (Leicester) is replacing Jamie Vardy."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Here comes a substitution. Dejan Kulusevski (Tottenham) is brought on as a substitute for James Maddison."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Substitution. Timo Werner (Tottenham) on for Brennan Johnson."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Ange Postecoglou decides to make a substitution. Pape Matar Sarr will be replaced by Lucas Bergvall (Tottenham)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Possibly concussed, Rodrigo Bentancur (Tottenham) leaves the field to be replaced by Archie Gray."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+      {
+        "type": "attendance",
+        "primary_type": "attendance",
+        "tags": [
+          "attendance"
+        ],
+        "minute": 83,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "83' The attendance is 31977."
+      }
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 10,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+10' The referee blows his whistle for the final time to end this match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' The referee blows his whistle, Leicester are awarded a corner kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 82,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "82' Stephy Mavididi (Leicester) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 49,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "49' Issahaku Fatawu (Leicester) makes a bad challenge and the referee blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The referee blows his whistle to signal the start of the second half."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+2' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 31,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "31' The referee blows his whistle as Wout Faes (Leicester) was too aggressive in his challenge."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 26,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "26' Dangerous play by Brennan Johnson (Tottenham). Chris Kavanagh blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 23,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "23' Bobby De Cordova-Reid (Leicester) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 14,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "14' Issahaku Fatawu (Leicester) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. Tottenham are given an advantage. They have a free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 4,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "4' Jannik Vestergaard (Leicester) makes an overly-aggressive challenge and Chris Kavanagh blows his whistle for a foul."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 2,
+    "detected_goal_count": 2,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 2,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 144,
+    "commentary_row_count": 82,
+    "removed_commentary_noise_count": 62,
+    "goal_event_count": 2,
+    "yellow_card_event_count": 2,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 2,
+      "detected_goal_count": 2
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": true,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_match",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 2,
+    "structured_goal_count": 2,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 1,
+    "header_goal_count": 2,
+    "yellow_card_event_count": 2,
+    "structured_yellow_card_count": 2,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-15T17:47:36Z",
+  "collector_profile": {
+    "competition_key": "premier_league",
+    "competition": "English Premier League",
+    "season": "2024/2025",
+    "season_key": "2024_2025",
+    "expected_match_count": 380,
+    "supports_player_stats": true
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 82,
+      "error": null
+    }
+  }
+}

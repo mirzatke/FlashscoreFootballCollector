@@ -1,0 +1,1906 @@
+﻿{
+  "schema_version": "1.0",
+  "processed": [
+    {
+      "match_id": "pnyZcsJk",
+      "processed_at_utc": "2026-08-04T02:12:08Z",
+      "output_file": "2025-08-15_Girona_vs_Rayo_Vallecano_pnyZcsJk.json"
+    },
+    {
+      "match_id": "SUhP8bX7",
+      "processed_at_utc": "2026-08-04T02:12:48Z",
+      "output_file": "2025-08-15_Villarreal_vs_Oviedo_SUhP8bX7.json"
+    },
+    {
+      "match_id": "Y7HTJOu9",
+      "processed_at_utc": "2026-08-04T02:13:27Z",
+      "output_file": "2025-08-16_Mallorca_vs_Barcelona_Y7HTJOu9.json"
+    },
+    {
+      "match_id": "K4kHAK2e",
+      "processed_at_utc": "2026-08-04T02:14:10Z",
+      "output_file": "2025-08-16_Valencia_vs_Real_Sociedad_K4kHAK2e.json"
+    },
+    {
+      "match_id": "KMrm7od3",
+      "processed_at_utc": "2026-08-04T02:14:48Z",
+      "output_file": "2025-08-16_Alaves_vs_Levante_KMrm7od3.json"
+    },
+    {
+      "match_id": "l2z433eS",
+      "processed_at_utc": "2026-08-04T02:15:28Z",
+      "output_file": "2025-08-17_Celta_Vigo_vs_Getafe_l2z433eS.json"
+    },
+    {
+      "match_id": "Snne5PQF",
+      "processed_at_utc": "2026-08-04T02:16:07Z",
+      "output_file": "2025-08-17_Ath_Bilbao_vs_Sevilla_Snne5PQF.json"
+    },
+    {
+      "match_id": "tEUsdLm2",
+      "processed_at_utc": "2026-08-04T02:16:48Z",
+      "output_file": "2025-08-17_Espanyol_vs_Atl._Madrid_tEUsdLm2.json"
+    },
+    {
+      "match_id": "UZAxI2AL",
+      "processed_at_utc": "2026-08-04T02:17:29Z",
+      "output_file": "2025-08-18_Elche_vs_Betis_UZAxI2AL.json"
+    },
+    {
+      "match_id": "bk18CtYr",
+      "processed_at_utc": "2026-08-04T02:18:12Z",
+      "output_file": "2025-08-19_Real_Madrid_vs_Osasuna_bk18CtYr.json"
+    },
+    {
+      "match_id": "dp96XMLq",
+      "processed_at_utc": "2026-08-04T02:18:56Z",
+      "output_file": "2025-08-22_Betis_vs_Alaves_dp96XMLq.json"
+    },
+    {
+      "match_id": "rwk1g4r3",
+      "processed_at_utc": "2026-08-04T02:19:40Z",
+      "output_file": "2025-08-23_Mallorca_vs_Celta_Vigo_rwk1g4r3.json"
+    },
+    {
+      "match_id": "dMQJtRbc",
+      "processed_at_utc": "2026-08-04T02:20:23Z",
+      "output_file": "2025-08-23_Atl._Madrid_vs_Elche_dMQJtRbc.json"
+    },
+    {
+      "match_id": "jq2FV0jd",
+      "processed_at_utc": "2026-08-04T02:21:09Z",
+      "output_file": "2025-08-23_Levante_vs_Barcelona_jq2FV0jd.json"
+    },
+    {
+      "match_id": "4nURv5T9",
+      "processed_at_utc": "2026-08-04T02:21:54Z",
+      "output_file": "2025-08-24_Osasuna_vs_Valencia_4nURv5T9.json"
+    },
+    {
+      "match_id": "W2Nlp05k",
+      "processed_at_utc": "2026-08-04T02:22:37Z",
+      "output_file": "2025-08-24_Villarreal_vs_Girona_W2Nlp05k.json"
+    },
+    {
+      "match_id": "v5rAirDF",
+      "processed_at_utc": "2026-08-04T02:23:20Z",
+      "output_file": "2025-08-24_Real_Sociedad_vs_Espanyol_v5rAirDF.json"
+    },
+    {
+      "match_id": "Q1IzwqbM",
+      "processed_at_utc": "2026-08-04T02:24:04Z",
+      "output_file": "2025-08-24_Oviedo_vs_Real_Madrid_Q1IzwqbM.json"
+    },
+    {
+      "match_id": "WS6uJN6j",
+      "processed_at_utc": "2026-08-04T02:24:46Z",
+      "output_file": "2025-08-25_Ath_Bilbao_vs_Rayo_Vallecano_WS6uJN6j.json"
+    },
+    {
+      "match_id": "nVoIkMsS",
+      "processed_at_utc": "2026-08-04T02:25:29Z",
+      "output_file": "2025-08-25_Sevilla_vs_Getafe_nVoIkMsS.json"
+    },
+    {
+      "match_id": "xdzmmrvK",
+      "processed_at_utc": "2026-08-04T02:26:41Z",
+      "output_file": "2025-08-27_Celta_Vigo_vs_Betis_xdzmmrvK.json"
+    },
+    {
+      "match_id": "4EQGmZBs",
+      "processed_at_utc": "2026-08-04T02:27:22Z",
+      "output_file": "2025-08-29_Elche_vs_Levante_4EQGmZBs.json"
+    },
+    {
+      "match_id": "0fab0Cem",
+      "processed_at_utc": "2026-08-04T02:28:02Z",
+      "output_file": "2025-08-29_Valencia_vs_Getafe_0fab0Cem.json"
+    },
+    {
+      "match_id": "IJLdrvz2",
+      "processed_at_utc": "2026-08-04T02:28:43Z",
+      "output_file": "2025-08-30_Alaves_vs_Atl._Madrid_IJLdrvz2.json"
+    },
+    {
+      "match_id": "E3QurVuJ",
+      "processed_at_utc": "2026-08-04T02:29:24Z",
+      "output_file": "2025-08-30_Oviedo_vs_Real_Sociedad_E3QurVuJ.json"
+    },
+    {
+      "match_id": "hlxXqiB6",
+      "processed_at_utc": "2026-08-04T02:30:03Z",
+      "output_file": "2025-08-30_Girona_vs_Sevilla_hlxXqiB6.json"
+    },
+    {
+      "match_id": "Y7c6bjQa",
+      "processed_at_utc": "2026-08-04T02:30:45Z",
+      "output_file": "2025-08-30_Real_Madrid_vs_Mallorca_Y7c6bjQa.json"
+    },
+    {
+      "match_id": "YR3q6sS8",
+      "processed_at_utc": "2026-08-04T02:31:25Z",
+      "output_file": "2025-08-31_Celta_Vigo_vs_Villarreal_YR3q6sS8.json"
+    },
+    {
+      "match_id": "AesKRHaT",
+      "processed_at_utc": "2026-08-04T02:32:04Z",
+      "output_file": "2025-08-31_Betis_vs_Ath_Bilbao_AesKRHaT.json"
+    },
+    {
+      "match_id": "0tKPoDtf",
+      "processed_at_utc": "2026-08-04T02:32:43Z",
+      "output_file": "2025-08-31_Espanyol_vs_Osasuna_0tKPoDtf.json"
+    },
+    {
+      "match_id": "tAIR5YXP",
+      "processed_at_utc": "2026-08-04T02:33:23Z",
+      "output_file": "2025-08-31_Rayo_Vallecano_vs_Barcelona_tAIR5YXP.json"
+    },
+    {
+      "match_id": "nXbGPSOb",
+      "processed_at_utc": "2026-08-04T02:34:01Z",
+      "output_file": "2025-09-12_Sevilla_vs_Elche_nXbGPSOb.json"
+    },
+    {
+      "match_id": "6DwsBT95",
+      "processed_at_utc": "2026-08-04T02:34:40Z",
+      "output_file": "2025-09-13_Getafe_vs_Oviedo_6DwsBT95.json"
+    },
+    {
+      "match_id": "KbCNN6gB",
+      "processed_at_utc": "2026-08-04T02:35:22Z",
+      "output_file": "2025-09-13_Real_Sociedad_vs_Real_Madrid_KbCNN6gB.json"
+    },
+    {
+      "match_id": "zgVc7o9U",
+      "processed_at_utc": "2026-08-04T02:36:02Z",
+      "output_file": "2025-09-13_Ath_Bilbao_vs_Alaves_zgVc7o9U.json"
+    },
+    {
+      "match_id": "hAD7dUfC",
+      "processed_at_utc": "2026-08-04T02:36:41Z",
+      "output_file": "2025-09-13_Atl._Madrid_vs_Villarreal_hAD7dUfC.json"
+    },
+    {
+      "match_id": "4lsQEBAt",
+      "processed_at_utc": "2026-08-04T02:37:22Z",
+      "output_file": "2025-09-14_Celta_Vigo_vs_Girona_4lsQEBAt.json"
+    },
+    {
+      "match_id": "QHA7Rlfn",
+      "processed_at_utc": "2026-08-04T02:38:02Z",
+      "output_file": "2025-09-14_Levante_vs_Betis_QHA7Rlfn.json"
+    },
+    {
+      "match_id": "vRyk97vI",
+      "processed_at_utc": "2026-08-04T02:38:40Z",
+      "output_file": "2025-09-14_Osasuna_vs_Rayo_Vallecano_vRyk97vI.json"
+    },
+    {
+      "match_id": "0zHFf8PO",
+      "processed_at_utc": "2026-08-04T02:39:19Z",
+      "output_file": "2025-09-14_Barcelona_vs_Valencia_0zHFf8PO.json"
+    },
+    {
+      "match_id": "CEpYCkug",
+      "processed_at_utc": "2026-08-04T02:39:58Z",
+      "output_file": "2025-09-15_Espanyol_vs_Mallorca_CEpYCkug.json"
+    },
+    {
+      "match_id": "S4ZlvSwh",
+      "processed_at_utc": "2026-08-04T02:40:36Z",
+      "output_file": "2025-09-19_Betis_vs_Real_Sociedad_S4ZlvSwh.json"
+    },
+    {
+      "match_id": "fHQ5zpwH",
+      "processed_at_utc": "2026-08-04T02:41:16Z",
+      "output_file": "2025-09-20_Girona_vs_Levante_fHQ5zpwH.json"
+    },
+    {
+      "match_id": "8vkZycEL",
+      "processed_at_utc": "2026-08-04T02:41:56Z",
+      "output_file": "2025-09-20_Real_Madrid_vs_Espanyol_8vkZycEL.json"
+    },
+    {
+      "match_id": "vNu5Wzxq",
+      "processed_at_utc": "2026-08-04T02:42:35Z",
+      "output_file": "2025-09-20_Villarreal_vs_Osasuna_vNu5Wzxq.json"
+    },
+    {
+      "match_id": "GQ5WLpON",
+      "processed_at_utc": "2026-08-04T02:43:16Z",
+      "output_file": "2025-09-20_Alaves_vs_Sevilla_GQ5WLpON.json"
+    },
+    {
+      "match_id": "0GhwIyNk",
+      "processed_at_utc": "2026-08-04T02:43:55Z",
+      "output_file": "2025-09-20_Valencia_vs_Ath_Bilbao_0GhwIyNk.json"
+    },
+    {
+      "match_id": "lxZXwJq9",
+      "processed_at_utc": "2026-08-04T02:44:33Z",
+      "output_file": "2025-09-21_Rayo_Vallecano_vs_Celta_Vigo_lxZXwJq9.json"
+    },
+    {
+      "match_id": "drnnGFi2",
+      "processed_at_utc": "2026-08-04T02:45:14Z",
+      "output_file": "2025-09-21_Mallorca_vs_Atl._Madrid_drnnGFi2.json"
+    },
+    {
+      "match_id": "Y1xcx684",
+      "processed_at_utc": "2026-08-04T02:45:55Z",
+      "output_file": "2025-09-21_Elche_vs_Oviedo_Y1xcx684.json"
+    },
+    {
+      "match_id": "Cdi2GOoo",
+      "processed_at_utc": "2026-08-04T02:46:38Z",
+      "output_file": "2025-09-21_Barcelona_vs_Getafe_Cdi2GOoo.json"
+    },
+    {
+      "match_id": "ALG5z5fE",
+      "processed_at_utc": "2026-08-04T02:47:27Z",
+      "output_file": "2025-09-23_Espanyol_vs_Valencia_ALG5z5fE.json"
+    },
+    {
+      "match_id": "0xUDUE6e",
+      "processed_at_utc": "2026-08-04T02:48:14Z",
+      "output_file": "2025-09-23_Ath_Bilbao_vs_Girona_0xUDUE6e.json"
+    },
+    {
+      "match_id": "2JepTMnl",
+      "processed_at_utc": "2026-08-04T02:49:01Z",
+      "output_file": "2025-09-23_Sevilla_vs_Villarreal_2JepTMnl.json"
+    },
+    {
+      "match_id": "rZEDYrPQ",
+      "processed_at_utc": "2026-08-04T02:49:47Z",
+      "output_file": "2025-09-23_Levante_vs_Real_Madrid_rZEDYrPQ.json"
+    },
+    {
+      "match_id": "AqahR0H0",
+      "processed_at_utc": "2026-08-04T02:50:35Z",
+      "output_file": "2025-09-24_Getafe_vs_Alaves_AqahR0H0.json"
+    },
+    {
+      "match_id": "UgFRu0Wg",
+      "processed_at_utc": "2026-08-04T02:51:22Z",
+      "output_file": "2025-09-24_Real_Sociedad_vs_Mallorca_UgFRu0Wg.json"
+    },
+    {
+      "match_id": "82XLShy8",
+      "processed_at_utc": "2026-08-04T02:52:10Z",
+      "output_file": "2025-09-24_Atl._Madrid_vs_Rayo_Vallecano_82XLShy8.json"
+    },
+    {
+      "match_id": "dtHJsM1s",
+      "processed_at_utc": "2026-08-04T02:52:58Z",
+      "output_file": "2025-09-25_Osasuna_vs_Elche_dtHJsM1s.json"
+    },
+    {
+      "match_id": "Wbm1PvnD",
+      "processed_at_utc": "2026-08-04T02:53:44Z",
+      "output_file": "2025-09-25_Oviedo_vs_Barcelona_Wbm1PvnD.json"
+    },
+    {
+      "match_id": "4p7xfji4",
+      "processed_at_utc": "2026-08-04T02:54:32Z",
+      "output_file": "2025-09-26_Girona_vs_Espanyol_4p7xfji4.json"
+    },
+    {
+      "match_id": "rcu1faom",
+      "processed_at_utc": "2026-08-04T02:55:20Z",
+      "output_file": "2025-09-27_Getafe_vs_Levante_rcu1faom.json"
+    },
+    {
+      "match_id": "QL8zvv16",
+      "processed_at_utc": "2026-08-04T02:56:06Z",
+      "output_file": "2025-09-27_Atl._Madrid_vs_Real_Madrid_QL8zvv16.json"
+    },
+    {
+      "match_id": "CxXHjHpC",
+      "processed_at_utc": "2026-08-04T02:56:52Z",
+      "output_file": "2025-09-27_Mallorca_vs_Alaves_CxXHjHpC.json"
+    },
+    {
+      "match_id": "GOQsY8Up",
+      "processed_at_utc": "2026-08-04T02:57:37Z",
+      "output_file": "2025-09-27_Villarreal_vs_Ath_Bilbao_GOQsY8Up.json"
+    },
+    {
+      "match_id": "vPY9hwGa",
+      "processed_at_utc": "2026-08-04T02:58:23Z",
+      "output_file": "2025-09-28_Rayo_Vallecano_vs_Sevilla_vPY9hwGa.json"
+    },
+    {
+      "match_id": "rVITeCMi",
+      "processed_at_utc": "2026-08-04T02:59:09Z",
+      "output_file": "2025-09-28_Elche_vs_Celta_Vigo_rVITeCMi.json"
+    },
+    {
+      "match_id": "WIBrxIVI",
+      "processed_at_utc": "2026-08-04T02:59:57Z",
+      "output_file": "2025-09-28_Barcelona_vs_Real_Sociedad_WIBrxIVI.json"
+    },
+    {
+      "match_id": "CElVaLNP",
+      "processed_at_utc": "2026-08-04T03:00:43Z",
+      "output_file": "2025-09-28_Betis_vs_Osasuna_CElVaLNP.json"
+    },
+    {
+      "match_id": "CAAphULG",
+      "processed_at_utc": "2026-08-04T03:01:28Z",
+      "output_file": "2025-09-30_Valencia_vs_Oviedo_CAAphULG.json"
+    },
+    {
+      "match_id": "pOjgLSk3",
+      "processed_at_utc": "2026-08-04T03:02:14Z",
+      "output_file": "2025-10-03_Osasuna_vs_Getafe_pOjgLSk3.json"
+    },
+    {
+      "match_id": "tjp2J6KF",
+      "processed_at_utc": "2026-08-04T03:03:02Z",
+      "output_file": "2025-10-04_Oviedo_vs_Levante_tjp2J6KF.json"
+    },
+    {
+      "match_id": "ImXB8k6c",
+      "processed_at_utc": "2026-08-04T03:03:49Z",
+      "output_file": "2025-10-04_Girona_vs_Valencia_ImXB8k6c.json"
+    },
+    {
+      "match_id": "2ukPpnEj",
+      "processed_at_utc": "2026-08-04T03:04:35Z",
+      "output_file": "2025-10-04_Ath_Bilbao_vs_Mallorca_2ukPpnEj.json"
+    },
+    {
+      "match_id": "QDzK6TzA",
+      "processed_at_utc": "2026-08-04T03:05:21Z",
+      "output_file": "2025-10-04_Real_Madrid_vs_Villarreal_QDzK6TzA.json"
+    },
+    {
+      "match_id": "693gj8jT",
+      "processed_at_utc": "2026-08-04T03:06:06Z",
+      "output_file": "2025-10-05_Alaves_vs_Elche_693gj8jT.json"
+    },
+    {
+      "match_id": "d2AbaoTq",
+      "processed_at_utc": "2026-08-04T03:06:52Z",
+      "output_file": "2025-10-05_Sevilla_vs_Barcelona_d2AbaoTq.json"
+    },
+    {
+      "match_id": "Yc29HpkS",
+      "processed_at_utc": "2026-08-04T03:07:38Z",
+      "output_file": "2025-10-05_Real_Sociedad_vs_Rayo_Vallecano_Yc29HpkS.json"
+    },
+    {
+      "match_id": "hU37cPcd",
+      "processed_at_utc": "2026-08-04T03:08:23Z",
+      "output_file": "2025-10-05_Espanyol_vs_Betis_hU37cPcd.json"
+    },
+    {
+      "match_id": "nTOS475M",
+      "processed_at_utc": "2026-08-04T03:09:09Z",
+      "output_file": "2025-10-05_Celta_Vigo_vs_Atl._Madrid_nTOS475M.json"
+    },
+    {
+      "match_id": "pdSrSz3m",
+      "processed_at_utc": "2026-08-04T03:09:54Z",
+      "output_file": "2025-10-17_Oviedo_vs_Espanyol_pdSrSz3m.json"
+    },
+    {
+      "match_id": "I9QjQEXa",
+      "processed_at_utc": "2026-08-04T03:10:41Z",
+      "output_file": "2025-10-18_Sevilla_vs_Mallorca_I9QjQEXa.json"
+    },
+    {
+      "match_id": "t4PzY5Z8",
+      "processed_at_utc": "2026-08-04T03:11:25Z",
+      "output_file": "2025-10-18_Barcelona_vs_Girona_t4PzY5Z8.json"
+    },
+    {
+      "match_id": "hOAApqJE",
+      "processed_at_utc": "2026-08-04T03:12:11Z",
+      "output_file": "2025-10-18_Villarreal_vs_Betis_hOAApqJE.json"
+    },
+    {
+      "match_id": "QeslA2s2",
+      "processed_at_utc": "2026-08-04T03:13:05Z",
+      "output_file": "2025-10-18_Atl._Madrid_vs_Osasuna_QeslA2s2.json"
+    },
+    {
+      "match_id": "QHIOMuR7",
+      "processed_at_utc": "2026-08-04T03:13:54Z",
+      "output_file": "2025-10-19_Elche_vs_Ath_Bilbao_QHIOMuR7.json"
+    },
+    {
+      "match_id": "EHNrWq4L",
+      "processed_at_utc": "2026-08-04T03:14:44Z",
+      "output_file": "2025-10-19_Celta_Vigo_vs_Real_Sociedad_EHNrWq4L.json"
+    },
+    {
+      "match_id": "42UFO1de",
+      "processed_at_utc": "2026-08-04T03:15:33Z",
+      "output_file": "2025-10-19_Levante_vs_Rayo_Vallecano_42UFO1de.json"
+    },
+    {
+      "match_id": "dxR7QNRr",
+      "processed_at_utc": "2026-08-04T03:16:28Z",
+      "output_file": "2025-10-19_Getafe_vs_Real_Madrid_dxR7QNRr.json"
+    },
+    {
+      "match_id": "IVwtCOCk",
+      "processed_at_utc": "2026-08-04T03:17:52Z",
+      "output_file": "2025-10-20_Alaves_vs_Valencia_IVwtCOCk.json"
+    },
+    {
+      "match_id": "QFmItzIt",
+      "processed_at_utc": "2026-08-04T03:18:54Z",
+      "output_file": "2025-10-24_Real_Sociedad_vs_Sevilla_QFmItzIt.json"
+    },
+    {
+      "match_id": "M1N7MWWO",
+      "processed_at_utc": "2026-08-04T03:19:46Z",
+      "output_file": "2025-10-25_Girona_vs_Oviedo_M1N7MWWO.json"
+    },
+    {
+      "match_id": "YaF7iiWb",
+      "processed_at_utc": "2026-08-04T03:20:35Z",
+      "output_file": "2025-10-25_Espanyol_vs_Elche_YaF7iiWb.json"
+    },
+    {
+      "match_id": "EyKaOh2C",
+      "processed_at_utc": "2026-08-04T03:21:26Z",
+      "output_file": "2025-10-25_Ath_Bilbao_vs_Getafe_EyKaOh2C.json"
+    },
+    {
+      "match_id": "bs1PvEng",
+      "processed_at_utc": "2026-08-04T03:22:17Z",
+      "output_file": "2025-10-25_Valencia_vs_Villarreal_bs1PvEng.json"
+    },
+    {
+      "match_id": "tQIFkV0B",
+      "processed_at_utc": "2026-08-04T03:23:09Z",
+      "output_file": "2025-10-26_Mallorca_vs_Levante_tQIFkV0B.json"
+    },
+    {
+      "match_id": "OlnkZ9GU",
+      "processed_at_utc": "2026-08-04T03:24:00Z",
+      "output_file": "2025-10-26_Real_Madrid_vs_Barcelona_OlnkZ9GU.json"
+    },
+    {
+      "match_id": "CpRbgD1n",
+      "processed_at_utc": "2026-08-04T03:24:47Z",
+      "output_file": "2025-10-26_Osasuna_vs_Celta_Vigo_CpRbgD1n.json"
+    },
+    {
+      "match_id": "f9fYxhH5",
+      "processed_at_utc": "2026-08-04T03:25:35Z",
+      "output_file": "2025-10-27_Rayo_Vallecano_vs_Alaves_f9fYxhH5.json"
+    },
+    {
+      "match_id": "SMhtyWoI",
+      "processed_at_utc": "2026-08-04T03:26:22Z",
+      "output_file": "2025-10-28_Betis_vs_Atl._Madrid_SMhtyWoI.json"
+    },
+    {
+      "match_id": "rFtlnHBG",
+      "processed_at_utc": "2026-08-04T03:27:10Z",
+      "output_file": "2025-11-01_Getafe_vs_Girona_rFtlnHBG.json"
+    },
+    {
+      "match_id": "lSmfr8Ar",
+      "processed_at_utc": "2026-08-04T03:27:58Z",
+      "output_file": "2025-11-01_Villarreal_vs_Rayo_Vallecano_lSmfr8Ar.json"
+    },
+    {
+      "match_id": "YNcfrmgo",
+      "processed_at_utc": "2026-08-04T03:28:45Z",
+      "output_file": "2025-11-01_Atl._Madrid_vs_Sevilla_YNcfrmgo.json"
+    },
+    {
+      "match_id": "f7uSvZ3j",
+      "processed_at_utc": "2026-08-04T03:29:34Z",
+      "output_file": "2025-11-01_Real_Sociedad_vs_Ath_Bilbao_f7uSvZ3j.json"
+    },
+    {
+      "match_id": "jupdpetT",
+      "processed_at_utc": "2026-08-04T03:30:25Z",
+      "output_file": "2025-11-02_Real_Madrid_vs_Valencia_jupdpetT.json"
+    },
+    {
+      "match_id": "n1SD2xdc",
+      "processed_at_utc": "2026-08-04T03:31:14Z",
+      "output_file": "2025-11-02_Levante_vs_Celta_Vigo_n1SD2xdc.json"
+    },
+    {
+      "match_id": "xhCOm9VN",
+      "processed_at_utc": "2026-08-04T03:32:03Z",
+      "output_file": "2025-11-02_Alaves_vs_Espanyol_xhCOm9VN.json"
+    },
+    {
+      "match_id": "EZlXkaCi",
+      "processed_at_utc": "2026-08-04T03:32:50Z",
+      "output_file": "2025-11-02_Barcelona_vs_Elche_EZlXkaCi.json"
+    },
+    {
+      "match_id": "Mahulws4",
+      "processed_at_utc": "2026-08-04T03:33:40Z",
+      "output_file": "2025-11-03_Betis_vs_Mallorca_Mahulws4.json"
+    },
+    {
+      "match_id": "rTLM0GQ9",
+      "processed_at_utc": "2026-08-04T03:34:28Z",
+      "output_file": "2025-11-04_Oviedo_vs_Osasuna_rTLM0GQ9.json"
+    },
+    {
+      "match_id": "C6Ic2T1E",
+      "processed_at_utc": "2026-08-04T03:35:21Z",
+      "output_file": "2025-11-08_Elche_vs_Real_Sociedad_C6Ic2T1E.json"
+    },
+    {
+      "match_id": "A10pgPO0",
+      "processed_at_utc": "2026-08-04T03:36:11Z",
+      "output_file": "2025-11-08_Girona_vs_Alaves_A10pgPO0.json"
+    },
+    {
+      "match_id": "jLLJ7Owf",
+      "processed_at_utc": "2026-08-04T03:37:01Z",
+      "output_file": "2025-11-08_Sevilla_vs_Osasuna_jLLJ7Owf.json"
+    },
+    {
+      "match_id": "dbzBvQ97",
+      "processed_at_utc": "2026-08-04T03:37:48Z",
+      "output_file": "2025-11-08_Atl._Madrid_vs_Levante_dbzBvQ97.json"
+    },
+    {
+      "match_id": "pKG507WQ",
+      "processed_at_utc": "2026-08-04T03:38:36Z",
+      "output_file": "2025-11-09_Espanyol_vs_Villarreal_pKG507WQ.json"
+    },
+    {
+      "match_id": "Asx3tnue",
+      "processed_at_utc": "2026-08-04T03:39:28Z",
+      "output_file": "2025-11-09_Ath_Bilbao_vs_Oviedo_Asx3tnue.json"
+    },
+    {
+      "match_id": "44cxeofl",
+      "processed_at_utc": "2026-08-04T03:40:15Z",
+      "output_file": "2025-11-09_Rayo_Vallecano_vs_Real_Madrid_44cxeofl.json"
+    },
+    {
+      "match_id": "bNtuF6oK",
+      "processed_at_utc": "2026-08-04T03:41:04Z",
+      "output_file": "2025-11-09_Valencia_vs_Betis_bNtuF6oK.json"
+    },
+    {
+      "match_id": "I7NB9p9s",
+      "processed_at_utc": "2026-08-04T03:41:55Z",
+      "output_file": "2025-11-09_Mallorca_vs_Getafe_I7NB9p9s.json"
+    },
+    {
+      "match_id": "WGlgi3gD",
+      "processed_at_utc": "2026-08-04T03:42:44Z",
+      "output_file": "2025-11-10_Celta_Vigo_vs_Barcelona_WGlgi3gD.json"
+    },
+    {
+      "match_id": "jexTY0xg",
+      "processed_at_utc": "2026-08-04T03:43:34Z",
+      "output_file": "2025-11-22_Valencia_vs_Levante_jexTY0xg.json"
+    },
+    {
+      "match_id": "dYjK5286",
+      "processed_at_utc": "2026-08-04T03:44:23Z",
+      "output_file": "2025-11-22_Alaves_vs_Celta_Vigo_dYjK5286.json"
+    },
+    {
+      "match_id": "vH8AGJMO",
+      "processed_at_utc": "2026-08-04T03:45:12Z",
+      "output_file": "2025-11-22_Barcelona_vs_Ath_Bilbao_vH8AGJMO.json"
+    },
+    {
+      "match_id": "AyHgK1Na",
+      "processed_at_utc": "2026-08-04T03:46:01Z",
+      "output_file": "2025-11-22_Osasuna_vs_Real_Sociedad_AyHgK1Na.json"
+    },
+    {
+      "match_id": "xCzyXv75",
+      "processed_at_utc": "2026-08-04T03:46:50Z",
+      "output_file": "2025-11-23_Villarreal_vs_Mallorca_xCzyXv75.json"
+    },
+    {
+      "match_id": "rkF1IuhC",
+      "processed_at_utc": "2026-08-04T03:47:41Z",
+      "output_file": "2025-11-23_Oviedo_vs_Rayo_Vallecano_rkF1IuhC.json"
+    },
+    {
+      "match_id": "4bfS3twJ",
+      "processed_at_utc": "2026-08-04T03:48:38Z",
+      "output_file": "2025-11-23_Betis_vs_Girona_4bfS3twJ.json"
+    },
+    {
+      "match_id": "UulKzN7t",
+      "processed_at_utc": "2026-08-04T03:49:27Z",
+      "output_file": "2025-11-23_Getafe_vs_Atl._Madrid_UulKzN7t.json"
+    },
+    {
+      "match_id": "pfXERqVP",
+      "processed_at_utc": "2026-08-04T03:50:15Z",
+      "output_file": "2025-11-24_Elche_vs_Real_Madrid_pfXERqVP.json"
+    },
+    {
+      "match_id": "GxOpMNhm",
+      "processed_at_utc": "2026-08-04T03:51:03Z",
+      "output_file": "2025-11-25_Espanyol_vs_Sevilla_GxOpMNhm.json"
+    },
+    {
+      "match_id": "KSVgq9dS",
+      "processed_at_utc": "2026-08-04T03:51:53Z",
+      "output_file": "2025-11-29_Getafe_vs_Elche_KSVgq9dS.json"
+    },
+    {
+      "match_id": "CtiBYirA",
+      "processed_at_utc": "2026-08-04T03:52:45Z",
+      "output_file": "2025-11-29_Mallorca_vs_Osasuna_CtiBYirA.json"
+    },
+    {
+      "match_id": "06PbPm5d",
+      "processed_at_utc": "2026-08-04T03:53:36Z",
+      "output_file": "2025-11-29_Barcelona_vs_Alaves_06PbPm5d.json"
+    },
+    {
+      "match_id": "h0Cpmic3",
+      "processed_at_utc": "2026-08-04T03:54:27Z",
+      "output_file": "2025-11-29_Levante_vs_Ath_Bilbao_h0Cpmic3.json"
+    },
+    {
+      "match_id": "YwUqVIyI",
+      "processed_at_utc": "2026-08-04T03:55:16Z",
+      "output_file": "2025-11-30_Atl._Madrid_vs_Oviedo_YwUqVIyI.json"
+    },
+    {
+      "match_id": "4vWkR9zp",
+      "processed_at_utc": "2026-08-04T03:56:06Z",
+      "output_file": "2025-11-30_Real_Sociedad_vs_Villarreal_4vWkR9zp.json"
+    },
+    {
+      "match_id": "C2SooVRF",
+      "processed_at_utc": "2026-08-04T03:56:54Z",
+      "output_file": "2025-11-30_Sevilla_vs_Betis_C2SooVRF.json"
+    },
+    {
+      "match_id": "4QjHCALj",
+      "processed_at_utc": "2026-08-04T03:57:45Z",
+      "output_file": "2025-11-30_Celta_Vigo_vs_Espanyol_4QjHCALj.json"
+    },
+    {
+      "match_id": "KYY3zEDc",
+      "processed_at_utc": "2026-08-04T03:58:33Z",
+      "output_file": "2025-12-01_Girona_vs_Real_Madrid_KYY3zEDc.json"
+    },
+    {
+      "match_id": "YeuKWVCM",
+      "processed_at_utc": "2026-08-04T03:59:24Z",
+      "output_file": "2025-12-02_Rayo_Vallecano_vs_Valencia_YeuKWVCM.json"
+    },
+    {
+      "match_id": "CMIonQUa",
+      "processed_at_utc": "2026-08-04T04:00:15Z",
+      "output_file": "2025-12-03_Barcelona_vs_Atl._Madrid_CMIonQUa.json"
+    },
+    {
+      "match_id": "IacCXQF6",
+      "processed_at_utc": "2026-08-04T04:01:04Z",
+      "output_file": "2025-12-03_Ath_Bilbao_vs_Real_Madrid_IacCXQF6.json"
+    },
+    {
+      "match_id": "zJKAAoeR",
+      "processed_at_utc": "2026-08-04T04:01:54Z",
+      "output_file": "2025-12-06_Oviedo_vs_Mallorca_zJKAAoeR.json"
+    },
+    {
+      "match_id": "nqPGl4Y7",
+      "processed_at_utc": "2026-08-04T04:02:43Z",
+      "output_file": "2025-12-06_Villarreal_vs_Getafe_nqPGl4Y7.json"
+    },
+    {
+      "match_id": "407QwmKk",
+      "processed_at_utc": "2026-08-04T04:03:34Z",
+      "output_file": "2025-12-06_Alaves_vs_Real_Sociedad_407QwmKk.json"
+    },
+    {
+      "match_id": "I3XahnZr",
+      "processed_at_utc": "2026-08-04T04:04:25Z",
+      "output_file": "2025-12-06_Betis_vs_Barcelona_I3XahnZr.json"
+    },
+    {
+      "match_id": "CQAYyRl2",
+      "processed_at_utc": "2026-08-04T04:05:14Z",
+      "output_file": "2025-12-07_Ath_Bilbao_vs_Atl._Madrid_CQAYyRl2.json"
+    },
+    {
+      "match_id": "Q5hLaUt9",
+      "processed_at_utc": "2026-08-04T04:06:06Z",
+      "output_file": "2025-12-07_Elche_vs_Girona_Q5hLaUt9.json"
+    },
+    {
+      "match_id": "Wl6t5PIl",
+      "processed_at_utc": "2026-08-04T04:06:54Z",
+      "output_file": "2025-12-07_Valencia_vs_Sevilla_Wl6t5PIl.json"
+    },
+    {
+      "match_id": "bJjTc8BL",
+      "processed_at_utc": "2026-08-04T04:07:44Z",
+      "output_file": "2025-12-07_Espanyol_vs_Rayo_Vallecano_bJjTc8BL.json"
+    },
+    {
+      "match_id": "QTz8jQ3e",
+      "processed_at_utc": "2026-08-04T04:08:33Z",
+      "output_file": "2025-12-08_Real_Madrid_vs_Celta_Vigo_QTz8jQ3e.json"
+    },
+    {
+      "match_id": "viR1C7QE",
+      "processed_at_utc": "2026-08-04T04:09:22Z",
+      "output_file": "2025-12-09_Osasuna_vs_Levante_viR1C7QE.json"
+    },
+    {
+      "match_id": "McVk3O4b",
+      "processed_at_utc": "2026-08-04T04:10:10Z",
+      "output_file": "2025-12-13_Real_Sociedad_vs_Girona_McVk3O4b.json"
+    },
+    {
+      "match_id": "YD2c1sID",
+      "processed_at_utc": "2026-08-04T04:11:00Z",
+      "output_file": "2025-12-13_Atl._Madrid_vs_Valencia_YD2c1sID.json"
+    },
+    {
+      "match_id": "AJ1XpskU",
+      "processed_at_utc": "2026-08-04T04:11:48Z",
+      "output_file": "2025-12-13_Mallorca_vs_Elche_AJ1XpskU.json"
+    },
+    {
+      "match_id": "EBj7h7jt",
+      "processed_at_utc": "2026-08-04T04:12:40Z",
+      "output_file": "2025-12-13_Barcelona_vs_Osasuna_EBj7h7jt.json"
+    },
+    {
+      "match_id": "0rss5pzn",
+      "processed_at_utc": "2026-08-04T04:13:29Z",
+      "output_file": "2025-12-14_Getafe_vs_Espanyol_0rss5pzn.json"
+    },
+    {
+      "match_id": "UNYc12ZA",
+      "processed_at_utc": "2026-08-04T04:14:17Z",
+      "output_file": "2025-12-14_Sevilla_vs_Oviedo_UNYc12ZA.json"
+    },
+    {
+      "match_id": "I3mOlPk5",
+      "processed_at_utc": "2026-08-04T04:15:05Z",
+      "output_file": "2025-12-14_Celta_Vigo_vs_Ath_Bilbao_I3mOlPk5.json"
+    },
+    {
+      "match_id": "SGak33m1",
+      "processed_at_utc": "2026-08-04T04:15:54Z",
+      "output_file": "2025-12-15_Alaves_vs_Real_Madrid_SGak33m1.json"
+    },
+    {
+      "match_id": "jHoWn3KH",
+      "processed_at_utc": "2026-08-04T04:16:42Z",
+      "output_file": "2025-12-16_Rayo_Vallecano_vs_Betis_jHoWn3KH.json"
+    },
+    {
+      "match_id": "jBQMQI2M",
+      "processed_at_utc": "2026-08-04T04:17:35Z",
+      "output_file": "2025-12-20_Valencia_vs_Mallorca_jBQMQI2M.json"
+    },
+    {
+      "match_id": "pENESvY9",
+      "processed_at_utc": "2026-08-04T04:18:25Z",
+      "output_file": "2025-12-20_Oviedo_vs_Celta_Vigo_pENESvY9.json"
+    },
+    {
+      "match_id": "UyEWF1l4",
+      "processed_at_utc": "2026-08-04T04:19:21Z",
+      "output_file": "2025-12-20_Levante_vs_Real_Sociedad_UyEWF1l4.json"
+    },
+    {
+      "match_id": "x80mCJmT",
+      "processed_at_utc": "2026-08-04T04:20:11Z",
+      "output_file": "2025-12-20_Osasuna_vs_Alaves_x80mCJmT.json"
+    },
+    {
+      "match_id": "ji2uEuJG",
+      "processed_at_utc": "2026-08-04T04:20:59Z",
+      "output_file": "2025-12-21_Real_Madrid_vs_Sevilla_ji2uEuJG.json"
+    },
+    {
+      "match_id": "dhsK6cBj",
+      "processed_at_utc": "2026-08-04T04:21:46Z",
+      "output_file": "2025-12-21_Girona_vs_Atl._Madrid_dhsK6cBj.json"
+    },
+    {
+      "match_id": "lnU5U03c",
+      "processed_at_utc": "2026-08-04T04:22:34Z",
+      "output_file": "2025-12-21_Villarreal_vs_Barcelona_lnU5U03c.json"
+    },
+    {
+      "match_id": "MBAOHNJi",
+      "processed_at_utc": "2026-08-04T04:23:23Z",
+      "output_file": "2025-12-21_Elche_vs_Rayo_Vallecano_MBAOHNJi.json"
+    },
+    {
+      "match_id": "63SyfKRp",
+      "processed_at_utc": "2026-08-04T04:24:13Z",
+      "output_file": "2025-12-22_Betis_vs_Getafe_63SyfKRp.json"
+    },
+    {
+      "match_id": "AXt6at4N",
+      "processed_at_utc": "2026-08-04T04:25:04Z",
+      "output_file": "2025-12-23_Ath_Bilbao_vs_Espanyol_AXt6at4N.json"
+    },
+    {
+      "match_id": "W2POtVhK",
+      "processed_at_utc": "2026-08-04T04:25:54Z",
+      "output_file": "2026-01-03_Rayo_Vallecano_vs_Getafe_W2POtVhK.json"
+    },
+    {
+      "match_id": "r951Jzed",
+      "processed_at_utc": "2026-08-04T04:26:43Z",
+      "output_file": "2026-01-03_Celta_Vigo_vs_Valencia_r951Jzed.json"
+    },
+    {
+      "match_id": "WUoduIHF",
+      "processed_at_utc": "2026-08-04T04:27:32Z",
+      "output_file": "2026-01-03_Osasuna_vs_Ath_Bilbao_WUoduIHF.json"
+    },
+    {
+      "match_id": "bHmlsvm3",
+      "processed_at_utc": "2026-08-04T04:28:23Z",
+      "output_file": "2026-01-03_Elche_vs_Villarreal_bHmlsvm3.json"
+    },
+    {
+      "match_id": "rsqUKmW0",
+      "processed_at_utc": "2026-08-04T04:29:12Z",
+      "output_file": "2026-01-04_Espanyol_vs_Barcelona_rsqUKmW0.json"
+    },
+    {
+      "match_id": "MX33Znof",
+      "processed_at_utc": "2026-08-04T04:30:02Z",
+      "output_file": "2026-01-04_Sevilla_vs_Levante_MX33Znof.json"
+    },
+    {
+      "match_id": "4dXxJR0D",
+      "processed_at_utc": "2026-08-04T04:30:50Z",
+      "output_file": "2026-01-04_Real_Madrid_vs_Betis_4dXxJR0D.json"
+    },
+    {
+      "match_id": "lK5ey9Gs",
+      "processed_at_utc": "2026-08-04T17:11:40Z",
+      "output_file": "2026-01-04_Mallorca_vs_Girona_lK5ey9Gs.json"
+    },
+    {
+      "match_id": "zq2gLdQq",
+      "processed_at_utc": "2026-08-04T17:12:26Z",
+      "output_file": "2026-01-04_Alaves_vs_Oviedo_zq2gLdQq.json"
+    },
+    {
+      "match_id": "zHuMM91l",
+      "processed_at_utc": "2026-08-04T17:13:16Z",
+      "output_file": "2026-01-05_Real_Sociedad_vs_Atl._Madrid_zHuMM91l.json"
+    },
+    {
+      "match_id": "QP0KV4pJ",
+      "processed_at_utc": "2026-08-04T17:14:04Z",
+      "output_file": "2026-01-10_Getafe_vs_Real_Sociedad_QP0KV4pJ.json"
+    },
+    {
+      "match_id": "pzHgp4aC",
+      "processed_at_utc": "2026-08-04T17:14:49Z",
+      "output_file": "2026-01-10_Oviedo_vs_Betis_pzHgp4aC.json"
+    },
+    {
+      "match_id": "GfPxln0m",
+      "processed_at_utc": "2026-08-04T17:15:33Z",
+      "output_file": "2026-01-10_Villarreal_vs_Alaves_GfPxln0m.json"
+    },
+    {
+      "match_id": "6Lw7g8xQ",
+      "processed_at_utc": "2026-08-04T17:16:19Z",
+      "output_file": "2026-01-10_Girona_vs_Osasuna_6Lw7g8xQ.json"
+    },
+    {
+      "match_id": "G84B2oFt",
+      "processed_at_utc": "2026-08-04T17:17:08Z",
+      "output_file": "2026-01-11_Valencia_vs_Elche_G84B2oFt.json"
+    },
+    {
+      "match_id": "pldSb3E5",
+      "processed_at_utc": "2026-08-04T17:18:08Z",
+      "output_file": "2026-01-11_Rayo_Vallecano_vs_Mallorca_pldSb3E5.json"
+    },
+    {
+      "match_id": "xOhK0Pqg",
+      "processed_at_utc": "2026-08-04T17:19:06Z",
+      "output_file": "2026-01-11_Levante_vs_Espanyol_xOhK0Pqg.json"
+    },
+    {
+      "match_id": "t2A2rrUO",
+      "processed_at_utc": "2026-08-04T17:19:57Z",
+      "output_file": "2026-01-13_Sevilla_vs_Celta_Vigo_t2A2rrUO.json"
+    },
+    {
+      "match_id": "OfqfD2Tb",
+      "processed_at_utc": "2026-08-04T17:20:44Z",
+      "output_file": "2026-01-17_Espanyol_vs_Girona_OfqfD2Tb.json"
+    },
+    {
+      "match_id": "tfxnBX3S",
+      "processed_at_utc": "2026-08-04T17:21:31Z",
+      "output_file": "2026-01-17_Real_Madrid_vs_Levante_tfxnBX3S.json"
+    },
+    {
+      "match_id": "x2uVEF43",
+      "processed_at_utc": "2026-08-04T17:22:25Z",
+      "output_file": "2026-01-17_Mallorca_vs_Ath_Bilbao_x2uVEF43.json"
+    },
+    {
+      "match_id": "j9azgYsp",
+      "processed_at_utc": "2026-08-04T17:23:17Z",
+      "output_file": "2026-01-17_Osasuna_vs_Oviedo_j9azgYsp.json"
+    },
+    {
+      "match_id": "tGkycsqI",
+      "processed_at_utc": "2026-08-04T17:24:07Z",
+      "output_file": "2026-01-18_Betis_vs_Villarreal_tGkycsqI.json"
+    },
+    {
+      "match_id": "pAX2BtbB",
+      "processed_at_utc": "2026-08-04T17:24:58Z",
+      "output_file": "2026-01-18_Getafe_vs_Valencia_pAX2BtbB.json"
+    },
+    {
+      "match_id": "p8hqiCCd",
+      "processed_at_utc": "2026-08-04T17:25:46Z",
+      "output_file": "2026-01-18_Atl._Madrid_vs_Alaves_p8hqiCCd.json"
+    },
+    {
+      "match_id": "ETmqeLDU",
+      "processed_at_utc": "2026-08-04T17:26:45Z",
+      "output_file": "2026-01-18_Celta_Vigo_vs_Rayo_Vallecano_ETmqeLDU.json"
+    },
+    {
+      "match_id": "YTYwDgZF",
+      "processed_at_utc": "2026-08-04T17:27:35Z",
+      "output_file": "2026-01-19_Real_Sociedad_vs_Barcelona_YTYwDgZF.json"
+    },
+    {
+      "match_id": "GUunFObn",
+      "processed_at_utc": "2026-08-04T17:28:36Z",
+      "output_file": "2026-01-20_Elche_vs_Sevilla_GUunFObn.json"
+    },
+    {
+      "match_id": "EPwc2cxe",
+      "processed_at_utc": "2026-08-04T17:29:25Z",
+      "output_file": "2026-01-24_Levante_vs_Elche_EPwc2cxe.json"
+    },
+    {
+      "match_id": "bDD0MITQ",
+      "processed_at_utc": "2026-08-04T17:30:15Z",
+      "output_file": "2026-01-24_Rayo_Vallecano_vs_Osasuna_bDD0MITQ.json"
+    },
+    {
+      "match_id": "zuS50y77",
+      "processed_at_utc": "2026-08-04T17:31:05Z",
+      "output_file": "2026-01-24_Valencia_vs_Espanyol_zuS50y77.json"
+    },
+    {
+      "match_id": "lrfI9upL",
+      "processed_at_utc": "2026-08-04T17:31:57Z",
+      "output_file": "2026-01-24_Sevilla_vs_Ath_Bilbao_lrfI9upL.json"
+    },
+    {
+      "match_id": "fqaWGdil",
+      "processed_at_utc": "2026-08-04T17:32:45Z",
+      "output_file": "2026-01-25_Villarreal_vs_Real_Madrid_fqaWGdil.json"
+    },
+    {
+      "match_id": "bgRP3kd2",
+      "processed_at_utc": "2026-08-04T17:33:35Z",
+      "output_file": "2026-01-25_Atl._Madrid_vs_Mallorca_bgRP3kd2.json"
+    },
+    {
+      "match_id": "GUeAB1F8",
+      "processed_at_utc": "2026-08-04T17:34:27Z",
+      "output_file": "2026-01-25_Barcelona_vs_Oviedo_GUeAB1F8.json"
+    },
+    {
+      "match_id": "8Szk4J7r",
+      "processed_at_utc": "2026-08-04T17:35:18Z",
+      "output_file": "2026-01-25_Real_Sociedad_vs_Celta_Vigo_8Szk4J7r.json"
+    },
+    {
+      "match_id": "QRDI5BRk",
+      "processed_at_utc": "2026-08-04T17:36:07Z",
+      "output_file": "2026-01-26_Alaves_vs_Betis_QRDI5BRk.json"
+    },
+    {
+      "match_id": "2oKiOvaE",
+      "processed_at_utc": "2026-08-04T17:36:55Z",
+      "output_file": "2026-01-27_Girona_vs_Getafe_2oKiOvaE.json"
+    },
+    {
+      "match_id": "Eaf6TZzf",
+      "processed_at_utc": "2026-08-04T17:37:44Z",
+      "output_file": "2026-01-31_Espanyol_vs_Alaves_Eaf6TZzf.json"
+    },
+    {
+      "match_id": "UZjsVnCb",
+      "processed_at_utc": "2026-08-04T17:38:32Z",
+      "output_file": "2026-01-31_Oviedo_vs_Girona_UZjsVnCb.json"
+    },
+    {
+      "match_id": "YknbVe6s",
+      "processed_at_utc": "2026-08-04T17:39:20Z",
+      "output_file": "2026-01-31_Osasuna_vs_Villarreal_YknbVe6s.json"
+    },
+    {
+      "match_id": "nDhERD56",
+      "processed_at_utc": "2026-08-04T17:40:09Z",
+      "output_file": "2026-01-31_Levante_vs_Atl._Madrid_nDhERD56.json"
+    },
+    {
+      "match_id": "runNPizJ",
+      "processed_at_utc": "2026-08-04T17:40:57Z",
+      "output_file": "2026-02-01_Elche_vs_Barcelona_runNPizJ.json"
+    },
+    {
+      "match_id": "GjkkTQtB",
+      "processed_at_utc": "2026-08-04T17:41:46Z",
+      "output_file": "2026-02-01_Real_Madrid_vs_Rayo_Vallecano_GjkkTQtB.json"
+    },
+    {
+      "match_id": "MBIuDEjD",
+      "processed_at_utc": "2026-08-04T17:42:35Z",
+      "output_file": "2026-02-01_Betis_vs_Valencia_MBIuDEjD.json"
+    },
+    {
+      "match_id": "8K2YW8sn",
+      "processed_at_utc": "2026-08-04T17:43:24Z",
+      "output_file": "2026-02-01_Getafe_vs_Celta_Vigo_8K2YW8sn.json"
+    },
+    {
+      "match_id": "EoFXEzM0",
+      "processed_at_utc": "2026-08-04T17:44:14Z",
+      "output_file": "2026-02-02_Ath_Bilbao_vs_Real_Sociedad_EoFXEzM0.json"
+    },
+    {
+      "match_id": "27eSzIrK",
+      "processed_at_utc": "2026-08-04T17:45:02Z",
+      "output_file": "2026-02-03_Mallorca_vs_Sevilla_27eSzIrK.json"
+    },
+    {
+      "match_id": "j93Xu4QG",
+      "processed_at_utc": "2026-08-04T17:45:50Z",
+      "output_file": "2026-02-07_Celta_Vigo_vs_Osasuna_j93Xu4QG.json"
+    },
+    {
+      "match_id": "UgFOsQe4",
+      "processed_at_utc": "2026-08-04T17:46:39Z",
+      "output_file": "2026-02-07_Barcelona_vs_Mallorca_UgFOsQe4.json"
+    },
+    {
+      "match_id": "bZ6uvreT",
+      "processed_at_utc": "2026-08-04T17:47:32Z",
+      "output_file": "2026-02-08_Real_Sociedad_vs_Elche_bZ6uvreT.json"
+    },
+    {
+      "match_id": "CIrbR4BN",
+      "processed_at_utc": "2026-08-04T17:48:23Z",
+      "output_file": "2026-02-08_Alaves_vs_Getafe_CIrbR4BN.json"
+    },
+    {
+      "match_id": "ADzbdPAc",
+      "processed_at_utc": "2026-08-04T17:49:12Z",
+      "output_file": "2026-02-08_Sevilla_vs_Girona_ADzbdPAc.json"
+    },
+    {
+      "match_id": "8lUTLrZp",
+      "processed_at_utc": "2026-08-04T17:50:00Z",
+      "output_file": "2026-02-08_Ath_Bilbao_vs_Levante_8lUTLrZp.json"
+    },
+    {
+      "match_id": "OdCGqnRi",
+      "processed_at_utc": "2026-08-04T17:50:50Z",
+      "output_file": "2026-02-08_Atl._Madrid_vs_Betis_OdCGqnRi.json"
+    },
+    {
+      "match_id": "GQ5bf3uA",
+      "processed_at_utc": "2026-08-04T17:51:39Z",
+      "output_file": "2026-02-09_Valencia_vs_Real_Madrid_GQ5bf3uA.json"
+    },
+    {
+      "match_id": "IJmCYLIj",
+      "processed_at_utc": "2026-08-04T17:52:41Z",
+      "output_file": "2026-02-10_Villarreal_vs_Espanyol_IJmCYLIj.json"
+    },
+    {
+      "match_id": "8OpwmLXq",
+      "processed_at_utc": "2026-08-04T17:53:32Z",
+      "output_file": "2026-02-14_Elche_vs_Osasuna_8OpwmLXq.json"
+    },
+    {
+      "match_id": "OI5e1Bhf",
+      "processed_at_utc": "2026-08-04T17:54:22Z",
+      "output_file": "2026-02-14_Espanyol_vs_Celta_Vigo_OI5e1Bhf.json"
+    },
+    {
+      "match_id": "Gllooa2d",
+      "processed_at_utc": "2026-08-04T17:55:11Z",
+      "output_file": "2026-02-14_Getafe_vs_Villarreal_Gllooa2d.json"
+    },
+    {
+      "match_id": "b9Nl5KgS",
+      "processed_at_utc": "2026-08-04T17:56:00Z",
+      "output_file": "2026-02-14_Sevilla_vs_Alaves_b9Nl5KgS.json"
+    },
+    {
+      "match_id": "2sUu7tPF",
+      "processed_at_utc": "2026-08-04T17:56:51Z",
+      "output_file": "2026-02-15_Real_Madrid_vs_Real_Sociedad_2sUu7tPF.json"
+    },
+    {
+      "match_id": "UiEKabHk",
+      "processed_at_utc": "2026-08-04T17:57:39Z",
+      "output_file": "2026-02-15_Oviedo_vs_Ath_Bilbao_UiEKabHk.json"
+    },
+    {
+      "match_id": "j72Tcxn2",
+      "processed_at_utc": "2026-08-04T17:58:28Z",
+      "output_file": "2026-02-15_Rayo_Vallecano_vs_Atl._Madrid_j72Tcxn2.json"
+    },
+    {
+      "match_id": "UTVX82f3",
+      "processed_at_utc": "2026-08-04T17:59:16Z",
+      "output_file": "2026-02-15_Levante_vs_Valencia_UTVX82f3.json"
+    },
+    {
+      "match_id": "j57m3XNs",
+      "processed_at_utc": "2026-08-04T18:00:06Z",
+      "output_file": "2026-02-16_Mallorca_vs_Betis_j57m3XNs.json"
+    },
+    {
+      "match_id": "d4kFLuv9",
+      "processed_at_utc": "2026-08-04T18:00:55Z",
+      "output_file": "2026-02-17_Girona_vs_Barcelona_d4kFLuv9.json"
+    },
+    {
+      "match_id": "MyfFjoLh",
+      "processed_at_utc": "2026-08-04T18:01:43Z",
+      "output_file": "2026-02-18_Levante_vs_Villarreal_MyfFjoLh.json"
+    },
+    {
+      "match_id": "ChHBcTiJ",
+      "processed_at_utc": "2026-08-04T18:02:36Z",
+      "output_file": "2026-02-21_Ath_Bilbao_vs_Elche_ChHBcTiJ.json"
+    },
+    {
+      "match_id": "WIPCQRL5",
+      "processed_at_utc": "2026-08-04T18:03:24Z",
+      "output_file": "2026-02-21_Real_Sociedad_vs_Oviedo_WIPCQRL5.json"
+    },
+    {
+      "match_id": "KbvwElx0",
+      "processed_at_utc": "2026-08-04T18:04:13Z",
+      "output_file": "2026-02-21_Betis_vs_Rayo_Vallecano_KbvwElx0.json"
+    },
+    {
+      "match_id": "2wYeU9Mt",
+      "processed_at_utc": "2026-08-04T18:05:01Z",
+      "output_file": "2026-02-21_Osasuna_vs_Real_Madrid_2wYeU9Mt.json"
+    },
+    {
+      "match_id": "hlfbLWqQ",
+      "processed_at_utc": "2026-08-04T18:05:50Z",
+      "output_file": "2026-02-22_Atl._Madrid_vs_Espanyol_hlfbLWqQ.json"
+    },
+    {
+      "match_id": "CEhnA6yP",
+      "processed_at_utc": "2026-08-04T18:06:40Z",
+      "output_file": "2026-02-22_Getafe_vs_Sevilla_CEhnA6yP.json"
+    },
+    {
+      "match_id": "OWpUFA7m",
+      "processed_at_utc": "2026-08-04T18:07:31Z",
+      "output_file": "2026-02-22_Barcelona_vs_Levante_OWpUFA7m.json"
+    },
+    {
+      "match_id": "hCxoCS6C",
+      "processed_at_utc": "2026-08-04T18:08:19Z",
+      "output_file": "2026-02-22_Celta_Vigo_vs_Mallorca_hCxoCS6C.json"
+    },
+    {
+      "match_id": "OhM4Smig",
+      "processed_at_utc": "2026-08-04T18:09:07Z",
+      "output_file": "2026-02-23_Villarreal_vs_Valencia_OhM4Smig.json"
+    },
+    {
+      "match_id": "Kpa4akN6",
+      "processed_at_utc": "2026-08-04T18:09:57Z",
+      "output_file": "2026-02-24_Alaves_vs_Girona_Kpa4akN6.json"
+    },
+    {
+      "match_id": "84QhNDWA",
+      "processed_at_utc": "2026-08-04T18:10:45Z",
+      "output_file": "2026-02-28_Levante_vs_Alaves_84QhNDWA.json"
+    },
+    {
+      "match_id": "tWw0Li1N",
+      "processed_at_utc": "2026-08-04T18:11:31Z",
+      "output_file": "2026-02-28_Rayo_Vallecano_vs_Ath_Bilbao_tWw0Li1N.json"
+    },
+    {
+      "match_id": "QHILO5jI",
+      "processed_at_utc": "2026-08-04T18:12:17Z",
+      "output_file": "2026-02-28_Barcelona_vs_Villarreal_QHILO5jI.json"
+    },
+    {
+      "match_id": "nkxpPZ1b",
+      "processed_at_utc": "2026-08-04T18:13:03Z",
+      "output_file": "2026-02-28_Mallorca_vs_Real_Sociedad_nkxpPZ1b.json"
+    },
+    {
+      "match_id": "0GKWFVOp",
+      "processed_at_utc": "2026-08-04T18:13:49Z",
+      "output_file": "2026-03-01_Oviedo_vs_Atl._Madrid_0GKWFVOp.json"
+    },
+    {
+      "match_id": "vPYyReXo",
+      "processed_at_utc": "2026-08-04T18:14:34Z",
+      "output_file": "2026-03-01_Elche_vs_Espanyol_vPYyReXo.json"
+    },
+    {
+      "match_id": "fZ3ZZjGG",
+      "processed_at_utc": "2026-08-04T18:15:20Z",
+      "output_file": "2026-03-01_Valencia_vs_Osasuna_fZ3ZZjGG.json"
+    },
+    {
+      "match_id": "bVGTMqLU",
+      "processed_at_utc": "2026-08-04T18:16:07Z",
+      "output_file": "2026-03-01_Betis_vs_Sevilla_bVGTMqLU.json"
+    },
+    {
+      "match_id": "hA7IwZGi",
+      "processed_at_utc": "2026-08-04T18:16:54Z",
+      "output_file": "2026-03-02_Girona_vs_Celta_Vigo_hA7IwZGi.json"
+    },
+    {
+      "match_id": "lx1RyDo4",
+      "processed_at_utc": "2026-08-04T18:17:40Z",
+      "output_file": "2026-03-03_Real_Madrid_vs_Getafe_lx1RyDo4.json"
+    },
+    {
+      "match_id": "Oj96hsAM",
+      "processed_at_utc": "2026-08-04T18:18:27Z",
+      "output_file": "2026-03-04_Rayo_Vallecano_vs_Oviedo_Oj96hsAM.json"
+    },
+    {
+      "match_id": "xd22wQM8",
+      "processed_at_utc": "2026-08-04T18:19:12Z",
+      "output_file": "2026-03-07_Celta_Vigo_vs_Real_Madrid_xd22wQM8.json"
+    },
+    {
+      "match_id": "UPeplsyR",
+      "processed_at_utc": "2026-08-04T18:20:00Z",
+      "output_file": "2026-03-07_Osasuna_vs_Mallorca_UPeplsyR.json"
+    },
+    {
+      "match_id": "lGmxj36E",
+      "processed_at_utc": "2026-08-04T18:20:46Z",
+      "output_file": "2026-03-07_Levante_vs_Girona_lGmxj36E.json"
+    },
+    {
+      "match_id": "MmKFFMU1",
+      "processed_at_utc": "2026-08-04T18:21:33Z",
+      "output_file": "2026-03-07_Atl._Madrid_vs_Real_Sociedad_MmKFFMU1.json"
+    },
+    {
+      "match_id": "ENG7Hr0k",
+      "processed_at_utc": "2026-08-04T18:22:20Z",
+      "output_file": "2026-03-08_Ath_Bilbao_vs_Barcelona_ENG7Hr0k.json"
+    },
+    {
+      "match_id": "M9ejSaE7",
+      "processed_at_utc": "2026-08-04T18:23:17Z",
+      "output_file": "2026-03-08_Villarreal_vs_Elche_M9ejSaE7.json"
+    },
+    {
+      "match_id": "0f7sULqe",
+      "processed_at_utc": "2026-08-04T18:24:04Z",
+      "output_file": "2026-03-08_Getafe_vs_Betis_0f7sULqe.json"
+    },
+    {
+      "match_id": "QesGrLbl",
+      "processed_at_utc": "2026-08-04T18:24:50Z",
+      "output_file": "2026-03-08_Sevilla_vs_Rayo_Vallecano_QesGrLbl.json"
+    },
+    {
+      "match_id": "hU3ZVsFr",
+      "processed_at_utc": "2026-08-04T18:25:36Z",
+      "output_file": "2026-03-09_Valencia_vs_Alaves_hU3ZVsFr.json"
+    },
+    {
+      "match_id": "A90Ay4iL",
+      "processed_at_utc": "2026-08-04T18:26:23Z",
+      "output_file": "2026-03-10_Espanyol_vs_Oviedo_A90Ay4iL.json"
+    },
+    {
+      "match_id": "MNzPtaT0",
+      "processed_at_utc": "2026-08-04T18:27:08Z",
+      "output_file": "2026-03-14_Alaves_vs_Villarreal_MNzPtaT0.json"
+    },
+    {
+      "match_id": "lbf6gxD6",
+      "processed_at_utc": "2026-08-04T18:27:54Z",
+      "output_file": "2026-03-14_Girona_vs_Ath_Bilbao_lbf6gxD6.json"
+    },
+    {
+      "match_id": "UmvXvwbD",
+      "processed_at_utc": "2026-08-04T18:28:41Z",
+      "output_file": "2026-03-14_Atl._Madrid_vs_Getafe_UmvXvwbD.json"
+    },
+    {
+      "match_id": "Gpdbebrf",
+      "processed_at_utc": "2026-08-04T18:29:28Z",
+      "output_file": "2026-03-14_Oviedo_vs_Valencia_Gpdbebrf.json"
+    },
+    {
+      "match_id": "pQmFiGsJ",
+      "processed_at_utc": "2026-08-04T18:30:17Z",
+      "output_file": "2026-03-15_Real_Madrid_vs_Elche_pQmFiGsJ.json"
+    },
+    {
+      "match_id": "A3u1FJZP",
+      "processed_at_utc": "2026-08-04T18:31:04Z",
+      "output_file": "2026-03-15_Mallorca_vs_Espanyol_A3u1FJZP.json"
+    },
+    {
+      "match_id": "AqHJ2tjK",
+      "processed_at_utc": "2026-08-04T18:31:50Z",
+      "output_file": "2026-03-15_Barcelona_vs_Sevilla_AqHJ2tjK.json"
+    },
+    {
+      "match_id": "KI2kcKDs",
+      "processed_at_utc": "2026-08-04T18:32:37Z",
+      "output_file": "2026-03-15_Betis_vs_Celta_Vigo_KI2kcKDs.json"
+    },
+    {
+      "match_id": "21Ku8ySa",
+      "processed_at_utc": "2026-08-04T18:33:24Z",
+      "output_file": "2026-03-16_Real_Sociedad_vs_Osasuna_21Ku8ySa.json"
+    },
+    {
+      "match_id": "fyHX9ccm",
+      "processed_at_utc": "2026-08-04T18:34:10Z",
+      "output_file": "2026-03-17_Rayo_Vallecano_vs_Levante_fyHX9ccm.json"
+    },
+    {
+      "match_id": "pIFbK5HM",
+      "processed_at_utc": "2026-08-04T18:34:59Z",
+      "output_file": "2026-03-21_Villarreal_vs_Real_Sociedad_pIFbK5HM.json"
+    },
+    {
+      "match_id": "f9f0BAYi",
+      "processed_at_utc": "2026-08-04T18:35:44Z",
+      "output_file": "2026-03-21_Elche_vs_Mallorca_f9f0BAYi.json"
+    },
+    {
+      "match_id": "2Zc89l34",
+      "processed_at_utc": "2026-08-04T18:36:31Z",
+      "output_file": "2026-03-21_Espanyol_vs_Getafe_2Zc89l34.json"
+    },
+    {
+      "match_id": "xhCjMRnA",
+      "processed_at_utc": "2026-08-04T18:37:16Z",
+      "output_file": "2026-03-21_Osasuna_vs_Girona_xhCjMRnA.json"
+    },
+    {
+      "match_id": "OlnH7SXG",
+      "processed_at_utc": "2026-08-04T18:38:03Z",
+      "output_file": "2026-03-21_Levante_vs_Oviedo_OlnH7SXG.json"
+    },
+    {
+      "match_id": "WEkP562T",
+      "processed_at_utc": "2026-08-04T18:38:51Z",
+      "output_file": "2026-03-22_Sevilla_vs_Valencia_WEkP562T.json"
+    },
+    {
+      "match_id": "UFzMm7to",
+      "processed_at_utc": "2026-08-04T18:39:41Z",
+      "output_file": "2026-03-22_Barcelona_vs_Rayo_Vallecano_UFzMm7to.json"
+    },
+    {
+      "match_id": "lWVe0pQj",
+      "processed_at_utc": "2026-08-04T18:40:29Z",
+      "output_file": "2026-03-22_Celta_Vigo_vs_Alaves_lWVe0pQj.json"
+    },
+    {
+      "match_id": "bTDl6FdC",
+      "processed_at_utc": "2026-08-04T18:41:16Z",
+      "output_file": "2026-03-22_Ath_Bilbao_vs_Betis_bTDl6FdC.json"
+    },
+    {
+      "match_id": "tQIsOmIc",
+      "processed_at_utc": "2026-08-04T18:42:02Z",
+      "output_file": "2026-03-23_Real_Madrid_vs_Atl._Madrid_tQIsOmIc.json"
+    },
+    {
+      "match_id": "084ForGL",
+      "processed_at_utc": "2026-08-04T18:42:48Z",
+      "output_file": "2026-04-03_Rayo_Vallecano_vs_Elche_084ForGL.json"
+    },
+    {
+      "match_id": "dvjotMwq",
+      "processed_at_utc": "2026-08-04T18:43:35Z",
+      "output_file": "2026-04-04_Real_Sociedad_vs_Levante_dvjotMwq.json"
+    },
+    {
+      "match_id": "0fPtXr1S",
+      "processed_at_utc": "2026-08-04T18:44:24Z",
+      "output_file": "2026-04-04_Mallorca_vs_Real_Madrid_0fPtXr1S.json"
+    },
+    {
+      "match_id": "WEXPzR13",
+      "processed_at_utc": "2026-08-04T18:45:11Z",
+      "output_file": "2026-04-04_Betis_vs_Espanyol_WEXPzR13.json"
+    },
+    {
+      "match_id": "G6kwDN9d",
+      "processed_at_utc": "2026-08-04T18:45:56Z",
+      "output_file": "2026-04-04_Atl._Madrid_vs_Barcelona_G6kwDN9d.json"
+    },
+    {
+      "match_id": "xzJKP0g2",
+      "processed_at_utc": "2026-08-04T18:46:44Z",
+      "output_file": "2026-04-05_Getafe_vs_Ath_Bilbao_xzJKP0g2.json"
+    },
+    {
+      "match_id": "4tB6m4o9",
+      "processed_at_utc": "2026-08-04T18:47:30Z",
+      "output_file": "2026-04-05_Valencia_vs_Celta_Vigo_4tB6m4o9.json"
+    },
+    {
+      "match_id": "GKUBRMOk",
+      "processed_at_utc": "2026-08-04T18:48:16Z",
+      "output_file": "2026-04-05_Oviedo_vs_Sevilla_GKUBRMOk.json"
+    },
+    {
+      "match_id": "UkiVEqup",
+      "processed_at_utc": "2026-08-04T18:49:03Z",
+      "output_file": "2026-04-05_Alaves_vs_Osasuna_UkiVEqup.json"
+    },
+    {
+      "match_id": "4SVXY4WF",
+      "processed_at_utc": "2026-08-04T18:49:52Z",
+      "output_file": "2026-04-06_Girona_vs_Villarreal_4SVXY4WF.json"
+    },
+    {
+      "match_id": "KES1xaf5",
+      "processed_at_utc": "2026-08-04T18:50:38Z",
+      "output_file": "2026-04-10_Real_Madrid_vs_Girona_KES1xaf5.json"
+    },
+    {
+      "match_id": "vshTNauC",
+      "processed_at_utc": "2026-08-04T18:51:25Z",
+      "output_file": "2026-04-11_Real_Sociedad_vs_Alaves_vshTNauC.json"
+    },
+    {
+      "match_id": "CU0CRstm",
+      "processed_at_utc": "2026-08-04T18:52:11Z",
+      "output_file": "2026-04-11_Elche_vs_Valencia_CU0CRstm.json"
+    },
+    {
+      "match_id": "O69fxvw8",
+      "processed_at_utc": "2026-08-04T18:52:58Z",
+      "output_file": "2026-04-11_Barcelona_vs_Espanyol_O69fxvw8.json"
+    },
+    {
+      "match_id": "z9oxMwAO",
+      "processed_at_utc": "2026-08-04T18:54:06Z",
+      "output_file": "2026-04-11_Sevilla_vs_Atl._Madrid_z9oxMwAO.json"
+    },
+    {
+      "match_id": "QXQotset",
+      "processed_at_utc": "2026-08-04T18:54:53Z",
+      "output_file": "2026-04-12_Osasuna_vs_Betis_QXQotset.json"
+    },
+    {
+      "match_id": "6TgLPLAa",
+      "processed_at_utc": "2026-08-04T18:55:40Z",
+      "output_file": "2026-04-12_Mallorca_vs_Rayo_Vallecano_6TgLPLAa.json"
+    },
+    {
+      "match_id": "6VYvpjdE",
+      "processed_at_utc": "2026-08-04T18:56:28Z",
+      "output_file": "2026-04-12_Celta_Vigo_vs_Oviedo_6VYvpjdE.json"
+    },
+    {
+      "match_id": "Gt6nv08e",
+      "processed_at_utc": "2026-08-04T18:57:15Z",
+      "output_file": "2026-04-12_Ath_Bilbao_vs_Villarreal_Gt6nv08e.json"
+    },
+    {
+      "match_id": "nmFfvLPh",
+      "processed_at_utc": "2026-08-04T18:58:02Z",
+      "output_file": "2026-04-13_Levante_vs_Getafe_nmFfvLPh.json"
+    },
+    {
+      "match_id": "657hGExA",
+      "processed_at_utc": "2026-08-04T18:58:48Z",
+      "output_file": "2026-04-21_Mallorca_vs_Valencia_657hGExA.json"
+    },
+    {
+      "match_id": "2JLSaghT",
+      "processed_at_utc": "2026-08-04T18:59:34Z",
+      "output_file": "2026-04-21_Ath_Bilbao_vs_Osasuna_2JLSaghT.json"
+    },
+    {
+      "match_id": "8WSYepie",
+      "processed_at_utc": "2026-08-04T19:00:21Z",
+      "output_file": "2026-04-21_Real_Madrid_vs_Alaves_8WSYepie.json"
+    },
+    {
+      "match_id": "zq4THRDE",
+      "processed_at_utc": "2026-08-04T19:01:08Z",
+      "output_file": "2026-04-21_Girona_vs_Betis_zq4THRDE.json"
+    },
+    {
+      "match_id": "UoHsfOL7",
+      "processed_at_utc": "2026-08-04T19:01:55Z",
+      "output_file": "2026-04-22_Elche_vs_Atl._Madrid_UoHsfOL7.json"
+    },
+    {
+      "match_id": "Stq8Aq6l",
+      "processed_at_utc": "2026-08-04T19:02:41Z",
+      "output_file": "2026-04-22_Real_Sociedad_vs_Getafe_Stq8Aq6l.json"
+    },
+    {
+      "match_id": "Y1CbfXFj",
+      "processed_at_utc": "2026-08-04T19:03:27Z",
+      "output_file": "2026-04-22_Barcelona_vs_Celta_Vigo_Y1CbfXFj.json"
+    },
+    {
+      "match_id": "Yi9pIz8c",
+      "processed_at_utc": "2026-08-04T19:04:15Z",
+      "output_file": "2026-04-23_Levante_vs_Sevilla_Yi9pIz8c.json"
+    },
+    {
+      "match_id": "WAcxG5rR",
+      "processed_at_utc": "2026-08-04T19:05:04Z",
+      "output_file": "2026-04-23_Rayo_Vallecano_vs_Espanyol_WAcxG5rR.json"
+    },
+    {
+      "match_id": "06PQc6Mr",
+      "processed_at_utc": "2026-08-04T19:05:54Z",
+      "output_file": "2026-04-23_Oviedo_vs_Villarreal_06PQc6Mr.json"
+    },
+    {
+      "match_id": "lfKIYGgU",
+      "processed_at_utc": "2026-08-04T19:06:40Z",
+      "output_file": "2026-04-24_Betis_vs_Real_Madrid_lfKIYGgU.json"
+    },
+    {
+      "match_id": "GtMAzwPH",
+      "processed_at_utc": "2026-08-04T19:07:24Z",
+      "output_file": "2026-04-25_Alaves_vs_Mallorca_GtMAzwPH.json"
+    },
+    {
+      "match_id": "MsROsfWp",
+      "processed_at_utc": "2026-08-04T19:08:10Z",
+      "output_file": "2026-04-25_Getafe_vs_Barcelona_MsROsfWp.json"
+    },
+    {
+      "match_id": "t4XJ1FNG",
+      "processed_at_utc": "2026-08-04T19:09:03Z",
+      "output_file": "2026-04-25_Valencia_vs_Girona_t4XJ1FNG.json"
+    },
+    {
+      "match_id": "2cphmG8N",
+      "processed_at_utc": "2026-08-04T19:09:49Z",
+      "output_file": "2026-04-25_Atl._Madrid_vs_Ath_Bilbao_2cphmG8N.json"
+    },
+    {
+      "match_id": "fXtpkxvB",
+      "processed_at_utc": "2026-08-04T19:10:35Z",
+      "output_file": "2026-04-26_Rayo_Vallecano_vs_Real_Sociedad_fXtpkxvB.json"
+    },
+    {
+      "match_id": "YwUB3yg4",
+      "processed_at_utc": "2026-08-04T19:11:21Z",
+      "output_file": "2026-04-26_Oviedo_vs_Elche_YwUB3yg4.json"
+    },
+    {
+      "match_id": "YHhyib9b",
+      "processed_at_utc": "2026-08-04T19:12:06Z",
+      "output_file": "2026-04-26_Osasuna_vs_Sevilla_YHhyib9b.json"
+    },
+    {
+      "match_id": "EyEA5cOi",
+      "processed_at_utc": "2026-08-04T19:12:51Z",
+      "output_file": "2026-04-26_Villarreal_vs_Celta_Vigo_EyEA5cOi.json"
+    },
+    {
+      "match_id": "SKkThKvn",
+      "processed_at_utc": "2026-08-04T19:13:35Z",
+      "output_file": "2026-04-27_Espanyol_vs_Levante_SKkThKvn.json"
+    },
+    {
+      "match_id": "AP0bL0K6",
+      "processed_at_utc": "2026-08-04T19:14:18Z",
+      "output_file": "2026-05-01_Girona_vs_Mallorca_AP0bL0K6.json"
+    },
+    {
+      "match_id": "SGaHyM4m",
+      "processed_at_utc": "2026-08-04T19:15:02Z",
+      "output_file": "2026-05-02_Villarreal_vs_Levante_SGaHyM4m.json"
+    },
+    {
+      "match_id": "GxWbJvkJ",
+      "processed_at_utc": "2026-08-04T19:15:47Z",
+      "output_file": "2026-05-02_Valencia_vs_Atl._Madrid_GxWbJvkJ.json"
+    },
+    {
+      "match_id": "O8xH8Nz1",
+      "processed_at_utc": "2026-08-04T19:16:31Z",
+      "output_file": "2026-05-02_Alaves_vs_Ath_Bilbao_O8xH8Nz1.json"
+    },
+    {
+      "match_id": "rqOpsrsQ",
+      "processed_at_utc": "2026-08-04T19:17:15Z",
+      "output_file": "2026-05-02_Osasuna_vs_Barcelona_rqOpsrsQ.json"
+    },
+    {
+      "match_id": "A1IBU4cK",
+      "processed_at_utc": "2026-08-04T19:18:04Z",
+      "output_file": "2026-05-03_Celta_Vigo_vs_Elche_A1IBU4cK.json"
+    },
+    {
+      "match_id": "xC2jNMkf",
+      "processed_at_utc": "2026-08-04T19:18:50Z",
+      "output_file": "2026-05-03_Getafe_vs_Rayo_Vallecano_xC2jNMkf.json"
+    },
+    {
+      "match_id": "U5uP615D",
+      "processed_at_utc": "2026-08-04T19:19:43Z",
+      "output_file": "2026-05-03_Betis_vs_Oviedo_U5uP615D.json"
+    },
+    {
+      "match_id": "tp9sPrLs",
+      "processed_at_utc": "2026-08-04T19:20:29Z",
+      "output_file": "2026-05-03_Espanyol_vs_Real_Madrid_tp9sPrLs.json"
+    },
+    {
+      "match_id": "zs3PZaZa",
+      "processed_at_utc": "2026-08-04T19:21:15Z",
+      "output_file": "2026-05-04_Sevilla_vs_Real_Sociedad_zs3PZaZa.json"
+    },
+    {
+      "match_id": "lpTblalg",
+      "processed_at_utc": "2026-08-04T19:22:01Z",
+      "output_file": "2026-05-08_Levante_vs_Osasuna_lpTblalg.json"
+    },
+    {
+      "match_id": "dGFFpHmI",
+      "processed_at_utc": "2026-08-04T19:22:45Z",
+      "output_file": "2026-05-09_Elche_vs_Alaves_dGFFpHmI.json"
+    },
+    {
+      "match_id": "rBKZkCPc",
+      "processed_at_utc": "2026-08-04T19:23:27Z",
+      "output_file": "2026-05-09_Sevilla_vs_Espanyol_rBKZkCPc.json"
+    },
+    {
+      "match_id": "2gftWHYO",
+      "processed_at_utc": "2026-08-04T19:24:22Z",
+      "output_file": "2026-05-09_Atl._Madrid_vs_Celta_Vigo_2gftWHYO.json"
+    },
+    {
+      "match_id": "jHXmS8Xj",
+      "processed_at_utc": "2026-08-04T19:25:05Z",
+      "output_file": "2026-05-09_Real_Sociedad_vs_Betis_jHXmS8Xj.json"
+    },
+    {
+      "match_id": "AaH7nwJ5",
+      "processed_at_utc": "2026-08-04T19:25:47Z",
+      "output_file": "2026-05-10_Mallorca_vs_Villarreal_AaH7nwJ5.json"
+    },
+    {
+      "match_id": "UudYXw4C",
+      "processed_at_utc": "2026-08-04T19:26:28Z",
+      "output_file": "2026-05-10_Ath_Bilbao_vs_Valencia_UudYXw4C.json"
+    },
+    {
+      "match_id": "vwErljfA",
+      "processed_at_utc": "2026-08-04T19:27:09Z",
+      "output_file": "2026-05-10_Oviedo_vs_Getafe_vwErljfA.json"
+    },
+    {
+      "match_id": "tKPjjLJt",
+      "processed_at_utc": "2026-08-04T19:27:50Z",
+      "output_file": "2026-05-10_Barcelona_vs_Real_Madrid_tKPjjLJt.json"
+    },
+    {
+      "match_id": "WpWknUOM",
+      "processed_at_utc": "2026-08-04T19:28:31Z",
+      "output_file": "2026-05-11_Rayo_Vallecano_vs_Girona_WpWknUOM.json"
+    },
+    {
+      "match_id": "tKuFnbz3",
+      "processed_at_utc": "2026-08-04T19:29:12Z",
+      "output_file": "2026-05-12_Celta_Vigo_vs_Levante_tKuFnbz3.json"
+    },
+    {
+      "match_id": "OrBUvnHd",
+      "processed_at_utc": "2026-08-04T19:29:53Z",
+      "output_file": "2026-05-12_Betis_vs_Elche_OrBUvnHd.json"
+    },
+    {
+      "match_id": "QXY2yYR1",
+      "processed_at_utc": "2026-08-04T19:30:35Z",
+      "output_file": "2026-05-12_Osasuna_vs_Atl._Madrid_QXY2yYR1.json"
+    },
+    {
+      "match_id": "nwKccFlL",
+      "processed_at_utc": "2026-08-04T19:31:15Z",
+      "output_file": "2026-05-13_Villarreal_vs_Sevilla_nwKccFlL.json"
+    },
+    {
+      "match_id": "4Ipfwfck",
+      "processed_at_utc": "2026-08-04T19:31:56Z",
+      "output_file": "2026-05-13_Espanyol_vs_Ath_Bilbao_4Ipfwfck.json"
+    },
+    {
+      "match_id": "EXwNpx5F",
+      "processed_at_utc": "2026-08-04T19:32:37Z",
+      "output_file": "2026-05-13_Getafe_vs_Mallorca_EXwNpx5F.json"
+    },
+    {
+      "match_id": "GI7Mt8np",
+      "processed_at_utc": "2026-08-04T19:33:20Z",
+      "output_file": "2026-05-13_Alaves_vs_Barcelona_GI7Mt8np.json"
+    },
+    {
+      "match_id": "hvRlayK8",
+      "processed_at_utc": "2026-08-04T19:34:02Z",
+      "output_file": "2026-05-14_Valencia_vs_Rayo_Vallecano_hvRlayK8.json"
+    },
+    {
+      "match_id": "YZgOrGZR",
+      "processed_at_utc": "2026-08-04T19:34:44Z",
+      "output_file": "2026-05-14_Girona_vs_Real_Sociedad_YZgOrGZR.json"
+    },
+    {
+      "match_id": "r95TigCr",
+      "processed_at_utc": "2026-08-04T19:35:27Z",
+      "output_file": "2026-05-14_Real_Madrid_vs_Oviedo_r95TigCr.json"
+    },
+    {
+      "match_id": "ttZg4N15",
+      "processed_at_utc": "2026-08-04T19:36:10Z",
+      "output_file": "2026-05-17_Sevilla_vs_Real_Madrid_ttZg4N15.json"
+    },
+    {
+      "match_id": "llRR0leD",
+      "processed_at_utc": "2026-08-04T19:36:52Z",
+      "output_file": "2026-05-17_Real_Sociedad_vs_Valencia_llRR0leD.json"
+    },
+    {
+      "match_id": "hMXI2AQ0",
+      "processed_at_utc": "2026-08-04T19:37:35Z",
+      "output_file": "2026-05-17_Rayo_Vallecano_vs_Villarreal_hMXI2AQ0.json"
+    },
+    {
+      "match_id": "C0sw852t",
+      "processed_at_utc": "2026-08-04T19:38:17Z",
+      "output_file": "2026-05-17_Oviedo_vs_Alaves_C0sw852t.json"
+    },
+    {
+      "match_id": "YFVo6qXh",
+      "processed_at_utc": "2026-08-04T19:38:59Z",
+      "output_file": "2026-05-17_Osasuna_vs_Espanyol_YFVo6qXh.json"
+    },
+    {
+      "match_id": "K8ZA4Wel",
+      "processed_at_utc": "2026-08-04T19:39:42Z",
+      "output_file": "2026-05-17_Levante_vs_Mallorca_K8ZA4Wel.json"
+    },
+    {
+      "match_id": "0OhvAhYQ",
+      "processed_at_utc": "2026-08-04T19:40:25Z",
+      "output_file": "2026-05-17_Elche_vs_Getafe_0OhvAhYQ.json"
+    },
+    {
+      "match_id": "n12plBB7",
+      "processed_at_utc": "2026-08-04T19:41:08Z",
+      "output_file": "2026-05-17_Atl._Madrid_vs_Girona_n12plBB7.json"
+    },
+    {
+      "match_id": "vyaxjXte",
+      "processed_at_utc": "2026-08-04T19:41:51Z",
+      "output_file": "2026-05-17_Ath_Bilbao_vs_Celta_Vigo_vyaxjXte.json"
+    },
+    {
+      "match_id": "SduXBE3E",
+      "processed_at_utc": "2026-08-04T19:42:34Z",
+      "output_file": "2026-05-17_Barcelona_vs_Betis_SduXBE3E.json"
+    },
+    {
+      "match_id": "tGk3Va04",
+      "processed_at_utc": "2026-08-04T19:43:15Z",
+      "output_file": "2026-05-23_Valencia_vs_Barcelona_tGk3Va04.json"
+    },
+    {
+      "match_id": "hf989Iwo",
+      "processed_at_utc": "2026-08-04T19:43:56Z",
+      "output_file": "2026-05-23_Real_Madrid_vs_Ath_Bilbao_hf989Iwo.json"
+    },
+    {
+      "match_id": "lSDxFvGN",
+      "processed_at_utc": "2026-08-04T19:44:37Z",
+      "output_file": "2026-05-23_Mallorca_vs_Oviedo_lSDxFvGN.json"
+    },
+    {
+      "match_id": "ltgBTwVG",
+      "processed_at_utc": "2026-08-04T19:45:18Z",
+      "output_file": "2026-05-23_Girona_vs_Elche_ltgBTwVG.json"
+    },
+    {
+      "match_id": "t2AUG0oB",
+      "processed_at_utc": "2026-08-04T19:45:59Z",
+      "output_file": "2026-05-23_Getafe_vs_Osasuna_t2AUG0oB.json"
+    },
+    {
+      "match_id": "KnMLIMGb",
+      "processed_at_utc": "2026-08-04T19:46:41Z",
+      "output_file": "2026-05-23_Espanyol_vs_Real_Sociedad_KnMLIMGb.json"
+    },
+    {
+      "match_id": "CMIDKrnn",
+      "processed_at_utc": "2026-08-04T19:47:22Z",
+      "output_file": "2026-05-23_Celta_Vigo_vs_Sevilla_CMIDKrnn.json"
+    },
+    {
+      "match_id": "ALQA0u1U",
+      "processed_at_utc": "2026-08-04T19:48:04Z",
+      "output_file": "2026-05-23_Betis_vs_Levante_ALQA0u1U.json"
+    },
+    {
+      "match_id": "x8S221WH",
+      "processed_at_utc": "2026-08-04T19:48:49Z",
+      "output_file": "2026-05-23_Alaves_vs_Rayo_Vallecano_x8S221WH.json"
+    },
+    {
+      "match_id": "pldfXLVi",
+      "processed_at_utc": "2026-08-04T19:49:35Z",
+      "output_file": "2026-05-24_Villarreal_vs_Atl._Madrid_pldfXLVi.json"
+    }
+  ],
+  "last_updated_utc": "2026-08-04T19:49:35Z"
+}

@@ -1,0 +1,2526 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/lyon-2akflumR/summary/stats/overall/?mid=4lHuuOm6",
+  "match_id": "4lHuuOm6",
+  "page_title": "LYO 0-0 HAV | Lyon v Le Havre 17/09/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "17.09.2023 22:45",
+  "home_team": "Lyon",
+  "away_team": "Le Havre",
+  "score": {
+    "home": "0",
+    "away": "0",
+    "display": "0 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.23",
+      "away": "0.92",
+      "raw_values": [
+        "1.23",
+        "0.92"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "58%",
+      "away": "42%",
+      "raw_values": [
+        "58%",
+        "42%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "23",
+      "away": "7",
+      "raw_values": [
+        "23",
+        "7"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "7",
+      "away": "0",
+      "raw_values": [
+        "7",
+        "0"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "1",
+      "raw_values": [
+        "6",
+        "1"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "87%\n(458/529)",
+      "away": "80%\n(308/383)",
+      "raw_values": [
+        "87%\n(458/529)",
+        "80%\n(308/383)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "8",
+      "away": "4",
+      "raw_values": [
+        "8",
+        "4"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "8",
+      "away": "3",
+      "raw_values": [
+        "8",
+        "3"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "14",
+      "away": "16",
+      "raw_values": [
+        "14",
+        "16"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "24",
+      "away": "15",
+      "raw_values": [
+        "24",
+        "15"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "13",
+      "away": "12",
+      "raw_values": [
+        "13",
+        "12"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "0",
+      "away": "7",
+      "raw_values": [
+        "0",
+        "7"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.23",
+        "away": "0.92",
+        "raw_values": [
+          "1.23",
+          "0.92"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "58%",
+        "away": "42%",
+        "raw_values": [
+          "58%",
+          "42%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "23",
+        "away": "7",
+        "raw_values": [
+          "23",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "7",
+        "away": "0",
+        "raw_values": [
+          "7",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "1",
+        "raw_values": [
+          "6",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "87%\n(458/529)",
+        "away": "80%\n(308/383)",
+        "raw_values": [
+          "87%\n(458/529)",
+          "80%\n(308/383)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "8",
+        "away": "4",
+        "raw_values": [
+          "8",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "8",
+        "away": "3",
+        "raw_values": [
+          "8",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "14",
+        "away": "16",
+        "raw_values": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "24",
+        "away": "15",
+        "raw_values": [
+          "24",
+          "15"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "13",
+        "away": "12",
+        "raw_values": [
+          "13",
+          "12"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "7",
+        "raw_values": [
+          "0",
+          "7"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.11",
+        "away": "0.00",
+        "raw_values": [
+          "0.11",
+          "0.00"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "57%",
+        "away": "43%",
+        "raw_values": [
+          "57%",
+          "43%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "1",
+        "raw_values": [
+          "4",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "89%\n(251/282)",
+        "away": "85%\n(175/206)",
+        "raw_values": [
+          "89%\n(251/282)",
+          "85%\n(175/206)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "8",
+        "away": "9",
+        "raw_values": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "13",
+        "away": "8",
+        "raw_values": [
+          "13",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.12",
+        "away": "0.92",
+        "raw_values": [
+          "1.12",
+          "0.92"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "59%",
+        "away": "41%",
+        "raw_values": [
+          "59%",
+          "41%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "18",
+        "away": "6",
+        "raw_values": [
+          "18",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "0",
+        "raw_values": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "84%\n(207/247)",
+        "away": "75%\n(133/177)",
+        "raw_values": [
+          "84%\n(207/247)",
+          "75%\n(133/177)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "6",
+        "away": "3",
+        "raw_values": [
+          "6",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "6",
+        "away": "7",
+        "raw_values": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "7",
+        "raw_values": [
+          "11",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "6",
+        "raw_values": [
+          "6",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "5",
+        "raw_values": [
+          "0",
+          "5"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-1-4-1",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Lopes",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Lopes",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Kumbedi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Kumbedi",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Mata",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mata",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Diomande",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Diomande",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Tagliafico",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Tagliafico",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Akouokou",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Akouokou",
+          "source": "formation"
+        },
+        {
+          "number": 18,
+          "name": "Cherki",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Cherki",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Caqueret",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Caqueret",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Tolisso",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Tolisso",
+          "source": "formation"
+        },
+        {
+          "number": 37,
+          "name": "Nuamah",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Nuamah",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Lacazette",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "10 Lacazette",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Lopes A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Lopes A. (G)",
+          "formation_raw": "1 Lopes",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Kumbedi S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Kumbedi S.",
+          "formation_raw": "20 Kumbedi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Mata C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mata C.",
+          "formation_raw": "22 Mata",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Diomande S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Diomande S.",
+          "formation_raw": "2 Diomande",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Tagliafico N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Tagliafico N.",
+          "formation_raw": "3 Tagliafico",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Akouokou P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Akouokou P.",
+          "formation_raw": "4 Akouokou",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 18,
+          "name": "Cherki R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Cherki R.",
+          "formation_raw": "18 Cherki",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Caqueret M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Caqueret M.",
+          "formation_raw": "6 Caqueret",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Tolisso C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Tolisso C.",
+          "formation_raw": "8 Tolisso",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 37,
+          "name": "Nuamah E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Nuamah E.",
+          "formation_raw": "37 Nuamah",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Lacazette A.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "10 Lacazette A. (C)",
+          "formation_raw": "10 Lacazette",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 80,
+          "name": "Alvero S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "80 Alvero S.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Balde M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Balde M.",
+          "source": "detailed"
+        },
+        {
+          "number": 84,
+          "name": "El Arouch M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "84 El Arouch M.",
+          "source": "detailed"
+        },
+        {
+          "number": 47,
+          "name": "Jeffinho",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Jeffinho",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Lepenant J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Lepenant J.",
+          "source": "detailed"
+        },
+        {
+          "number": 98,
+          "name": "Maitland-Niles A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "98 Maitland-Niles A.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Moreira D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Moreira D.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "O'Brien J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 O'Brien J.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Riou R.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "17 Riou R. (G)",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "68",
+          "incoming": "Balde M.",
+          "outgoing": "Tolisso C.",
+          "incoming_rating": 6.9,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Balde M. 6.9 Tolisso C. 68'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Moreira D.",
+          "outgoing": "Nuamah E.",
+          "incoming_rating": 7.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Moreira D. 7.1 Nuamah E. 77'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Lepenant J.",
+          "outgoing": "Akouokou P.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Lepenant J. 6.5 Akouokou P. 77'"
+        }
+      ],
+      "coach": "Vulliez J."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 30,
+          "name": "Desmas",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Desmas",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Salmier",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Salmier",
+          "source": "formation"
+        },
+        {
+          "number": 93,
+          "name": "Sangante",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "93 Sangante",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Lloris",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Lloris",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Operi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Operi",
+          "source": "formation"
+        },
+        {
+          "number": 94,
+          "name": "Toure",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "94 Toure",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Kechta",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Kechta",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Casimir",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Casimir",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Kuzyaev",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Kuzyaev",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Alioui",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Alioui",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Bayo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Bayo",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 30,
+          "name": "Desmas A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Desmas A. (G)",
+          "formation_raw": "30 Desmas",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Salmier Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Salmier Y.",
+          "formation_raw": "22 Salmier",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 93,
+          "name": "Sangante A.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "93 Sangante A. (C)",
+          "formation_raw": "93 Sangante",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Lloris G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Lloris G.",
+          "formation_raw": "4 Lloris",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Operi C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Operi C.",
+          "formation_raw": "27 Operi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 94,
+          "name": "Toure A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "94 Toure A.",
+          "formation_raw": "94 Toure",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Kechta Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Kechta Y.",
+          "formation_raw": "8 Kechta",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Casimir J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Casimir J.",
+          "formation_raw": "23 Casimir",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Kuzyaev D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Kuzyaev D.",
+          "formation_raw": "14 Kuzyaev",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Alioui N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Alioui N.",
+          "formation_raw": "10 Alioui",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Bayo M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Bayo M.",
+          "formation_raw": "9 Bayo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 17,
+          "name": "El Hajjam O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 El Hajjam O.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Gorgelin M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gorgelin M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 29,
+          "name": "Grandsir S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Grandsir S.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Logbo A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Logbo A.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Mbemba N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Mbemba N.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Ndiaye R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Ndiaye R.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Sabbi E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Sabbi E.",
+          "source": "detailed"
+        },
+        {
+          "number": 45,
+          "name": "Soumare I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "45 Soumare I.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Youte Kinkoue E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Youte Kinkoue E.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "58",
+          "incoming": "Ndiaye R.",
+          "outgoing": "Kechta Y.",
+          "incoming_rating": 6.9,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ndiaye R. 6.9 Kechta Y. 58'"
+        },
+        {
+          "minute": "58",
+          "incoming": "Grandsir S.",
+          "outgoing": "Bayo M.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Grandsir S. 6.3 Bayo M. 58'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Logbo A.",
+          "outgoing": "Casimir J.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Logbo A. 6.6 Casimir J. 74'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Sabbi E.",
+          "outgoing": "Alioui N.",
+          "incoming_rating": 6.7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Sabbi E. 6.7 Alioui N. 74'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Soumare I.",
+          "outgoing": "Kuzyaev D.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Soumare I. Kuzyaev D. 89'"
+        }
+      ],
+      "coach": "Elsner L."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Lopes",
+      "20 Kumbedi",
+      "22 Mata",
+      "2 Diomande",
+      "3 Tagliafico",
+      "4 Akouokou",
+      "18 Cherki",
+      "6 Caqueret",
+      "8 Tolisso",
+      "37 Nuamah",
+      "10 Lacazette",
+      "30 Desmas",
+      "22 Salmier",
+      "93 Sangante",
+      "4 Lloris",
+      "27 Operi",
+      "94 Toure",
+      "8 Kechta",
+      "23 Casimir",
+      "14 Kuzyaev",
+      "10 Alioui",
+      "9 Bayo",
+      "Balde M. 6.9 Tolisso C. 68'",
+      "Moreira D. 7.1 Nuamah E. 77'",
+      "Lepenant J. 6.5 Akouokou P. 77'",
+      "Ndiaye R. 6.9 Kechta Y. 58'",
+      "Grandsir S. 6.3 Bayo M. 58'",
+      "Logbo A. 6.6 Casimir J. 74'",
+      "Sabbi E. 6.7 Alioui N. 74'",
+      "Soumare I. Kuzyaev D. 89'",
+      "1 Lopes A. (G)",
+      "20 Kumbedi S.",
+      "22 Mata C.",
+      "2 Diomande S.",
+      "3 Tagliafico N.",
+      "4 Akouokou P.",
+      "18 Cherki R.",
+      "6 Caqueret M.",
+      "8 Tolisso C.",
+      "37 Nuamah E.",
+      "10 Lacazette A. (C)",
+      "30 Desmas A. (G)",
+      "22 Salmier Y.",
+      "93 Sangante A. (C)",
+      "4 Lloris G.",
+      "27 Operi C.",
+      "94 Toure A.",
+      "8 Kechta Y.",
+      "23 Casimir J.",
+      "14 Kuzyaev D.",
+      "10 Alioui N.",
+      "9 Bayo M.",
+      "80 Alvero S.",
+      "7 Balde M.",
+      "84 El Arouch M.",
+      "47 Jeffinho",
+      "24 Lepenant J.",
+      "98 Maitland-Niles A.",
+      "19 Moreira D.",
+      "12 O'Brien J.",
+      "17 Riou R. (G)",
+      "17 El Hajjam O.",
+      "1 Gorgelin M. (G)",
+      "29 Grandsir S.",
+      "20 Logbo A.",
+      "18 Mbemba N.",
+      "19 Ndiaye R.",
+      "11 Sabbi E.",
+      "45 Soumare I.",
+      "6 Youte Kinkoue E.",
+      "Lovren D. Muscle Injury",
+      "Targhalline O. Muscle Injury",
+      "Vulliez J.",
+      "Elsner L."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 3,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 288
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 106,
+    "compact_lineup_text_count": 74,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 8,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Benoit Bastien is looking at his watch and immediately ends this match."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' Poor challenge! Maxence Caqueret (Lyon) is penalised for tripping and Benoit Bastien blows his whistle. Le Havre earn a free kick which could lead to a goal-scoring opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Rayan Cherki (Lyon) fouls an opponent during an attacking move. Le Havre earn a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' The fourth official shows 5 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Lyon failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Substitution. Issa Soumare (Le Havre) replaces Daler Kuzyaev."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Diego Moreira (Lyon) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the bottom right corner as Arthur Desmas produces a good save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Rayan Cherki (Lyon) receives a sweet pass inside the box, but his effort on goal is blocked by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Clinton Mata (Lyon) stands over the resultant free kick from mid-range, but his shot goes just wide of the left post. The ball is off of the pitch and it's a goal kick for Le Havre."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Rayan Cherki (Lyon) slaloms his way past challenges, but an opposing player does well to get the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Emmanuel Sabbi (Le Havre) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Lyon will have a goal kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' This yellow card was deserved. The tackle by Sael Kumbedi (Lyon) was quite harsh and Benoit Bastien didn't hesitate to show him a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Sael Kumbedi (Lyon) brings down his opponent with a very late tackle. Le Havre have been awarded a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Clinton Mata (Lyon) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Jean-Francois Vulliez has decided to introduce fresh legs, with Johann Lepenant (Lyon) replacing Paul Akouokou."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' We are about to witness a subsitution. Diego Moreira (Lyon) for Ernest Nuamah."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Clinton Mata (Lyon) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' The corner is swung into the six-yard box and Clinton Mata (Lyon) gets his head on the ball, but he is unable to keep it down and it goes miles over the bar. The ball is off of the pitch and it's a goal kick for Le Havre."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Maxence Caqueret (Lyon) will deliver the corner kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Luka Elsner prepares a substitution. Nabil Alioui is replaced by Emmanuel Sabbi (Le Havre)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Here's the change. Josue Casimir leaves the pitch and Andy Logbo (Le Havre) comes on as a substitute."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Sael Kumbedi (Lyon) superbly rides the challenge and bends a shot in from distance that flies just wide of the left post. The ball goes out of play and Le Havre will have a goal kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Problems for Jean-Francois Vulliez as Corentin Tolisso is not able to play anymore. His injury is too serious and Mama Balde (Lyon) replaces him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Samuel Grandsir (Le Havre) sends in a shot from a promising distance after a precise pass. His effort goes inches over the crossbar. The ball goes out of play and Lyon will have a goal kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Josue Casimir (Le Havre) is booked after bringing down an opponent. Benoit Bastien had an easy-decision to make."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' The free kick from long range, taken by Le Havre, is intercepted by one of the defenders."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Paul Akouokou (Lyon) pulls the jersey of one of the opposition players and Benoit Bastien blows his whistle for a foul. Le Havre are awarded a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Sinaly Diomande (Lyon) latches on to a superb cross into the box and plants a header well wide of the right post. The ball goes out of play and Le Havre will have a goal kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Luka Elsner has decided to substitute Mohamed Bayo and he is replaced by Samuel Grandsir (Le Havre)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' The referee signals that it is time for a substitution and Rassoul Ndiaye (Le Havre) is coming onto the pitch as Yassine Kechta cannot continue after picking up an injury."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Daler Kuzyaev (Le Havre) has a great chance! He climbs highest deep in the penalty box and strikes a powerful header towards the net. Next time he should aim better as his effort ends wide of the left post. The ball is off of the pitch and it's a goal kick for Lyon."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' A fine pass finds Ernest Nuamah (Lyon) in space inside the box, he looks up and drills a low shot towards the middle of the goal, but the Arthur Desmas reacts superbly to deny him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Corentin Tolisso (Lyon) has picked up a minor injury, but it looks like he will be able to continue."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Corentin Tolisso (Lyon) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Gautier Lloris (Le Havre) gives away a foul for a fierce tackle on an opponent. It's a free kick to Lyon in a dangerous position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' Rayan Cherki (Lyon) gets on the ball and beats an opponent, but his run is stopped by the referee Benoit Bastien who sees an offensive foul. Le Havre have a free kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Referee Benoit Bastien blows his whistle to start the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' A fantastic block by a defender means that the corner from Le Havre comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' There will be a minimum of 1 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Lyon control the tempo of the game by exchanging some accurate short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' The resulting set piece from Lyon is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' The booking goes to Clinton Mata (Lyon)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Mohamed Bayo (Le Havre) attempts to discuss the decision with Benoit Bastien, but he soon realises that it's not the right thing to do as he sees the yellow."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Lyon take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Nicolas Tagliafico (Lyon) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked. The ball is out of play and Lyon manage to earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Nicolas Tagliafico (Lyon) is adjudged offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' Josue Casimir (Le Havre) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Josue Casimir (Le Havre) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Benoit Bastien blows his whistle for a foul after Nabil Alioui (Le Havre) hacks down one of his opponents. A free kick has been awarded to Lyon."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Arthur Desmas pulls off a great save to deny Rayan Cherki (Lyon), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Flag up against Alexandre Lacazette (Lyon). He had space to move into behind the defence, but he went too soon."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Corentin Tolisso puts Alexandre Lacazette (Lyon) in the clear, but he completely fluffs his lines from mid-range and sends a shot well wide of the left post. The ball goes out of play and Le Havre will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' A good clearance by a defender means the corner comes to nothing for Lyon."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Lyon enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Christopher Operi (Le Havre) delivers a promising cross into the box, but it's cleared."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Ernest Nuamah (Lyon) commits an ugly challenge. The referee sees it and immediately blows his whistle. Le Havre win a free kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' The foul by Ernest Nuamah (Lyon) was seen by Benoit Bastien who didn't hesitate to blow the whistle. That's a free kick to Le Havre."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Le Havre couldn't find the way to score from a long-range free kick as Anthony Lopes (Lyon) leaped high and intercepted a cross."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Alexandre Lacazette (Lyon) picks up a yellow card for an infringement."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Alexandre Lacazette (Lyon) jumps into a tackle and Benoit Bastien signals a foul. There is a free kick near the sideline to Le Havre. Alexandre Lacazette (Lyon) picks up a yellow card for an infringement."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Lyon have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half of this match is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out at last! Le Havre will take the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Benoit Bastien was nominated as the referee for this game."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups We now know the starting lineups. You can find them in the match details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our live text commentary, ladies and gentlemen! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+    }
+  ],
+  "events": {
+    "goals": [
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' This yellow card was deserved. The tackle by Sael Kumbedi (Lyon) was quite harsh and Benoit Bastien didn't hesitate to show him a yellow card.",
+        "team_side": "home",
+        "team": "Lyon",
+        "player": "Kumbedi S.",
+        "shirt_number": 20,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Josue Casimir (Le Havre) is booked after bringing down an opponent. Benoit Bastien had an easy-decision to make.",
+        "team_side": "away",
+        "team": "Le Havre",
+        "player": "Casimir J.",
+        "shirt_number": 23,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 5,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "5' Alexandre Lacazette (Lyon) picks up a yellow card for an infringement.",
+        "team_side": "home",
+        "team": "Lyon",
+        "player": "Lacazette A.",
+        "shirt_number": 10,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 5,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "5' Alexandre Lacazette (Lyon) jumps into a tackle and Benoit Bastien signals a foul. There is a free kick near the sideline to Le Havre. Alexandre Lacazette (Lyon) picks up a yellow card for an infringement.",
+        "team_side": "home",
+        "team": "Lyon",
+        "player": "Lacazette A.",
+        "shirt_number": 10,
+        "player_match_score": 156,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Substitution. Issa Soumare (Le Havre) replaces Daler Kuzyaev."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Jean-Francois Vulliez has decided to introduce fresh legs, with Johann Lepenant (Lyon) replacing Paul Akouokou."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' We are about to witness a subsitution. Diego Moreira (Lyon) for Ernest Nuamah."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Luka Elsner prepares a substitution. Nabil Alioui is replaced by Emmanuel Sabbi (Le Havre)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Here's the change. Josue Casimir leaves the pitch and Andy Logbo (Le Havre) comes on as a substitute."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' Problems for Jean-Francois Vulliez as Corentin Tolisso is not able to play anymore. His injury is too serious and Mama Balde (Lyon) replaces him."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' Luka Elsner has decided to substitute Mohamed Bayo and he is replaced by Samuel Grandsir (Le Havre)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' The referee signals that it is time for a substitution and Rassoul Ndiaye (Le Havre) is coming onto the pitch as Yassine Kechta cannot continue after picking up an injury."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 4,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+4' Poor challenge! Maxence Caqueret (Lyon) is penalised for tripping and Benoit Bastien blows his whistle. Le Havre earn a free kick which could lead to a goal-scoring opportunity."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' Paul Akouokou (Lyon) pulls the jersey of one of the opposition players and Benoit Bastien blows his whistle for a foul. Le Havre are awarded a free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Referee Benoit Bastien blows his whistle to start the second half."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+2' The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 27,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "27' Benoit Bastien blows his whistle for a foul after Nabil Alioui (Le Havre) hacks down one of his opponents. A free kick has been awarded to Lyon."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 14,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "14' Ernest Nuamah (Lyon) commits an ugly challenge. The referee sees it and immediately blows his whistle. Le Havre win a free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 8,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "8' The foul by Ernest Nuamah (Lyon) was seen by Benoit Bastien who didn't hesitate to blow the whistle. That's a free kick to Le Havre."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 0,
+    "detected_goal_count": 0,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 0,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 117,
+    "commentary_row_count": 68,
+    "removed_commentary_noise_count": 49,
+    "goal_event_count": 0,
+    "yellow_card_event_count": 4,
+    "red_card_event_count": 0,
+    "substitution_event_count": 8,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 0,
+      "detected_goal_count": 0
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 0,
+    "structured_goal_count": 0,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 4,
+    "structured_yellow_card_count": 4,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T06:17:57Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 68,
+      "error": null
+    }
+  }
+}

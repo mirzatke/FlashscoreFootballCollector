@@ -1,0 +1,2823 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/fulham-69ZiU2Om/manchester-city-Wtn9Stg0/summary/stats/overall/?mid=tbEWgXy2",
+  "match_id": "tbEWgXy2",
+  "page_title": "MCI 3-2 FUL | Manchester City v Fulham 05/10/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "05.10.2024 18:00",
+  "home_team": "Manchester City",
+  "away_team": "Fulham",
+  "score": {
+    "home": "3",
+    "away": "2",
+    "display": "3 - 2"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.59",
+      "away": "2.01",
+      "raw_values": [
+        "1.59",
+        "2.01"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "58%",
+      "away": "42%",
+      "raw_values": [
+        "58%",
+        "42%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "20",
+      "away": "11",
+      "raw_values": [
+        "20",
+        "11"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "7",
+      "away": "4",
+      "raw_values": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "8",
+      "away": "3",
+      "raw_values": [
+        "8",
+        "3"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "91%\n(575/634)",
+      "away": "87%\n(392/452)",
+      "raw_values": [
+        "91%\n(575/634)",
+        "87%\n(392/452)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "1",
+      "raw_values": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "5",
+      "away": "2",
+      "raw_values": [
+        "5",
+        "2"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "8",
+      "away": "5",
+      "raw_values": [
+        "8",
+        "5"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "0",
+      "away": "3",
+      "raw_values": [
+        "0",
+        "3"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "11",
+      "away": "4",
+      "raw_values": [
+        "11",
+        "4"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "11",
+      "away": "13",
+      "raw_values": [
+        "11",
+        "13"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "4",
+      "away": "10",
+      "raw_values": [
+        "4",
+        "10"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "4",
+      "raw_values": [
+        "2",
+        "4"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.59",
+        "away": "2.01",
+        "raw_values": [
+          "1.59",
+          "2.01"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "58%",
+        "away": "42%",
+        "raw_values": [
+          "58%",
+          "42%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "20",
+        "away": "11",
+        "raw_values": [
+          "20",
+          "11"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "8",
+        "away": "3",
+        "raw_values": [
+          "8",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "91%\n(575/634)",
+        "away": "87%\n(392/452)",
+        "raw_values": [
+          "91%\n(575/634)",
+          "87%\n(392/452)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "2",
+        "raw_values": [
+          "5",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "8",
+        "away": "5",
+        "raw_values": [
+          "8",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "11",
+        "away": "4",
+        "raw_values": [
+          "11",
+          "4"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "13",
+        "raw_values": [
+          "11",
+          "13"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "10",
+        "raw_values": [
+          "4",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.06",
+        "away": "1.24",
+        "raw_values": [
+          "1.06",
+          "1.24"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "65%",
+        "away": "35%",
+        "raw_values": [
+          "65%",
+          "35%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "15",
+        "away": "7",
+        "raw_values": [
+          "15",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "8",
+        "away": "2",
+        "raw_values": [
+          "8",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "92%\n(302/330)",
+        "away": "81%\n(147/182)",
+        "raw_values": [
+          "92%\n(302/330)",
+          "81%\n(147/182)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "2",
+        "away": "6",
+        "raw_values": [
+          "2",
+          "6"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.53",
+        "away": "0.77",
+        "raw_values": [
+          "0.53",
+          "0.77"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "51%",
+        "away": "49%",
+        "raw_values": [
+          "51%",
+          "49%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "90%\n(273/304)",
+        "away": "91%\n(245/270)",
+        "raw_values": [
+          "90%\n(273/304)",
+          "91%\n(245/270)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "1",
+        "raw_values": [
+          "7",
+          "1"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "9",
+        "away": "7",
+        "raw_values": [
+          "9",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 31,
+          "name": "Ederson",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "31 Ederson",
+          "source": "formation"
+        },
+        {
+          "number": 82,
+          "name": "Lewis",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "82 Lewis",
+          "source": "formation"
+        },
+        {
+          "number": 25,
+          "name": "Akanji",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Akanji",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Dias",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "3 Dias",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Gvardiol",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Gvardiol",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Kovacic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Kovacic",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Gundogan",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Gundogan",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Silva",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Silva",
+          "source": "formation"
+        },
+        {
+          "number": 47,
+          "name": "Foden",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Foden",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Grealish",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Grealish",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Haaland",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Haaland",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 31,
+          "name": "Ederson",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "31 Ederson (G)",
+          "formation_raw": "31 Ederson",
+          "source": "formation_detail_match",
+          "match_score": 17
+        },
+        {
+          "number": 82,
+          "name": "Lewis R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "82 Lewis R.",
+          "formation_raw": "82 Lewis",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 25,
+          "name": "Akanji M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Akanji M.",
+          "formation_raw": "25 Akanji",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Dias R.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "3 Dias R. (C)",
+          "formation_raw": "3 Dias",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Gvardiol J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Gvardiol J.",
+          "formation_raw": "24 Gvardiol",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Kovacic M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Kovacic M. 2",
+          "formation_raw": "8 Kovacic",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 2
+        },
+        {
+          "number": 19,
+          "name": "Gundogan I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Gundogan I.",
+          "formation_raw": "19 Gundogan",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Silva B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Silva B.",
+          "formation_raw": "20 Silva",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 47,
+          "name": "Foden P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Foden P.",
+          "formation_raw": "47 Foden",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Grealish J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Grealish J.",
+          "formation_raw": "10 Grealish",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Haaland E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Haaland E.",
+          "formation_raw": "9 Haaland",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 33,
+          "name": "Carson S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "33 Carson S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Doku J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Doku J.",
+          "source": "detailed"
+        },
+        {
+          "number": 87,
+          "name": "McAtee J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "87 McAtee J.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Nunes M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Nunes M.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Ortega S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "18 Ortega S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Savinho",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Savinho",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Stones J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Stones J.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Walker K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Walker K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "62",
+          "incoming": "Walker K.",
+          "outgoing": "Akanji M.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Walker K. 6.4 Akanji M. 62'"
+        },
+        {
+          "minute": "62",
+          "incoming": "Doku J.",
+          "outgoing": "Grealish J.",
+          "incoming_rating": 7.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Doku J. 7.5 Grealish J. 62'"
+        },
+        {
+          "minute": "78",
+          "incoming": "Stones J.",
+          "outgoing": "Foden P.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Stones J. 6.5 Foden P. 78'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Nunes M.",
+          "outgoing": "Gundogan I.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Nunes M. Gundogan I. 89'"
+        }
+      ],
+      "coach": "Guardiola P."
+    },
+    "away": {
+      "formation": "5-4-1",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Leno",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Leno",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Iwobi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Iwobi",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Tete",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Tete",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Andersen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Andersen",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Bassey",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bassey",
+          "source": "formation"
+        },
+        {
+          "number": 33,
+          "name": "Robinson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Robinson",
+          "source": "formation"
+        },
+        {
+          "number": 18,
+          "name": "Andreas Pereira",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Andreas Pereira",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Berge",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Berge",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Lukic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Lukic",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Traore",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Traore",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Jimenez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Jimenez",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Leno B.",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Leno B. (G) (C)",
+          "formation_raw": "1 Leno",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Iwobi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Iwobi A.",
+          "formation_raw": "17 Iwobi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Tete K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Tete K.",
+          "formation_raw": "2 Tete",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Andersen J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Andersen J.",
+          "formation_raw": "5 Andersen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Bassey C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bassey C.",
+          "formation_raw": "3 Bassey",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 33,
+          "name": "Robinson A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Robinson A.",
+          "formation_raw": "33 Robinson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 18,
+          "name": "Andreas Pereira",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Andreas Pereira",
+          "formation_raw": "18 Andreas Pereira",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 16,
+          "name": "Berge S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Berge S.",
+          "formation_raw": "16 Berge",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Lukic S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Lukic S.",
+          "formation_raw": "20 Lukic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Traore A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Traore A.",
+          "formation_raw": "11 Traore",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Jimenez R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Jimenez R.",
+          "formation_raw": "7 Jimenez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 23,
+          "name": "Benda S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Benda S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Cairney T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cairney T.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Castagne T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Castagne T.",
+          "source": "detailed"
+        },
+        {
+          "number": 31,
+          "name": "Diop I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Diop I.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Nelson R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Nelson R.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Reed H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Reed H.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Rodrigo Muniz",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Rodrigo Muniz",
+          "source": "detailed"
+        },
+        {
+          "number": 32,
+          "name": "Smith Rowe E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Smith Rowe E.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Wilson H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Wilson H.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "65",
+          "incoming": "Smith Rowe E.",
+          "outgoing": "Andreas Pereira",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 12,
+          "split_match_score": null,
+          "raw": "Smith Rowe E. 6.5 Andreas Pereira 65'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Cairney T.",
+          "outgoing": "Berge S.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Cairney T. 6.6 Berge S. 65'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Castagne T.",
+          "outgoing": "Tete K.",
+          "incoming_rating": 6.7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Castagne T. 6.7 Tete K. 77'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Nelson R.",
+          "outgoing": "Iwobi A.",
+          "incoming_rating": 6.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Nelson R. 6.8 Iwobi A. 77'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Rodrigo Muniz",
+          "outgoing": "Jimenez R.",
+          "incoming_rating": 7.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Rodrigo Muniz 7.5 Jimenez R. 77'"
+        }
+      ],
+      "coach": "Silva M."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "31 Ederson",
+      "82 Lewis",
+      "25 Akanji",
+      "3 Dias",
+      "24 Gvardiol",
+      "8 Kovacic",
+      "19 Gundogan",
+      "20 Silva",
+      "47 Foden",
+      "10 Grealish",
+      "9 Haaland",
+      "1 Leno",
+      "17 Iwobi",
+      "2 Tete",
+      "5 Andersen",
+      "3 Bassey",
+      "33 Robinson",
+      "18 Andreas Pereira",
+      "16 Berge",
+      "20 Lukic",
+      "11 Traore",
+      "7 Jimenez",
+      "Walker K. 6.4 Akanji M. 62'",
+      "Doku J. 7.5 Grealish J. 62'",
+      "Stones J. 6.5 Foden P. 78'",
+      "Nunes M. Gundogan I. 89'",
+      "Smith Rowe E. 6.5 Andreas Pereira 65'",
+      "Cairney T. 6.6 Berge S. 65'",
+      "Castagne T. 6.7 Tete K. 77'",
+      "Nelson R. 6.8 Iwobi A. 77'",
+      "Rodrigo Muniz 7.5 Jimenez R. 77'",
+      "31 Ederson (G)",
+      "82 Lewis R.",
+      "25 Akanji M.",
+      "3 Dias R. (C)",
+      "24 Gvardiol J.",
+      "8 Kovacic M. 2",
+      "19 Gundogan I.",
+      "20 Silva B.",
+      "47 Foden P.",
+      "10 Grealish J.",
+      "9 Haaland E.",
+      "1 Leno B. (G) (C)",
+      "17 Iwobi A.",
+      "2 Tete K.",
+      "5 Andersen J.",
+      "3 Bassey C.",
+      "33 Robinson A.",
+      "16 Berge S.",
+      "20 Lukic S.",
+      "11 Traore A.",
+      "7 Jimenez R.",
+      "33 Carson S. (G)",
+      "11 Doku J.",
+      "87 McAtee J.",
+      "27 Nunes M.",
+      "18 Ortega S. (G)",
+      "26 Savinho",
+      "5 Stones J.",
+      "2 Walker K.",
+      "23 Benda S. (G)",
+      "10 Cairney T.",
+      "21 Castagne T.",
+      "31 Diop I.",
+      "19 Nelson R.",
+      "6 Reed H.",
+      "9 Rodrigo Muniz",
+      "32 Smith Rowe E.",
+      "8 Wilson H.",
+      "Ake N. Muscle Injury",
+      "Bobb O. Leg Injury",
+      "De Bruyne K. Muscle Injury",
+      "Rodri Knee Injury",
+      "Carlos Vinicius Calf Injury",
+      "Cuenca J. Ankle Injury",
+      "Guardiola P.",
+      "Silva M."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 8,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 38,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 4,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 8,
+    "bench_boundary_score": 323.975
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 111,
+    "compact_lineup_text_count": 77,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 38,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 8,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 8
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' That's it for today, Peter Bankes has blown his whistle and the game is over."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Bernardo Silva (Manchester City) is the one who receives a yellow card."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' The game is interrupted. Ederson (Manchester City) is given a yellow card. He has to be more careful now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Sasa Lukic (Fulham) puts a dangerous cross into the box, but the corner is cleared by the first man."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' The fourth official shows 5 min. of added time."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Substitution. Matheus Nunes (Manchester City) on for Ilkay Gundogan."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "89' 3 - 2 Goal - 3:2! Reiss Nelson laid the ball off to Rodrigo Muniz (Fulham), who shot from close range into the left side of the goal, leaving the goalkeeper helpless."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Bernardo Silva (Manchester City) latches on to a precise defence-splitting pass and drills a nice strike from a promising distance towards the middle of the goal. Bernd Leno has a clear sight of it and makes a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Long passes, short passes and one-two passes. Fulham are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "82' 3 - 1 Jeremy Doku (Manchester City) perfectly wriggles his way through two or three opponents, and he produces a shot from the edge of the box which goes into the roof of the net. Wonderful goal!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Manchester City seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Substitution. Phil Foden makes his way off the pitch and John Stones (Manchester City) comes on as his replacement."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Marco Silva has decided to make a change. Rodrigo Muniz (Fulham) replaces Raul Jimenez."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' The referee signals that it is time for a substitution and Reiss Nelson (Fulham) will replace Alex Iwobi."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' We are about to witness a subsitution. Timothy Castagne (Fulham) for Kenny Tete."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Manchester City are showing great team chemistry. They are passing it around beautifully. Excellent team work."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Fulham seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Fouls committed – 3:7."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Adama Traore (Fulham) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Ederson makes a decent save to deny his effort directed low to the middle of the target."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Half-chance! Jeremy Doku (Manchester City) plays a pass into the box, but Bernd Leno reacts well to snuff out the attack."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' The referee stops play so that a substitution can be made and Andreas Pereira leaves the pitch and Emile Smith Rowe (Fulham) comes on."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Marco Silva has decided to introduce fresh legs, with Tom Cairney (Fulham) replacing Sander Berge."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' That will be a yellow card for one of the players. The one who gets booked is Calvin Bassey (Fulham)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Fulham seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Pep Guardiola has decided to substitute Jack Grealish and he is replaced by Jeremy Doku (Manchester City)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Here comes a substitution. Kyle Walker (Manchester City) is brought on as a substitute for Manuel Akanji."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Sasa Lukic (Fulham) commits a rough challenge and Peter Bankes blows his whistle for a foul. A free kick has been awarded to Manchester City."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Wasted effort! Phil Foden (Manchester City) finds himself some space, looks up but sends a dreadful shot high over the bar from long range. The ball is off of the pitch and it's a goal kick for Fulham."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' The defence is alert as they clear a dangerous cross from Antonee Robinson (Fulham)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' The possession of the ball – 69:31."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' Jack Grealish (Manchester City) produces a dangerous lofted cross into the box which is intercepted."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Manchester City slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Erling Haaland (Manchester City) creates himself some space around the penalty spot and connects with the free kick. His header is badly mistimed and sails high over the bar. The ball goes out of play and Fulham will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Manchester City seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "47' 2 - 1 Mateo Kovacic (Manchester City) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The half-time break is over and the second half is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Peter Bankes has ended the first half by blowing the whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' 1 min. of stoppage-time to be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' A cross is whipped into the centre of the box towards Bernardo Silva (Manchester City). He gets a good contact on the ball but heads it high over the bar. The ball goes out of play and Fulham will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Long passes, short passes and one-two passes. Manchester City are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Antonee Robinson (Fulham) flights in the cross, but the defender is alert and clears to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Andreas Pereira (Fulham) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Antonee Robinson (Fulham) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. It's a throw-in for Fulham."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' A fantastic block by a defender means that the corner from Manchester City comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Phil Foden (Manchester City) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "32' 1 - 1 Goal! Mateo Kovacic (Manchester City) picks up the ball inside the box, finds himself in a good position and fires in a shot which is deflected past Bernd Leno. He makes it 1:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Manchester City force a corner. They send men into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Jack Grealish (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The linesman makes the right call and Manchester City will have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Wonderful movement by Manchester City. The players are holding possession, mostly exchanging one-touch passes. They control the pace of the game now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' CHANCE! Adama Traore (Fulham) picks up a perfect pass inside the box, makes himself some space for a shot, but his effort goes just over the crossbar. The ball goes out of play and Manchester City will have a goal kick."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "26' 0 - 1 Andreas Pereira (Fulham) collects a delightful pass inside the box and slashes the ball into the middle of the goal. What a clinical finish!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Great ball in from Bernardo Silva. Ilkay Gundogan (Manchester City) should really have done better with a close-range header, but he heads it a whisker wide of the left post. The ball goes out of play and Fulham will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Mateo Kovacic (Manchester City) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Manchester City are showing great team chemistry. They are passing it around beautifully. Excellent team work."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' A cross from a mid-range free kick, taken by Manchester City, is intercepted by one of the defenders."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Sander Berge (Fulham) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Jack Grealish (Manchester City) was too forceful with his tackle and Peter Bankes interrupted the game to signal a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Manchester City work the corner short. The ball is passed to a nearby teammate."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Adama Traore (Fulham) unleashes a promising shot low towards the middle of the goal after his wonderful solo run, but Ederson thwarts the effort with a fabulous save. The score remains the same."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Manchester City fail to score from a corner as Bernd Leno (Fulham) leaps to collect the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Manchester City have a chance to score from a corner kick, but the ball is cleared by a defender. Manchester City earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Bernardo Silva (Manchester City) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. The ball is out of play and Manchester City manage to earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' Erling Haaland (Manchester City) outjumps the defence to meet the resulting corner and heads the ball towards the middle of the goal. The long-range header is not powerful enough, and the keeper comfortably makes a save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Phil Foden (Manchester City) is heading toward the corner flag to take the set piece."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Rico Lewis (Manchester City) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Manchester City have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' The corner is swung in but Fulham can’t take advantage as a defender sweeps the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Alex Iwobi (Fulham) has a shot blocked from inside the box. Fulham have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Fulham decide to take a short pass from the free kick and the attacking effort continues."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Manchester City slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Erling Haaland (Manchester City) unleashes a shot from the edge of the box, but it goes straight at Bernd Leno."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Ilkay Gundogan (Manchester City) is unable to get the free-kick over the defensive wall from mid-range."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Sasa Lukic (Fulham) is penalised for holding. Peter Bankes signals a set piece. Another situation results in a direct free kick for Manchester City."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Manchester City seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Ilkay Gundogan (Manchester City) releases a superb dipping volley at goal from the edge of the box that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Fulham."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' The resulting set piece from Manchester City is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Erling Haaland (Manchester City) tries to send the ball in front of the goal, but the opposition's defence averts the threat. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Long passes, short passes and one-two passes. Manchester City are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half of this match is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Fulham will kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The referee of today's match will be Peter Bankes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups In the details of this match, you can glance at the lineups while the game is about to begin."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "89' 3 - 2 Goal - 3:2! Reiss Nelson laid the ball off to Rodrigo Muniz (Fulham), who shot from close range into the left side of the goal, leaving the goalkeeper helpless.",
+        "team_side": "away",
+        "team": "Fulham",
+        "player_team_side": "away",
+        "player_team": "Fulham",
+        "player": "Rodrigo Muniz",
+        "shirt_number": 9,
+        "player_match_score": 164,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 2
+        },
+        "assist_player": "Nelson R.",
+        "assist_shirt_number": 19,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 82,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "82' 3 - 1 Jeremy Doku (Manchester City) perfectly wriggles his way through two or three opponents, and he produces a shot from the edge of the box which goes into the roof of the net. Wonderful goal!",
+        "team_side": "home",
+        "team": "Manchester City",
+        "player_team_side": "home",
+        "player_team": "Manchester City",
+        "player": "Doku J.",
+        "shirt_number": 11,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 47,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "47' 2 - 1 Mateo Kovacic (Manchester City) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper.",
+        "team_side": "home",
+        "team": "Manchester City",
+        "player_team_side": "home",
+        "player_team": "Manchester City",
+        "player": "Kovacic M.",
+        "shirt_number": 8,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 32,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "32' 1 - 1 Goal! Mateo Kovacic (Manchester City) picks up the ball inside the box, finds himself in a good position and fires in a shot which is deflected past Bernd Leno. He makes it 1:1.",
+        "team_side": "home",
+        "team": "Manchester City",
+        "player_team_side": "home",
+        "player_team": "Manchester City",
+        "player": "Kovacic M.",
+        "shirt_number": 8,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": true,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 26,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "26' 0 - 1 Andreas Pereira (Fulham) collects a delightful pass inside the box and slashes the ball into the middle of the goal. What a clinical finish!",
+        "team_side": "away",
+        "team": "Fulham",
+        "player_team_side": "away",
+        "player_team": "Fulham",
+        "player": "Andreas Pereira",
+        "shirt_number": 18,
+        "player_match_score": 154,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' Bernardo Silva (Manchester City) is the one who receives a yellow card.",
+        "team_side": "home",
+        "team": "Manchester City",
+        "player": "Silva B.",
+        "shirt_number": 20,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' The game is interrupted. Ederson (Manchester City) is given a yellow card. He has to be more careful now.",
+        "team_side": "home",
+        "team": "Manchester City",
+        "player": "Ederson",
+        "shirt_number": 31,
+        "player_match_score": 141,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' That will be a yellow card for one of the players. The one who gets booked is Calvin Bassey (Fulham).",
+        "team_side": "away",
+        "team": "Fulham",
+        "player": "Bassey C.",
+        "shirt_number": 3,
+        "player_match_score": 149,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Substitution. Matheus Nunes (Manchester City) on for Ilkay Gundogan."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Substitution. Phil Foden makes his way off the pitch and John Stones (Manchester City) comes on as his replacement."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Marco Silva has decided to make a change. Rodrigo Muniz (Fulham) replaces Raul Jimenez."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' The referee signals that it is time for a substitution and Reiss Nelson (Fulham) will replace Alex Iwobi."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' We are about to witness a subsitution. Timothy Castagne (Fulham) for Kenny Tete."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' The referee stops play so that a substitution can be made and Andreas Pereira leaves the pitch and Emile Smith Rowe (Fulham) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Marco Silva has decided to introduce fresh legs, with Tom Cairney (Fulham) replacing Sander Berge."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "62' Pep Guardiola has decided to substitute Jack Grealish and he is replaced by Jeremy Doku (Manchester City)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "62' Here comes a substitution. Kyle Walker (Manchester City) is brought on as a substitute for Manuel Akanji."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' Sasa Lukic (Fulham) commits a rough challenge and Peter Bankes blows his whistle for a foul. A free kick has been awarded to Manchester City."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The half-time break is over and the second half is about to start."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 21,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "21' Sander Berge (Fulham) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 5,
+    "detected_goal_count": 5,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 5,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 149,
+    "commentary_row_count": 83,
+    "removed_commentary_noise_count": 66,
+    "goal_event_count": 5,
+    "yellow_card_event_count": 3,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 5,
+      "detected_goal_count": 5
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": true,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_match",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 5,
+    "structured_goal_count": 5,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 3,
+    "structured_yellow_card_count": 3,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-15T18:10:16Z",
+  "collector_profile": {
+    "competition_key": "premier_league",
+    "competition": "English Premier League",
+    "season": "2024/2025",
+    "season_key": "2024_2025",
+    "expected_match_count": 380,
+    "supports_player_stats": true
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 83,
+      "error": null
+    }
+  }
+}

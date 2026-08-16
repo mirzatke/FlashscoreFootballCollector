@@ -1,0 +1,2831 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/augsburg-fTVNku3I/mainz-EuakNmc1/summary/stats/overall/?mid=tz4tshSa",
+  "match_id": "tz4tshSa",
+  "page_title": "AUG 2-1 MAI | Augsburg v Mainz 23/09/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "23.09.2023 17:30",
+  "home_team": "Augsburg",
+  "away_team": "Mainz",
+  "score": {
+    "home": "2",
+    "away": "1",
+    "display": "2 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.19",
+      "away": "0.72",
+      "raw_values": [
+        "1.19",
+        "0.72"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "45%",
+      "away": "55%",
+      "raw_values": [
+        "45%",
+        "55%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "6",
+      "away": "13",
+      "raw_values": [
+        "6",
+        "13"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "3",
+      "away": "3",
+      "raw_values": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "3",
+      "away": "4",
+      "raw_values": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "76%\n(251/330)",
+      "away": "84%\n(387/461)",
+      "raw_values": [
+        "76%\n(251/330)",
+        "84%\n(387/461)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "1",
+      "away": "0",
+      "raw_values": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "3",
+      "away": "10",
+      "raw_values": [
+        "3",
+        "10"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "2",
+      "raw_values": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "18",
+      "away": "18",
+      "raw_values": [
+        "18",
+        "18"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "13",
+      "away": "24",
+      "raw_values": [
+        "13",
+        "24"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "16",
+      "away": "14",
+      "raw_values": [
+        "16",
+        "14"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "1",
+      "raw_values": [
+        "2",
+        "1"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.19",
+        "away": "0.72",
+        "raw_values": [
+          "1.19",
+          "0.72"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "45%",
+        "away": "55%",
+        "raw_values": [
+          "45%",
+          "55%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "13",
+        "raw_values": [
+          "6",
+          "13"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "76%\n(251/330)",
+        "away": "84%\n(387/461)",
+        "raw_values": [
+          "76%\n(251/330)",
+          "84%\n(387/461)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "10",
+        "raw_values": [
+          "3",
+          "10"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "18",
+        "away": "18",
+        "raw_values": [
+          "18",
+          "18"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "13",
+        "away": "24",
+        "raw_values": [
+          "13",
+          "24"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "16",
+        "away": "14",
+        "raw_values": [
+          "16",
+          "14"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.14",
+        "away": "0.21",
+        "raw_values": [
+          "1.14",
+          "0.21"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "51%",
+        "away": "49%",
+        "raw_values": [
+          "51%",
+          "49%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "83%\n(183/221)",
+        "away": "82%\n(167/204)",
+        "raw_values": [
+          "83%\n(183/221)",
+          "82%\n(167/204)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "8",
+        "away": "9",
+        "raw_values": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "12",
+        "raw_values": [
+          "7",
+          "12"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "7",
+        "raw_values": [
+          "8",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.05",
+        "away": "0.51",
+        "raw_values": [
+          "0.05",
+          "0.51"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "39%",
+        "away": "61%",
+        "raw_values": [
+          "39%",
+          "61%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "2",
+        "away": "10",
+        "raw_values": [
+          "2",
+          "10"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "62%\n(68/109)",
+        "away": "86%\n(220/257)",
+        "raw_values": [
+          "62%\n(68/109)",
+          "86%\n(220/257)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "8",
+        "raw_values": [
+          "1",
+          "8"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "10",
+        "away": "9",
+        "raw_values": [
+          "10",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "6",
+        "away": "12",
+        "raw_values": [
+          "6",
+          "12"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "7",
+        "raw_values": [
+          "8",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 17,
+    "statistic_row_count": 12,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-2-1",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Dahmen",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Dahmen",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Pfeiffer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Pfeiffer",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Gouweleeuw",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Gouweleeuw",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Uduokhai",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Uduokhai",
+          "source": "formation"
+        },
+        {
+          "number": 43,
+          "name": "Mbabu",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "43 Mbabu",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Rexhbecaj",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Rexhbecaj",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Engels",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Engels",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Iago Borduchi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Iago Borduchi",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Vargas",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Vargas",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Demirovic",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "9 Demirovic",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Tietz",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Tietz",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Dahmen F.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Dahmen F. (G)",
+          "formation_raw": "1 Dahmen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Pfeiffer P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Pfeiffer P.",
+          "formation_raw": "5 Pfeiffer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Gouweleeuw J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Gouweleeuw J.",
+          "formation_raw": "6 Gouweleeuw",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Uduokhai F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Uduokhai F.",
+          "formation_raw": "19 Uduokhai",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 43,
+          "name": "Mbabu K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "43 Mbabu K.",
+          "formation_raw": "43 Mbabu",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Rexhbecaj E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Rexhbecaj E.",
+          "formation_raw": "8 Rexhbecaj",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Engels A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Engels A.",
+          "formation_raw": "27 Engels",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Iago Borduchi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Iago Borduchi",
+          "formation_raw": "22 Iago Borduchi",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 16,
+          "name": "Vargas R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Vargas R.",
+          "formation_raw": "16 Vargas",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Demirovic E.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "9 Demirovic E. (C) 2",
+          "formation_raw": "9 Demirovic",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 2
+        },
+        {
+          "number": 21,
+          "name": "Tietz P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Tietz P.",
+          "formation_raw": "21 Tietz",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 23,
+          "name": "Bauer M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Bauer M.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Beljo D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Beljo D.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Breithaupt T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Breithaupt T.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Dorsch N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Dorsch N.",
+          "source": "detailed"
+        },
+        {
+          "number": 40,
+          "name": "Koubek T.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "40 Koubek T. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Maier A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Maier A.",
+          "source": "detailed"
+        },
+        {
+          "number": 34,
+          "name": "Mbuku N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Mbuku N.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Michel S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Michel S.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "65",
+          "incoming": "Breithaupt T.",
+          "outgoing": "Tietz P.",
+          "incoming_rating": 6.6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Breithaupt T. 6.6 Tietz P. 65'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Michel S.",
+          "outgoing": "Vargas R.",
+          "incoming_rating": 6.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Michel S. 6.3 Vargas R. 65'"
+        },
+        {
+          "minute": "72",
+          "incoming": "Bauer M.",
+          "outgoing": "Pfeiffer P.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bauer M. 6.4 Pfeiffer P. 72'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Beljo D.",
+          "outgoing": "Demirovic E.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Beljo D. Demirovic E. 89'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Dorsch N.",
+          "outgoing": "Rexhbecaj E.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Dorsch N. Rexhbecaj E. 89'"
+        }
+      ],
+      "coach": "Maassen E."
+    },
+    "away": {
+      "formation": "3-4-2-1",
+      "formation_players": [
+        {
+          "number": 27,
+          "name": "Zentner",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "27 Zentner",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Bell",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Bell",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Kohr",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Kohr",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Fernandes",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Fernandes",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "da Costa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 da Costa",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Barreiro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Barreiro",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Krauss",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Krauss",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Caci",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Caci",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Lee",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Lee",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Onisiwo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Onisiwo",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Ajorque",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Ajorque",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 27,
+          "name": "Zentner R.",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "27 Zentner R. (G) (C)",
+          "formation_raw": "27 Zentner",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Bell S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Bell S.",
+          "formation_raw": "16 Bell",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 31,
+          "name": "Kohr D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Kohr D.",
+          "formation_raw": "31 Kohr",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Fernandes E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Fernandes E.",
+          "formation_raw": "20 Fernandes",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "da Costa D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 da Costa D.",
+          "formation_raw": "21 da Costa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Barreiro L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Barreiro L.",
+          "formation_raw": "8 Barreiro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Krauss T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Krauss T.",
+          "formation_raw": "14 Krauss",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Caci A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Caci A.",
+          "formation_raw": "19 Caci",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Lee Jae-Sung",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Lee Jae-Sung",
+          "formation_raw": "7 Lee",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Onisiwo K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Onisiwo K.",
+          "formation_raw": "9 Onisiwo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Ajorque L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Ajorque L.",
+          "formation_raw": "17 Ajorque",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 3,
+          "name": "Pedersen M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Pedersen M.",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Barkok A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Barkok A.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Batz D.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "33 Batz D. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 34,
+          "name": "El Ghazi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 El Ghazi A.",
+          "source": "detailed"
+        },
+        {
+          "number": 43,
+          "name": "Gruda B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "43 Gruda B.",
+          "source": "detailed"
+        },
+        {
+          "number": 45,
+          "name": "Mamutovic D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "45 Mamutovic D.",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Papela M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Papela M.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Richter M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Richter M.",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "van den Berg S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 van den Berg S.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "43",
+          "incoming": "Barkok A.",
+          "outgoing": "da Costa D.",
+          "incoming_rating": 6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Barkok A. 6.0 da Costa D. 43'"
+        },
+        {
+          "minute": "69",
+          "incoming": "van den Berg S.",
+          "outgoing": "Bell S.",
+          "incoming_rating": 6.9,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "van den Berg S. 6.9 Bell S. 69'"
+        },
+        {
+          "minute": "69",
+          "incoming": "Gruda B.",
+          "outgoing": "Krauss T.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Gruda B. 6.3 Krauss T. 69'"
+        },
+        {
+          "minute": "79",
+          "incoming": "Richter M.",
+          "outgoing": "Barreiro L.",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Richter M. 6.5 Barreiro L. 79'"
+        },
+        {
+          "minute": "80",
+          "incoming": "El Ghazi A.",
+          "outgoing": "Onisiwo K.",
+          "incoming_rating": 6.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "El Ghazi A. 6.1 Onisiwo K. 80'"
+        }
+      ],
+      "coach": "Svensson B."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Dahmen",
+      "5 Pfeiffer",
+      "6 Gouweleeuw",
+      "19 Uduokhai",
+      "43 Mbabu",
+      "8 Rexhbecaj",
+      "27 Engels",
+      "22 Iago Borduchi",
+      "16 Vargas",
+      "9 Demirovic",
+      "21 Tietz",
+      "27 Zentner",
+      "16 Bell",
+      "31 Kohr",
+      "20 Fernandes",
+      "21 da Costa",
+      "8 Barreiro",
+      "14 Krauss",
+      "19 Caci",
+      "7 Lee",
+      "9 Onisiwo",
+      "17 Ajorque",
+      "Breithaupt T. 6.6 Tietz P. 65'",
+      "Michel S. 6.3 Vargas R. 65'",
+      "Bauer M. 6.4 Pfeiffer P. 72'",
+      "Beljo D. Demirovic E. 89'",
+      "Dorsch N. Rexhbecaj E. 89'",
+      "Barkok A. 6.0 da Costa D. 43'",
+      "van den Berg S. 6.9 Bell S. 69'",
+      "Gruda B. 6.3 Krauss T. 69'",
+      "Richter M. 6.5 Barreiro L. 79'",
+      "El Ghazi A. 6.1 Onisiwo K. 80'",
+      "1 Dahmen F. (G)",
+      "5 Pfeiffer P.",
+      "6 Gouweleeuw J.",
+      "19 Uduokhai F.",
+      "43 Mbabu K.",
+      "8 Rexhbecaj E.",
+      "27 Engels A.",
+      "16 Vargas R.",
+      "9 Demirovic E. (C) 2",
+      "21 Tietz P.",
+      "27 Zentner R. (G) (C)",
+      "16 Bell S.",
+      "31 Kohr D.",
+      "20 Fernandes E.",
+      "21 da Costa D.",
+      "8 Barreiro L.",
+      "14 Krauss T.",
+      "19 Caci A.",
+      "7 Lee Jae-Sung",
+      "9 Onisiwo K.",
+      "17 Ajorque L.",
+      "23 Bauer M.",
+      "7 Beljo D.",
+      "18 Breithaupt T.",
+      "30 Dorsch N.",
+      "40 Koubek T. (G)",
+      "10 Maier A.",
+      "34 Mbuku N.",
+      "20 Michel S.",
+      "3 Pedersen M.",
+      "4 Barkok A.",
+      "33 Batz D. (G)",
+      "34 El Ghazi A.",
+      "43 Gruda B.",
+      "45 Mamutovic D.",
+      "24 Papela M.",
+      "10 Richter M.",
+      "3 van den Berg S.",
+      "Framberger R. Knee Injury",
+      "Okugawa M. Injury",
+      "Tanganga J. Knee Injury",
+      "Winther F. Ankle Injury",
+      "Burkardt J. Knee Injury",
+      "Hanche-Olsen A. Ankle Injury",
+      "Leitsch M. Knee Injury",
+      "Weiper N. Knee Injury",
+      "Widmer S. Ankle Injury",
+      "Maassen E.",
+      "Svensson B."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 8,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 38,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 8,
+    "bench_boundary_score": 359.975
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 116,
+    "compact_lineup_text_count": 81,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 38,
+    "substitution_count": 10,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 8,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 8
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 8,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+8' The referee blows for the end of today's match."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' Jae-Sung Lee (Mainz) receives a yellow card from the referee as expected."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Ludovic Ajorque (Mainz) is clearly in an offside position after the ball is played through to him and the linesman raises his flag."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Dion Beljo (Augsburg) is awarded a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Marco Richter (Mainz) takes a shot from the edge of the area, but it goes harmlessly wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Sepp van den Berg (Mainz) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Marco Fritz interrupts the game for a tactical foul by Aymen Barkok (Mainz)."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' This is a yellow card! Niklas Dorsch (Augsburg) is not happy with the decision, but from our point of view it was clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 7 min. of stoppage-time to be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Brajan Gruda (Mainz) tries to slide the ball through to a teammate but it's well blocked by a defender."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Here is a change. Elvis Rexhbecaj is going off and Enrico Maassen gives the last tactical orders to Niklas Dorsch (Augsburg)."
+    },
+    {
+      "type": "attendance",
+      "primary_type": "attendance",
+      "tags": [
+        "attendance"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' The attendance for today's match is 27310."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Dion Beljo (Augsburg) comes onto the pitch after Ermedin Demirovic signals to the bench that he cannot continue any longer after picking up an injury."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Aymen Barkok (Mainz) tries to find Edimilson Fernandes, but he puts too much power on the through ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Mainz fail to score from a corner as Finn Dahmen (Augsburg) leaps to collect the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Anwar El-Ghazi (Mainz) lashes the ball towards goal from outside the penalty area, but it goes narrowly over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Mainz will take a corner kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Bo Svensson decides to make a substitution. Karim Onisiwo will be replaced by Anwar El-Ghazi (Mainz)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' That's the end of the game for Leandro Barreiro, who is replaced by Marco Richter (Mainz)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Edimilson Fernandes (Mainz) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Sepp van den Berg (Mainz) attempts to find Leandro Barreiro, but puts far too much on the pass and the chance is gone."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' A yellow card for bad language! Robin Zentner (Mainz) couldn’t remain silent and the result is obvious."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Brajan Gruda (Mainz) delivers a promising cross into the box, but it's cleared."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Brajan Gruda (Mainz) commits a foul and is shown a yellow card without any hesitation from the referee."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Patric Pfeiffer (Augsburg) just cannot continue due to injury and has to be substituted. Maximilian Bauer replaces him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Patric Pfeiffer (Augsburg) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Substitution. Stefan Bell did his best and is replaced by Sepp van den Berg (Mainz)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' It's time for a substitution. That's the last involvement from Tom Krauss as he is replaced by Brajan Gruda (Mainz)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' The Augsburg players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' The referee signals a substitution. Sven Michel (Augsburg) is brought on as a substitute for Ruben Vargas."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Enrico Maassen has decided to substitute Phillip Tietz and he is replaced by Tim Breithaupt (Augsburg)."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' He’s off! Arne Engels (Augsburg) gets his marching orders from referee Marco Fritz after the VAR review."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' It's been a while since that contentious challenge by Arne Engels (Augsburg), but referee Marco Fritz must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Arne Engels (Augsburg) takes the corner kick, but Robin Zentner reads it well and stops the effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Mainz control the tempo of the game by exchanging some accurate short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' The ball is out of play. A goal-scoring opportunity from a corner for Mainz."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Ludovic Ajorque (Mainz) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Kevin Mbabu (Augsburg) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Arne Engels (Augsburg) sends the corner into the box, but Robin Zentner intercepts it and averts the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Arne Engels (Augsburg) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Everything is set for the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' The end of the first half."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Elvis Rexhbecaj (Augsburg) looks up on the edge of the box and rifles in a screamer of a shot that flies just over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' 4 additional min. will be played."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "45' 2 - 1 Ermedin Demirovic (Augsburg) rises high to beat the goalkeeper with a perfect header. He heads the ball into the bottom right corner."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' We are about to witness a substitution. Aymen Barkok (Mainz) is replacing Danny da Costa."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Danny da Costa (Mainz) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Augsburg are just stroking the ball across the park now, but the defence is doing very well breaking up their possession."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Karim Onisiwo (Mainz) sends a long crossfield pass searching out one of his teammates, but his effort comes to nothing and they lose possession."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Stefan Bell (Mainz) tries to latch onto a through ball, but it's too long."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Danny da Costa (Mainz) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Kevin Mbabu (Augsburg) swings in a cross, but the ball is cleared to safety by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Phillip Tietz (Augsburg) fouls an opponent. At least that's what referee Marco Fritz signals."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' Rough tackle by Ruben Vargas (Augsburg). The referee blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Edimilson Fernandes (Mainz) is penalised for holding. Marco Fritz signals a set piece."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Ruben Vargas (Augsburg) is offside and the linesman raises his flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Finn Dahmen leaps to collect the ball from the corner which was sent over by Edimilson Fernandes (Mainz)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' The defence is alert as they clear a dangerous cross from Karim Onisiwo (Mainz)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Mainz can’t profit from the corner as the defence clear the ball upfield."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Danny da Costa (Mainz) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "15' 1 - 1 Goal! Ermedin Demirovic (Augsburg) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the right side of the goal. It's 1:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Danny da Costa (Mainz) sends a pass into the box, but his attempt is thwarted and cleared."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' The goal by Mainz won't count as it has been disallowed due to offside on the advice of the video assistant referee!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Wait! Referee Marco Fritz has indicated he is going to review the Mainz goal using VAR. It’s probably to see if there was an offside in the build-up."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Goal! A rebound wrong foots everyone except Stefan Bell (Mainz), and he slams the ball into the open net from close range. 0:1."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Patric Pfeiffer (Augsburg) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Mainz play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "6' 0 - 1 It's in! Ludovic Ajorque (Mainz) finds space in the box and from close range powers an unstoppable header into the right of the goal after a cheeky lofted pass from Danny da Costa. 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Mainz seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The referee blows his whistle and we are underway."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Mainz will kick the game off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Marco Fritz is the one to supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting XIs were already announced and you can go through them in the Lineups section."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "45' 2 - 1 Ermedin Demirovic (Augsburg) rises high to beat the goalkeeper with a perfect header. He heads the ball into the bottom right corner.",
+        "team_side": "home",
+        "team": "Augsburg",
+        "player_team_side": "home",
+        "player_team": "Augsburg",
+        "player": "Demirovic E.",
+        "shirt_number": 9,
+        "player_match_score": 134,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 15,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "15' 1 - 1 Goal! Ermedin Demirovic (Augsburg) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the right side of the goal. It's 1:1.",
+        "team_side": "home",
+        "team": "Augsburg",
+        "player_team_side": "home",
+        "player_team": "Augsburg",
+        "player": "Demirovic E.",
+        "shirt_number": 9,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 6,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "6' 0 - 1 It's in! Ludovic Ajorque (Mainz) finds space in the box and from close range powers an unstoppable header into the right of the goal after a cheeky lofted pass from Danny da Costa. 0:1.",
+        "team_side": "away",
+        "team": "Mainz",
+        "player_team_side": "away",
+        "player_team": "Mainz",
+        "player": "Ajorque L.",
+        "shirt_number": 17,
+        "player_match_score": 137,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": "da Costa D.",
+        "assist_shirt_number": 21,
+        "assist_match_score": 140
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 7,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+7' Jae-Sung Lee (Mainz) receives a yellow card from the referee as expected.",
+        "team_side": "away",
+        "team": "Mainz",
+        "player": "Lee Jae-Sung",
+        "shirt_number": 7,
+        "player_match_score": 169,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+5' Dion Beljo (Augsburg) is awarded a yellow card.",
+        "team_side": "home",
+        "team": "Augsburg",
+        "player": "Beljo D.",
+        "shirt_number": 7,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+1' This is a yellow card! Niklas Dorsch (Augsburg) is not happy with the decision, but from our point of view it was clear.",
+        "team_side": "home",
+        "team": "Augsburg",
+        "player": "Dorsch N.",
+        "shirt_number": 30,
+        "player_match_score": 138,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' A yellow card for bad language! Robin Zentner (Mainz) couldn’t remain silent and the result is obvious.",
+        "team_side": "away",
+        "team": "Mainz",
+        "player": "Zentner R.",
+        "shirt_number": 27,
+        "player_match_score": 138,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Brajan Gruda (Mainz) commits a foul and is shown a yellow card without any hesitation from the referee.",
+        "team_side": "away",
+        "team": "Mainz",
+        "player": "Gruda B.",
+        "shirt_number": 43,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Here is a change. Elvis Rexhbecaj is going off and Enrico Maassen gives the last tactical orders to Niklas Dorsch (Augsburg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Dion Beljo (Augsburg) comes onto the pitch after Ermedin Demirovic signals to the bench that he cannot continue any longer after picking up an injury."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 80,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "80' Bo Svensson decides to make a substitution. Karim Onisiwo will be replaced by Anwar El-Ghazi (Mainz)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' That's the end of the game for Leandro Barreiro, who is replaced by Marco Richter (Mainz)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' Patric Pfeiffer (Augsburg) just cannot continue due to injury and has to be substituted. Maximilian Bauer replaces him."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "69' Substitution. Stefan Bell did his best and is replaced by Sepp van den Berg (Mainz)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "69' It's time for a substitution. That's the last involvement from Tom Krauss as he is replaced by Brajan Gruda (Mainz)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' The referee signals a substitution. Sven Michel (Augsburg) is brought on as a substitute for Ruben Vargas."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Enrico Maassen has decided to substitute Phillip Tietz and he is replaced by Tim Breithaupt (Augsburg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 43,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "43' We are about to witness a substitution. Aymen Barkok (Mainz) is replacing Danny da Costa."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "62' He’s off! Arne Engels (Augsburg) gets his marching orders from referee Marco Fritz after the VAR review.",
+        "review_reason": "unknown",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Augsburg",
+        "player": "Engels A.",
+        "shirt_number": 27,
+        "player_match_score": 135,
+        "is_var_event": true,
+        "related_event_minute": 60
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 60,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "60' It's been a while since that contentious challenge by Arne Engels (Augsburg), but referee Marco Fritz must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!",
+        "review_reason": "red_card",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Augsburg",
+        "player": "Engels A.",
+        "shirt_number": 27,
+        "player_match_score": 142,
+        "is_var_event": true,
+        "related_event_minute": 62
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 13,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "13' The goal by Mainz won't count as it has been disallowed due to offside on the advice of the video assistant referee!",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "away",
+        "team": "Mainz",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 12
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 12,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "12' Wait! Referee Marco Fritz has indicated he is going to review the Mainz goal using VAR. It’s probably to see if there was an offside in the build-up.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "away",
+        "team": "Mainz",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 13
+      }
+    ],
+    "attendance": [
+      {
+        "type": "attendance",
+        "primary_type": "attendance",
+        "tags": [
+          "attendance"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' The attendance for today's match is 27310."
+      }
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+5' The end of the first half."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 29,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "29' Rough tackle by Ruben Vargas (Augsburg). The referee blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 10,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "10' Patric Pfeiffer (Augsburg) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 1,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "1' The referee blows his whistle and we are underway."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 3,
+    "detected_goal_count": 3,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 3,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 135,
+    "commentary_row_count": 75,
+    "removed_commentary_noise_count": 60,
+    "goal_event_count": 3,
+    "yellow_card_event_count": 5,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 4,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 3,
+      "detected_goal_count": 3
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 3,
+    "structured_goal_count": 3,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 2,
+    "yellow_card_event_count": 5,
+    "structured_yellow_card_count": 5,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 4,
+    "structured_var_event_count": 4,
+    "var_player_resolved_count": 2,
+    "var_linked_event_count": 4,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T06:17:23Z",
+  "collector_profile": {
+    "competition_key": "bundesliga",
+    "competition": "German Bundesliga",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 12,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 75,
+      "error": null
+    }
+  }
+}
