@@ -1,0 +1,2544 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/ac-milan-8Sa8HInO/sassuolo-QDdvI0zl/summary/stats/overall/?mid=YJevpN8A",
+  "match_id": "YJevpN8A",
+  "page_title": "ACM 1-0 SAS | AC Milan v Sassuolo 30/12/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "30.12.2023 21:00",
+  "home_team": "AC Milan",
+  "away_team": "Sassuolo",
+  "score": {
+    "home": "1",
+    "away": "0",
+    "display": "1 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.84",
+      "away": "0.50",
+      "raw_values": [
+        "1.84",
+        "0.50"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "59%",
+      "away": "41%",
+      "raw_values": [
+        "59%",
+        "41%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "20",
+      "away": "12",
+      "raw_values": [
+        "20",
+        "12"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "2",
+      "away": "6",
+      "raw_values": [
+        "2",
+        "6"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "5",
+      "raw_values": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "88%\n(450/511)",
+      "away": "80%\n(286/358)",
+      "raw_values": [
+        "88%\n(450/511)",
+        "80%\n(286/358)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "0",
+      "away": "1",
+      "raw_values": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "11",
+      "away": "3",
+      "raw_values": [
+        "11",
+        "3"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "7",
+      "away": "3",
+      "raw_values": [
+        "7",
+        "3"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "6",
+      "away": "0",
+      "raw_values": [
+        "6",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "7",
+      "away": "14",
+      "raw_values": [
+        "7",
+        "14"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "15",
+      "away": "20",
+      "raw_values": [
+        "15",
+        "20"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "8",
+      "away": "7",
+      "raw_values": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "6",
+      "away": "1",
+      "raw_values": [
+        "6",
+        "1"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.84",
+        "away": "0.50",
+        "raw_values": [
+          "1.84",
+          "0.50"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "59%",
+        "away": "41%",
+        "raw_values": [
+          "59%",
+          "41%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "20",
+        "away": "12",
+        "raw_values": [
+          "20",
+          "12"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "6",
+        "raw_values": [
+          "2",
+          "6"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "88%\n(450/511)",
+        "away": "80%\n(286/358)",
+        "raw_values": [
+          "88%\n(450/511)",
+          "80%\n(286/358)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "11",
+        "away": "3",
+        "raw_values": [
+          "11",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "6",
+        "away": "0",
+        "raw_values": [
+          "6",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "14",
+        "raw_values": [
+          "7",
+          "14"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "15",
+        "away": "20",
+        "raw_values": [
+          "15",
+          "20"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "7",
+        "raw_values": [
+          "8",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "6",
+        "away": "1",
+        "raw_values": [
+          "6",
+          "1"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.52",
+        "away": "0.15",
+        "raw_values": [
+          "0.52",
+          "0.15"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "60%",
+        "away": "40%",
+        "raw_values": [
+          "60%",
+          "40%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "11",
+        "away": "4",
+        "raw_values": [
+          "11",
+          "4"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "88%\n(207/235)",
+        "away": "75%\n(116/155)",
+        "raw_values": [
+          "88%\n(207/235)",
+          "75%\n(116/155)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "6",
+        "away": "0",
+        "raw_values": [
+          "6",
+          "0"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "4",
+        "away": "1",
+        "raw_values": [
+          "4",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "5",
+        "away": "0",
+        "raw_values": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "4",
+        "away": "10",
+        "raw_values": [
+          "4",
+          "10"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "9",
+        "away": "13",
+        "raw_values": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.32",
+        "away": "0.35",
+        "raw_values": [
+          "1.32",
+          "0.35"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "58%",
+        "away": "42%",
+        "raw_values": [
+          "58%",
+          "42%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "9",
+        "away": "8",
+        "raw_values": [
+          "9",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "88%\n(243/276)",
+        "away": "84%\n(170/203)",
+        "raw_values": [
+          "88%\n(243/276)",
+          "84%\n(170/203)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "3",
+        "raw_values": [
+          "5",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "6",
+        "away": "7",
+        "raw_values": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 16,
+          "name": "Maignan",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Maignan",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Calabria",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "2 Calabria",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Kjaer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Kjaer",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Hernandez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Hernandez",
+          "source": "formation"
+        },
+        {
+          "number": 42,
+          "name": "Florenzi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Florenzi",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Reijnders",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Reijnders",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Bennacer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Bennacer",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Loftus-Cheek",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Loftus-Cheek",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Pulisic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pulisic",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Giroud",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Giroud",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Leao",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Leao",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 16,
+          "name": "Maignan M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Maignan M. (G)",
+          "formation_raw": "16 Maignan",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Calabria D.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "2 Calabria D. (C)",
+          "formation_raw": "2 Calabria",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Kjaer S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Kjaer S.",
+          "formation_raw": "24 Kjaer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Hernandez T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Hernandez T.",
+          "formation_raw": "19 Hernandez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 42,
+          "name": "Florenzi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Florenzi A.",
+          "formation_raw": "42 Florenzi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Reijnders T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Reijnders T.",
+          "formation_raw": "14 Reijnders",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Bennacer I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Bennacer I.",
+          "formation_raw": "4 Bennacer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Loftus-Cheek R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Loftus-Cheek R.",
+          "formation_raw": "8 Loftus-Cheek",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Pulisic C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pulisic C.",
+          "formation_raw": "11 Pulisic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Giroud O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Giroud O.",
+          "formation_raw": "9 Giroud",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Leao R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Leao R.",
+          "formation_raw": "10 Leao",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 7,
+          "name": "Adli Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Adli Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 95,
+          "name": "Bartesaghi D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Bartesaghi D.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Chukwueze S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Chukwueze S.",
+          "source": "detailed"
+        },
+        {
+          "number": 74,
+          "name": "Jimenez A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "74 Jimenez A.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Jovic L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Jovic L.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Krunic R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Krunic R.",
+          "source": "detailed"
+        },
+        {
+          "number": 83,
+          "name": "Mirante A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "83 Mirante A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 69,
+          "name": "Nava L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "69 Nava L. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 84,
+          "name": "Nsiala C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "84 Nsiala C.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Romero L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Romero L.",
+          "source": "detailed"
+        },
+        {
+          "number": 82,
+          "name": "Simic J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "82 Simic J.",
+          "source": "detailed"
+        },
+        {
+          "number": 70,
+          "name": "Traore C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "70 Traore C.",
+          "source": "detailed"
+        },
+        {
+          "number": 85,
+          "name": "Zeroli K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "85 Zeroli K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "63",
+          "incoming": "Adli Y.",
+          "outgoing": "Bennacer I.",
+          "incoming_rating": 6.9,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Adli Y. 6.9 Bennacer I. 63'"
+        },
+        {
+          "minute": "63",
+          "incoming": "Jovic L.",
+          "outgoing": "Giroud O.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Jovic L. 6.5 Giroud O. 63'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Zeroli K.",
+          "outgoing": "Loftus-Cheek R.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Zeroli K. 6.1 Loftus-Cheek R. 74'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Chukwueze S.",
+          "outgoing": "Leao R.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Chukwueze S. Leao R. 81'"
+        },
+        {
+          "minute": "82",
+          "incoming": "Simic J.",
+          "outgoing": "Kjaer S.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Simic J. Kjaer S. 82'"
+        }
+      ],
+      "coach": "Pioli S."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 47,
+          "name": "Consigli",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "47 Consigli",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Pedersen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Pedersen",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Erlic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Erlic",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Ferrari",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "13 Ferrari",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Toljan",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Toljan",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Matheus Henrique",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Matheus Henrique",
+          "source": "formation"
+        },
+        {
+          "number": 42,
+          "name": "Thorstvedt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Thorstvedt",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Berardi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Berardi",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Bajrami",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Bajrami",
+          "source": "formation"
+        },
+        {
+          "number": 45,
+          "name": "Lauriente",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "45 Lauriente",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Pinamonti",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Pinamonti",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 47,
+          "name": "Consigli A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "47 Consigli A. (G)",
+          "formation_raw": "47 Consigli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Pedersen M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Pedersen M.",
+          "formation_raw": "3 Pedersen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Erlic M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Erlic M.",
+          "formation_raw": "5 Erlic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Ferrari G. M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "13 Ferrari G. M. (C)",
+          "formation_raw": "13 Ferrari",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Toljan J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Toljan J.",
+          "formation_raw": "22 Toljan",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Matheus Henrique",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Matheus Henrique",
+          "formation_raw": "7 Matheus Henrique",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 42,
+          "name": "Thorstvedt K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Thorstvedt K.",
+          "formation_raw": "42 Thorstvedt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Berardi D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Berardi D.",
+          "formation_raw": "10 Berardi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Bajrami N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Bajrami N.",
+          "formation_raw": "11 Bajrami",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 45,
+          "name": "Lauriente A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "45 Lauriente A.",
+          "formation_raw": "45 Lauriente",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Pinamonti A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Pinamonti A.",
+          "formation_raw": "9 Pinamonti",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 19,
+          "name": "Alvarez A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Alvarez A.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Castillejo S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Castillejo S.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Ceide E. K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Ceide E. K.",
+          "source": "detailed"
+        },
+        {
+          "number": 28,
+          "name": "Cragno A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "28 Cragno A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 35,
+          "name": "Lipani L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "35 Lipani L.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Missori F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Missori F.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Mulattieri S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Mulattieri S.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Pegolo G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "25 Pegolo G. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 44,
+          "name": "Ruan Tressoldi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Ruan Tressoldi",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Viti M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Viti M.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Volpato C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Volpato C.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Ruan Tressoldi",
+          "outgoing": "Erlic M.",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ruan Tressoldi 6.5 Erlic M. 46'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Volpato C.",
+          "outgoing": "Bajrami N.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Volpato C. 6.6 Bajrami N. 65'"
+        },
+        {
+          "minute": "70",
+          "incoming": "Castillejo S.",
+          "outgoing": "Berardi D.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Castillejo S. 6.4 Berardi D. 70'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Mulattieri S.",
+          "outgoing": "Lauriente A.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Mulattieri S. Lauriente A. 89'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Ceide E. K.",
+          "outgoing": "Thorstvedt K.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Ceide E. K. Thorstvedt K. 89'"
+        }
+      ],
+      "coach": "Dionisi A."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "16 Maignan",
+      "2 Calabria",
+      "24 Kjaer",
+      "19 Hernandez",
+      "42 Florenzi",
+      "14 Reijnders",
+      "4 Bennacer",
+      "8 Loftus-Cheek",
+      "11 Pulisic",
+      "9 Giroud",
+      "10 Leao",
+      "47 Consigli",
+      "3 Pedersen",
+      "5 Erlic",
+      "13 Ferrari",
+      "22 Toljan",
+      "7 Matheus Henrique",
+      "42 Thorstvedt",
+      "10 Berardi",
+      "11 Bajrami",
+      "45 Lauriente",
+      "9 Pinamonti",
+      "Adli Y. 6.9 Bennacer I. 63'",
+      "Jovic L. 6.5 Giroud O. 63'",
+      "Zeroli K. 6.1 Loftus-Cheek R. 74'",
+      "Chukwueze S. Leao R. 81'",
+      "Simic J. Kjaer S. 82'",
+      "Ruan Tressoldi 6.5 Erlic M. 46'",
+      "Volpato C. 6.6 Bajrami N. 65'",
+      "Castillejo S. 6.4 Berardi D. 70'",
+      "Mulattieri S. Lauriente A. 89'",
+      "Ceide E. K. Thorstvedt K. 89'",
+      "16 Maignan M. (G)",
+      "2 Calabria D. (C)",
+      "24 Kjaer S.",
+      "19 Hernandez T.",
+      "42 Florenzi A.",
+      "14 Reijnders T.",
+      "4 Bennacer I.",
+      "8 Loftus-Cheek R.",
+      "11 Pulisic C.",
+      "9 Giroud O.",
+      "10 Leao R.",
+      "47 Consigli A. (G)",
+      "3 Pedersen M.",
+      "5 Erlic M.",
+      "13 Ferrari G. M. (C)",
+      "22 Toljan J.",
+      "42 Thorstvedt K.",
+      "10 Berardi D.",
+      "11 Bajrami N.",
+      "45 Lauriente A.",
+      "9 Pinamonti A.",
+      "7 Adli Y.",
+      "95 Bartesaghi D.",
+      "21 Chukwueze S.",
+      "74 Jimenez A.",
+      "15 Jovic L.",
+      "33 Krunic R.",
+      "83 Mirante A. (G)",
+      "69 Nava L. (G)",
+      "84 Nsiala C.",
+      "18 Romero L.",
+      "82 Simic J.",
+      "70 Traore C.",
+      "85 Zeroli K.",
+      "19 Alvarez A.",
+      "20 Castillejo S.",
+      "15 Ceide E. K.",
+      "28 Cragno A. (G)",
+      "35 Lipani L.",
+      "2 Missori F.",
+      "8 Mulattieri S.",
+      "25 Pegolo G. (G)",
+      "44 Ruan Tressoldi",
+      "21 Viti M.",
+      "23 Volpato C.",
+      "Caldara M. Ankle Injury",
+      "Kalulu P. Knee Injury",
+      "Musah Y. Injury",
+      "Okafor N. Muscle Injury",
+      "Pellegrino M. Leg Injury",
+      "Pobega T. Muscle Injury",
+      "Sportiello M. Calf Injury",
+      "Thiaw M. Hamstring Injury",
+      "Tomori F. Muscle Injury",
+      "Boloca D. Injury",
+      "Defrel G. Calf Injury",
+      "Obiang P. Muscle Injury",
+      "Racic U. Injury",
+      "Pioli S.",
+      "Dionisi A."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 13,
+    "away_substitute_count": 11,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 45,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 13,
+    "bench_boundary_score": 359.95
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 127,
+    "compact_lineup_text_count": 92,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 45,
+    "substitution_count": 10,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 13,
+    "structured_away_substitute_count": 11,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 13
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' That's all for today as the game is over."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Sassuolo hold the ball and display nice passing from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' The resulting corner comes to nothing as Christian Pulisic (AC Milan) sends it out of play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' The fourth official shows 4 min. of added time."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Alessio Dionisi prepares a substitution. Kristian Thorstvedt is replaced by Emil Konradsen Ceide (Sassuolo)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Substitution. Armand Lauriente did his best and is replaced by Samuele Mulattieri (Sassuolo)."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Samu Castillejo (Sassuolo) will have to be careful for the rest of the match as he is shown a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' The resulting set piece from Sassuolo is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Sassuolo take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Stefano Pioli has decided to introduce fresh legs, with Jan-Carlo Simic (AC Milan) replacing Simon Kjaer."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' The referee signals that it is time for a substitution and Samuel Chukwueze (AC Milan) will replace Rafael Leao."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' The current number of shots on goal is 2:6."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' The ball rebounds out to Alessandro Florenzi (AC Milan) on the edge of the box. He immediately strikes for goal, but sends the ball high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' There's an opportunity for Tijjani Reijnders (AC Milan) to deliver the ball into the box from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Rafael Leao (AC Milan) looks to break free, but an opposing player clears the ball away."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' The referee stops play so that a substitution can be made and Kevin Zeroli (AC Milan) replaces Ruben Loftus-Cheek."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Armand Lauriente (Sassuolo) finds himself in space on the edge of the box and smashes a glorious looking effort towards the bottom right corner, but Mike Maignan thwarts him with a great two-handed save."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Here is a change. Domenico Berardi is going off and Alessio Dionisi gives the last tactical orders to Samu Castillejo (Sassuolo)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Cristian Volpato (Sassuolo) moves forward and unleashes a thunderous shot from distance that flies well over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Simon Kjaer (AC Milan) finds enough space to climb high and plants a header well wide of the left post. What a poor effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Tijjani Reijnders (AC Milan) will deliver the ball into the penalty box from a corner kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Here's the change. Nedim Bajrami leaves the pitch and Cristian Volpato (Sassuolo) comes on as a substitute."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Stefano Pioli has decided to make a change. Luka Jovic (AC Milan) replaces Olivier Giroud."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' The referee stops play so that a substitution can be made and Ismael Bennacer leaves the pitch and Yacine Adli (AC Milan) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' AC Milan are seeing far more of the ball now."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "59' 1 - 0 Goal! Ismael Bennacer displays great vision and sends a pass to Christian Pulisic (AC Milan), who shows brilliant composure inside the box to bury the ball into the bottom left corner. The score is 1:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' The ball is cleared after Rafael Leao (AC Milan) attempted to dribble past an opposing player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' The corner kick from Domenico Berardi (Sassuolo) is headed out of the penalty area by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Domenico Berardi (Sassuolo) fires a powerful shot which is blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Close! Alessandro Florenzi (AC Milan) unleashes a rocket of a shot from the edge of the box and his shot flies just a few inches over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Jeremy Toljan (Sassuolo) finds himself in space on the edge of the box and smashes a glorious looking effort towards the left side of the goal, but Mike Maignan thwarts him with a great two-handed save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' An attempted cross from Rafael Leao (AC Milan) is cleared."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' There will be a change on the pitch for the second half. Alessio Dionisi probably wasn't satisfied with the performance of Martin Erlic (Sassuolo). He is replaced by Ruan Tressoldi."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The players are back out on the pitch following the half-time break and the second half is about to start."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' We will have 1 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Alessandro Florenzi (AC Milan) will take the corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' AC Milan win a direct free kick in a dangerous mid-range position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Domenico Berardi (Sassuolo) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the middle of the goal is, however, saved by Mike Maignan!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Here's the current ball possession statistics for both teams – 59:41."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' AC Milan are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' The corner from Armand Lauriente (Sassuolo) is cleared away by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Domenico Berardi (Sassuolo) has a sight of goal, fires a shot in from distance towards the top right corner and forces a good save out of Mike Maignan."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Rafael Leao (AC Milan) has a goal ruled out for offside!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' The Sassuolo players are exchanging some short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Alessandro Florenzi (AC Milan) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Rafael Leao (AC Milan) shoots inside the box, but is denied by a timely block."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Ismael Bennacer (AC Milan) finds some space on the edge of the box after some nice individual play and curls a shot in on goal, but the ball flies just wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Theo Hernandez (AC Milan) decides to speed play up with a short corner kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Christian Pulisic (AC Milan) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Rafael Leao (AC Milan) displays his superb passing ability after picking out Christian Pulisic with a fine lofted pass to continue their attacking move."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' AC Milan have been awarded a free kick from long distance, it won't be a direct shot."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Rafael Leao (AC Milan) clips an inviting cross into the box, but there's no one in a position to get on the end of it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Some neat passing and movement from AC Milan as they ping around some short passes in order to create a new attacking opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Armand Lauriente (Sassuolo) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Tijjani Reijnders (AC Milan) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Gooal! No wait, it's been ruled out for offside. Ismael Bennacer (AC Milan) disagrees, but the linesman is sure about his call."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Ruben Loftus-Cheek (AC Milan) hammers the ball from far out, but his shot is blocked by an opposition player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Rafael Leao (AC Milan) is caught offside!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Marcus Pedersen (Sassuolo) sends a teasing cross into the area, but Mike Maignan intercepts the ball."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The referee blows his whistle and we are underway."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out and the match is about to start. AC Milan will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Today's referee will be Livio Marinelli."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 59,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "59' 1 - 0 Goal! Ismael Bennacer displays great vision and sends a pass to Christian Pulisic (AC Milan), who shows brilliant composure inside the box to bury the ball into the bottom left corner. The score is 1:0.",
+        "team_side": "home",
+        "team": "AC Milan",
+        "player_team_side": "home",
+        "player_team": "AC Milan",
+        "player": "Pulisic C.",
+        "shirt_number": 11,
+        "player_match_score": 145,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": "Bennacer I.",
+        "assist_shirt_number": 4,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Samu Castillejo (Sassuolo) will have to be careful for the rest of the match as he is shown a yellow card.",
+        "team_side": "away",
+        "team": "Sassuolo",
+        "player": "Castillejo S.",
+        "shirt_number": 20,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Alessio Dionisi prepares a substitution. Kristian Thorstvedt is replaced by Emil Konradsen Ceide (Sassuolo)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Substitution. Armand Lauriente did his best and is replaced by Samuele Mulattieri (Sassuolo)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 82,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "82' Stefano Pioli has decided to introduce fresh legs, with Jan-Carlo Simic (AC Milan) replacing Simon Kjaer."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' The referee signals that it is time for a substitution and Samuel Chukwueze (AC Milan) will replace Rafael Leao."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' The referee stops play so that a substitution can be made and Kevin Zeroli (AC Milan) replaces Ruben Loftus-Cheek."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' Here is a change. Domenico Berardi is going off and Alessio Dionisi gives the last tactical orders to Samu Castillejo (Sassuolo)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Here's the change. Nedim Bajrami leaves the pitch and Cristian Volpato (Sassuolo) comes on as a substitute."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 63,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "63' Stefano Pioli has decided to make a change. Luka Jovic (AC Milan) replaces Olivier Giroud."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 63,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "63' The referee stops play so that a substitution can be made and Ismael Bennacer leaves the pitch and Yacine Adli (AC Milan) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' There will be a change on the pitch for the second half. Alessio Dionisi probably wasn't satisfied with the performance of Martin Erlic (Sassuolo). He is replaced by Ruan Tressoldi."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The players are back out on the pitch following the half-time break and the second half is about to start."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 20,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "20' Christian Pulisic (AC Milan) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 1,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "1' The referee blows his whistle and we are underway."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 1,
+    "detected_goal_count": 1,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 1,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 120,
+    "commentary_row_count": 66,
+    "removed_commentary_noise_count": 54,
+    "goal_event_count": 1,
+    "yellow_card_event_count": 1,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 1,
+      "detected_goal_count": 1
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 1,
+    "structured_goal_count": 1,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 1,
+    "structured_yellow_card_count": 1,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T09:13:35Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 66,
+      "error": null
+    }
+  }
+}

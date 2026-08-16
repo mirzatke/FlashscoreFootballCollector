@@ -1,0 +1,2895 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/ac-milan-8Sa8HInO/torino-MZFZnvX4/summary/stats/overall/?mid=djEAnp5k",
+  "match_id": "djEAnp5k",
+  "page_title": "TOR 3-1 ACM | Torino v AC Milan 18/05/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "18.05.2024 22:45",
+  "home_team": "Torino",
+  "away_team": "AC Milan",
+  "score": {
+    "home": "3",
+    "away": "1",
+    "display": "3 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.95",
+      "away": "1.88",
+      "raw_values": [
+        "0.95",
+        "1.88"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "40%",
+      "away": "60%",
+      "raw_values": [
+        "40%",
+        "60%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "11",
+      "away": "16",
+      "raw_values": [
+        "11",
+        "16"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "3",
+      "away": "8",
+      "raw_values": [
+        "3",
+        "8"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "79%\n(227/289)",
+      "away": "86%\n(375/437)",
+      "raw_values": [
+        "79%\n(227/289)",
+        "86%\n(375/437)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "1",
+      "away": "1",
+      "raw_values": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "5",
+      "away": "7",
+      "raw_values": [
+        "5",
+        "7"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "1",
+      "away": "5",
+      "raw_values": [
+        "1",
+        "5"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "2",
+      "away": "0",
+      "raw_values": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "15",
+      "away": "15",
+      "raw_values": [
+        "15",
+        "15"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "13",
+      "away": "13",
+      "raw_values": [
+        "13",
+        "13"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "15",
+      "away": "14",
+      "raw_values": [
+        "15",
+        "14"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.95",
+        "away": "1.88",
+        "raw_values": [
+          "0.95",
+          "1.88"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "40%",
+        "away": "60%",
+        "raw_values": [
+          "40%",
+          "60%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "11",
+        "away": "16",
+        "raw_values": [
+          "11",
+          "16"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "8",
+        "raw_values": [
+          "3",
+          "8"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "79%\n(227/289)",
+        "away": "86%\n(375/437)",
+        "raw_values": [
+          "79%\n(227/289)",
+          "86%\n(375/437)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "7",
+        "raw_values": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "5",
+        "raw_values": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "15",
+        "away": "15",
+        "raw_values": [
+          "15",
+          "15"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "13",
+        "away": "13",
+        "raw_values": [
+          "13",
+          "13"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "15",
+        "away": "14",
+        "raw_values": [
+          "15",
+          "14"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.69",
+        "away": "0.16",
+        "raw_values": [
+          "0.69",
+          "0.16"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "37%",
+        "away": "63%",
+        "raw_values": [
+          "37%",
+          "63%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "79%\n(129/163)",
+        "away": "86%\n(245/285)",
+        "raw_values": [
+          "79%\n(129/163)",
+          "86%\n(245/285)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "7",
+        "raw_values": [
+          "7",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "6",
+        "raw_values": [
+          "10",
+          "6"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "7",
+        "raw_values": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.26",
+        "away": "1.72",
+        "raw_values": [
+          "0.26",
+          "1.72"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "43%",
+        "away": "57%",
+        "raw_values": [
+          "43%",
+          "57%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "5",
+        "away": "11",
+        "raw_values": [
+          "5",
+          "11"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "6",
+        "raw_values": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "78%\n(98/126)",
+        "away": "86%\n(130/152)",
+        "raw_values": [
+          "78%\n(98/126)",
+          "86%\n(130/152)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "8",
+        "away": "8",
+        "raw_values": [
+          "8",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "3",
+        "away": "7",
+        "raw_values": [
+          "3",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "9",
+        "away": "7",
+        "raw_values": [
+          "9",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-1-2",
+      "formation_players": [
+        {
+          "number": 32,
+          "name": "Milinkovic-Savic",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "32 Milinkovic-Savic",
+          "source": "formation"
+        },
+        {
+          "number": 61,
+          "name": "Tameze",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "61 Tameze",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Buongiorno",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Buongiorno",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Masina",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Masina",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Bellanova",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Bellanova",
+          "source": "formation"
+        },
+        {
+          "number": 77,
+          "name": "Linetty",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Linetty",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Ilic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ilic",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Rodriguez",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "13 Rodriguez",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Ricci",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Ricci",
+          "source": "formation"
+        },
+        {
+          "number": 91,
+          "name": "Zapata",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "91 Zapata",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Pellegri",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pellegri",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 32,
+          "name": "Milinkovic-Savic V.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "32 Milinkovic-Savic V. (G)",
+          "formation_raw": "32 Milinkovic-Savic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 61,
+          "name": "Tameze A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "61 Tameze A.",
+          "formation_raw": "61 Tameze",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Buongiorno A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Buongiorno A.",
+          "formation_raw": "4 Buongiorno",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Masina A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Masina A.",
+          "formation_raw": "5 Masina",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Bellanova R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Bellanova R.",
+          "formation_raw": "19 Bellanova",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 77,
+          "name": "Linetty K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Linetty K.",
+          "formation_raw": "77 Linetty",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Ilic I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ilic I.",
+          "formation_raw": "8 Ilic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Rodriguez R.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "13 Rodriguez R. (C)",
+          "formation_raw": "13 Rodriguez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Ricci S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Ricci S.",
+          "formation_raw": "28 Ricci",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 91,
+          "name": "Zapata D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "91 Zapata D.",
+          "formation_raw": "91 Zapata",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Pellegri P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pellegri P.",
+          "formation_raw": "11 Pellegri",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 81,
+          "name": "Ciammaglichella A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "81 Ciammaglichella A.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Dellavalle A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Dellavalle A.",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Djidji K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Djidji K.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Gemello L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gemello L. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Kabic U.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Kabic U.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Lazaro V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Lazaro V.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Lovato M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Lovato M.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Okereke D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Okereke D.",
+          "source": "detailed"
+        },
+        {
+          "number": 71,
+          "name": "Popa M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "71 Popa M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Sanabria A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Sanabria A.",
+          "source": "detailed"
+        },
+        {
+          "number": 79,
+          "name": "Savva Z.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "79 Savva Z.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Sazonov S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Sazonov S.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Silva J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Silva J.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Vojvoda M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Vojvoda M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "61",
+          "incoming": "Vojvoda M.",
+          "outgoing": "Rodriguez R.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Vojvoda M. 6.5 Rodriguez R. 61'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Lazaro V.",
+          "outgoing": "Bellanova R.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Lazaro V. 6.4 Bellanova R. 74'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Sanabria A.",
+          "outgoing": "Pellegri P.",
+          "incoming_rating": 6.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Sanabria A. 6.7 Pellegri P. 74'"
+        },
+        {
+          "minute": "80",
+          "incoming": "Lovato M.",
+          "outgoing": "Buongiorno A.",
+          "incoming_rating": 5.9,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Lovato M. 5.9 Buongiorno A. 80'"
+        }
+      ],
+      "coach": "Juric I."
+    },
+    "away": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 57,
+          "name": "Sportiello",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "57 Sportiello",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Kalulu",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Kalulu",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Thiaw",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Thiaw",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Tomori",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Tomori",
+          "source": "formation"
+        },
+        {
+          "number": 38,
+          "name": "Terracciano",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Terracciano",
+          "source": "formation"
+        },
+        {
+          "number": 80,
+          "name": "Musah",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "80 Musah",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Bennacer",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "4 Bennacer",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Reijnders",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Reijnders",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Pulisic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pulisic",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Jovic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Jovic",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Okafor",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Okafor",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 57,
+          "name": "Sportiello M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "57 Sportiello M. (G)",
+          "formation_raw": "57 Sportiello",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Kalulu P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Kalulu P.",
+          "formation_raw": "20 Kalulu",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Thiaw M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Thiaw M.",
+          "formation_raw": "28 Thiaw",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Tomori F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Tomori F.",
+          "formation_raw": "23 Tomori",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 38,
+          "name": "Terracciano F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Terracciano F.",
+          "formation_raw": "38 Terracciano",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 80,
+          "name": "Musah Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "80 Musah Y.",
+          "formation_raw": "80 Musah",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Bennacer I.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "4 Bennacer I. (C)",
+          "formation_raw": "4 Bennacer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Reijnders T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Reijnders T.",
+          "formation_raw": "14 Reijnders",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Pulisic C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pulisic C.",
+          "formation_raw": "11 Pulisic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Jovic L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Jovic L.",
+          "formation_raw": "15 Jovic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Okafor N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Okafor N.",
+          "formation_raw": "17 Okafor",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 7,
+          "name": "Adli Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Adli Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 95,
+          "name": "Bartesaghi D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Bartesaghi D.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Calabria D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Calabria D.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Caldara M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Caldara M.",
+          "source": "detailed"
+        },
+        {
+          "number": 42,
+          "name": "Florenzi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Florenzi A.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Giroud O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Giroud O.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Leao R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Leao R.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Maignan M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Maignan M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 83,
+          "name": "Mirante A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "83 Mirante A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 32,
+          "name": "Pobega T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Pobega T.",
+          "source": "detailed"
+        },
+        {
+          "number": 85,
+          "name": "Zeroli K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "85 Zeroli K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "61",
+          "incoming": "Leao R.",
+          "outgoing": "Okafor N.",
+          "incoming_rating": 6.2,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Leao R. 6.2 Okafor N. 61'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Florenzi A.",
+          "outgoing": "Terracciano F.",
+          "incoming_rating": 7.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Florenzi A. 7.1 Terracciano F. 65'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Giroud O.",
+          "outgoing": "Musah Y.",
+          "incoming_rating": 6.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Giroud O. 6.8 Musah Y. 77'"
+        },
+        {
+          "minute": "78",
+          "incoming": "Pobega T.",
+          "outgoing": "Bennacer I.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Pobega T. 6.6 Bennacer I. 78'"
+        }
+      ],
+      "coach": "Pioli S."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "32 Milinkovic-Savic",
+      "61 Tameze",
+      "4 Buongiorno",
+      "5 Masina",
+      "19 Bellanova",
+      "77 Linetty",
+      "8 Ilic",
+      "13 Rodriguez",
+      "28 Ricci",
+      "91 Zapata",
+      "11 Pellegri",
+      "57 Sportiello",
+      "20 Kalulu",
+      "28 Thiaw",
+      "23 Tomori",
+      "38 Terracciano",
+      "80 Musah",
+      "4 Bennacer",
+      "14 Reijnders",
+      "11 Pulisic",
+      "15 Jovic",
+      "17 Okafor",
+      "Vojvoda M. 6.5 Rodriguez R. 61'",
+      "Lazaro V. 6.4 Bellanova R. 74'",
+      "Sanabria A. 6.7 Pellegri P. 74'",
+      "Lovato M. 5.9 Buongiorno A. 80'",
+      "Leao R. 6.2 Okafor N. 61'",
+      "Florenzi A. 7.1 Terracciano F. 65'",
+      "Giroud O. 6.8 Musah Y. 77'",
+      "Pobega T. 6.6 Bennacer I. 78'",
+      "32 Milinkovic-Savic V. (G)",
+      "61 Tameze A.",
+      "4 Buongiorno A.",
+      "5 Masina A.",
+      "19 Bellanova R.",
+      "77 Linetty K.",
+      "8 Ilic I.",
+      "13 Rodriguez R. (C)",
+      "28 Ricci S.",
+      "91 Zapata D.",
+      "11 Pellegri P.",
+      "57 Sportiello M. (G)",
+      "20 Kalulu P.",
+      "28 Thiaw M.",
+      "23 Tomori F.",
+      "38 Terracciano F.",
+      "80 Musah Y.",
+      "4 Bennacer I. (C)",
+      "14 Reijnders T.",
+      "11 Pulisic C.",
+      "15 Jovic L.",
+      "17 Okafor N.",
+      "81 Ciammaglichella A.",
+      "25 Dellavalle A.",
+      "26 Djidji K.",
+      "1 Gemello L. (G)",
+      "17 Kabic U.",
+      "20 Lazaro V.",
+      "6 Lovato M.",
+      "21 Okereke D.",
+      "71 Popa M. (G)",
+      "9 Sanabria A.",
+      "79 Savva Z.",
+      "15 Sazonov S.",
+      "30 Silva J.",
+      "27 Vojvoda M.",
+      "7 Adli Y.",
+      "95 Bartesaghi D.",
+      "2 Calabria D.",
+      "30 Caldara M.",
+      "42 Florenzi A.",
+      "9 Giroud O.",
+      "10 Leao R.",
+      "16 Maignan M. (G)",
+      "83 Mirante A. (G)",
+      "32 Pobega T.",
+      "85 Zeroli K.",
+      "Gineitis G. Knee Injury",
+      "Schuurs P. Knee Injury",
+      "Vlasic N. Injury",
+      "Chukwueze S. Thigh Injury",
+      "Gabbia M. Yellow Cards",
+      "Kjaer S. Muscle Injury",
+      "Loftus-Cheek R. Muscle Injury",
+      "Juric I.",
+      "Pioli S."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 14,
+    "away_substitute_count": 11,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 47,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 4,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 14,
+    "bench_boundary_score": 287.925
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 118,
+    "compact_lineup_text_count": 86,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 47,
+    "substitution_count": 8,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 14,
+    "structured_away_substitute_count": 11,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 14
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' That's it for today, Ermano Feliciani has blown his whistle and the game is over."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' The free kick is delivered by Alessandro Florenzi (AC Milan) but it's not one of his best and is easily cleared."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Samuele Ricci (Torino) gives the referee no choice but to show him a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Valentino Lazaro (Torino) plays in a hopeful cross, but it doesn't find its way to any of the attacking players. The ball goes out of play and AC Milan will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Fikayo Tomori (AC Milan) commits a foul and Ermano Feliciani immediately signals a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Karol Linetty (Torino) smacks a great volley at goal from inside the box, but sends the effort just wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 4 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Tijjani Reijnders (AC Milan) had a good chance to change the score. He ran towards the goal and unleashed a low shot from long range which went towards the middle of the goal, but Vanja Milinkovic-Savic was ready and made a save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Rafael Leao (AC Milan) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Vanja Milinkovic-Savic makes a great save to stop the effort going into the right side of the goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Valentino Lazaro (Torino) wastes a big opportunity. He shoots from the free kick just outside the box, but his poor effort goes well over the crossbar."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Malick Thiaw (AC Milan) pulls the jersey of one of the opposition players and Ermano Feliciani blows his whistle for a foul. Torino are awarded a free kick from a dangerous position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Olivier Giroud (AC Milan) reacts well and displays good awareness inside the box to get on the end of the resulting corner kick. He fails to direct the ball into the net as it flies narrowly over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Alessandro Florenzi (AC Milan) will try to find the head of one of his teammates from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Alessandro Florenzi (AC Milan) whips in the resulting set piece but it's cleared."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' The manager has been forced to make a substitution and the injured Alessandro Buongiorno leaves the pitch to be replaced by Matteo Lovato (Torino)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' The game is interrupted now, Alessandro Buongiorno (Torino) picks up a knock and the physio has to come on."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' The game is interrupted. Fikayo Tomori (AC Milan) is given a yellow card. He has to be more careful now."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Stefano Pioli has decided to introduce fresh legs, with Tommaso Pobega (AC Milan) replacing Ismael Bennacer."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' It is time for a substitution. Olivier Giroud (AC Milan) is on for Yunus Musah."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Here is a change. Pietro Pellegri is going off and Ivan Juric gives the last tactical orders to Antonio Sanabria (Torino)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' The referee signals that it is time for a substitution and Valentino Lazaro (Torino) will replace Raoul Bellanova."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Alessandro Florenzi (AC Milan) whips in the corner, but one of the defending players gets a head on it and intercepts."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Yunus Musah (AC Milan) races towards goal but the defender gets back well to make a challenge. AC Milan force a corner. They send men into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Alessandro Florenzi (AC Milan) launches an inaccurate corner kick into the penalty area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Rafael Leao (AC Milan) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball goes out of play and Torino will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Karol Linetty (Torino) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' None of the Torino players could reach the corner kick as the ball was overhit and goes out of play. The ball is off of the pitch and it's a goal kick for AC Milan."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Filippo Terracciano goes off the pitch and Alessandro Florenzi (AC Milan) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Raoul Bellanova (Torino) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball is out of play. A goal-scoring opportunity from a corner for Torino."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' A fantastic block by a defender means that the corner from AC Milan comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Yunus Musah (AC Milan) fires the ball at goal from inside the area, but it's well blocked. The linesman points to the corner flag, AC Milan are going to take it."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Ivan Juric has decided to substitute Ricardo Rodriguez and he is replaced by Mergim Vojvoda (Torino)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Substitution. Rafael Leao (AC Milan) receives a signal from the referee and is now allowed to enter the pitch as Noah Okafor walks off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Luka Jovic (AC Milan) attempts an acrobatic volley on the edge of the box, but it's a wild effort and flies high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' The resulting set piece from AC Milan is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Karol Linetty (Torino) takes the corner kick but the ball only finds the head of an opponent."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Duvan Zapata (Torino) outjumps the defence to meet the resulting corner and heads the ball towards the top left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Ivan Ilic (Torino) is about to take a corner kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Dangerous play by Ismael Bennacer (AC Milan). Ermano Feliciani blows his whistle for a foul. A free kick to Torino."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "55' 3 - 1 GOAL! That’s a great strike from the spot by Ismael Bennacer (AC Milan) low into the right of the net, giving goalkeeper Vanja Milinkovic-Savic no chance!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Ismael Bennacer (AC Milan) is heading towards the penalty spot to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Adam Masina (Torino) is penalised for holding. Ermano Feliciani signals a set piece. The referee makes a quick call and points to the penalty spot. Big scoring opportunity for AC Milan."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Pietro Pellegri (Torino) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Tijjani Reijnders (AC Milan) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' The ball is whipped in from the corner by Christian Pulisic (AC Milan), but one of the defenders gets it clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' A defence-splitting pass is taken in his stride by Luka Jovic (AC Milan) in the box. Without even looking up he drills a shot towards the right side of the goal, but Vanja Milinkovic-Savic pulls off a brilliant save. AC Milan force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Pietro Pellegri (Torino) is caught offside once again."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' The free kick is taken by Ismael Bennacer (AC Milan), but ball is cleared. Christian Pulisic (AC Milan) gets to a rebound on the edge of the box and strikes, but he only hits the crossbar and wastes a promising chance."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' Ermano Feliciani blows his whistle for a foul after Ivan Ilic (Torino) hacks down one of his opponents. It's a free kick to AC Milan, but they probably won't attempt a direct shot on goal from here."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "46' 3 - 0 What a hit that is! Ricardo Rodriguez (Torino) displays his shooting ability as he slams the ball goalwards from distance. His brilliant effort goes towards the top left corner and bounces in off the post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The second half has just started."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Noah Okafor (AC Milan) looks to break free, but an opposing player clears the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 2 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' The shot by Raoul Bellanova (Torino) from the edge of the box low towards the middle of the goal lacks power and is easily saved by Marco Sportiello."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Yunus Musah (AC Milan) produces a long-range strike, but he only hits one of his own teammates standing in its way."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Tijjani Reijnders (AC Milan) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' My Gran could have done better! Christian Pulisic (AC Milan) got himself in a great position on the edge of the box after a pass, but put his shot well wide of the left post."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "40' 2 - 0 Goal! Ivan Ilic (Torino) ran onto a clever lofted pass from Raoul Bellanova and easily beat the keeper with a header into the left side of the goal from close range. 2:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Tijjani Reijnders (AC Milan) and Luka Jovic try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Duvan Zapata (Torino) slaloms his way past challenges, but an opposing player does well to get the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Christian Pulisic (AC Milan) latches onto a long cross into the centre of the box by Fikayo Tomori but can't keep his header down, sending it high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Pietro Pellegri (Torino) fails to time his run beyond the last defender and the linesman makes a good call by signalling for offside after seeing the whole situation unfold."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Noah Okafor (AC Milan) tries to send a pass but it's blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' The current number of shots on target for both teams is 4:2. 1:0 – this is the current number of shots on target."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Foul! Karol Linetty (Torino) is penalised for pulling back his opponent."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "26' 1 - 0 A perfect lofted pass from Ricardo Rodriguez finds Duvan Zapata (Torino), who jumps highest and steers a close-range header straight into the bottom right corner. His effort was both strong and precise, and Marco Sportiello had no chance of stopping that. 1:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Chance! Noah Okafor (AC Milan) comes within inches of scoring after picking up a pass from Tijjani Reijnders, but his shot from inside the box flashes inches wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' A crossfield pass from Ricardo Rodriguez (Torino) fails to find any of his teammates. The ball is out of play. AC Milan will take a throw-in."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Adam Masina (Torino) plays a terrific long ball forward to Samuele Ricci, but he can't beat his man and the move breaks down."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Adrien Tameze (Torino) fires a shot high over the bar from inside the box after latching onto a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Christian Pulisic (AC Milan) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' Pierre Kalulu (AC Milan) flights in the cross, but the defender is alert and clears to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Fikayo Tomori (AC Milan) was too fierce in his attempt to get the ball from his opponent and Ermano Feliciani blows for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Some great controlled play and passing from AC Milan. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Christian Pulisic (AC Milan) puts a dangerous cross into the box, but the corner is cleared by the first man."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Wow, what an escape. Christian Pulisic (AC Milan) has an effort from inside the box but it's brilliantly blocked. The linesman makes the right call and AC Milan will have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Karol Linetty (Torino) gets on the ball and beats an opponent, but his run is stopped by the referee Ermano Feliciani who sees an offensive foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Ivan Ilic (Torino) takes the free kick from the edge of the box but the defensive wall makes the block. Wasted effort! Ivan Ilic (Torino) drives to the edge of the box after picking up a rebound, but his shot is tame and bends well wide of the left post."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Tijjani Reijnders (AC Milan) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Torino have a free kick from a promising distance."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Referee Ermano Feliciani sees the trip by Karol Linetty (Torino) and doesn't hesitate to blow his whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Here we go, today's match is starting right now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out at last! AC Milan will take the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Today's referee will be Ermano Feliciani."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups In the details of this match, you can glance at the lineups while the game is about to begin."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 55,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "55' 3 - 1 GOAL! That’s a great strike from the spot by Ismael Bennacer (AC Milan) low into the right of the net, giving goalkeeper Vanja Milinkovic-Savic no chance!",
+        "team_side": "away",
+        "team": "AC Milan",
+        "player_team_side": "away",
+        "player_team": "AC Milan",
+        "player": "Bennacer I.",
+        "shirt_number": 4,
+        "player_match_score": 144,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "46' 3 - 0 What a hit that is! Ricardo Rodriguez (Torino) displays his shooting ability as he slams the ball goalwards from distance. His brilliant effort goes towards the top left corner and bounces in off the post.",
+        "team_side": "home",
+        "team": "Torino",
+        "player_team_side": "home",
+        "player_team": "Torino",
+        "player": "Rodriguez R.",
+        "shirt_number": 13,
+        "player_match_score": 139,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 40,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "40' 2 - 0 Goal! Ivan Ilic (Torino) ran onto a clever lofted pass from Raoul Bellanova and easily beat the keeper with a header into the left side of the goal from close range. 2:0.",
+        "team_side": "home",
+        "team": "Torino",
+        "player_team_side": "home",
+        "player_team": "Torino",
+        "player": "Ilic I.",
+        "shirt_number": 8,
+        "player_match_score": 135,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 0
+        },
+        "assist_player": "Bellanova R.",
+        "assist_shirt_number": 19,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 26,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "26' 1 - 0 A perfect lofted pass from Ricardo Rodriguez finds Duvan Zapata (Torino), who jumps highest and steers a close-range header straight into the bottom right corner. His effort was both strong and precise, and Marco Sportiello had no chance of stopping that. 1:0.",
+        "team_side": "home",
+        "team": "Torino",
+        "player_team_side": "home",
+        "player_team": "Torino",
+        "player": "Zapata D.",
+        "shirt_number": 91,
+        "player_match_score": 142,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": "Rodriguez R.",
+        "assist_shirt_number": 13,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+5' Samuele Ricci (Torino) gives the referee no choice but to show him a yellow card.",
+        "team_side": "home",
+        "team": "Torino",
+        "player": "Ricci S.",
+        "shirt_number": 28,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' The game is interrupted. Fikayo Tomori (AC Milan) is given a yellow card. He has to be more careful now.",
+        "team_side": "away",
+        "team": "AC Milan",
+        "player": "Tomori F.",
+        "shirt_number": 23,
+        "player_match_score": 136,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 80,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "80' The manager has been forced to make a substitution and the injured Alessandro Buongiorno leaves the pitch to be replaced by Matteo Lovato (Torino)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Stefano Pioli has decided to introduce fresh legs, with Tommaso Pobega (AC Milan) replacing Ismael Bennacer."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' It is time for a substitution. Olivier Giroud (AC Milan) is on for Yunus Musah."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Here is a change. Pietro Pellegri is going off and Ivan Juric gives the last tactical orders to Antonio Sanabria (Torino)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' The referee signals that it is time for a substitution and Valentino Lazaro (Torino) will replace Raoul Bellanova."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Filippo Terracciano goes off the pitch and Alessandro Florenzi (AC Milan) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' Ivan Juric has decided to substitute Ricardo Rodriguez and he is replaced by Mergim Vojvoda (Torino)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' Substitution. Rafael Leao (AC Milan) receives a signal from the referee and is now allowed to enter the pitch as Noah Okafor walks off."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Malick Thiaw (AC Milan) pulls the jersey of one of the opposition players and Ermano Feliciani blows his whistle for a foul. Torino are awarded a free kick from a dangerous position."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 57,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "57' Dangerous play by Ismael Bennacer (AC Milan). Ermano Feliciani blows his whistle for a foul. A free kick to Torino."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 48,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "48' Ermano Feliciani blows his whistle for a foul after Ivan Ilic (Torino) hacks down one of his opponents. It's a free kick to AC Milan, but they probably won't attempt a direct shot on goal from here."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+2' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 4,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "4' Tijjani Reijnders (AC Milan) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Torino have a free kick from a promising distance."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 2,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "2' Referee Ermano Feliciani sees the trip by Karol Linetty (Torino) and doesn't hesitate to blow his whistle."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 4,
+    "detected_goal_count": 4,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 4,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 156,
+    "commentary_row_count": 87,
+    "removed_commentary_noise_count": 69,
+    "goal_event_count": 4,
+    "yellow_card_event_count": 2,
+    "red_card_event_count": 0,
+    "substitution_event_count": 8,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 4,
+      "detected_goal_count": 4
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 4,
+    "structured_goal_count": 4,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 2,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 2,
+    "yellow_card_event_count": 2,
+    "structured_yellow_card_count": 2,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T16:37:16Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 87,
+      "error": null
+    }
+  }
+}

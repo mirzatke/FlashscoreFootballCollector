@@ -1,0 +1,2578 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/psg-CjhkPw0k/summary/stats/overall/?mid=KAtQlOKN",
+  "match_id": "KAtQlOKN",
+  "page_title": "CLE 0-0 PSG | Clermont v PSG 30/09/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "30.09.2023 19:00",
+  "home_team": "Clermont",
+  "away_team": "PSG",
+  "score": {
+    "home": "0",
+    "away": "0",
+    "display": "0 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.91",
+      "away": "2.46",
+      "raw_values": [
+        "0.91",
+        "2.46"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "33%",
+      "away": "67%",
+      "raw_values": [
+        "33%",
+        "67%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "12",
+      "away": "21",
+      "raw_values": [
+        "12",
+        "21"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "3",
+      "away": "10",
+      "raw_values": [
+        "3",
+        "10"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "9",
+      "raw_values": [
+        "6",
+        "9"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "75%\n(208/278)",
+      "away": "88%\n(506/575)",
+      "raw_values": [
+        "75%\n(208/278)",
+        "88%\n(506/575)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "3",
+      "away": "6",
+      "raw_values": [
+        "3",
+        "6"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "6",
+      "away": "5",
+      "raw_values": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "0",
+      "raw_values": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "16",
+      "away": "11",
+      "raw_values": [
+        "16",
+        "11"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "7",
+      "away": "21",
+      "raw_values": [
+        "7",
+        "21"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "11",
+      "away": "16",
+      "raw_values": [
+        "11",
+        "16"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "10",
+      "away": "3",
+      "raw_values": [
+        "10",
+        "3"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.91",
+        "away": "2.46",
+        "raw_values": [
+          "0.91",
+          "2.46"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "33%",
+        "away": "67%",
+        "raw_values": [
+          "33%",
+          "67%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "12",
+        "away": "21",
+        "raw_values": [
+          "12",
+          "21"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "10",
+        "raw_values": [
+          "3",
+          "10"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "9",
+        "raw_values": [
+          "6",
+          "9"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "75%\n(208/278)",
+        "away": "88%\n(506/575)",
+        "raw_values": [
+          "75%\n(208/278)",
+          "88%\n(506/575)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "6",
+        "raw_values": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "16",
+        "away": "11",
+        "raw_values": [
+          "16",
+          "11"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "21",
+        "raw_values": [
+          "7",
+          "21"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "11",
+        "away": "16",
+        "raw_values": [
+          "11",
+          "16"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "10",
+        "away": "3",
+        "raw_values": [
+          "10",
+          "3"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.19",
+        "away": "0.92",
+        "raw_values": [
+          "0.19",
+          "0.92"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "34%",
+        "away": "66%",
+        "raw_values": [
+          "34%",
+          "66%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "4",
+        "away": "8",
+        "raw_values": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "6",
+        "raw_values": [
+          "0",
+          "6"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "78%\n(104/133)",
+        "away": "89%\n(244/274)",
+        "raw_values": [
+          "78%\n(104/133)",
+          "89%\n(244/274)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "6",
+        "away": "7",
+        "raw_values": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "5",
+        "away": "12",
+        "raw_values": [
+          "5",
+          "12"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "6",
+        "away": "0",
+        "raw_values": [
+          "6",
+          "0"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.72",
+        "away": "1.54",
+        "raw_values": [
+          "0.72",
+          "1.54"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "32%",
+        "away": "68%",
+        "raw_values": [
+          "32%",
+          "68%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "8",
+        "away": "13",
+        "raw_values": [
+          "8",
+          "13"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "72%\n(104/145)",
+        "away": "87%\n(262/301)",
+        "raw_values": [
+          "72%\n(104/145)",
+          "87%\n(262/301)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "10",
+        "away": "4",
+        "raw_values": [
+          "10",
+          "4"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "2",
+        "away": "9",
+        "raw_values": [
+          "2",
+          "9"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "10",
+        "raw_values": [
+          "4",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 99,
+          "name": "Diaw",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Diaw",
+          "source": "formation"
+        },
+        {
+          "number": 36,
+          "name": "Seidu",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "36 Seidu",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Pelmard",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Pelmard",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Caufriez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Caufriez",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Konate",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Konate",
+          "source": "formation"
+        },
+        {
+          "number": 12,
+          "name": "Gonalons",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "12 Gonalons",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Magnin",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Magnin",
+          "source": "formation"
+        },
+        {
+          "number": 25,
+          "name": "Gastien",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Gastien",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Allevinah",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Allevinah",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Cham",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cham",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Nicholson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Nicholson",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 99,
+          "name": "Diaw M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Diaw M. (G)",
+          "formation_raw": "99 Diaw",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 36,
+          "name": "Seidu A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "36 Seidu A.",
+          "formation_raw": "36 Seidu",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Pelmard A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Pelmard A.",
+          "formation_raw": "17 Pelmard",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Caufriez M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Caufriez M.",
+          "formation_raw": "5 Caufriez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Konate C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Konate C.",
+          "formation_raw": "15 Konate",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 12,
+          "name": "Gonalons M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "12 Gonalons M. (C)",
+          "formation_raw": "12 Gonalons",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Magnin Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Magnin Y.",
+          "formation_raw": "7 Magnin",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 25,
+          "name": "Gastien J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Gastien J.",
+          "formation_raw": "25 Gastien",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Allevinah J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Allevinah J.",
+          "formation_raw": "11 Allevinah",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Cham M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cham M.",
+          "formation_raw": "10 Cham",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Nicholson S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Nicholson S.",
+          "formation_raw": "23 Nicholson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 9,
+          "name": "Andric K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Andric K.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Boutobba B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Boutobba B.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Keita H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Keita H.",
+          "source": "detailed"
+        },
+        {
+          "number": 95,
+          "name": "Kyei G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Kyei G.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Maurer A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Maurer A.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "N'Diaye M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 N'Diaye M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Ogier F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Ogier F.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Rashani E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Rashani E.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Zeffane M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Zeffane M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "69",
+          "incoming": "Rashani E.",
+          "outgoing": "Gonalons M.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Rashani E. 6.1 Gonalons M. 69'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Zeffane M.",
+          "outgoing": "Allevinah J.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Zeffane M. Allevinah J. 84'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Boutobba B.",
+          "outgoing": "Cham M.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Boutobba B. Cham M. 84'"
+        },
+        {
+          "minute": "90+1",
+          "incoming": "Keita H.",
+          "outgoing": "Magnin Y.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Keita H. Magnin Y. 90+1'"
+        }
+      ],
+      "coach": "Gastien P."
+    },
+    "away": {
+      "formation": "3-4-3",
+      "formation_players": [
+        {
+          "number": 99,
+          "name": "Donnarumma",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Donnarumma",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Pereira",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Pereira",
+          "source": "formation"
+        },
+        {
+          "number": 37,
+          "name": "Skriniar",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Skriniar",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Marquinhos",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Marquinhos",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Hakimi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Hakimi",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Vitinha",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Vitinha",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Ruiz",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ruiz",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Barcola",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Barcola",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Dembele",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Dembele",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Kolo Muani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Kolo Muani",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Mbappe",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Mbappe",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 99,
+          "name": "Donnarumma G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Donnarumma G. (G)",
+          "formation_raw": "99 Donnarumma",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Pereira D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Pereira D.",
+          "formation_raw": "15 Pereira",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 37,
+          "name": "Skriniar M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Skriniar M.",
+          "formation_raw": "37 Skriniar",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Marquinhos",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Marquinhos (C)",
+          "formation_raw": "5 Marquinhos",
+          "source": "formation_detail_match",
+          "match_score": 17
+        },
+        {
+          "number": 2,
+          "name": "Hakimi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Hakimi A.",
+          "formation_raw": "2 Hakimi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Vitinha",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Vitinha",
+          "formation_raw": "17 Vitinha",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 8,
+          "name": "Ruiz F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ruiz F.",
+          "formation_raw": "8 Ruiz",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Barcola B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Barcola B.",
+          "formation_raw": "29 Barcola",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Dembele O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Dembele O.",
+          "formation_raw": "10 Dembele",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Kolo Muani R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Kolo Muani R.",
+          "formation_raw": "23 Kolo Muani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Mbappe K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Mbappe K.",
+          "formation_raw": "7 Mbappe",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 21,
+          "name": "Hernandez L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Hernandez L.",
+          "source": "detailed"
+        },
+        {
+          "number": 97,
+          "name": "Kurzawa L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "97 Kurzawa L.",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Mukiele N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Mukiele N.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Ndour C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Ndour C.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Ramos G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Ramos G.",
+          "source": "detailed"
+        },
+        {
+          "number": 28,
+          "name": "Soler C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Soler C.",
+          "source": "detailed"
+        },
+        {
+          "number": 80,
+          "name": "Tenas A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "80 Tenas A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Ugarte M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Ugarte M.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Zaire-Emery W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Zaire-Emery W.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "64",
+          "incoming": "Ramos G.",
+          "outgoing": "Barcola B.",
+          "incoming_rating": 5.9,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ramos G. 5.9 Barcola B. 64'"
+        },
+        {
+          "minute": "64",
+          "incoming": "Zaire-Emery W.",
+          "outgoing": "Vitinha",
+          "incoming_rating": 6.2,
+          "side": "away",
+          "side_match_score": 12,
+          "split_match_score": null,
+          "raw": "Zaire-Emery W. 6.2 Vitinha 64'"
+        }
+      ],
+      "coach": "Luis Enrique"
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "99 Diaw",
+      "36 Seidu",
+      "17 Pelmard",
+      "5 Caufriez",
+      "15 Konate",
+      "12 Gonalons",
+      "7 Magnin",
+      "25 Gastien",
+      "11 Allevinah",
+      "10 Cham",
+      "23 Nicholson",
+      "99 Donnarumma",
+      "15 Pereira",
+      "37 Skriniar",
+      "5 Marquinhos",
+      "2 Hakimi",
+      "17 Vitinha",
+      "8 Ruiz",
+      "29 Barcola",
+      "10 Dembele",
+      "23 Kolo Muani",
+      "7 Mbappe",
+      "Rashani E. 6.1 Gonalons M. 69'",
+      "Zeffane M. Allevinah J. 84'",
+      "Boutobba B. Cham M. 84'",
+      "Keita H. Magnin Y. 90+1'",
+      "Ramos G. 5.9 Barcola B. 64'",
+      "Zaire-Emery W. 6.2 Vitinha 64'",
+      "99 Diaw M. (G)",
+      "36 Seidu A.",
+      "17 Pelmard A.",
+      "5 Caufriez M.",
+      "15 Konate C.",
+      "12 Gonalons M. (C)",
+      "7 Magnin Y.",
+      "25 Gastien J.",
+      "11 Allevinah J.",
+      "10 Cham M.",
+      "23 Nicholson S.",
+      "99 Donnarumma G. (G)",
+      "15 Pereira D.",
+      "37 Skriniar M.",
+      "5 Marquinhos (C)",
+      "2 Hakimi A.",
+      "8 Ruiz F.",
+      "29 Barcola B.",
+      "10 Dembele O.",
+      "23 Kolo Muani R.",
+      "7 Mbappe K.",
+      "9 Andric K.",
+      "8 Boutobba B.",
+      "6 Keita H.",
+      "95 Kyei G.",
+      "20 Maurer A.",
+      "1 N'Diaye M. (G)",
+      "21 Ogier F.",
+      "18 Rashani E.",
+      "2 Zeffane M.",
+      "21 Hernandez L.",
+      "97 Kurzawa L.",
+      "26 Mukiele N.",
+      "27 Ndour C.",
+      "9 Ramos G.",
+      "28 Soler C.",
+      "80 Tenas A. (G)",
+      "4 Ugarte M.",
+      "33 Zaire-Emery W.",
+      "Armougom Y. Injury",
+      "Neto Borges Injury",
+      "Asensio M. Foot Injury",
+      "Kimpembe P. Convalescence",
+      "Mendes N. Muscle Injury",
+      "Navas K. Back Injury",
+      "Rico S. Head Injury",
+      "Gastien P.",
+      "Luis Enrique"
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 39,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 4,
+    "away_bench_substitution_match_count": 2,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 216
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 107,
+    "compact_lineup_text_count": 76,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 39,
+    "substitution_count": 6,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' Marc Bollengier is looking at his watch and immediately ends this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Ousmane Dembele (Paris SG) spurns a big chance! He makes himself some space to meet a cross and from near the penalty spot sends a header well wide of the left post! The ball goes out of play and Clermont will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Randal Kolo Muani (Paris SG) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Fabian Ruiz (Paris SG) protests to the referee and receives a yellow card."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Marc Bollengier blows his whistle and it's Randal Kolo Muani (Paris SG) who is penalised for an offensive foul. Good decision by the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' A good clearance by a defender means the corner comes to nothing for Paris SG."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Substitution. Habib Keita (Clermont) has come on for Yohan Magnin."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Randal Kolo Muani (Paris SG) latches onto a cross into the box from the wing and gets in a header. It went well towards the goal, but it was blocked by one of the defenders. The ball goes out of play. Paris SG are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 6 min. of added time."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Cheick Oumar Konate (Clermont) has received a yellow card for his foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' The resulting corner from Johan Gastien (Clermont) comes to nothing."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Dangerous play by Kylian Mbappe (Paris SG). Marc Bollengier blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Kylian Mbappe (Paris SG) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' The referee allows time for a substitution. Muhammed Cham will be replaced by Bilal Boutobba (Clermont)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Pascal Gastien has decided to substitute Jim Allevinah and he is replaced by Mehdi Zeffane (Clermont)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' A pass into the box finds Goncalo Ramos (Paris SG) unmarked. He carefully places a shot towards the middle of the goal, but a brilliant last-ditch save by Mory Diaw denies him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Paris SG can’t profit from the corner as the defence clear the ball upfield."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Kylian Mbappe (Paris SG) receives a yellow card from the referee as expected."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Randal Kolo Muani (Paris SG) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Randal Kolo Muani (Paris SG) breaks into the box and goes over after a challenge from an opposition player, but the ref signals NO penalty!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Randal Kolo Muani (Paris SG) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Warren Zaire-Emery (Paris SG) sees a yellow card from Marc Bollengier after he sent one of the opposing players to the ground."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Here's the change. Maxime Gonalons leaves the pitch and Elbasan Rashani (Clermont) comes on as a substitute."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' A cross from a corner kick by Clermont is too strong and the ball goes well out of play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Yohan Magnin (Clermont) gets to the rebound and shoots, but the effort is blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Clermont have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Luis Enrique decides to make a substitution. Vitinha will be replaced by Warren Zaire-Emery (Paris SG)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' The referee stops play so that a substitution can be made and Bradley Barcola leaves the pitch and Goncalo Ramos (Paris SG) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Randal Kolo Muani (Paris SG) skips past his man but can't keep the ball in play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Vitinha (Paris SG) times his run well to meet a lofted cross near the penalty spot, but mistimes his header and sends the ball high over the bar. The ball goes out of play and Clermont will have a goal kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Maxime Gonalons (Clermont) picks up a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Randal Kolo Muani (Paris SG) makes a strong challenge and Marc Bollengier blows for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' What a chance that is! Kylian Mbappe (Paris SG) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post! The ball goes out of play and Clermont will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' What a wasted opportunity by Cheick Oumar Konate (Clermont)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the middle of the net, but Gianluigi Donnarumma makes a comfortable save to thwart him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' A pass from Maximiliano Caufriez (Clermont) is intercepted by Gianluigi Donnarumma and the move breaks down."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Achraf Hakimi (Paris SG) collects a simple pass and decides to shoot from distance. It's a swerving effort aimed towards the bottom left corner, but Mory Diaw reads it well and makes a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Paris SG take a short corner instead of sending the ball into the penalty area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' The corner is swung in but Paris SG can’t take advantage as a defender sweeps the ball away. The referee and one of his assistants signal for a corner kick to Paris SG."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' Ousmane Dembele (Paris SG) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. The referee points to the corner flag and Paris SG will take a corner."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The players are back out on the pitch following the half-time break and the second half is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Marc Bollengier has ended the first half by blowing the whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Fabian Ruiz (Paris SG) did his best to latch onto a through ball, but it was too strong."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' 2 min. of stoppage-time to be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Kylian Mbappe (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Vitinha (Paris SG) gets a shot from distance but fails to generate enough power to beat the goalkeeper."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Ousmane Dembele (Paris SG) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Mory Diaw is alert and denies him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Ousmane Dembele (Paris SG) fails to produce a decent cross from the corner kick. The ball goes well out of play. The ball goes out of play and Clermont will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Kylian Mbappe (Paris SG) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Paris SG take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Danilo Pereira (Paris SG) hits an explosive shot from outside the penalty area and forces the goalkeeper to make a good save. Paris SG have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Paris SG work the corner short. The ball is passed to a nearby teammate."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Kylian Mbappe (Paris SG) receives a precise pass and is given time inside the box to send a promising strike towards the right post. Mory Diaw guesses his intention and denies him with a fine save. The referee signals a corner kick to Paris SG."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Shamar Nicholson (Clermont) is challenged in the air near the penalty spot and is unable to control his header from the corner, sending it miles over the bar. The ball goes out of play and Paris SG will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Clermont force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Cheick Oumar Konate (Clermont) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball goes out for a corner. Clermont can continue in their attacking effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' A fantastic block by a defender means that the corner from Clermont comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Clermont take the free kick with a short pass."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' The referee blows his whistle as Milan Skriniar (Paris SG) was too aggressive in his challenge. Clermont get a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Mory Diaw displays his ability to read the game and clears the danger after Bradley Barcola (Paris SG) threatened to latch onto a through ball from just outside the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Shamar Nicholson (Clermont) is penalised for holding. Marc Bollengier signals a set piece."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Paris SG quickly take a corner kick with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Randal Kolo Muani (Paris SG) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header which goes well over the bar. The ball is off of the pitch and it's a goal kick for Clermont."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' It looks like Johan Gastien (Clermont) saw red with that tackle. Marc Bollengier won't tolerate such behaviour on the pitch and blows for a foul. Paris SG win a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' The resulting set piece from Clermont is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Muhammed Cham (Clermont) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. Clermont have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' None of the Paris SG players could reach the corner kick as the ball was overhit and goes out of play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Achraf Hakimi (Paris SG) tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Clermont couldn't find the way to score from a mid-range free kick as Gianluigi Donnarumma (Paris SG) leaped high and intercepted the cross."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Achraf Hakimi (Paris SG) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Free kick. Clermont will probably just try to cross the ball in from here."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Randal Kolo Muani (Paris SG) looks to break free, but an opposing player clears the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Achraf Hakimi (Paris SG) wastes a good opportunity as his pass into the box is blocked by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Gianluigi Donnarumma displays his ability to read the game and clears the danger after Cheick Oumar Konate (Clermont) threatened to latch onto a through ball from just outside the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The match has just started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Clermont will kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Let us introduce today's referee to you, and it's Marc Bollengier."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups In the details of this match, you can glance at the lineups while the game is about to begin."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' Fabian Ruiz (Paris SG) protests to the referee and receives a yellow card.",
+        "team_side": "away",
+        "team": "PSG",
+        "player": "Ruiz F.",
+        "shirt_number": 8,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' Cheick Oumar Konate (Clermont) has received a yellow card for his foul.",
+        "team_side": "home",
+        "team": "Clermont",
+        "player": "Konate C.",
+        "shirt_number": 15,
+        "player_match_score": 113,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Kylian Mbappe (Paris SG) receives a yellow card from the referee as expected.",
+        "team_side": "away",
+        "team": "PSG",
+        "player": "Mbappe K.",
+        "shirt_number": 7,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Warren Zaire-Emery (Paris SG) sees a yellow card from Marc Bollengier after he sent one of the opposing players to the ground.",
+        "team_side": "away",
+        "team": "PSG",
+        "player": "Zaire-Emery W.",
+        "shirt_number": 33,
+        "player_match_score": 142,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 57,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "57' Maxime Gonalons (Clermont) picks up a yellow card.",
+        "team_side": "home",
+        "team": "Clermont",
+        "player": "Gonalons M.",
+        "shirt_number": 12,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+1' Substitution. Habib Keita (Clermont) has come on for Yohan Magnin."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' The referee allows time for a substitution. Muhammed Cham will be replaced by Bilal Boutobba (Clermont)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' Pascal Gastien has decided to substitute Jim Allevinah and he is replaced by Mehdi Zeffane (Clermont)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "69' Here's the change. Maxime Gonalons leaves the pitch and Elbasan Rashani (Clermont) comes on as a substitute."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' Luis Enrique decides to make a substitution. Vitinha will be replaced by Warren Zaire-Emery (Paris SG)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' The referee stops play so that a substitution can be made and Bradley Barcola leaves the pitch and Goncalo Ramos (Paris SG) comes on."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' Marc Bollengier blows his whistle and it's Randal Kolo Muani (Paris SG) who is penalised for an offensive foul. Good decision by the referee."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Dangerous play by Kylian Mbappe (Paris SG). Marc Bollengier blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The players are back out on the pitch following the half-time break and the second half is about to start."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 25,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "25' The referee blows his whistle as Milan Skriniar (Paris SG) was too aggressive in his challenge. Clermont get a free kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 10,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "10' Achraf Hakimi (Paris SG) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Free kick. Clermont will probably just try to cross the ball in from here."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 0,
+    "detected_goal_count": 0,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 0,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 135,
+    "commentary_row_count": 78,
+    "removed_commentary_noise_count": 57,
+    "goal_event_count": 0,
+    "yellow_card_event_count": 5,
+    "red_card_event_count": 0,
+    "substitution_event_count": 6,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 0,
+      "detected_goal_count": 0
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 0,
+    "structured_goal_count": 0,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 5,
+    "structured_yellow_card_count": 5,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T08:33:46Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 78,
+      "error": null
+    }
+  }
+}

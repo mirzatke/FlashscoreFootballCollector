@@ -1,0 +1,2792 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/reims-tItR6sEf/rennes-d2nnj1IE/summary/stats/overall/?mid=4xDBJfsC",
+  "match_id": "4xDBJfsC",
+  "page_title": "REN 3-1 REI | Rennes v Reims 26/11/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "26.11.2023 20:05",
+  "home_team": "Rennes",
+  "away_team": "Reims",
+  "score": {
+    "home": "3",
+    "away": "1",
+    "display": "3 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.96",
+      "away": "0.22",
+      "raw_values": [
+        "0.96",
+        "0.22"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "38%",
+      "away": "62%",
+      "raw_values": [
+        "38%",
+        "62%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "10",
+      "away": "15",
+      "raw_values": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "5",
+      "away": "5",
+      "raw_values": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "1",
+      "away": "8",
+      "raw_values": [
+        "1",
+        "8"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "74%\n(235/316)",
+      "away": "85%\n(447/528)",
+      "raw_values": [
+        "74%\n(235/316)",
+        "85%\n(447/528)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "2",
+      "raw_values": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "2",
+      "away": "5",
+      "raw_values": [
+        "2",
+        "5"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "3",
+      "away": "5",
+      "raw_values": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "4",
+      "raw_values": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "24",
+      "away": "11",
+      "raw_values": [
+        "24",
+        "11"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "23",
+      "away": "25",
+      "raw_values": [
+        "23",
+        "25"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "10",
+      "away": "18",
+      "raw_values": [
+        "10",
+        "18"
+      ]
+    },
+    {
+      "category": "Interceptions",
+      "home": "18",
+      "away": "7",
+      "raw_values": [
+        "18",
+        "7"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "4",
+      "away": "2",
+      "raw_values": [
+        "4",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 20,
+    "statistic_row_count": 15,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.96",
+        "away": "0.22",
+        "raw_values": [
+          "0.96",
+          "0.22"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "38%",
+        "away": "62%",
+        "raw_values": [
+          "38%",
+          "62%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "10",
+        "away": "15",
+        "raw_values": [
+          "10",
+          "15"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "5",
+        "raw_values": [
+          "5",
+          "5"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "8",
+        "raw_values": [
+          "1",
+          "8"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "74%\n(235/316)",
+        "away": "85%\n(447/528)",
+        "raw_values": [
+          "74%\n(235/316)",
+          "85%\n(447/528)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "5",
+        "raw_values": [
+          "2",
+          "5"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "24",
+        "away": "11",
+        "raw_values": [
+          "24",
+          "11"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "23",
+        "away": "25",
+        "raw_values": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "10",
+        "away": "18",
+        "raw_values": [
+          "10",
+          "18"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "18",
+        "away": "7",
+        "raw_values": [
+          "18",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.96",
+        "away": "0.22",
+        "raw_values": [
+          "0.96",
+          "0.22"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "39%",
+        "away": "61%",
+        "raw_values": [
+          "39%",
+          "61%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "8",
+        "away": "7",
+        "raw_values": [
+          "8",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "80%\n(136/171)",
+        "away": "87%\n(233/269)",
+        "raw_values": [
+          "80%\n(136/171)",
+          "87%\n(233/269)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "8",
+        "away": "6",
+        "raw_values": [
+          "8",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "14",
+        "away": "17",
+        "raw_values": [
+          "14",
+          "17"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "6",
+        "raw_values": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "8",
+        "away": "0",
+        "raw_values": [
+          "8",
+          "0"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.00",
+        "away": "0.00",
+        "raw_values": [
+          "0.00",
+          "0.00"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "37%",
+        "away": "63%",
+        "raw_values": [
+          "37%",
+          "63%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "2",
+        "away": "8",
+        "raw_values": [
+          "2",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "0",
+        "away": "4",
+        "raw_values": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "68%\n(99/145)",
+        "away": "83%\n(214/259)",
+        "raw_values": [
+          "68%\n(99/145)",
+          "83%\n(214/259)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "16",
+        "away": "5",
+        "raw_values": [
+          "16",
+          "5"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "9",
+        "away": "8",
+        "raw_values": [
+          "9",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "12",
+        "raw_values": [
+          "5",
+          "12"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "10",
+        "away": "7",
+        "raw_values": [
+          "10",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "4",
+        "away": "0",
+        "raw_values": [
+          "4",
+          "0"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 20,
+    "statistic_row_count": 15,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-3",
+      "formation_players": [
+        {
+          "number": 30,
+          "name": "Mandanda",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "30 Mandanda",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Wooh",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Wooh",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Belocian",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Belocian",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Theate",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Theate",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Bourigeaud",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Bourigeaud",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Le Fee",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Le Fee",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Matic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Matic",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Truffert",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Truffert",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Gouiri",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Gouiri",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Kalimuendo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Kalimuendo",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Terrier",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Terrier",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 30,
+          "name": "Mandanda S.",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "30 Mandanda S. (G) (C)",
+          "formation_raw": "30 Mandanda",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Wooh C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Wooh C.",
+          "formation_raw": "15 Wooh",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Belocian J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Belocian J.",
+          "formation_raw": "16 Belocian",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Theate A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Theate A.",
+          "formation_raw": "5 Theate",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Bourigeaud B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Bourigeaud B.",
+          "formation_raw": "14 Bourigeaud",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Le Fee E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Le Fee E.",
+          "formation_raw": "28 Le Fee",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Matic N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Matic N.",
+          "formation_raw": "21 Matic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Truffert A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Truffert A.",
+          "formation_raw": "3 Truffert",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Gouiri A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Gouiri A.",
+          "formation_raw": "10 Gouiri",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Kalimuendo A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Kalimuendo A.",
+          "formation_raw": "9 Kalimuendo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Terrier M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Terrier M.",
+          "formation_raw": "7 Terrier",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 22,
+          "name": "Assignon L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Assignon L.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Blas L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Blas L.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Doue D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Doue D.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Gallon G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gallon G. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 38,
+          "name": "Jaouab M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Jaouab M.",
+          "source": "detailed"
+        },
+        {
+          "number": 32,
+          "name": "Rieder F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Rieder F.",
+          "source": "detailed"
+        },
+        {
+          "number": 34,
+          "name": "Salah I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Salah I.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Santamaria B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Santamaria B.",
+          "source": "detailed"
+        },
+        {
+          "number": 99,
+          "name": "Yildirim B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "99 Yildirim B.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "72",
+          "incoming": "Blas L.",
+          "outgoing": "Terrier M.",
+          "incoming_rating": 6.6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Blas L. 6.6 Terrier M. 72'"
+        },
+        {
+          "minute": "72",
+          "incoming": "Assignon L.",
+          "outgoing": "Bourigeaud B.",
+          "incoming_rating": 6.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Assignon L. 6.3 Bourigeaud B. 72'"
+        },
+        {
+          "minute": "83",
+          "incoming": "Santamaria B.",
+          "outgoing": "Gouiri A.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Santamaria B. Gouiri A. 83'"
+        },
+        {
+          "minute": "83",
+          "incoming": "Salah I.",
+          "outgoing": "Truffert A.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Salah I. Truffert A. 83'"
+        },
+        {
+          "minute": "90",
+          "incoming": "Yildirim B.",
+          "outgoing": "Kalimuendo A.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Yildirim B. Kalimuendo A. 90'"
+        }
+      ],
+      "coach": "Stephan J."
+    },
+    "away": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 94,
+          "name": "Diouf",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "94 Diouf",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Foket",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Foket",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Agbadou",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Agbadou",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Abdelhamid",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Abdelhamid",
+          "source": "formation"
+        },
+        {
+          "number": 25,
+          "name": "De Smet",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 De Smet",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Munetsi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Munetsi",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Matusiwa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Matusiwa",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Teuma",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Teuma",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Ito",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Ito",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Diakite",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Diakite",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Daramy",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Daramy",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 94,
+          "name": "Diouf Y.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "94 Diouf Y. (G)",
+          "formation_raw": "94 Diouf",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Foket T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Foket T.",
+          "formation_raw": "32 Foket",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Agbadou E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Agbadou E.",
+          "formation_raw": "24 Agbadou",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Abdelhamid Y.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Abdelhamid Y. (C)",
+          "formation_raw": "5 Abdelhamid",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 25,
+          "name": "De Smet T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 De Smet T.",
+          "formation_raw": "25 De Smet",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Munetsi M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Munetsi M.",
+          "formation_raw": "15 Munetsi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Matusiwa A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Matusiwa A.",
+          "formation_raw": "21 Matusiwa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Teuma T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Teuma T.",
+          "formation_raw": "10 Teuma",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Ito J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Ito J.",
+          "formation_raw": "7 Ito",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Diakite O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Diakite O.",
+          "formation_raw": "22 Diakite",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Daramy M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Daramy M.",
+          "formation_raw": "9 Daramy",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 27,
+          "name": "Bojang A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Bojang A.",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Busi M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Busi M.",
+          "source": "detailed"
+        },
+        {
+          "number": 67,
+          "name": "Diakhon M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "67 Diakhon M.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Khadra R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Khadra R.",
+          "source": "detailed"
+        },
+        {
+          "number": 72,
+          "name": "Kone A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "72 Kone A.",
+          "source": "detailed"
+        },
+        {
+          "number": 96,
+          "name": "Olliero A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "96 Olliero A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 55,
+          "name": "Prouchet K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "55 Prouchet K.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Richardson A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Richardson A.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Salama A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Salama A.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "33",
+          "incoming": "Richardson A.",
+          "outgoing": "Munetsi M.",
+          "incoming_rating": 6.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Richardson A. 6.1 Munetsi M. 33'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Salama A.",
+          "outgoing": "Diakite O.",
+          "incoming_rating": 5.9,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Salama A. 5.9 Diakite O. 76'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Khadra R.",
+          "outgoing": "Foket T.",
+          "incoming_rating": 6.2,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Khadra R. 6.2 Foket T. 76'"
+        },
+        {
+          "minute": "87",
+          "incoming": "Bojang A.",
+          "outgoing": "Daramy M.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Bojang A. Daramy M. 87'"
+        }
+      ],
+      "coach": "Still W."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "30 Mandanda",
+      "15 Wooh",
+      "16 Belocian",
+      "5 Theate",
+      "14 Bourigeaud",
+      "28 Le Fee",
+      "21 Matic",
+      "3 Truffert",
+      "10 Gouiri",
+      "9 Kalimuendo",
+      "7 Terrier",
+      "94 Diouf",
+      "32 Foket",
+      "24 Agbadou",
+      "5 Abdelhamid",
+      "25 De Smet",
+      "15 Munetsi",
+      "21 Matusiwa",
+      "10 Teuma",
+      "7 Ito",
+      "22 Diakite",
+      "9 Daramy",
+      "Blas L. 6.6 Terrier M. 72'",
+      "Assignon L. 6.3 Bourigeaud B. 72'",
+      "Santamaria B. Gouiri A. 83'",
+      "Salah I. Truffert A. 83'",
+      "Yildirim B. Kalimuendo A. 90'",
+      "Richardson A. 6.1 Munetsi M. 33'",
+      "Salama A. 5.9 Diakite O. 76'",
+      "Khadra R. 6.2 Foket T. 76'",
+      "Bojang A. Daramy M. 87'",
+      "30 Mandanda S. (G) (C)",
+      "15 Wooh C.",
+      "16 Belocian J.",
+      "5 Theate A.",
+      "14 Bourigeaud B.",
+      "28 Le Fee E.",
+      "21 Matic N.",
+      "3 Truffert A.",
+      "10 Gouiri A.",
+      "9 Kalimuendo A.",
+      "7 Terrier M.",
+      "94 Diouf Y. (G)",
+      "32 Foket T.",
+      "24 Agbadou E.",
+      "5 Abdelhamid Y. (C)",
+      "25 De Smet T.",
+      "15 Munetsi M.",
+      "21 Matusiwa A.",
+      "10 Teuma T.",
+      "7 Ito J.",
+      "22 Diakite O.",
+      "9 Daramy M.",
+      "22 Assignon L.",
+      "11 Blas L.",
+      "33 Doue D.",
+      "1 Gallon G. (G)",
+      "38 Jaouab M.",
+      "32 Rieder F.",
+      "34 Salah I.",
+      "8 Santamaria B.",
+      "99 Yildirim B.",
+      "27 Bojang A.",
+      "4 Busi M.",
+      "67 Diakhon M.",
+      "14 Khadra R.",
+      "72 Kone A.",
+      "96 Olliero A. (G)",
+      "55 Prouchet K.",
+      "8 Richardson A.",
+      "11 Salama A.",
+      "Doue G. Red Card",
+      "Atangana V. Ankle Injury",
+      "Diakite I. Ankle Injury",
+      "Nakamura K. Injury",
+      "Wilson-Esbrand J. Shoulder Injury",
+      "Stephan J.",
+      "Still W."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 111,
+    "compact_lineup_text_count": 78,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 9,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' That's it for today, Ruddy Buquet has blown his whistle and the game is over."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Teddy Teuma (Reims) swings in the corner, but it's comfortably cleared away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 6 min. of added time."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Julien Stephan has decided to make a change. Bertug Yildirim (Rennes) replaces Arnaud Kalimuendo."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Teddy Teuma (Reims) sees a yellow card. He should be more careful because one more challenge like that could result in a red card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Teddy Teuma (Reims) takes the corner, but he overhits it and none of his teammates are able to reach the ball."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Substitution. Adama Bojang (Reims) on for Mohamed Daramy."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Emmanuel Agbadou (Reims) makes a bad tackle on his opponent and is angry when the referee shows him a deserved yellow card."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Here is a change. Adrien Truffert is going off and Julien Stephan gives the last tactical orders to Ibrahim Salah (Rennes)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' That will be all from Amine Gouiri who is being replaced by the fresh legs of Baptiste Santamaria (Rennes)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Reims control the tempo of the game by exchanging some accurate short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Junya Ito (Reims) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' That will be a yellow card for one of the players. The one who gets booked is Arnaud Kalimuendo (Rennes)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' The referee stops play so that a substitution can be made and Thomas Foket departs the field of play to be replaced by Reda Khadra (Reims)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Substitution. Oumar Diakite makes way for Amine Salama (Reims)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' We are about to witness a substitution. Lorenz Assignon (Rennes) is replacing Benjamin Bourigeaud."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Julien Stephan has decided to introduce fresh legs, with Ludovic Blas (Rennes) replacing Martin Terrier."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Nemanja Matic (Rennes) picks up a yellow card."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "66' 3 - 1 GOAL! Benjamin Bourigeaud curls the free kick into the box. Arthur Theate (Rennes) peels off his marker and arrows a brilliant header past Yehvann Diouf and into the right side of the net. 3:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' A lofted pass into the box is met by Oumar Diakite (Reims), who rifles a shot just wide of the left post. The ball is off of the pitch and it's a goal kick for Rennes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Junya Ito (Reims) launches a cross from the corner, but Steve Mandanda is alert to thwart the effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Junya Ito (Reims) delivers a promising cross into the box, but it's cleared. Reims have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Junya Ito (Reims) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Rennes are bossing possession at the moment by exchanging some precise passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Amir Richardson (Reims) fouls an opponent. At least that's what referee Ruddy Buquet signals."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' The linesman raises his flag. Oumar Diakite (Reims) is adjudged offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Benjamin Bourigeaud (Rennes) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Teddy Teuma (Reims) takes the corner kick but the ball only finds the head of an opponent."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' The Reims players are exchanging some short passes."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "46' 2 - 1 Goal! Martin Terrier plays a simple square pass into the feet of Benjamin Bourigeaud (Rennes) in the box, who composes himself and lashes the ball into the bottom right corner. 2:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The second half gets underway."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' Ruddy Buquet blows his whistle to signal the end of the first-half action."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Ruddy Buquet sticks with his original decision after the VAR review. No infringement and the goal stands!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Wait! Referee Ruddy Buquet has indicated he is going to review the Reims goal using VAR. It’s probably to see if there was an offside in the build-up."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "45+1' 1 - 1 Goal! Junya Ito plays a neat lofted pass into the box for Oumar Diakite (Reims), who beats the defender in the air and plants a header into the left side of the goal from close range. 1:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Reims quickly take a corner kick with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Mohamed Daramy (Reims) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. The referee and his assistant both point at the corner flag. Reims will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' There will be a minimum of 3 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Neat passing move from Rennes in order to create new attacking opportunities."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' The rebound finds Mohamed Daramy (Reims) in space inside the box, but his shot goes well wide of the left post. That was a promising chance! The ball is off of the pitch and it's a goal kick for Rennes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Thibault De Smet (Reims) sends the ball into the box from the side of the pitch, but his cross is blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Teddy Teuma (Reims) takes the corner which is cleared."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' It's a throw-in for Rennes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' The Reims players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' The fouls committed statistics – 5:4."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' What a wasted chance that is! An inch-perfect cross into the box finds Christopher Wooh (Rennes) who sends his header well wide of the left post. The ball goes out of play and Reims will have a goal kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' William Still is forced to make a change. Marshall Munetsi (Reims) is unable to continue due to injury, Amir Richardson comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Benjamin Bourigeaud (Rennes) serves up a nice cross, but the defence clears the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Some great controlled play and passing in the middle of the pitch from Rennes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Marshall Munetsi (Reims) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Teddy Teuma (Reims) brings his opponent down with a tackle and Ruddy Buquet blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Adrien Truffert (Rennes) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' We can have a look at the statistics now, particularly the total attempts – 6:3."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' A horde of players are waiting inside the penalty area for a cross from the corner, but Junya Ito (Reims) takes it short."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Marshall Munetsi (Reims) gets to the rebound and shoots, but the effort is blocked. The ball goes out for a corner. Reims can continue in their attacking effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' The Rennes players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Thibault De Smet (Reims) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' The corner from Teddy Teuma (Reims) is intercepted by Steve Mandanda."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Marshall Munetsi (Reims) flights in the cross, but the defender is alert and clears to safety. Reims have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' Amine Gouiri (Rennes) sends a cross into the box, but Yehvann Diouf comes off his line to gather the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Thomas Foket (Reims) produces a dangerous lofted cross into the box which is intercepted."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Rennes enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' A neat pass is well received by Arnaud Kalimuendo (Rennes), who is lurking on the edge of the box and produces a low drive directed towards the middle of the goal. The goalkeeper makes a decent save to block his shot."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' The ratio of the ball possession is 66:34."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Arnaud Kalimuendo (Rennes) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Reims seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "4' 1 - 0 Goal! Amine Gouiri (Rennes) fires the rebound low into the middle of the goal after the ball breaks to him in the box. The score is 1:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Benjamin Bourigeaud (Rennes) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Benjamin Bourigeaud (Rennes) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half of this match is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out and the match is about to start. Reims will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Today's referee will be Ruddy Buquet."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups Before the start of the game, you can see the starting lineups for today's clash."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "66' 3 - 1 GOAL! Benjamin Bourigeaud curls the free kick into the box. Arthur Theate (Rennes) peels off his marker and arrows a brilliant header past Yehvann Diouf and into the right side of the net. 3:1.",
+        "team_side": "home",
+        "team": "Rennes",
+        "player_team_side": "home",
+        "player_team": "Rennes",
+        "player": "Theate A.",
+        "shirt_number": 5,
+        "player_match_score": 144,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 1
+        },
+        "assist_player": "Bourigeaud B.",
+        "assist_shirt_number": 14,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "46' 2 - 1 Goal! Martin Terrier plays a simple square pass into the feet of Benjamin Bourigeaud (Rennes) in the box, who composes himself and lashes the ball into the bottom right corner. 2:1.",
+        "team_side": "home",
+        "team": "Rennes",
+        "player_team_side": "home",
+        "player_team": "Rennes",
+        "player": "Bourigeaud B.",
+        "shirt_number": 14,
+        "player_match_score": 146,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 1
+        },
+        "assist_player": "Terrier M.",
+        "assist_shirt_number": 7,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "45+1' 1 - 1 Goal! Junya Ito plays a neat lofted pass into the box for Oumar Diakite (Reims), who beats the defender in the air and plants a header into the left side of the goal from close range. 1:1.",
+        "team_side": "away",
+        "team": "Reims",
+        "player_team_side": "away",
+        "player_team": "Reims",
+        "player": "Diakite O.",
+        "shirt_number": 22,
+        "player_match_score": 147,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": "Ito J.",
+        "assist_shirt_number": 7,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 4,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "4' 1 - 0 Goal! Amine Gouiri (Rennes) fires the rebound low into the middle of the goal after the ball breaks to him in the box. The score is 1:0.",
+        "team_side": "home",
+        "team": "Rennes",
+        "player_team_side": "home",
+        "player_team": "Rennes",
+        "player": "Gouiri A.",
+        "shirt_number": 10,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Teddy Teuma (Reims) sees a yellow card. He should be more careful because one more challenge like that could result in a red card.",
+        "team_side": "away",
+        "team": "Reims",
+        "player": "Teuma T.",
+        "shirt_number": 10,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Emmanuel Agbadou (Reims) makes a bad tackle on his opponent and is angry when the referee shows him a deserved yellow card.",
+        "team_side": "away",
+        "team": "Reims",
+        "player": "Agbadou E.",
+        "shirt_number": 24,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' That will be a yellow card for one of the players. The one who gets booked is Arnaud Kalimuendo (Rennes).",
+        "team_side": "home",
+        "team": "Rennes",
+        "player": "Kalimuendo A.",
+        "shirt_number": 9,
+        "player_match_score": 149,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' Nemanja Matic (Rennes) picks up a yellow card.",
+        "team_side": "home",
+        "team": "Rennes",
+        "player": "Matic N.",
+        "shirt_number": 21,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' Julien Stephan has decided to make a change. Bertug Yildirim (Rennes) replaces Arnaud Kalimuendo."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "87' Substitution. Adama Bojang (Reims) on for Mohamed Daramy."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 83,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "83' Here is a change. Adrien Truffert is going off and Julien Stephan gives the last tactical orders to Ibrahim Salah (Rennes)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 83,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "83' That will be all from Amine Gouiri who is being replaced by the fresh legs of Baptiste Santamaria (Rennes)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' The referee stops play so that a substitution can be made and Thomas Foket departs the field of play to be replaced by Reda Khadra (Reims)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Substitution. Oumar Diakite makes way for Amine Salama (Reims)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' We are about to witness a substitution. Lorenz Assignon (Rennes) is replacing Benjamin Bourigeaud."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' Julien Stephan has decided to introduce fresh legs, with Ludovic Blas (Rennes) replacing Martin Terrier."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 33,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "33' William Still is forced to make a change. Marshall Munetsi (Reims) is unable to continue due to injury, Amir Richardson comes on."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 45,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+3' Ruddy Buquet sticks with his original decision after the VAR review. No infringement and the goal stands!",
+        "review_reason": "goal",
+        "decision": "review_completed",
+        "team_side": null,
+        "team": null,
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 48
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 45,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+3' Wait! Referee Ruddy Buquet has indicated he is going to review the Reims goal using VAR. It’s probably to see if there was an offside in the build-up.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "away",
+        "team": "Reims",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 48
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 4,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+4' Ruddy Buquet blows his whistle to signal the end of the first-half action."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 28,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "28' Teddy Teuma (Reims) brings his opponent down with a tackle and Ruddy Buquet blows his whistle for a foul."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 4,
+    "detected_goal_count": 4,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 4,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 136,
+    "commentary_row_count": 75,
+    "removed_commentary_noise_count": 61,
+    "goal_event_count": 4,
+    "yellow_card_event_count": 4,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 4,
+      "detected_goal_count": 4
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 4,
+    "structured_goal_count": 4,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 3,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 2,
+    "yellow_card_event_count": 4,
+    "structured_yellow_card_count": 4,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T08:53:42Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 15,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 15,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 75,
+      "error": null
+    }
+  }
+}

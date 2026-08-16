@@ -1,0 +1,2720 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/lille-pfDZL71o/summary/stats/overall/?mid=hOMYHMlA",
+  "match_id": "hOMYHMlA",
+  "page_title": "LIL 1-0 BRE | Lille v Brest 22/10/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "22.10.2023 17:00",
+  "home_team": "Lille",
+  "away_team": "Brest",
+  "score": {
+    "home": "1",
+    "away": "0",
+    "display": "1 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.89",
+      "away": "0.54",
+      "raw_values": [
+        "1.89",
+        "0.54"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "44%",
+      "away": "56%",
+      "raw_values": [
+        "44%",
+        "56%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "6",
+      "away": "9",
+      "raw_values": [
+        "6",
+        "9"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "4",
+      "away": "1",
+      "raw_values": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "3",
+      "away": "5",
+      "raw_values": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "72%\n(279/385)",
+      "away": "82%\n(401/489)",
+      "raw_values": [
+        "72%\n(279/385)",
+        "82%\n(401/489)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "1",
+      "away": "6",
+      "raw_values": [
+        "1",
+        "6"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "1",
+      "away": "2",
+      "raw_values": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "0",
+      "away": "1",
+      "raw_values": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "14",
+      "away": "12",
+      "raw_values": [
+        "14",
+        "12"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "18",
+      "away": "25",
+      "raw_values": [
+        "18",
+        "25"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "12",
+      "away": "13",
+      "raw_values": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "1",
+      "away": "3",
+      "raw_values": [
+        "1",
+        "3"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.89",
+        "away": "0.54",
+        "raw_values": [
+          "1.89",
+          "0.54"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "44%",
+        "away": "56%",
+        "raw_values": [
+          "44%",
+          "56%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "9",
+        "raw_values": [
+          "6",
+          "9"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "4",
+        "away": "1",
+        "raw_values": [
+          "4",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "72%\n(279/385)",
+        "away": "82%\n(401/489)",
+        "raw_values": [
+          "72%\n(279/385)",
+          "82%\n(401/489)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "14",
+        "away": "12",
+        "raw_values": [
+          "14",
+          "12"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "18",
+        "away": "25",
+        "raw_values": [
+          "18",
+          "25"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "12",
+        "away": "13",
+        "raw_values": [
+          "12",
+          "13"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.15",
+        "away": "0.16",
+        "raw_values": [
+          "1.15",
+          "0.16"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "48%",
+        "away": "52%",
+        "raw_values": [
+          "48%",
+          "52%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "78%\n(167/214)",
+        "away": "81%\n(179/222)",
+        "raw_values": [
+          "78%\n(167/214)",
+          "81%\n(179/222)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "8",
+        "raw_values": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "14",
+        "raw_values": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.74",
+        "away": "0.38",
+        "raw_values": [
+          "0.74",
+          "0.38"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "40%",
+        "away": "60%",
+        "raw_values": [
+          "40%",
+          "60%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "3",
+        "away": "6",
+        "raw_values": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "65%\n(112/171)",
+        "away": "83%\n(222/267)",
+        "raw_values": [
+          "65%\n(112/171)",
+          "83%\n(222/267)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "0",
+        "away": "4",
+        "raw_values": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "8",
+        "away": "11",
+        "raw_values": [
+          "8",
+          "11"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "7",
+        "raw_values": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 30,
+          "name": "Chevalier",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Chevalier",
+          "source": "formation"
+        },
+        {
+          "number": 18,
+          "name": "Diakite",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Diakite",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Yoro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Yoro",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Alexsandro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Alexsandro",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Ismaily",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Ismaily",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Andre",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "21 Andre",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Bentaleb",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Bentaleb",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Zhegrova",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Zhegrova",
+          "source": "formation"
+        },
+        {
+          "number": 12,
+          "name": "Yazici",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Yazici",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Cavaleiro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Cavaleiro",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "David",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 David",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 30,
+          "name": "Chevalier L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Chevalier L. (G)",
+          "formation_raw": "30 Chevalier",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 18,
+          "name": "Diakite B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Diakite B.",
+          "formation_raw": "18 Diakite",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Yoro L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Yoro L.",
+          "formation_raw": "15 Yoro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Alexsandro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Alexsandro",
+          "formation_raw": "4 Alexsandro",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 31,
+          "name": "Ismaily",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Ismaily",
+          "formation_raw": "31 Ismaily",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 21,
+          "name": "Andre B.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "21 Andre B. (C)",
+          "formation_raw": "21 Andre",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Bentaleb N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Bentaleb N.",
+          "formation_raw": "6 Bentaleb",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Zhegrova E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Zhegrova E.",
+          "formation_raw": "23 Zhegrova",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 12,
+          "name": "Yazici Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Yazici Y.",
+          "formation_raw": "12 Yazici",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Cavaleiro I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Cavaleiro I.",
+          "formation_raw": "17 Cavaleiro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "David J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 David J.",
+          "formation_raw": "9 David",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 32,
+          "name": "Bouaddi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Bouaddi A.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Cabella R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cabella R.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Gudmundsson G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Gudmundsson G.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Haraldsson H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Haraldsson H.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Mannone V.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Mannone V. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Miramon I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Miramon I.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Ounas A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Ounas A.",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Santos T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Santos T.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Umtiti S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Umtiti S.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "67",
+          "incoming": "Bouaddi A.",
+          "outgoing": "Bentaleb N.",
+          "incoming_rating": 6.8,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bouaddi A. 6.8 Bentaleb N. 67'"
+        },
+        {
+          "minute": "67",
+          "incoming": "Ounas A.",
+          "outgoing": "Zhegrova E.",
+          "incoming_rating": 7.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ounas A. 7.1 Zhegrova E. 67'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Haraldsson H.",
+          "outgoing": "Cavaleiro I.",
+          "incoming_rating": 6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Haraldsson H. 6.0 Cavaleiro I. 75'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Cabella R.",
+          "outgoing": "Yazici Y.",
+          "incoming_rating": 6.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Cabella R. 6.7 Yazici Y. 76'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Umtiti S.",
+          "outgoing": "David J.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Umtiti S. David J. 89'"
+        }
+      ],
+      "coach": "Fonseca P."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 40,
+          "name": "Bizot",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "40 Bizot",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Lala",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Lala",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Chardonnet",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Chardonnet",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Dari",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Dari",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Locko",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Locko",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Magnetti",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Magnetti",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Martin",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Martin",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Del Castillo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Del Castillo",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Lees-Melou",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Lees-Melou",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Le Douaron",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Le Douaron",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Satriano",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Satriano",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 40,
+          "name": "Bizot M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "40 Bizot M. (G)",
+          "formation_raw": "40 Bizot",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Lala K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Lala K.",
+          "formation_raw": "27 Lala",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Chardonnet B.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Chardonnet B. (C)",
+          "formation_raw": "5 Chardonnet",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Dari A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Dari A.",
+          "formation_raw": "4 Dari",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Locko B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Locko B.",
+          "formation_raw": "2 Locko",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Magnetti H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Magnetti H.",
+          "formation_raw": "8 Magnetti",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Martin J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Martin J.",
+          "formation_raw": "28 Martin",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Del Castillo R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Del Castillo R.",
+          "formation_raw": "10 Del Castillo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Lees-Melou P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Lees-Melou P.",
+          "formation_raw": "20 Lees-Melou",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Le Douaron J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Le Douaron J.",
+          "formation_raw": "22 Le Douaron",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Satriano M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Satriano M.",
+          "formation_raw": "7 Satriano",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 19,
+          "name": "Amavi J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Amavi J.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Brahimi B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Brahimi B.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Camblan A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Camblan A.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Coudert G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Coudert G. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Doumbia K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Doumbia K.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Lebeau A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Lebeau A.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Le Cardinal J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Le Cardinal J.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Mounie S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Mounie S.",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Pereira Lage M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Pereira Lage M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "63",
+          "incoming": "Doumbia K.",
+          "outgoing": "Magnetti H.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Doumbia K. 6.6 Magnetti H. 63'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Camblan A.",
+          "outgoing": "Le Douaron J.",
+          "incoming_rating": 5.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Camblan A. 5.8 Le Douaron J. 74'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Brahimi B.",
+          "outgoing": "Martin J.",
+          "incoming_rating": 5.9,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Brahimi B. 5.9 Martin J. 74'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Mounie S.",
+          "outgoing": "Satriano M.",
+          "incoming_rating": 6.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Mounie S. 6.1 Satriano M. 74'"
+        },
+        {
+          "minute": "87",
+          "incoming": "Pereira Lage M.",
+          "outgoing": "Del Castillo R.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Pereira Lage M. Del Castillo R. 87'"
+        }
+      ],
+      "coach": "Roy E."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "30 Chevalier",
+      "18 Diakite",
+      "15 Yoro",
+      "4 Alexsandro",
+      "31 Ismaily",
+      "21 Andre",
+      "6 Bentaleb",
+      "23 Zhegrova",
+      "12 Yazici",
+      "17 Cavaleiro",
+      "9 David",
+      "40 Bizot",
+      "27 Lala",
+      "5 Chardonnet",
+      "4 Dari",
+      "2 Locko",
+      "8 Magnetti",
+      "28 Martin",
+      "10 Del Castillo",
+      "20 Lees-Melou",
+      "22 Le Douaron",
+      "7 Satriano",
+      "Bouaddi A. 6.8 Bentaleb N. 67'",
+      "Ounas A. 7.1 Zhegrova E. 67'",
+      "Haraldsson H. 6.0 Cavaleiro I. 75'",
+      "Cabella R. 6.7 Yazici Y. 76'",
+      "Umtiti S. David J. 89'",
+      "Doumbia K. 6.6 Magnetti H. 63'",
+      "Camblan A. 5.8 Le Douaron J. 74'",
+      "Brahimi B. 5.9 Martin J. 74'",
+      "Mounie S. 6.1 Satriano M. 74'",
+      "Pereira Lage M. Del Castillo R. 87'",
+      "30 Chevalier L. (G)",
+      "18 Diakite B.",
+      "15 Yoro L.",
+      "21 Andre B. (C)",
+      "6 Bentaleb N.",
+      "23 Zhegrova E.",
+      "12 Yazici Y.",
+      "17 Cavaleiro I.",
+      "9 David J.",
+      "40 Bizot M. (G)",
+      "27 Lala K.",
+      "5 Chardonnet B. (C)",
+      "4 Dari A.",
+      "2 Locko B.",
+      "8 Magnetti H.",
+      "28 Martin J.",
+      "10 Del Castillo R.",
+      "20 Lees-Melou P.",
+      "22 Le Douaron J.",
+      "7 Satriano M.",
+      "32 Bouaddi A.",
+      "10 Cabella R.",
+      "5 Gudmundsson G.",
+      "7 Haraldsson H.",
+      "1 Mannone V. (G)",
+      "20 Miramon I.",
+      "11 Ounas A.",
+      "22 Santos T.",
+      "14 Umtiti S.",
+      "19 Amavi J.",
+      "21 Brahimi B.",
+      "11 Camblan A.",
+      "30 Coudert G. (G)",
+      "23 Doumbia K.",
+      "14 Lebeau A.",
+      "25 Le Cardinal J.",
+      "9 Mounie S.",
+      "26 Pereira Lage M.",
+      "Djalo T. Knee Injury",
+      "Gomes A. Yellow Cards",
+      "Brassier L. Yellow Cards",
+      "Camara M. Yellow Cards",
+      "Marillat Y. Injury",
+      "Fonseca P.",
+      "Roy E."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 38,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 360
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 113,
+    "compact_lineup_text_count": 77,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 38,
+    "substitution_count": 10,
+    "coach_candidate_count": 5,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' There will be no more action in this match as the referee signals full time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' Axel Camblan (Brest) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Kenny Lala (Brest) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Mathias Pereira Lage (Brest) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. The referee and the linesman both signal a throw-in for Brest."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 6 additional min. will be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Kamory Doumbia (Brest) picks up the rebound from his own attempted pass and decides to shoot from mid-range. He shouldn't have bothered as the ball flies miles over the bar. The ball goes out of play and Lille will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' The ball is out of play. Brest will have a chance to score from a corner."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Paulo Fonseca has decided to introduce fresh legs, with Samuel Umtiti (Lille) replacing Jonathan David."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' The corner from Mathias Pereira Lage (Brest) is cleared away by the defence."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Here comes a substitution. Romain Del Castillo is given a rest as he is replaced by Mathias Pereira Lage (Brest)."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' NO PENALTY! Referee Mathieu Vernice has quickly reversed his decision to award a penalty after a VAR review. The Lille players are incensed."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Hang on! It might not be a penalty for Lille as the ref now wants to review using VAR. This hopefully won't take too long."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Yellow card! It's like Bilal Brahimi (Brest) was asking for a caution with his behaviour. Mathieu Vernice agrees and books him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Handball! A player from Brest handled the ball. Lille are awarded a penalty. What an opportunity to score!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Lille decide to take a short pass from the free kick and the attacking effort continues."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Achraf Dari (Brest) was too fierce in his attempt to get the ball from his opponent and Mathieu Vernice blows for a foul."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Hakon Arnar Haraldsson (Lille) is booked."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Mathieu Vernice has issued a yellow card to Axel Camblan (Brest)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Remy Cabella (Lille) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' The referee signals that it is time for a substitution and Remy Cabella (Lille) comes onto the pitch so that Yusuf Yazici can be given a rest."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' The game has come to an end for Ivan Cavaleiro. He has contributed as much as he could today. He will be replaced by the fresh legs of Hakon Arnar Haraldsson (Lille)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Here is a change. Martin Satriano is going off and Eric Roy gives the last tactical orders to Steve Mounie (Brest)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Eric Roy has decided to make a change. Bilal Brahimi (Brest) replaces Jonas Martin."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' It will be a substitution. Axel Camblan (Brest) is ready to enter the pitch as Jeremy Le Douaron walks off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Corner kicks – 2:3."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Romain Del Castillo (Brest) sends the ball into the box from the side of the pitch, but his cross is blocked."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Paulo Fonseca prepares a substitution. Edon Zhegrova is replaced by Adam Ounas (Lille)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' The referee stops play so that a substitution can be made and Ayyoub Bouaddi (Lille) comes onto the pitch for Nabil Bentaleb."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' The game is interrupted now, Nabil Bentaleb (Lille) picks up a knock and the physio has to come on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' The rebound finds Martin Satriano (Brest) in space inside the box, but his shot flies high over the bar. That was a promising chance! The ball goes out of play and Lille will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Jonas Martin (Brest) finds space inside the box to shoot after collecting a short pass, but it's a wasted effort as it flies high over the bar. The ball goes out of play and Lille will have a goal kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Eric Roy decides to make a substitution. Hugo Magnetti will be replaced by Kamory Doumbia (Brest)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Pierre Lees-Melou (Brest) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Brest are showing great team chemistry. They are passing the ball around seamlessly."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Jonathan David (Lille) steadies himself and bends in a shot from the edge of the box towards the bottom right corner, but Marco Bizot has it covered and makes a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' The resulting set piece from Lille is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' A fantastic block by a defender means that the corner from Brest comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' Jeremy Le Douaron (Brest) shoots inside the box, but is denied by a timely block. The ball is out of play. A goal-scoring opportunity from a corner for Brest."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' What a wasted opportunity by Jonathan David (Lille)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the bottom left corner, but Marco Bizot makes an astonishing save to thwart him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Brest are ruled offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' A pass by Ivan Cavaleiro (Lille) ends up in no man's land, and the attacking effort comes to an end."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' The game is interrupted. One of the players from Brest is cautioned for aggressive play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Everything is set for the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' Kenny Lala (Brest) powerfully strikes the ball from the free kick, but it's straight at the goalkeeper who easily saves."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' The foul by Benjamin Andre (Lille) is worthy of a card and a yellow is duly shown by Mathieu Vernice."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Lille keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Edon Zhegrova (Lille) produces a dangerous lofted cross into the box which is intercepted."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' There will be a minimum of 4 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Edon Zhegrova (Lille) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Romain Del Castillo (Brest) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Some neat passing and movement from Brest as they ping around some short passes in order to create a new attacking opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Today's referee Mathieu Vernice rightly decides to book Jeremy Le Douaron (Brest) for his harsh tackle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' The current number of fouls conceded by both teams is 6:4."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Hugo Magnetti (Brest) is caught offside!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' A cross from a mid-range free kick, taken by Brest, is intercepted by one of the defenders."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Nabil Bentaleb (Lille) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Brest get a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Bafode Diakite sprays a pass out to Edon Zhegrova (Lille), but he produces a poor effort from inside the box which goes high over the bar. The ball goes out of play and Brest will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' The Brest players are exchanging short passes in an attempt to create a shooting opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Ivan Cavaleiro (Lille) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Yusuf Yazici (Lille) runs onto the ball inside the box and smashes it towards the bottom left corner. It's a great effort but an even better save from Marco Bizot, who tips the ball around the post. Lille have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Jeremy Le Douaron (Brest) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar. The ball goes out of play and Lille will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Lille concede a free kick following a bad challenge. A free kick has been awarded to Brest."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' A player from Lille commits a rough challenge. Mathieu Vernice blows for a foul and keeps the game under control."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Martin Satriano (Brest) connects with a pass inside the box, but his effort goes well wide of the left post. The ball is off of the pitch and it's a goal kick for Lille."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' The ball possession is 46:54."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Ivan Cavaleiro (Lille) races towards goal but the defender gets back well to make a challenge."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Romain Del Castillo (Brest) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' It's in the back of the net! Jonathan David picks out Yusuf Yazici (Lille) with a sweet pass, and he latches on to it deep inside the box and beats the goalkeeper. 1:0."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Here’s the VAR verdict on that penalty incident – NO PENALTY for Brest! Play can continue."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' There's a break in play and referee Mathieu Vernice must have got a signal in his ear as he indicates he will check that earlier penalty claim by Brest using VAR. This could be interesting!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' There's a melee in the box, but the referee isn't interested in the appeals from Brest for a penalty. Play continues."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The match has just started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Brest will kick the game off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Mathieu Vernice is introduced as the referee for today's match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our live text commentary, ladies and gentlemen! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+    }
+  ],
+  "events": {
+    "goals": [
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' Yellow card! It's like Bilal Brahimi (Brest) was asking for a caution with his behaviour. Mathieu Vernice agrees and books him.",
+        "team_side": "away",
+        "team": "Brest",
+        "player": "Brahimi B.",
+        "shirt_number": 21,
+        "player_match_score": 137,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' Hakon Arnar Haraldsson (Lille) is booked.",
+        "team_side": "home",
+        "team": "Lille",
+        "player": "Haraldsson H.",
+        "shirt_number": 7,
+        "player_match_score": 113,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' Mathieu Vernice has issued a yellow card to Axel Camblan (Brest).",
+        "team_side": "away",
+        "team": "Brest",
+        "player": "Camblan A.",
+        "shirt_number": 11,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 50,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "50' The game is interrupted. One of the players from Brest is cautioned for aggressive play."
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Paulo Fonseca has decided to introduce fresh legs, with Samuel Umtiti (Lille) replacing Jonathan David."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "87' Here comes a substitution. Romain Del Castillo is given a rest as he is replaced by Mathias Pereira Lage (Brest)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' The referee signals that it is time for a substitution and Remy Cabella (Lille) comes onto the pitch so that Yusuf Yazici can be given a rest."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' The game has come to an end for Ivan Cavaleiro. He has contributed as much as he could today. He will be replaced by the fresh legs of Hakon Arnar Haraldsson (Lille)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Here is a change. Martin Satriano is going off and Eric Roy gives the last tactical orders to Steve Mounie (Brest)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Eric Roy has decided to make a change. Bilal Brahimi (Brest) replaces Jonas Martin."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' It will be a substitution. Axel Camblan (Brest) is ready to enter the pitch as Jeremy Le Douaron walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 67,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "67' Paulo Fonseca prepares a substitution. Edon Zhegrova is replaced by Adam Ounas (Lille)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 67,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "67' The referee stops play so that a substitution can be made and Ayyoub Bouaddi (Lille) comes onto the pitch for Nabil Bentaleb."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 63,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "63' Eric Roy decides to make a substitution. Hugo Magnetti will be replaced by Kamory Doumbia (Brest)."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' NO PENALTY! Referee Mathieu Vernice has quickly reversed his decision to award a penalty after a VAR review. The Lille players are incensed.",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Lille",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 85
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Hang on! It might not be a penalty for Lille as the ref now wants to review using VAR. This hopefully won't take too long.",
+        "review_reason": "penalty",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Lille",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 86
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 5,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "5' Here’s the VAR verdict on that penalty incident – NO PENALTY for Brest! Play can continue.",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": "away",
+        "team": "Brest",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 2,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "2' There's a break in play and referee Mathieu Vernice must have got a signal in his ear as he indicates he will check that earlier penalty claim by Brest using VAR. This could be interesting!",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": "away",
+        "team": "Brest",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 7,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+7' There will be no more action in this match as the referee signals full time."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+5' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 33,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "33' Nabil Bentaleb (Lille) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Brest get a free kick."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 1,
+    "detected_goal_count": 0,
+    "goal_count_matches_final_score": false,
+    "score_bearing_event_count": 0,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 134,
+    "commentary_row_count": 78,
+    "removed_commentary_noise_count": 56,
+    "goal_event_count": 0,
+    "yellow_card_event_count": 4,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 4,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": false,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 1,
+      "detected_goal_count": 0
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 0,
+    "structured_goal_count": 0,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 4,
+    "structured_yellow_card_count": 3,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 4,
+    "structured_var_event_count": 4,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 2,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": false,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": false,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": true,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 3,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": true,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+      {
+        "event_type": "yellow_card",
+        "reason": "card_player_not_found",
+        "minute": 50,
+        "minute_raw": "50",
+        "text": "50' The game is interrupted. One of the players from Brest is cautioned for aggressive play."
+      }
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T08:41:47Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 78,
+      "error": null
+    }
+  }
+}

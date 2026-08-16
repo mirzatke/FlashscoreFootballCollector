@@ -1,0 +1,2975 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/rb-leipzig-KbS1suSm/summary/stats/overall/?mid=WC8Cwmdl",
+  "match_id": "WC8Cwmdl",
+  "page_title": "BOC 1-4 RBL | Bochum v RB Leipzig 02/03/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "02.03.2024 18:30",
+  "home_team": "Bochum",
+  "away_team": "RB Leipzig",
+  "score": {
+    "home": "1",
+    "away": "4",
+    "display": "1 - 4"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.59",
+      "away": "1.93",
+      "raw_values": [
+        "1.59",
+        "1.93"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "44%",
+      "away": "56%",
+      "raw_values": [
+        "44%",
+        "56%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "15",
+      "away": "10",
+      "raw_values": [
+        "15",
+        "10"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "4",
+      "away": "4",
+      "raw_values": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "2",
+      "away": "5",
+      "raw_values": [
+        "2",
+        "5"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "67%\n(209/312)",
+      "away": "78%\n(346/443)",
+      "raw_values": [
+        "67%\n(209/312)",
+        "78%\n(346/443)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "1",
+      "away": "0",
+      "raw_values": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "11",
+      "away": "6",
+      "raw_values": [
+        "11",
+        "6"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "4",
+      "away": "2",
+      "raw_values": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "12",
+      "away": "17",
+      "raw_values": [
+        "12",
+        "17"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "22",
+      "away": "19",
+      "raw_values": [
+        "22",
+        "19"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "13",
+      "away": "10",
+      "raw_values": [
+        "13",
+        "10"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "1",
+      "away": "3",
+      "raw_values": [
+        "1",
+        "3"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.59",
+        "away": "1.93",
+        "raw_values": [
+          "1.59",
+          "1.93"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "44%",
+        "away": "56%",
+        "raw_values": [
+          "44%",
+          "56%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "15",
+        "away": "10",
+        "raw_values": [
+          "15",
+          "10"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "4",
+        "away": "4",
+        "raw_values": [
+          "4",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "5",
+        "raw_values": [
+          "2",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "67%\n(209/312)",
+        "away": "78%\n(346/443)",
+        "raw_values": [
+          "67%\n(209/312)",
+          "78%\n(346/443)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "11",
+        "away": "6",
+        "raw_values": [
+          "11",
+          "6"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "12",
+        "away": "17",
+        "raw_values": [
+          "12",
+          "17"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "22",
+        "away": "19",
+        "raw_values": [
+          "22",
+          "19"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "13",
+        "away": "10",
+        "raw_values": [
+          "13",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.42",
+        "away": "0.68",
+        "raw_values": [
+          "0.42",
+          "0.68"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "44%",
+        "away": "56%",
+        "raw_values": [
+          "44%",
+          "56%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "9",
+        "away": "5",
+        "raw_values": [
+          "9",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "71%\n(93/131)",
+        "away": "76%\n(161/212)",
+        "raw_values": [
+          "71%\n(93/131)",
+          "76%\n(161/212)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "6",
+        "away": "8",
+        "raw_values": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "11",
+        "raw_values": [
+          "11",
+          "11"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "5",
+        "raw_values": [
+          "7",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.17",
+        "away": "1.25",
+        "raw_values": [
+          "1.17",
+          "1.25"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "44%",
+        "away": "56%",
+        "raw_values": [
+          "44%",
+          "56%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "64%\n(116/181)",
+        "away": "80%\n(185/231)",
+        "raw_values": [
+          "64%\n(116/181)",
+          "80%\n(185/231)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "6",
+        "away": "9",
+        "raw_values": [
+          "6",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "8",
+        "raw_values": [
+          "11",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 16,
+          "name": "Luthe",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Luthe",
+          "source": "formation"
+        },
+        {
+          "number": 41,
+          "name": "Loosli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Loosli",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Ordets",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Ordets",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Schlotterbeck",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Schlotterbeck",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Bernardo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Bernardo",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Bero",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Bero",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Losilla",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Losilla",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Asano",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Asano",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Stoger",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Stoger",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Wittek",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Wittek",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Broschinski",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Broschinski",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 16,
+          "name": "Luthe A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Luthe A. (G)",
+          "formation_raw": "16 Luthe",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 41,
+          "name": "Loosli N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Loosli N.",
+          "formation_raw": "41 Loosli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Ordets I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Ordets I.",
+          "formation_raw": "20 Ordets",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 31,
+          "name": "Schlotterbeck K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Schlotterbeck K.",
+          "formation_raw": "31 Schlotterbeck",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Bernardo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Bernardo",
+          "formation_raw": "5 Bernardo",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 19,
+          "name": "Bero M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Bero M.",
+          "formation_raw": "19 Bero",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Losilla A.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Losilla A. (C)",
+          "formation_raw": "8 Losilla",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Asano T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Asano T.",
+          "formation_raw": "11 Asano",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Stoger K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Stoger K.",
+          "formation_raw": "7 Stoger",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Wittek M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Wittek M.",
+          "formation_raw": "32 Wittek",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Broschinski M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Broschinski M.",
+          "formation_raw": "29 Broschinski",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 13,
+          "name": "Daschner L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Daschner L.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Forster P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Forster P.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Gamboa C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Gamboa C.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Hofmann P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Hofmann P.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Kwarteng M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Kwarteng M.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Paciencia G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Paciencia G.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Passlack F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Passlack F.",
+          "source": "detailed"
+        },
+        {
+          "number": 38,
+          "name": "Rolleke H.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "38 Rolleke H. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Romling M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Romling M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "72",
+          "incoming": "Hofmann P.",
+          "outgoing": "Broschinski M.",
+          "incoming_rating": 6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Hofmann P. 6.0 Broschinski M. 72'"
+        },
+        {
+          "minute": "72",
+          "incoming": "Kwarteng M.",
+          "outgoing": "Bero M.",
+          "incoming_rating": 4.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Kwarteng M. 4.1 Bero M. 72'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Paciencia G.",
+          "outgoing": "Asano T.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Paciencia G. Asano T. 88'"
+        }
+      ],
+      "coach": "Letsch T."
+    },
+    "away": {
+      "formation": "4-4-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Gulacsi",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gulacsi",
+          "source": "formation"
+        },
+        {
+          "number": 39,
+          "name": "Henrichs",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "39 Henrichs",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Lukeba",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Lukeba",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Orban",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "4 Orban",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Raum",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Raum",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Olmo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Olmo",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Seiwald",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Seiwald",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Haidara",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Haidara",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Simons",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Simons",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Baumgartner",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Baumgartner",
+          "source": "formation"
+        },
+        {
+          "number": 30,
+          "name": "Sesko",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Sesko",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Gulacsi P.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gulacsi P. (G)",
+          "formation_raw": "1 Gulacsi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 39,
+          "name": "Henrichs B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "39 Henrichs B.",
+          "formation_raw": "39 Henrichs",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Lukeba C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Lukeba C.",
+          "formation_raw": "23 Lukeba",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Orban W.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "4 Orban W. (C)",
+          "formation_raw": "4 Orban",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Raum D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Raum D.",
+          "formation_raw": "22 Raum",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Olmo D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Olmo D.",
+          "formation_raw": "7 Olmo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Seiwald N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Seiwald N.",
+          "formation_raw": "13 Seiwald",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Haidara A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Haidara A.",
+          "formation_raw": "8 Haidara",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Simons X.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Simons X.",
+          "formation_raw": "20 Simons",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Baumgartner C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Baumgartner C.",
+          "formation_raw": "14 Baumgartner",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 30,
+          "name": "Sesko B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Sesko B.",
+          "formation_raw": "30 Sesko",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 5,
+          "name": "Bitshiabu E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Bitshiabu E.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Blaswich J.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "21 Blaswich J. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Elmas E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Elmas E.",
+          "source": "detailed"
+        },
+        {
+          "number": 44,
+          "name": "Kampl K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Kampl K.",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "Lenz C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Lenz C.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Openda L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Openda L.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Poulsen Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Poulsen Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Simakan M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Simakan M.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Zingerle L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "25 Zingerle L. (G)",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "65",
+          "incoming": "Openda L.",
+          "outgoing": "Sesko B.",
+          "incoming_rating": 7.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Openda L. 7.8 Sesko B. 65'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Poulsen Y.",
+          "outgoing": "Baumgartner C.",
+          "incoming_rating": 7.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Poulsen Y. 7.6 Baumgartner C. 65'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Elmas E.",
+          "outgoing": "Olmo D.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Elmas E. 6.4 Olmo D. 65'"
+        },
+        {
+          "minute": "78",
+          "incoming": "Simakan M.",
+          "outgoing": "Henrichs B.",
+          "incoming_rating": 6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Simakan M. 6.0 Henrichs B. 78'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Bitshiabu E.",
+          "outgoing": "Simons X.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Bitshiabu E. Simons X. 88'"
+        }
+      ],
+      "coach": "Rose M."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "16 Luthe",
+      "41 Loosli",
+      "20 Ordets",
+      "31 Schlotterbeck",
+      "5 Bernardo",
+      "19 Bero",
+      "8 Losilla",
+      "11 Asano",
+      "7 Stoger",
+      "32 Wittek",
+      "29 Broschinski",
+      "1 Gulacsi",
+      "39 Henrichs",
+      "23 Lukeba",
+      "4 Orban",
+      "22 Raum",
+      "7 Olmo",
+      "13 Seiwald",
+      "8 Haidara",
+      "20 Simons",
+      "14 Baumgartner",
+      "30 Sesko",
+      "Hofmann P. 6.0 Broschinski M. 72'",
+      "Kwarteng M. 4.1 Bero M. 72'",
+      "Paciencia G. Asano T. 88'",
+      "Openda L. 7.8 Sesko B. 65'",
+      "Poulsen Y. 7.6 Baumgartner C. 65'",
+      "Elmas E. 6.4 Olmo D. 65'",
+      "Simakan M. 6.0 Henrichs B. 78'",
+      "Bitshiabu E. Simons X. 88'",
+      "16 Luthe A. (G)",
+      "41 Loosli N.",
+      "20 Ordets I.",
+      "31 Schlotterbeck K.",
+      "19 Bero M.",
+      "8 Losilla A. (C)",
+      "11 Asano T.",
+      "7 Stoger K.",
+      "32 Wittek M.",
+      "29 Broschinski M.",
+      "1 Gulacsi P. (G)",
+      "39 Henrichs B.",
+      "23 Lukeba C.",
+      "4 Orban W. (C)",
+      "22 Raum D.",
+      "7 Olmo D.",
+      "13 Seiwald N.",
+      "8 Haidara A.",
+      "20 Simons X.",
+      "14 Baumgartner C.",
+      "30 Sesko B.",
+      "13 Daschner L.",
+      "10 Forster P.",
+      "2 Gamboa C.",
+      "33 Hofmann P.",
+      "27 Kwarteng M.",
+      "9 Paciencia G.",
+      "15 Passlack F.",
+      "38 Rolleke H. (G)",
+      "30 Romling M.",
+      "5 Bitshiabu E.",
+      "21 Blaswich J. (G)",
+      "6 Elmas E.",
+      "44 Kampl K.",
+      "3 Lenz C.",
+      "17 Openda L.",
+      "9 Poulsen Y.",
+      "2 Simakan M.",
+      "25 Zingerle L. (G)",
+      "Antwi-Adjei C. Injury",
+      "Danilo Soares Muscle Injury",
+      "Esser M. Knee Injury",
+      "Masovic E. Yellow Cards",
+      "Oermann T. Groin Injury",
+      "Osterhage P. Muscle Injury",
+      "Thiede N. Finger Injury",
+      "Tolba M. Knee Injury",
+      "Klostermann L. Thigh Injury",
+      "Schlager X. Yellow Cards",
+      "Letsch T.",
+      "Rose M."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 39,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 3,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 288
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 114,
+    "compact_lineup_text_count": 81,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 39,
+    "substitution_count": 8,
+    "coach_candidate_count": 4,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' The referee blows his whistle for the final time to end this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' David Raum (RB Leipzig) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' David Raum (RB Leipzig) fails to find any of his teammates inside the box as his pass is blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' David Raum (RB Leipzig) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. Mohamed Simakan (RB Leipzig) misses the left post by a whisker with a mid-range rebound. What a chance that was!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Keven Schlotterbeck (Bochum) makes a slide tackle, but referee Harm Osmers blows for a foul. RB Leipzig are awarded a free kick from a dangerous position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' The fourth official shows 5 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' The referee stops play as the linesman flags Maximilian Wittek (Bochum) offside."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Here is a change. Xavi Simons is going off and Marco Rose gives the last tactical orders to El Chadaille Bitshiabu (RB Leipzig)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Substitution. Goncalo Paciencia (Bochum) on for Takuma Asano."
+    },
+    {
+      "type": "red_card",
+      "primary_type": "red_card",
+      "tags": [
+        "red_card"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Moritz-Broni Kwarteng (Bochum) reacts stupidly and the referee shows him a deserved red card!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Lois Openda (RB Leipzig) is able to continue to play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' The game is interrupted now, Lois Openda (RB Leipzig) picks up a knock and the physio has to come on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' The free kick into the box finds Anthony Losilla (Bochum), who heads the ball towards the left post, but the keeper pulls off a fantastic reflex save. Great goalkeeping skills."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' It looks like Yussuf Poulsen (RB Leipzig) saw red with that tackle. Harm Osmers won't tolerate such behaviour on the pitch and blows for a foul. It's a free kick to Bochum, but it's in no position for a direct shot on goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Kevin Stoger (Bochum) whips a long ball in from the free kick which is intercepted by Peter Gulacsi."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' This is a yellow card! Mohamed Simakan (RB Leipzig) is not happy with the decision, but from our point of view it was clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Takuma Asano (Bochum) is caught offside once again."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' It's time for a substitution. Mohamed Simakan (RB Leipzig) comes on in place of Benjamin Henrichs."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Ivan Ordets (Bochum) violates the laws of the game and is shown a deserved yellow card by the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Surely that's handball by one of the RB Leipzig players in the box, but the referee just waves play on!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Kevin Stoger (Bochum) takes the free kick but it is cleared by the first defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Maximilian Wittek swings the cross over. Philipp Hofmann (Bochum) gets his head to it but it goes just wide of the left post."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' No offside! Referee Harm Osmers points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the RB Leipzig players."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Wait! Referee Harm Osmers has indicated he is going to review the RB Leipzig goal using VAR. It’s probably to see if there was an offside in the build-up."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "status": "confirmed",
+      "text": "72' 1 - 4 It's in the back of the net! Xavi Simons is the provider as he slips the ball to Yussuf Poulsen (RB Leipzig) who simply steers it home from close range. It's 1:4."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Thomas Letsch has decided to introduce fresh legs, with Moritz-Broni Kwarteng (Bochum) replacing Matus Bero."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' The referee stops play so that a substitution can be made and Moritz Broschinski trots off the pitch and is replaced by Philipp Hofmann (Bochum)."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "status": "confirmed",
+      "text": "71' 1 - 3 Own goal! Ivan Ordets (Bochum) suffers a good deal of misfortune as he accidentally puts a pass from one of the attacking players into his own net. The score is 1:3."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Matus Bero (Bochum) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!"
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "68' 1 - 2 Goal! A terrific long pass from Amadou Haidara picks out an unmarked Lois Openda (RB Leipzig) inside the box. He has time and space to pick his spot and slams the ball into the right side of the goal. 1:2."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Eljif Elmas (RB Leipzig) creates himself some space around the penalty spot and connects with the free kick. His header is badly mistimed and sails high over the bar."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Noah Loosli (Bochum) is booked after bringing down an opponent. Harm Osmers had an easy-decision to make."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' The substitution is prepared. Eljif Elmas (RB Leipzig) joins the action as a substitute, replacing Dani Olmo."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Marco Rose has decided to make a change. Yussuf Poulsen (RB Leipzig) replaces Christoph Baumgartner."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Here comes a substitution. Lois Openda (RB Leipzig) is brought on as a substitute for Benjamin Sesko."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Maximilian Wittek (Bochum) is penalised for holding. Harm Osmers signals a set piece."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Takuma Asano (Bochum) is clearly in an offside position after the ball is played through to him and the linesman raises his flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' A through ball from Kevin Stoger (Bochum) fails to reach Moritz Broschinski as one of the defending players reacts brilliantly to intercept the effort. If the pass had been produced a little bit earlier, Moritz Broschinski could have got into a promising position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Bernardo (Bochum) jumps inside the box to meet the resulting set piece and aims a header towards the middle of the goal, but the goalkeeper shows his reflexes and makes a superb save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' A corner kick by Bochum is thwarted by the well prepared Peter Gulacsi (RB Leipzig)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' One of the defenders reacts at the last minute to brilliantly block a pass from Christoph Baumgartner (RB Leipzig)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' The resulting corner, taken by Xavi Simons (RB Leipzig), comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' A defender unwittingly blocks the ball on the line after a snap shot from Benjamin Sesko (RB Leipzig) inside the box following a slide rule pass. The linesman points to the corner flag, RB Leipzig are going to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Ivan Ordets (Bochum) sends a long ball in, but Peter Gulacsi comfortably gathers the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Kevin Stoger (Bochum) sends over a free kick from long range but the defence is alert."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The game restarts for the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' None of the Bochum players could reach the corner kick as the ball was overhit and goes out of play."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Amadou Haidara (RB Leipzig) gets booked for the first time in this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Kevin Stoger (Bochum) collects a pass and has an effort from distance to the bottom right corner, but Peter Gulacsi answers with a superb save to deny him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Xavi Simons (RB Leipzig) gets on the end of a pass and tries a shot from the edge of the box, but it's a wild attempt that goes well wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' We will have 3 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' The corner is slung over and Willi Orban (RB Leipzig) out jumps the defence inside the six-yard box, but the header skims off the top of his head and goes miles wide of the right post for a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' David Raum (RB Leipzig) will try to find the head of one of his teammates from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Xavi Simons (RB Leipzig) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. RB Leipzig force a corner. Their opponents will face another attacking threat."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Moritz Broschinski (Bochum) gets a yellow card."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Harm Osmers blows his whistle and it's Xavi Simons (RB Leipzig) who is penalised for an offensive foul. Good decision by the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Maximilian Wittek (Bochum) is unable to feed an accurate cross into the box."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "30' 1 - 1 Dani Olmo (RB Leipzig) struck from medium range, curling the ball into the top right corner. What a hit! Pure magic."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Half-chance! Benjamin Henrichs (RB Leipzig) plays a pass into the box, but Andreas Luthe reacts well to snuff out the attack."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Takuma Asano races towards the box before laying off to Kevin Stoger (Bochum), who picks it up but drags a shot well wide of the left post from the edge of the box."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Takuma Asano (Bochum) is in a clear offside position and the referee blows his whistle after the linesman raises his flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' The rebound from the corner kick falls to Amadou Haidara (RB Leipzig), who fires in a missile of a shot from long range, but it goes miles wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' The resulting corner from Xavi Simons (RB Leipzig) is cleared by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' David Raum (RB Leipzig) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The referee points to the corner flag and RB Leipzig will take a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Keven Schlotterbeck (Bochum) tries to catch the keeper off guard from long range, but the effort sails well wide of the right post."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' After what seems an eternity, referee Harm Osmers decides there was an offside after using VAR to review the goal! NO GOAL for RB Leipzig, play to continue."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' The goal for RB Leipzig is subject to a VAR review by the referee! He's obviously unsure or he received a message."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Xavi Simons (RB Leipzig) buries the ball in the back of the net!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' An accurate pass to the edge of the box is well taken by Dani Olmo (RB Leipzig), whose instinctive shot towards goal flashes inches over the top."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Maximilian Wittek (Bochum) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The ball rebounded to Anthony Losilla (Bochum), whose first-time shot from long range had the keeper scrambling but flew just over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Moritz Broschinski (Bochum) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Kevin Stoger (Bochum) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' David Raum (RB Leipzig) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "7' 1 - 0 Maximilian Wittek (Bochum) sends the ball into the net from a long-distance direct free kick. It goes exactly inside the right post. Sensational free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' RB Leipzig concede a free kick following a bad challenge. A free kick to Bochum."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' A player from Bochum commits a rough challenge. Harm Osmers blows for a foul and keeps the game under control."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Xavi Simons (RB Leipzig) latches on to a precise pass and one-on-one with the keeper slams the ball towards the right-hand post. Andreas Luthe is alert, though, and leaps like a salmon to deny him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half has just begun."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Harm Osmers is the one to supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups You can have a look at the starting XIs of both teams in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "status": "confirmed",
+        "text": "72' 1 - 4 It's in the back of the net! Xavi Simons is the provider as he slips the ball to Yussuf Poulsen (RB Leipzig) who simply steers it home from close range. It's 1:4.",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player_team_side": "away",
+        "player_team": "RB Leipzig",
+        "player": "Poulsen Y.",
+        "shirt_number": 9,
+        "player_match_score": 153,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 4
+        },
+        "assist_player": "Simons X.",
+        "assist_shirt_number": 20,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "status": "confirmed",
+        "text": "71' 1 - 3 Own goal! Ivan Ordets (Bochum) suffers a good deal of misfortune as he accidentally puts a pass from one of the attacking players into his own net. The score is 1:3.",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player_team_side": "home",
+        "player_team": "Bochum",
+        "player": "Ordets I.",
+        "shirt_number": 20,
+        "player_match_score": 136,
+        "goal_type": "own_goal",
+        "is_penalty": false,
+        "is_own_goal": true,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 3
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "68' 1 - 2 Goal! A terrific long pass from Amadou Haidara picks out an unmarked Lois Openda (RB Leipzig) inside the box. He has time and space to pick his spot and slams the ball into the right side of the goal. 1:2.",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player_team_side": "away",
+        "player_team": "RB Leipzig",
+        "player": "Openda L.",
+        "shirt_number": 17,
+        "player_match_score": 146,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 2
+        },
+        "assist_player": "Haidara A.",
+        "assist_shirt_number": 8,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 30,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "30' 1 - 1 Dani Olmo (RB Leipzig) struck from medium range, curling the ball into the top right corner. What a hit! Pure magic.",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player_team_side": "away",
+        "player_team": "RB Leipzig",
+        "player": "Olmo D.",
+        "shirt_number": 7,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 7,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "7' 1 - 0 Maximilian Wittek (Bochum) sends the ball into the net from a long-distance direct free kick. It goes exactly inside the right post. Sensational free kick.",
+        "team_side": "home",
+        "team": "Bochum",
+        "player_team_side": "home",
+        "player_team": "Bochum",
+        "player": "Wittek M.",
+        "shirt_number": 32,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' This is a yellow card! Mohamed Simakan (RB Leipzig) is not happy with the decision, but from our point of view it was clear.",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player": "Simakan M.",
+        "shirt_number": 2,
+        "player_match_score": 137,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Ivan Ordets (Bochum) violates the laws of the game and is shown a deserved yellow card by the referee.",
+        "team_side": "home",
+        "team": "Bochum",
+        "player": "Ordets I.",
+        "shirt_number": 20,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' Noah Loosli (Bochum) is booked after bringing down an opponent. Harm Osmers had an easy-decision to make.",
+        "team_side": "home",
+        "team": "Bochum",
+        "player": "Loosli N.",
+        "shirt_number": 41,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+3' Amadou Haidara (RB Leipzig) gets booked for the first time in this match.",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player": "Haidara A.",
+        "shirt_number": 8,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 38,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "38' Moritz Broschinski (Bochum) gets a yellow card.",
+        "team_side": "home",
+        "team": "Bochum",
+        "player": "Broschinski M.",
+        "shirt_number": 29,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+      {
+        "type": "red_card",
+        "primary_type": "red_card",
+        "tags": [
+          "red_card"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Moritz-Broni Kwarteng (Bochum) reacts stupidly and the referee shows him a deserved red card!",
+        "team_side": "home",
+        "team": "Bochum",
+        "player": "Kwarteng M.",
+        "shirt_number": 27,
+        "player_match_score": 113,
+        "card_type": "red",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Here is a change. Xavi Simons is going off and Marco Rose gives the last tactical orders to El Chadaille Bitshiabu (RB Leipzig)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Substitution. Goncalo Paciencia (Bochum) on for Takuma Asano."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' It's time for a substitution. Mohamed Simakan (RB Leipzig) comes on in place of Benjamin Henrichs."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' Thomas Letsch has decided to introduce fresh legs, with Moritz-Broni Kwarteng (Bochum) replacing Matus Bero."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' The referee stops play so that a substitution can be made and Moritz Broschinski trots off the pitch and is replaced by Philipp Hofmann (Bochum)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' The substitution is prepared. Eljif Elmas (RB Leipzig) joins the action as a substitute, replacing Dani Olmo."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Marco Rose has decided to make a change. Yussuf Poulsen (RB Leipzig) replaces Christoph Baumgartner."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Here comes a substitution. Lois Openda (RB Leipzig) is brought on as a substitute for Benjamin Sesko."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' No offside! Referee Harm Osmers points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the RB Leipzig players.",
+        "review_reason": "offside",
+        "decision": "review_completed",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 73
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' Wait! Referee Harm Osmers has indicated he is going to review the RB Leipzig goal using VAR. It’s probably to see if there was an offside in the build-up.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 73
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 16,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "16' After what seems an eternity, referee Harm Osmers decides there was an offside after using VAR to review the goal! NO GOAL for RB Leipzig, play to continue.",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 16,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "16' The goal for RB Leipzig is subject to a VAR review by the referee! He's obviously unsure or he received a message.",
+        "review_reason": "goal",
+        "decision": "review_completed",
+        "team_side": "away",
+        "team": "RB Leipzig",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' The referee blows his whistle for the final time to end this match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+5' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 35,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "35' Harm Osmers blows his whistle and it's Xavi Simons (RB Leipzig) who is penalised for an offensive foul. Good decision by the referee."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 25,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "25' Takuma Asano (Bochum) is in a clear offside position and the referee blows his whistle after the linesman raises his flag."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 5,
+    "detected_goal_count": 5,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 5,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 154,
+    "commentary_row_count": 83,
+    "removed_commentary_noise_count": 71,
+    "goal_event_count": 5,
+    "yellow_card_event_count": 5,
+    "red_card_event_count": 1,
+    "substitution_event_count": 8,
+    "var_event_count": 4,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 5,
+      "detected_goal_count": 5
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 5,
+    "structured_goal_count": 5,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 2,
+    "own_goal_count": 1,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 5,
+    "structured_yellow_card_count": 5,
+    "red_card_event_count": 1,
+    "structured_red_card_count": 1,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 4,
+    "structured_var_event_count": 4,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 2,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": false,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 1,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T15:43:05Z",
+  "collector_profile": {
+    "competition_key": "bundesliga",
+    "competition": "German Bundesliga",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 83,
+      "error": null
+    }
+  }
+}

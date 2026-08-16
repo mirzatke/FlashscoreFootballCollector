@@ -1,0 +1,2824 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/union-berlin-pzHW4oaE/summary/stats/overall/?mid=OWn5MZ3a",
+  "match_id": "OWn5MZ3a",
+  "page_title": "RBL 2-0 UNI | RB Leipzig v Union Berlin 04/02/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "04.02.2024 20:30",
+  "home_team": "RB Leipzig",
+  "away_team": "Union Berlin",
+  "score": {
+    "home": "2",
+    "away": "0",
+    "display": "2 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.56",
+      "away": "0.55",
+      "raw_values": [
+        "1.56",
+        "0.55"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "64%",
+      "away": "36%",
+      "raw_values": [
+        "64%",
+        "36%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "16",
+      "away": "10",
+      "raw_values": [
+        "16",
+        "10"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "6",
+      "away": "2",
+      "raw_values": [
+        "6",
+        "2"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "90%\n(609/676)",
+      "away": "81%\n(262/325)",
+      "raw_values": [
+        "90%\n(609/676)",
+        "81%\n(262/325)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "1",
+      "away": "2",
+      "raw_values": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "0",
+      "away": "1",
+      "raw_values": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "10",
+      "away": "8",
+      "raw_values": [
+        "10",
+        "8"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "2",
+      "away": "0",
+      "raw_values": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "11",
+      "away": "15",
+      "raw_values": [
+        "11",
+        "15"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "16",
+      "away": "14",
+      "raw_values": [
+        "16",
+        "14"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "13",
+      "away": "11",
+      "raw_values": [
+        "13",
+        "11"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "4",
+      "raw_values": [
+        "2",
+        "4"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.56",
+        "away": "0.55",
+        "raw_values": [
+          "1.56",
+          "0.55"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "64%",
+        "away": "36%",
+        "raw_values": [
+          "64%",
+          "36%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "16",
+        "away": "10",
+        "raw_values": [
+          "16",
+          "10"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "6",
+        "away": "2",
+        "raw_values": [
+          "6",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "90%\n(609/676)",
+        "away": "81%\n(262/325)",
+        "raw_values": [
+          "90%\n(609/676)",
+          "81%\n(262/325)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "10",
+        "away": "8",
+        "raw_values": [
+          "10",
+          "8"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "11",
+        "away": "15",
+        "raw_values": [
+          "11",
+          "15"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "16",
+        "away": "14",
+        "raw_values": [
+          "16",
+          "14"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "13",
+        "away": "11",
+        "raw_values": [
+          "13",
+          "11"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.96",
+        "away": "0.28",
+        "raw_values": [
+          "0.96",
+          "0.28"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "66%",
+        "away": "34%",
+        "raw_values": [
+          "66%",
+          "34%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "10",
+        "away": "5",
+        "raw_values": [
+          "10",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "89%\n(310/348)",
+        "away": "80%\n(127/159)",
+        "raw_values": [
+          "89%\n(310/348)",
+          "80%\n(127/159)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "9",
+        "away": "7",
+        "raw_values": [
+          "9",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "5",
+        "away": "6",
+        "raw_values": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "8",
+        "raw_values": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.60",
+        "away": "0.27",
+        "raw_values": [
+          "0.60",
+          "0.27"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "62%",
+        "away": "38%",
+        "raw_values": [
+          "62%",
+          "38%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "91%\n(299/328)",
+        "away": "81%\n(135/166)",
+        "raw_values": [
+          "91%\n(299/328)",
+          "81%\n(135/166)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "2",
+        "away": "8",
+        "raw_values": [
+          "2",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "8",
+        "raw_values": [
+          "11",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-4-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Gulacsi",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gulacsi",
+          "source": "formation"
+        },
+        {
+          "number": 39,
+          "name": "Henrichs",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "39 Henrichs",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Klostermann",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Klostermann",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Orban",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "4 Orban",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Raum",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Raum",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Olmo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Olmo",
+          "source": "formation"
+        },
+        {
+          "number": 44,
+          "name": "Kampl",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Kampl",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Schlager",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Schlager",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Simons",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Simons",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Openda",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Openda",
+          "source": "formation"
+        },
+        {
+          "number": 30,
+          "name": "Sesko",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Sesko",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Gulacsi P.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gulacsi P. (G)",
+          "formation_raw": "1 Gulacsi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 39,
+          "name": "Henrichs B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "39 Henrichs B.",
+          "formation_raw": "39 Henrichs",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Klostermann L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Klostermann L.",
+          "formation_raw": "16 Klostermann",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Orban W.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "4 Orban W. (C)",
+          "formation_raw": "4 Orban",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Raum D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Raum D.",
+          "formation_raw": "22 Raum",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Olmo D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Olmo D.",
+          "formation_raw": "7 Olmo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 44,
+          "name": "Kampl K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Kampl K.",
+          "formation_raw": "44 Kampl",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Schlager X.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Schlager X.",
+          "formation_raw": "24 Schlager",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Simons X.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Simons X.",
+          "formation_raw": "20 Simons",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Openda L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Openda L.",
+          "formation_raw": "17 Openda",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 30,
+          "name": "Sesko B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Sesko B.",
+          "formation_raw": "30 Sesko",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 14,
+          "name": "Baumgartner C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Baumgartner C.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Bitshiabu E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Bitshiabu E.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Blaswich J.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "21 Blaswich J. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Elmas E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Elmas E.",
+          "source": "detailed"
+        },
+        {
+          "number": 38,
+          "name": "Jatta N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Jatta N.",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "Lenz C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Lenz C.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Lukeba C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Lukeba C.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Poulsen Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Poulsen Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Seiwald N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Seiwald N.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "70",
+          "incoming": "Lukeba C.",
+          "outgoing": "Orban W.",
+          "incoming_rating": 6.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Lukeba C. 6.7 Orban W. 70'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Elmas E.",
+          "outgoing": "Olmo D.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Elmas E. 6.4 Olmo D. 77'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Poulsen Y.",
+          "outgoing": "Openda L.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Poulsen Y. 6.1 Openda L. 77'"
+        },
+        {
+          "minute": "85",
+          "incoming": "Bitshiabu E.",
+          "outgoing": "Raum D.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Bitshiabu E. Raum D. 85'"
+        },
+        {
+          "minute": "85",
+          "incoming": "Seiwald N.",
+          "outgoing": "Kampl K.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Seiwald N. Kampl K. 85'"
+        }
+      ],
+      "coach": "Rose M."
+    },
+    "away": {
+      "formation": "3-3-2-2",
+      "formation_players": [
+        {
+          "number": 37,
+          "name": "Schwolow",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "37 Schwolow",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Knoche",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Knoche",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Vogt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Vogt",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Doekhi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Doekhi",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Trimmel",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "28 Trimmel",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Tousart",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Tousart",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Gosens",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Gosens",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Haberer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Haberer",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Schafer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Schafer",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Vertessen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Vertessen",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Hollerbach",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Hollerbach",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 37,
+          "name": "Schwolow A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "37 Schwolow A. (G)",
+          "formation_raw": "37 Schwolow",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 31,
+          "name": "Knoche R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Knoche R.",
+          "formation_raw": "31 Knoche",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Vogt K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Vogt K.",
+          "formation_raw": "2 Vogt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Doekhi D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Doekhi D.",
+          "formation_raw": "5 Doekhi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Trimmel C.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "28 Trimmel C. (C)",
+          "formation_raw": "28 Trimmel",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Tousart L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Tousart L.",
+          "formation_raw": "29 Tousart",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Gosens R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Gosens R.",
+          "formation_raw": "6 Gosens",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Haberer J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Haberer J.",
+          "formation_raw": "19 Haberer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Schafer A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Schafer A.",
+          "formation_raw": "13 Schafer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Vertessen Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Vertessen Y.",
+          "formation_raw": "14 Vertessen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Hollerbach B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Hollerbach B.",
+          "formation_raw": "16 Hollerbach",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 7,
+          "name": "Aaronson B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Aaronson B.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Bedia C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Bedia C.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "Busk J.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "12 Busk J. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "Jaeckel P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Jaeckel P.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Kaufmann M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Kaufmann M.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Khedira R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Khedira R.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Laidouni A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Laidouni A.",
+          "source": "detailed"
+        },
+        {
+          "number": 41,
+          "name": "Ogbemudia O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Ogbemudia O.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Volland K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Volland K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "58",
+          "incoming": "Laidouni A.",
+          "outgoing": "Schafer A.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Laidouni A. 6.6 Schafer A. 58'"
+        },
+        {
+          "minute": "58",
+          "incoming": "Volland K.",
+          "outgoing": "Haberer J.",
+          "incoming_rating": 6.7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Volland K. 6.7 Haberer J. 58'"
+        },
+        {
+          "minute": "58",
+          "incoming": "Khedira R.",
+          "outgoing": "Tousart L.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Khedira R. 6.6 Tousart L. 58'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Aaronson B.",
+          "outgoing": "Hollerbach B.",
+          "incoming_rating": 6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Aaronson B. 6.0 Hollerbach B. 75'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Bedia C.",
+          "outgoing": "Vertessen Y.",
+          "incoming_rating": 5.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bedia C. 5.8 Vertessen Y. 75'"
+        }
+      ],
+      "coach": "Bjelica N."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Gulacsi",
+      "39 Henrichs",
+      "16 Klostermann",
+      "4 Orban",
+      "22 Raum",
+      "7 Olmo",
+      "44 Kampl",
+      "24 Schlager",
+      "20 Simons",
+      "17 Openda",
+      "30 Sesko",
+      "37 Schwolow",
+      "31 Knoche",
+      "2 Vogt",
+      "5 Doekhi",
+      "28 Trimmel",
+      "29 Tousart",
+      "6 Gosens",
+      "19 Haberer",
+      "13 Schafer",
+      "14 Vertessen",
+      "16 Hollerbach",
+      "Lukeba C. 6.7 Orban W. 70'",
+      "Elmas E. 6.4 Olmo D. 77'",
+      "Poulsen Y. 6.1 Openda L. 77'",
+      "Bitshiabu E. Raum D. 85'",
+      "Seiwald N. Kampl K. 85'",
+      "Laidouni A. 6.6 Schafer A. 58'",
+      "Volland K. 6.7 Haberer J. 58'",
+      "Khedira R. 6.6 Tousart L. 58'",
+      "Aaronson B. 6.0 Hollerbach B. 75'",
+      "Bedia C. 5.8 Vertessen Y. 75'",
+      "1 Gulacsi P. (G)",
+      "39 Henrichs B.",
+      "16 Klostermann L.",
+      "4 Orban W. (C)",
+      "22 Raum D.",
+      "7 Olmo D.",
+      "44 Kampl K.",
+      "24 Schlager X.",
+      "20 Simons X.",
+      "17 Openda L.",
+      "30 Sesko B.",
+      "37 Schwolow A. (G)",
+      "31 Knoche R.",
+      "2 Vogt K.",
+      "5 Doekhi D.",
+      "28 Trimmel C. (C)",
+      "29 Tousart L.",
+      "6 Gosens R.",
+      "19 Haberer J.",
+      "13 Schafer A.",
+      "14 Vertessen Y.",
+      "16 Hollerbach B.",
+      "14 Baumgartner C.",
+      "5 Bitshiabu E.",
+      "21 Blaswich J. (G)",
+      "6 Elmas E.",
+      "38 Jatta N.",
+      "3 Lenz C.",
+      "23 Lukeba C.",
+      "9 Poulsen Y.",
+      "13 Seiwald N.",
+      "7 Aaronson B.",
+      "11 Bedia C.",
+      "12 Busk J. (G)",
+      "3 Jaeckel P.",
+      "9 Kaufmann M.",
+      "8 Khedira R.",
+      "20 Laidouni A.",
+      "41 Ogbemudia O.",
+      "10 Volland K.",
+      "Haidara A. International duty",
+      "Simakan M. Yellow Cards",
+      "Juranovic J. Muscle Injury",
+      "Kral A. Illness",
+      "Leite D. Illness",
+      "Ronnow F. Illness",
+      "Roussillon J. Injury",
+      "Rose M.",
+      "Bjelica N."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 360
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 115,
+    "compact_lineup_text_count": 81,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 10,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Marco Fritz is looking at his watch and immediately ends this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' El Chadaille Bitshiabu (RB Leipzig) clips an inviting cross into the box, but there's no one in a position to get on the end of it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Xavi Simons (RB Leipzig) went on a solo run, tricking his way past defenders, then produced an explosive blast from close range towards the roof of the net. However, Alexander Schwolow showed all his agility, deflecting the ball onto the crossbar! What a save!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 5 min. of stoppage-time to be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Great teamplay by RB Leipzig as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' El Chadaille Bitshiabu (RB Leipzig) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Xavi Simons (RB Leipzig) plays a through ball but overhits it."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Here comes a substitution. Kevin Kampl is given a rest as he is replaced by Nicolas Seiwald (RB Leipzig)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Marco Rose has decided to introduce fresh legs, with El Chadaille Bitshiabu (RB Leipzig) replacing David Raum."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Xavi Simons (RB Leipzig) plays a one-two with Benjamin Sesko, but the move breaks down."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' 65:35 – this is the current ball possession ratio."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Xavi Simons (RB Leipzig) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Aissa Laidouni (Union Berlin) sends a long ball across the pitch, but it misses its target."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Substitution. Lois Openda makes way for Yussuf Poulsen (RB Leipzig)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Substitution. Eljif Elmas (RB Leipzig) receives a signal from the referee and is now allowed to enter the pitch as Dani Olmo walks off."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' It is time for a substitution. Chris Bedia is on for Yorbe Vertessen (Union Berlin)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Here is a change. Benedict Hollerbach (Union Berlin) is going off and Nenad Bjelica gives the last tactical orders to Brenden Aaronson."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' We have witnessed a red card for Christopher Trimmel (Union Berlin)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' The referee stops play so that a substitution can be made and Castello Lukeba (RB Leipzig) comes onto the pitch for Willi Orban."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Kevin Volland (Union Berlin) slaloms his way past challenges, but an opposing player does well to get the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Robin Gosens (Union Berlin) attempts a long crossfield pass, but the defence does well to intercept the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' David Raum (RB Leipzig) serves up a nice cross, but Alexander Schwolow punches the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Dani Olmo (RB Leipzig) looks to break free, but an opposing player clears the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Aissa Laidouni (Union Berlin) gets to the rebound and shoots, but the effort is blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Christopher Trimmel (Union Berlin) takes the corner which is cleared by the opposition's defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' There's an opportunity for Christopher Trimmel (Union Berlin) to deliver the ball into the box from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Yorbe Vertessen (Union Berlin) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Union Berlin will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Christopher Trimmel (Union Berlin) launches an inaccurate corner kick into the penalty area."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' The goal by RB Leipzig won't count as it has been disallowed due to offside on the advice of the video assistant referee!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' The RB Leipzig players halt their celebrations as referee Marco Fritz makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Substitution. Aissa Laidouni (Union Berlin) has come on for Andras Schafer."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Here's the change. Janik Haberer leaves the pitch and Kevin Volland (Union Berlin) comes on as a substitute."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Nenad Bjelica has decided to make a change. Rani Khedira (Union Berlin) replaces Lucas Tousart."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' It's a goal! Benjamin Sesko (RB Leipzig) makes it 3:0. He jumped highest to connect with a perfect cross from Dani Olmo and planted his close-range header into the left side of the goal. Alexander Schwolow was helpless."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' RB Leipzig force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' The ball is cleared after Xavi Simons (RB Leipzig) attempted to dribble past an opposing player. RB Leipzig force a corner. Their opponents will face another attacking threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Kevin Kampl (RB Leipzig) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' The referee and his assistant both point at the corner flag. RB Leipzig will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' A sweet pass finds Dani Olmo (RB Leipzig) on the edge of the box, and he drills the ball towards the left side of the goal. Alexander Schwolow is almost caught out but pulls off a brilliant save at the last second."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' The free kick from long range, taken by Union Berlin, is intercepted by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Willi Orban (RB Leipzig) robs an opponent of the ball and explodes in anger when Marco Fritz blows for a foul. Union Berlin have a free kick."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "48' 2 - 0 Benjamin Sesko (RB Leipzig) celebrates a beautiful goal. He wins the ball inside the box from the free kick and plants a header inside the left post. 2:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' David Raum (RB Leipzig) takes the ball and sets it for the free kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' What was Lucas Tousart (Union Berlin) thinking? He will not get away with that. The referee shows him a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The second half has just started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' The first half of today's match has just finished."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' What a miss! A floated cross from the flank picks out Benjamin Sesko (RB Leipzig) unmarked near the penalty spot with just the keeper to beat, but he skies his header miles over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Christopher Trimmel (Union Berlin) swings in a cross, but the ball is cleared to safety by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Good work from RB Leipzig as they win a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' RB Leipzig have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Alexander Schwolow makes a superb save to deny a header which was nodded towards the bottom right corner by Benjamin Sesko (RB Leipzig) after a cross from the side."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Dani Olmo (RB Leipzig) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 4 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Janik Haberer (Union Berlin) brings an opponent down and Marco Fritz interrupts the game."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Some great play by Xavi Simons (RB Leipzig) ends with a shot on the edge of the box towards the right side of the goal, but Alexander Schwolow sees it all the way and makes a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Dani Olmo (RB Leipzig) tries his luck with and strikes the ball towards goal from long-range, but it is blocked by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Yorbe Vertessen (Union Berlin) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' David Raum (RB Leipzig) flights in the cross, but the defender is alert and clears to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Xavi Simons (RB Leipzig) pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' David Raum (RB Leipzig) takes the corner kick but the ball only finds the head of an opponent."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Benjamin Henrichs (RB Leipzig) tries to send a pass but it's blocked. RB Leipzig have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Wow, what an escape. Benedict Hollerbach (Union Berlin) has an effort from inside the box but it's brilliantly blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' What a save from Peter Gulacsi! Yorbe Vertessen (Union Berlin) jumps high to meet a cross and glances a promising header from close range, but the goalkeeper pulls off a brilliant stop to keep it out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Robin Gosens (Union Berlin) delivers a promising cross into the box, but it's cleared."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' David Raum (RB Leipzig) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' The RB Leipzig players are exchanging some short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Lois Openda (RB Leipzig) commits a foul and Marco Fritz immediately signals a free kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Benedict Hollerbach (Union Berlin) is cautioned by the referee for a foul that he committed a little earlier."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Lukas Klostermann (RB Leipzig) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Benedict Hollerbach (Union Berlin) strikes a bullet of a shot towards goal from distance and forces the goalkeeper to make a good save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Union Berlin earn a corner."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Kevin Kampl (RB Leipzig) receives a yellow card from the referee for a foul that he committed a little earlier."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' The game is interrupted as Lois Openda (RB Leipzig) is flagged offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Benjamin Sesko (RB Leipzig) races towards goal but the defender gets back well to make a challenge."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Robin Knoche (Union Berlin) was too forceful with his tackle and Marco Fritz interrupted the game to signal a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' David Raum (RB Leipzig) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "11' 1 - 0 Goal 1:0! Lois Openda (RB Leipzig) taps home from close range after the rebound fell kindly into his path."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Benjamin Henrichs (RB Leipzig) controls the ball from the resulting free kick inside the six-yard box, but his effort is blocked by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' RB Leipzig will look to benefit from a promising free kick near the touchline."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' David Raum (RB Leipzig) takes a mid-range free kick and the effort crashes into the defensive wall."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Andras Schafer (Union Berlin) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. RB Leipzig are awarded a free kick. Let's see what they create from this."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' RB Leipzig are bossing possession at the moment by exchanging some precise passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' David Raum (RB Leipzig) sends a teasing cross into the area, but Alexander Schwolow intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Here we go, today's match is starting right now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out at last! Union Berlin will take the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Marco Fritz got the nomination for today's game and will try his best to be a fair judge and not make any mistakes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups Both teams starting lineups are available now, so you can have a look at them."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 48,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "48' 2 - 0 Benjamin Sesko (RB Leipzig) celebrates a beautiful goal. He wins the ball inside the box from the free kick and plants a header inside the left post. 2:0.",
+        "team_side": "home",
+        "team": "RB Leipzig",
+        "player_team_side": "home",
+        "player_team": "RB Leipzig",
+        "player": "Sesko B.",
+        "shirt_number": 30,
+        "player_match_score": 134,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 11,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "11' 1 - 0 Goal 1:0! Lois Openda (RB Leipzig) taps home from close range after the rebound fell kindly into his path.",
+        "team_side": "home",
+        "team": "RB Leipzig",
+        "player_team_side": "home",
+        "player_team": "RB Leipzig",
+        "player": "Openda L.",
+        "shirt_number": 17,
+        "player_match_score": 137,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 47,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "47' What was Lucas Tousart (Union Berlin) thinking? He will not get away with that. The referee shows him a yellow card.",
+        "team_side": "away",
+        "team": "Union Berlin",
+        "player": "Tousart L.",
+        "shirt_number": 29,
+        "player_match_score": 134,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 22,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "22' Benedict Hollerbach (Union Berlin) is cautioned by the referee for a foul that he committed a little earlier.",
+        "team_side": "away",
+        "team": "Union Berlin",
+        "player": "Hollerbach B.",
+        "shirt_number": 16,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 20,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "20' Kevin Kampl (RB Leipzig) receives a yellow card from the referee for a foul that he committed a little earlier.",
+        "team_side": "home",
+        "team": "RB Leipzig",
+        "player": "Kampl K.",
+        "shirt_number": 44,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Here comes a substitution. Kevin Kampl is given a rest as he is replaced by Nicolas Seiwald (RB Leipzig)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Marco Rose has decided to introduce fresh legs, with El Chadaille Bitshiabu (RB Leipzig) replacing David Raum."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Substitution. Lois Openda makes way for Yussuf Poulsen (RB Leipzig)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Substitution. Eljif Elmas (RB Leipzig) receives a signal from the referee and is now allowed to enter the pitch as Dani Olmo walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' It is time for a substitution. Chris Bedia is on for Yorbe Vertessen (Union Berlin)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' Here is a change. Benedict Hollerbach (Union Berlin) is going off and Nenad Bjelica gives the last tactical orders to Brenden Aaronson."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' The referee stops play so that a substitution can be made and Castello Lukeba (RB Leipzig) comes onto the pitch for Willi Orban."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' Substitution. Aissa Laidouni (Union Berlin) has come on for Andras Schafer."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' Here's the change. Janik Haberer leaves the pitch and Kevin Volland (Union Berlin) comes on as a substitute."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' Nenad Bjelica has decided to make a change. Rani Khedira (Union Berlin) replaces Lucas Tousart."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 59,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "59' The goal by RB Leipzig won't count as it has been disallowed due to offside on the advice of the video assistant referee!",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "home",
+        "team": "RB Leipzig",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 59
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 59,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "59' The RB Leipzig players halt their celebrations as referee Marco Fritz makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "RB Leipzig",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 59
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 7,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "7' Andras Schafer (Union Berlin) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. RB Leipzig are awarded a free kick. Let's see what they create from this."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 2,
+    "detected_goal_count": 2,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 2,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 148,
+    "commentary_row_count": 89,
+    "removed_commentary_noise_count": 59,
+    "goal_event_count": 2,
+    "yellow_card_event_count": 3,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 2,
+      "detected_goal_count": 2
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 2,
+    "structured_goal_count": 2,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 1,
+    "yellow_card_event_count": 3,
+    "structured_yellow_card_count": 3,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T15:28:27Z",
+  "collector_profile": {
+    "competition_key": "bundesliga",
+    "competition": "German Bundesliga",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 89,
+      "error": null
+    }
+  }
+}

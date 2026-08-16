@@ -1,0 +1,3192 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/aston-villa-W00wmLO0/brentford-xYe7DwID/summary/stats/overall/?mid=82q6zhQI",
+  "match_id": "82q6zhQI",
+  "page_title": "BRE 1-2 AST | Brentford v Aston Villa 17/12/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "17.12.2023 18:00",
+  "home_team": "Brentford",
+  "away_team": "Aston Villa",
+  "score": {
+    "home": "1",
+    "away": "2",
+    "display": "1 - 2"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.54",
+      "away": "1.31",
+      "raw_values": [
+        "0.54",
+        "1.31"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "33%",
+      "away": "67%",
+      "raw_values": [
+        "33%",
+        "67%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "4",
+      "away": "15",
+      "raw_values": [
+        "4",
+        "15"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "3",
+      "away": "5",
+      "raw_values": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "7",
+      "away": "11",
+      "raw_values": [
+        "7",
+        "11"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "0%\n(0/250)",
+      "away": "0%\n(0/528)",
+      "raw_values": [
+        "0%\n(0/250)",
+        "0%\n(0/528)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "6",
+      "away": "4",
+      "raw_values": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "1",
+      "away": "1",
+      "raw_values": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "1",
+      "away": "10",
+      "raw_values": [
+        "1",
+        "10"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "7",
+      "away": "0",
+      "raw_values": [
+        "7",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "6",
+      "away": "26",
+      "raw_values": [
+        "6",
+        "26"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "15",
+      "away": "21",
+      "raw_values": [
+        "15",
+        "21"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "19",
+      "away": "6",
+      "raw_values": [
+        "19",
+        "6"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.54",
+        "away": "1.31",
+        "raw_values": [
+          "0.54",
+          "1.31"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "33%",
+        "away": "67%",
+        "raw_values": [
+          "33%",
+          "67%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "4",
+        "away": "15",
+        "raw_values": [
+          "4",
+          "15"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "7",
+        "away": "11",
+        "raw_values": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/250)",
+        "away": "0%\n(0/528)",
+        "raw_values": [
+          "0%\n(0/250)",
+          "0%\n(0/528)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "6",
+        "away": "4",
+        "raw_values": [
+          "6",
+          "4"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "10",
+        "raw_values": [
+          "1",
+          "10"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "7",
+        "away": "0",
+        "raw_values": [
+          "7",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "6",
+        "away": "26",
+        "raw_values": [
+          "6",
+          "26"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "15",
+        "away": "21",
+        "raw_values": [
+          "15",
+          "21"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "19",
+        "away": "6",
+        "raw_values": [
+          "19",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.37",
+        "away": "0.79",
+        "raw_values": [
+          "0.37",
+          "0.79"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "37%",
+        "away": "63%",
+        "raw_values": [
+          "37%",
+          "63%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "3",
+        "away": "9",
+        "raw_values": [
+          "3",
+          "9"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "6",
+        "raw_values": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/149)",
+        "away": "0%\n(0/262)",
+        "raw_values": [
+          "0%\n(0/149)",
+          "0%\n(0/262)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "5",
+        "away": "0",
+        "raw_values": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "13",
+        "raw_values": [
+          "5",
+          "13"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "7",
+        "raw_values": [
+          "7",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "5",
+        "raw_values": [
+          "8",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.17",
+        "away": "0.52",
+        "raw_values": [
+          "0.17",
+          "0.52"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "29%",
+        "away": "71%",
+        "raw_values": [
+          "29%",
+          "71%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "5",
+        "raw_values": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/101)",
+        "away": "0%\n(0/266)",
+        "raw_values": [
+          "0%\n(0/101)",
+          "0%\n(0/266)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "6",
+        "away": "4",
+        "raw_values": [
+          "6",
+          "4"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "0",
+        "away": "4",
+        "raw_values": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "1",
+        "away": "13",
+        "raw_values": [
+          "1",
+          "13"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "8",
+        "away": "14",
+        "raw_values": [
+          "8",
+          "14"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "11",
+        "away": "1",
+        "raw_values": [
+          "11",
+          "1"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 17,
+    "statistic_row_count": 12,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Flekken",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Flekken",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Zanka",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Zanka",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Pinnock",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Pinnock",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Mee",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Mee",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Ghoddos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Ghoddos",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Damsgaard",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Damsgaard",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Norgaard",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "6 Norgaard",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Janelt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Janelt",
+          "source": "formation"
+        },
+        {
+          "number": 30,
+          "name": "Roerslev Rasmussen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Roerslev Rasmussen",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Lewis-Potter",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Lewis-Potter",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Wissa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Wissa",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Flekken M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Flekken M. (G)",
+          "formation_raw": "1 Flekken",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Zanka",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Zanka",
+          "formation_raw": "13 Zanka",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 5,
+          "name": "Pinnock E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Pinnock E.",
+          "formation_raw": "5 Pinnock",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Mee B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Mee B.",
+          "formation_raw": "16 Mee",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Ghoddos S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Ghoddos S.",
+          "formation_raw": "14 Ghoddos",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Damsgaard M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Damsgaard M.",
+          "formation_raw": "24 Damsgaard",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Norgaard C.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "6 Norgaard C. (C)",
+          "formation_raw": "6 Norgaard",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Janelt V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Janelt V.",
+          "formation_raw": "27 Janelt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 30,
+          "name": "Roerslev Rasmussen M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Roerslev Rasmussen M.",
+          "formation_raw": "30 Roerslev Rasmussen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Lewis-Potter K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Lewis-Potter K.",
+          "formation_raw": "23 Lewis-Potter",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Wissa Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Wissa Y.",
+          "formation_raw": "11 Wissa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 26,
+          "name": "Baptiste S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Baptiste S.",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Collins N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Collins N.",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Goode C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Goode C.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Maupay N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Maupay N.",
+          "source": "detailed"
+        },
+        {
+          "number": 37,
+          "name": "Olakigbe M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Olakigbe M.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Onyeka F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Onyeka F.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Peart-Harris M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Peart-Harris M.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Strakosha T.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "21 Strakosha T. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Yarmolyuk Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Yarmolyuk Y.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "68",
+          "incoming": "Onyeka F.",
+          "outgoing": "Damsgaard M.",
+          "incoming_rating": 6.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Onyeka F. 6.3 Damsgaard M. 68'"
+        },
+        {
+          "minute": "68",
+          "incoming": "Maupay N.",
+          "outgoing": "Lewis-Potter K.",
+          "incoming_rating": 5.9,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Maupay N. 5.9 Lewis-Potter K. 68'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Collins N.",
+          "outgoing": "Wissa Y.",
+          "incoming_rating": 5.8,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Collins N. 5.8 Wissa Y. 76'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Yarmolyuk Y.",
+          "outgoing": "Janelt V.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Yarmolyuk Y. Janelt V. 88'"
+        },
+        {
+          "minute": "89",
+          "incoming": "Olakigbe M.",
+          "outgoing": "Roerslev Rasmussen M.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Olakigbe M. Roerslev Rasmussen M. 89'"
+        }
+      ],
+      "coach": "Frank T."
+    },
+    "away": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Martinez",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Martinez",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Konsa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Konsa",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Diego Carlos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Diego Carlos",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Torres",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Torres",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Cash",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Cash",
+          "source": "formation"
+        },
+        {
+          "number": 44,
+          "name": "Kamara",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Kamara",
+          "source": "formation"
+        },
+        {
+          "number": 41,
+          "name": "Ramsey",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Ramsey",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "McGinn",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 McGinn",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Moreno",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Moreno",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Diaby",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Diaby",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Watkins",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Watkins",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Martinez E.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Martinez E. (G)",
+          "formation_raw": "1 Martinez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Konsa E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Konsa E.",
+          "formation_raw": "4 Konsa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Diego Carlos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Diego Carlos",
+          "formation_raw": "3 Diego Carlos",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 14,
+          "name": "Torres P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Torres P.",
+          "formation_raw": "14 Torres",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Cash M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Cash M.",
+          "formation_raw": "2 Cash",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 44,
+          "name": "Kamara B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Kamara B.",
+          "formation_raw": "44 Kamara",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 41,
+          "name": "Ramsey J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Ramsey J.",
+          "formation_raw": "41 Ramsey",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "McGinn J.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 McGinn J. (C)",
+          "formation_raw": "7 McGinn",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Moreno A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Moreno A.",
+          "formation_raw": "15 Moreno",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Diaby M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Diaby M.",
+          "formation_raw": "19 Diaby",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Watkins O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Watkins O.",
+          "formation_raw": "11 Watkins",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 31,
+          "name": "Bailey L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Bailey L.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Chambers C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Chambers C.",
+          "source": "detailed"
+        },
+        {
+          "number": 32,
+          "name": "Dendoncker L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Dendoncker L.",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Duran J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Duran J.",
+          "source": "detailed"
+        },
+        {
+          "number": 47,
+          "name": "Iroegbunam T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Iroegbunam T.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Lenglet C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Lenglet C.",
+          "source": "detailed"
+        },
+        {
+          "number": 42,
+          "name": "Marschall F.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "42 Marschall F. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 78,
+          "name": "Proctor S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "78 Proctor S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Zaniolo N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Zaniolo N.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "65",
+          "incoming": "Duran J.",
+          "outgoing": "Diaby M.",
+          "incoming_rating": 6.2,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Duran J. 6.2 Diaby M. 65'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Bailey L.",
+          "outgoing": "Cash M.",
+          "incoming_rating": 7.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bailey L. 7.4 Cash M. 65'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Zaniolo N.",
+          "outgoing": "Torres P.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Zaniolo N. Torres P. 81'"
+        },
+        {
+          "minute": "90",
+          "incoming": "Dendoncker L.",
+          "outgoing": "Ramsey J.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Dendoncker L. Ramsey J. 90'"
+        }
+      ],
+      "coach": "Emery U."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Flekken",
+      "13 Zanka",
+      "5 Pinnock",
+      "16 Mee",
+      "14 Ghoddos",
+      "24 Damsgaard",
+      "6 Norgaard",
+      "27 Janelt",
+      "30 Roerslev Rasmussen",
+      "23 Lewis-Potter",
+      "11 Wissa",
+      "1 Martinez",
+      "4 Konsa",
+      "3 Diego Carlos",
+      "14 Torres",
+      "2 Cash",
+      "44 Kamara",
+      "41 Ramsey",
+      "7 McGinn",
+      "15 Moreno",
+      "19 Diaby",
+      "11 Watkins",
+      "Onyeka F. 6.3 Damsgaard M. 68'",
+      "Maupay N. 5.9 Lewis-Potter K. 68'",
+      "Collins N. 5.8 Wissa Y. 76'",
+      "Yarmolyuk Y. Janelt V. 88'",
+      "Olakigbe M. Roerslev Rasmussen M. 89'",
+      "Duran J. 6.2 Diaby M. 65'",
+      "Bailey L. 7.4 Cash M. 65'",
+      "Zaniolo N. Torres P. 81'",
+      "Dendoncker L. Ramsey J. 90'",
+      "1 Flekken M. (G)",
+      "5 Pinnock E.",
+      "16 Mee B.",
+      "14 Ghoddos S.",
+      "24 Damsgaard M.",
+      "6 Norgaard C. (C)",
+      "27 Janelt V.",
+      "30 Roerslev Rasmussen M.",
+      "23 Lewis-Potter K.",
+      "11 Wissa Y.",
+      "1 Martinez E. (G)",
+      "4 Konsa E.",
+      "14 Torres P.",
+      "2 Cash M.",
+      "44 Kamara B.",
+      "41 Ramsey J.",
+      "7 McGinn J. (C)",
+      "15 Moreno A.",
+      "19 Diaby M.",
+      "11 Watkins O.",
+      "26 Baptiste S.",
+      "22 Collins N.",
+      "4 Goode C.",
+      "7 Maupay N.",
+      "37 Olakigbe M.",
+      "15 Onyeka F.",
+      "25 Peart-Harris M.",
+      "21 Strakosha T. (G)",
+      "33 Yarmolyuk Y.",
+      "31 Bailey L.",
+      "16 Chambers C.",
+      "32 Dendoncker L.",
+      "24 Duran J.",
+      "47 Iroegbunam T.",
+      "17 Lenglet C.",
+      "42 Marschall F. (G)",
+      "78 Proctor S. (G)",
+      "22 Zaniolo N.",
+      "Frank T.",
+      "Emery U."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 38,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 106,
+    "compact_lineup_text_count": 71,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 38,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 13,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+13' Nothing more will happen in this game as the referee blows for full time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 13,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+13' Nathan Michael Collins (Brentford) makes a run beyond the last defender, but he's offside."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 12,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+12' The game is interrupted. One of the players from Brentford is cautioned for aggressive play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 10,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+10' Michael Olakigbe (Brentford) is penalised for holding. David Coote signals a set piece."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 8,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+8' The referee has issued a yellow card to Emiliano Martinez (Aston Villa)."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 8,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+8' Unai Emery is stunned as referee David Coote shows him a yellow card. What was that for?"
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 8,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+8' The yellow card goes to Yegor Yarmolyuk (Brentford)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' Boubacar Kamara (Aston Villa) is given a red card and leaves his team a man down."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Michael Olakigbe (Brentford) robs an opponent of the ball and explodes in anger when David Coote blows for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Brentford are playing excellent possession football at the moment by exchanging some long passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Saman Ghoddos (Brentford) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Is that a yellow card in the referee's hand? It is! Neal Maupay (Brentford) gets booked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' A dangerous looking corner kick from Saman Ghoddos (Brentford) is cleared to safety by the defence."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' The game is interrupted. Frank Onyeka (Brentford) is given a yellow card. He has to be more careful now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 10 min. of added time."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' It's time for a substitution. Leander Dendoncker (Aston Villa) comes on in place of Jacob Ramsey."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Thomas Frank prepares a substitution. Mads Roerslev Rasmussen is replaced by Michael Olakigbe (Brentford)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Today's match ends for Vitaly Janelt who will be replaced by Yegor Yarmolyuk (Brentford)."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' This yellow card was deserved. The tackle by Vitaly Janelt (Brentford) was quite harsh and David Coote didn't hesitate to show him a yellow card."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Jhon Duran (Aston Villa) receives a yellow card from the referee for a foul that he committed a little earlier."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' That's a clear yellow card. Saman Ghoddos (Brentford) goes into the book."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Ezri Konsa (Aston Villa) is cautioned and receives a yellow card."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "85' 1 - 2 Ollie Watkins (Aston Villa) jumped highest to meet a perfectly executed corner kick by Boubacar Kamara. His header was precise and ended up in the back of the net, leaving the goalkeeper flapping in the wind. The score is 1:2."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Jacob Ramsey (Aston Villa) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' The Aston Villa players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Substitution. Pau Torres will be replaced by Nicolo Zaniolo (Aston Villa)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Aston Villa are showing great team chemistry. They are passing the ball around seamlessly."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Leon Bailey (Aston Villa) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Jacob Ramsey (Aston Villa) takes the corner with a short pass."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "77' 1 - 1 It's a goal! Leon Bailey sends a long raking pass onto the head of Alex Moreno (Aston Villa), who makes no mistake from close in and sends the ball into the left side of the goal. 1:1."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Substitution. Yoane Wissa walks off the pitch and Nathan Michael Collins (Brentford) comes on as a substitute."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Brentford enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' The ref makes the signal that the yellow is cancelled but immediately brandishes a straight red to Ben Mee (Brentford). He’s distraught but has to leave the field of play."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' It's been a while since that contentious challenge by Ben Mee (Brentford), but referee David Coote must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Ben Mee (Brentford) takes out his opponent with a nasty challenge and is relieved when the referee only gives him a booking."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Here is a change. Keane Lewis-Potter is going off and Thomas Frank gives the last tactical orders to Neal Maupay (Brentford)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Saman Ghoddos (Brentford) launches an inaccurate corner kick into the penalty area."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' The referee stops play so that a substitution can be made and Mikkel Damsgaard leaves the pitch and Frank Onyeka (Brentford) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' A player from Aston Villa commits a rough challenge. David Coote blows for a foul and keeps the game under control. Free kick. Brentford will probably just try to cross the ball in from here."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Unai Emery has decided to introduce fresh legs, with Leon Bailey (Aston Villa) replacing Matty Cash."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Substitution. Moussa Diaby makes way for Jhon Duran (Aston Villa)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Yoane Wissa (Brentford) jumps above the defenders in order to convert a lofted cross with a nice header. Emiliano Martinez makes a reflexive save to block his effort from hitting the net."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Saman Ghoddos (Brentford) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Some great controlled play and passing in the middle of the pitch from Aston Villa."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Ezri Konsa (Aston Villa) rises above the defence to meet a cross from the corner. His timing is good, but he directs his header just a few inches wide of the left post. The ball goes out of play and Brentford will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' There's an opportunity for Jacob Ramsey (Aston Villa) to deliver the ball into the box from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' The resulting set piece from Aston Villa is comfortably intercepted by one of the defending players. The ball is out of play and Aston Villa manage to earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Moussa Diaby (Aston Villa) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The ball is out of play. A goal-scoring opportunity from a corner for Aston Villa."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Yoane Wissa (Brentford) brings his opponent down with a tackle and David Coote blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Matty Cash (Aston Villa) flights in the cross, but the defender is alert and clears to safety. The ball is out of play. Aston Villa will take a throw-in."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' The Aston Villa players are exchanging short passes in an attempt to create a shooting opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Great teamplay by Aston Villa as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Christian Norgaard (Brentford) trips an opponent with a slide tackle. David Coote stops the game and he could give him a card, but eventually decides on just a warning."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Mark Flekken comes off his line to intercept the corner from John McGinn (Aston Villa)."
+    },
+    {
+      "type": "red_card",
+      "primary_type": "red_card",
+      "tags": [
+        "red_card"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Christian Norgaard (Brentford) can count himself lucky for not being sent off after only receiving a caution from the referee."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The referee blows his whistle to signal the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Gooal! No wait, it's been ruled out for offside. Yoane Wissa (Brentford) disagrees, but the linesman is sure about his call."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 3 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Saman Ghoddos (Brentford) goes over to take a corner kick after one of the defenders makes a good clearance."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "45' 1 - 0 Goal! Keane Lewis-Potter (Brentford) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:0."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Yoane Wissa (Brentford) makes a reckless foul in order to win the ball from his opponent. David Coote has a clear sight of it and blows his whistle."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Poor challenge! Alex Moreno (Aston Villa) is penalised for tripping and David Coote blows his whistle."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' The referee blows his whistle as Yoane Wissa (Brentford) was too aggressive in his challenge."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Brentford control the tempo of the game by exchanging some accurate short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Mikkel Damsgaard (Brentford) is forced to stop his forward run after being caught in an offside position by the linesman."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Ezri Konsa (Aston Villa) was trying to get to the ball but clattered into the legs of the opponent as well. David Coote blows his whistle for an infringement."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Aston Villa seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Aston Villa slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' A horde of players are waiting inside the penalty area for a cross from the corner, but Jacob Ramsey (Aston Villa) takes it short."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' It looks like Mads Roerslev Rasmussen (Brentford) saw red with that tackle. David Coote won't tolerate such behaviour on the pitch and blows for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Matty Cash (Aston Villa) receives a fine cross inside the box and attempts to score a goal, but his shot flies just wide of the right post. The ball goes out of play and Brentford will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Aston Villa keep the ball and are displaying some tiki-taka style passing at the moment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Ben Mee (Brentford) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' The Brentford players are exchanging some short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Brentford are bossing possession at the moment by exchanging some precise passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Emiliano Martinez leaps to collect the ball from the corner which was sent over by Saman Ghoddos (Brentford)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' John McGinn (Aston Villa) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. Mark Flekken pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' Mikkel Damsgaard (Brentford) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Ben Mee (Brentford) makes an overly-aggressive challenge and David Coote blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Jacob Ramsey (Aston Villa) works the corner short instead of sending the ball into the penalty area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Alex Moreno (Aston Villa) gets on the end of a good pass and from mid-range he unleashes a decent strike, but the shot is blocked by the defender. The ball goes out of play. Aston Villa are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Saman Ghoddos (Brentford) takes the corner kick but the ball only finds the head of an opponent."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Saman Ghoddos (Brentford) is obviously not following the Golden Rule: \"Treat others as you want to be treated.“ He makes a bad challenge and leaves David Coote with no other option than to blow for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' A pass travels right across the box to Mikkel Damsgaard (Brentford) and gives him a sight of goal. He tries to beat the keeper low in the middle of the goal, but Emiliano Martinez denies him with a decent save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Aston Villa are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' That's a well-taken pass by Alex Moreno (Aston Villa). He unleashes a strike from the edge of the box, but blazes it high over the bar. The ball is off of the pitch and it's a goal kick for Brentford."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Jacob Ramsey (Aston Villa) looks like he will be the one to take the corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Moussa Diaby (Aston Villa) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. The ball goes out of play. Aston Villa are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Jacob Ramsey (Aston Villa) is heading toward the corner flag to take the set piece."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Jacob Ramsey (Aston Villa) decides to take a short corner instead of crossing into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Corner kick. Jacob Ramsey (Aston Villa) is ready to send the ball into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Some great controlled play and passing from Aston Villa. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half of this match is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are on the pitch and Brentford will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "David Coote is the one to supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting lineups for this match have been revealed."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "85' 1 - 2 Ollie Watkins (Aston Villa) jumped highest to meet a perfectly executed corner kick by Boubacar Kamara. His header was precise and ended up in the back of the net, leaving the goalkeeper flapping in the wind. The score is 1:2.",
+        "team_side": "away",
+        "team": "Aston Villa",
+        "player_team_side": "away",
+        "player_team": "Aston Villa",
+        "player": "Watkins O.",
+        "shirt_number": 11,
+        "player_match_score": 134,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 2
+        },
+        "assist_player": "Kamara B.",
+        "assist_shirt_number": 44,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "77' 1 - 1 It's a goal! Leon Bailey sends a long raking pass onto the head of Alex Moreno (Aston Villa), who makes no mistake from close in and sends the ball into the left side of the goal. 1:1.",
+        "team_side": "away",
+        "team": "Aston Villa",
+        "player_team_side": "away",
+        "player_team": "Aston Villa",
+        "player": "Moreno A.",
+        "shirt_number": 15,
+        "player_match_score": 149,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": "Bailey L.",
+        "assist_shirt_number": 31,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "45' 1 - 0 Goal! Keane Lewis-Potter (Brentford) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:0.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player_team_side": "home",
+        "player_team": "Brentford",
+        "player": "Lewis-Potter K.",
+        "shirt_number": 23,
+        "player_match_score": 145,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 12,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+12' The game is interrupted. One of the players from Brentford is cautioned for aggressive play."
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 8,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+8' The referee has issued a yellow card to Emiliano Martinez (Aston Villa).",
+        "team_side": "away",
+        "team": "Aston Villa",
+        "player": "Martinez E.",
+        "shirt_number": 1,
+        "player_match_score": 141,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 8,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+8' Unai Emery is stunned as referee David Coote shows him a yellow card. What was that for?"
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 8,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+8' The yellow card goes to Yegor Yarmolyuk (Brentford).",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Yarmolyuk Y.",
+        "shirt_number": 33,
+        "player_match_score": 138,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+1' Is that a yellow card in the referee's hand? It is! Neal Maupay (Brentford) gets booked.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Maupay N.",
+        "shirt_number": 7,
+        "player_match_score": 145,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' The game is interrupted. Frank Onyeka (Brentford) is given a yellow card. He has to be more careful now.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Onyeka F.",
+        "shirt_number": 15,
+        "player_match_score": 136,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' This yellow card was deserved. The tackle by Vitaly Janelt (Brentford) was quite harsh and David Coote didn't hesitate to show him a yellow card.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Janelt V.",
+        "shirt_number": 27,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "87' Jhon Duran (Aston Villa) receives a yellow card from the referee for a foul that he committed a little earlier.",
+        "team_side": "away",
+        "team": "Aston Villa",
+        "player": "Duran J.",
+        "shirt_number": 24,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' That's a clear yellow card. Saman Ghoddos (Brentford) goes into the book.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Ghoddos S.",
+        "shirt_number": 14,
+        "player_match_score": 138,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Ezri Konsa (Aston Villa) is cautioned and receives a yellow card.",
+        "team_side": "away",
+        "team": "Aston Villa",
+        "player": "Konsa E.",
+        "shirt_number": 4,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+      {
+        "type": "red_card",
+        "primary_type": "red_card",
+        "tags": [
+          "red_card"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Christian Norgaard (Brentford) can count himself lucky for not being sent off after only receiving a caution from the referee.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Norgaard C.",
+        "shirt_number": 6,
+        "player_match_score": 132,
+        "card_type": "red",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' It's time for a substitution. Leander Dendoncker (Aston Villa) comes on in place of Jacob Ramsey."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Thomas Frank prepares a substitution. Mads Roerslev Rasmussen is replaced by Michael Olakigbe (Brentford)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Today's match ends for Vitaly Janelt who will be replaced by Yegor Yarmolyuk (Brentford)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Substitution. Pau Torres will be replaced by Nicolo Zaniolo (Aston Villa)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Substitution. Yoane Wissa walks off the pitch and Nathan Michael Collins (Brentford) comes on as a substitute."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "69' Here is a change. Keane Lewis-Potter is going off and Thomas Frank gives the last tactical orders to Neal Maupay (Brentford)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' The referee stops play so that a substitution can be made and Mikkel Damsgaard leaves the pitch and Frank Onyeka (Brentford) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Unai Emery has decided to introduce fresh legs, with Leon Bailey (Aston Villa) replacing Matty Cash."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Substitution. Moussa Diaby makes way for Jhon Duran (Aston Villa)."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' It's been a while since that contentious challenge by Ben Mee (Brentford), but referee David Coote must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!",
+        "review_reason": "red_card",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Mee B.",
+        "shirt_number": 16,
+        "player_match_score": 142,
+        "is_var_event": true,
+        "related_event_minute": null
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 13,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+13' Nothing more will happen in this game as the referee blows for full time."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' Yoane Wissa (Brentford) brings his opponent down with a tackle and David Coote blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The referee blows his whistle to signal the start of the second half."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 4,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+4' The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 44,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "44' Yoane Wissa (Brentford) makes a reckless foul in order to win the ball from his opponent. David Coote has a clear sight of it and blows his whistle."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 43,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "43' Poor challenge! Alex Moreno (Aston Villa) is penalised for tripping and David Coote blows his whistle."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 42,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "42' The referee blows his whistle as Yoane Wissa (Brentford) was too aggressive in his challenge."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 38,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "38' Ezri Konsa (Aston Villa) was trying to get to the ball but clattered into the legs of the opponent as well. David Coote blows his whistle for an infringement."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 15,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "15' Mikkel Damsgaard (Brentford) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 14,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "14' Ben Mee (Brentford) makes an overly-aggressive challenge and David Coote blows his whistle for a foul."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 3,
+    "detected_goal_count": 3,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 3,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 173,
+    "commentary_row_count": 99,
+    "removed_commentary_noise_count": 74,
+    "goal_event_count": 3,
+    "yellow_card_event_count": 10,
+    "red_card_event_count": 1,
+    "substitution_event_count": 9,
+    "var_event_count": 1,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 3,
+      "detected_goal_count": 3
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 3,
+    "structured_goal_count": 3,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 2,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 1,
+    "yellow_card_event_count": 10,
+    "structured_yellow_card_count": 8,
+    "red_card_event_count": 1,
+    "structured_red_card_count": 1,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 1,
+    "structured_var_event_count": 1,
+    "var_player_resolved_count": 1,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 1,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": false,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": false,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": true,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 3,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": true,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+      {
+        "event_type": "yellow_card",
+        "reason": "card_player_not_found",
+        "minute": 102,
+        "minute_raw": "90+12",
+        "text": "90+12' The game is interrupted. One of the players from Brentford is cautioned for aggressive play."
+      },
+      {
+        "event_type": "yellow_card",
+        "reason": "card_player_not_found",
+        "minute": 98,
+        "minute_raw": "90+8",
+        "text": "90+8' Unai Emery is stunned as referee David Coote shows him a yellow card. What was that for?"
+      }
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T16:14:33Z",
+  "collector_profile": {
+    "competition_key": "premier_league",
+    "competition": "English Premier League",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 12,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 99,
+      "error": null
+    }
+  }
+}

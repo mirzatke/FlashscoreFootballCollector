@@ -1,0 +1,2868 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/genoa-d0PJxeie/juventus-C06aJvIB/summary/stats/overall/?mid=dvlAN8et",
+  "match_id": "dvlAN8et",
+  "page_title": "GEN 1-1 JUV | Genoa v Juventus 15/12/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "15.12.2023 23:45",
+  "home_team": "Genoa",
+  "away_team": "Juventus",
+  "score": {
+    "home": "1",
+    "away": "1",
+    "display": "1 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.00",
+      "away": "1.83",
+      "raw_values": [
+        "1.00",
+        "1.83"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "47%",
+      "away": "53%",
+      "raw_values": [
+        "47%",
+        "53%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "11",
+      "away": "11",
+      "raw_values": [
+        "11",
+        "11"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "3",
+      "away": "4",
+      "raw_values": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "8",
+      "raw_values": [
+        "6",
+        "8"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "76%\n(243/320)",
+      "away": "83%\n(341/411)",
+      "raw_values": [
+        "76%\n(243/320)",
+        "83%\n(341/411)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "7",
+      "away": "4",
+      "raw_values": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "1",
+      "away": "3",
+      "raw_values": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "0",
+      "away": "3",
+      "raw_values": [
+        "0",
+        "3"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "16",
+      "away": "14",
+      "raw_values": [
+        "16",
+        "14"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "14",
+      "away": "23",
+      "raw_values": [
+        "14",
+        "23"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "14",
+      "away": "12",
+      "raw_values": [
+        "14",
+        "12"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.00",
+        "away": "1.83",
+        "raw_values": [
+          "1.00",
+          "1.83"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "47%",
+        "away": "53%",
+        "raw_values": [
+          "47%",
+          "53%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "11",
+        "away": "11",
+        "raw_values": [
+          "11",
+          "11"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "8",
+        "raw_values": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "76%\n(243/320)",
+        "away": "83%\n(341/411)",
+        "raw_values": [
+          "76%\n(243/320)",
+          "83%\n(341/411)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "16",
+        "away": "14",
+        "raw_values": [
+          "16",
+          "14"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "14",
+        "away": "23",
+        "raw_values": [
+          "14",
+          "23"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "14",
+        "away": "12",
+        "raw_values": [
+          "14",
+          "12"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.41",
+        "away": "1.23",
+        "raw_values": [
+          "0.41",
+          "1.23"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "48%",
+        "away": "52%",
+        "raw_values": [
+          "48%",
+          "52%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "83%\n(159/192)",
+        "away": "85%\n(180/212)",
+        "raw_values": [
+          "83%\n(159/192)",
+          "85%\n(180/212)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "2",
+        "raw_values": [
+          "5",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "8",
+        "away": "10",
+        "raw_values": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "4",
+        "raw_values": [
+          "6",
+          "4"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.59",
+        "away": "0.60",
+        "raw_values": [
+          "0.59",
+          "0.60"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "46%",
+        "away": "54%",
+        "raw_values": [
+          "46%",
+          "54%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "5",
+        "away": "6",
+        "raw_values": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "6",
+        "raw_values": [
+          "2",
+          "6"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "66%\n(84/128)",
+        "away": "81%\n(161/199)",
+        "raw_values": [
+          "66%\n(84/128)",
+          "81%\n(161/199)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "9",
+        "away": "8",
+        "raw_values": [
+          "9",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "6",
+        "away": "13",
+        "raw_values": [
+          "6",
+          "13"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "8",
+        "raw_values": [
+          "8",
+          "8"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Martinez",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Martinez",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "De Winter",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 De Winter",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Bani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Bani",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Dragusin",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Dragusin",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Sabelli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Sabelli",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Frendrup",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Frendrup",
+          "source": "formation"
+        },
+        {
+          "number": 47,
+          "name": "Badelj",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "47 Badelj",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Malinovskyi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Malinovskyi",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Vasquez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Vasquez",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Junior Messias",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Junior Messias",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Gudmundsson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gudmundsson",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Martinez J.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Martinez J. (G)",
+          "formation_raw": "1 Martinez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "De Winter K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 De Winter K.",
+          "formation_raw": "4 De Winter",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Bani M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Bani M.",
+          "formation_raw": "13 Bani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Dragusin R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Dragusin R.",
+          "formation_raw": "5 Dragusin",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Sabelli S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Sabelli S.",
+          "formation_raw": "20 Sabelli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Frendrup M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Frendrup M.",
+          "formation_raw": "32 Frendrup",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 47,
+          "name": "Badelj M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "47 Badelj M. (C)",
+          "formation_raw": "47 Badelj",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Malinovskyi R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Malinovskyi R.",
+          "formation_raw": "17 Malinovskyi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Vasquez J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Vasquez J.",
+          "formation_raw": "22 Vasquez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Junior Messias",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Junior Messias",
+          "formation_raw": "10 Junior Messias",
+          "source": "formation_fallback",
+          "match_score": 4
+        },
+        {
+          "number": 11,
+          "name": "Gudmundsson A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gudmundsson A.",
+          "formation_raw": "11 Gudmundsson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 18,
+          "name": "Ekuban C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Ekuban C.",
+          "source": "detailed"
+        },
+        {
+          "number": 40,
+          "name": "Fini S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "40 Fini S.",
+          "source": "detailed"
+        },
+        {
+          "number": 99,
+          "name": "Galdames P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "99 Galdames P.",
+          "source": "detailed"
+        },
+        {
+          "number": 55,
+          "name": "Haps R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "55 Haps R.",
+          "source": "detailed"
+        },
+        {
+          "number": 36,
+          "name": "Hefti S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "36 Hefti S.",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Jagiello F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Jagiello F.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Kutlu B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Kutlu B.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Leali N.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Leali N. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "Martin A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Martin A.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Matturro A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Matturro A.",
+          "source": "detailed"
+        },
+        {
+          "number": 37,
+          "name": "Puscas G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Puscas G.",
+          "source": "detailed"
+        },
+        {
+          "number": 39,
+          "name": "Sommariva D.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "39 Sommariva D. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Thorsby M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Thorsby M.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Vogliacco A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Vogliacco A.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Ekuban C.",
+          "outgoing": "Vasquez J.",
+          "incoming_rating": 7.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ekuban C. 7.5 Vasquez J. 46'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Vogliacco A.",
+          "outgoing": "Sabelli S.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Vogliacco A. Sabelli S. 84'"
+        },
+        {
+          "minute": "90+3",
+          "incoming": "Haps R.",
+          "outgoing": "Junior Messias",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 12,
+          "split_match_score": 48,
+          "raw": "Haps R. Junior Messias 90+3'"
+        }
+      ],
+      "coach": "Gilardino A."
+    },
+    "away": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Szczesny",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Szczesny",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Gatti",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Gatti",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Bremer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bremer",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Danilo",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "6 Danilo",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Cambiaso",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Cambiaso",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "McKennie",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 McKennie",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Locatelli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Locatelli",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Miretti",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Miretti",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Kostic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Kostic",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Chiesa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Chiesa",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Vlahovic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Vlahovic",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Szczesny W.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Szczesny W. (G)",
+          "formation_raw": "1 Szczesny",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Gatti F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Gatti F.",
+          "formation_raw": "4 Gatti",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Bremer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bremer",
+          "formation_raw": "3 Bremer",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 6,
+          "name": "Danilo",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "6 Danilo (C)",
+          "formation_raw": "6 Danilo",
+          "source": "formation_detail_match",
+          "match_score": 17
+        },
+        {
+          "number": 27,
+          "name": "Cambiaso A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Cambiaso A.",
+          "formation_raw": "27 Cambiaso",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "McKennie W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 McKennie W.",
+          "formation_raw": "16 McKennie",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Locatelli M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Locatelli M.",
+          "formation_raw": "5 Locatelli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Miretti F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Miretti F.",
+          "formation_raw": "20 Miretti",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Kostic F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Kostic F.",
+          "formation_raw": "11 Kostic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Chiesa F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Chiesa F.",
+          "formation_raw": "7 Chiesa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Vlahovic D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Vlahovic D.",
+          "formation_raw": "9 Vlahovic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 12,
+          "name": "Alex Sandro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Alex Sandro",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Huijsen D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Huijsen D.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Iling Junior S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Iling Junior S.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Milik A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Milik A.",
+          "source": "detailed"
+        },
+        {
+          "number": 41,
+          "name": "Nicolussi Caviglia H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Nicolussi Caviglia H.",
+          "source": "detailed"
+        },
+        {
+          "number": 47,
+          "name": "Nonge J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Nonge J.",
+          "source": "detailed"
+        },
+        {
+          "number": 36,
+          "name": "Perin M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "36 Perin M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Pinsoglio C.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Pinsoglio C. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Rugani D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Rugani D.",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Weah T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Weah T.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Yildiz K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Yildiz K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "68",
+          "incoming": "Weah T.",
+          "outgoing": "Kostic F.",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Weah T. 6.5 Kostic F. 68'"
+        },
+        {
+          "minute": "68",
+          "incoming": "Milik A.",
+          "outgoing": "Vlahovic D.",
+          "incoming_rating": 6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Milik A. 6.0 Vlahovic D. 68'"
+        },
+        {
+          "minute": "74",
+          "incoming": "Iling Junior S.",
+          "outgoing": "Miretti F.",
+          "incoming_rating": 6.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Iling Junior S. 6.1 Miretti F. 74'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Yildiz K.",
+          "outgoing": "Cambiaso A.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Yildiz K. Cambiaso A. 88'"
+        }
+      ],
+      "coach": "Allegri M."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Martinez",
+      "4 De Winter",
+      "13 Bani",
+      "5 Dragusin",
+      "20 Sabelli",
+      "32 Frendrup",
+      "47 Badelj",
+      "17 Malinovskyi",
+      "22 Vasquez",
+      "10 Junior Messias",
+      "11 Gudmundsson",
+      "1 Szczesny",
+      "4 Gatti",
+      "3 Bremer",
+      "6 Danilo",
+      "27 Cambiaso",
+      "16 McKennie",
+      "5 Locatelli",
+      "20 Miretti",
+      "11 Kostic",
+      "7 Chiesa",
+      "9 Vlahovic",
+      "Ekuban C. 7.5 Vasquez J. 46'",
+      "Vogliacco A. Sabelli S. 84'",
+      "Haps R. Junior Messias 90+3'",
+      "Weah T. 6.5 Kostic F. 68'",
+      "Milik A. 6.0 Vlahovic D. 68'",
+      "Iling Junior S. 6.1 Miretti F. 74'",
+      "Yildiz K. Cambiaso A. 88'",
+      "1 Martinez J. (G)",
+      "4 De Winter K.",
+      "13 Bani M.",
+      "5 Dragusin R.",
+      "20 Sabelli S.",
+      "32 Frendrup M.",
+      "47 Badelj M. (C)",
+      "17 Malinovskyi R.",
+      "22 Vasquez J.",
+      "11 Gudmundsson A.",
+      "1 Szczesny W. (G)",
+      "4 Gatti F.",
+      "6 Danilo (C)",
+      "27 Cambiaso A.",
+      "16 McKennie W.",
+      "5 Locatelli M.",
+      "20 Miretti F.",
+      "11 Kostic F.",
+      "7 Chiesa F.",
+      "9 Vlahovic D.",
+      "18 Ekuban C.",
+      "40 Fini S.",
+      "99 Galdames P.",
+      "55 Haps R.",
+      "36 Hefti S.",
+      "24 Jagiello F.",
+      "25 Kutlu B.",
+      "16 Leali N. (G)",
+      "3 Martin A.",
+      "33 Matturro A.",
+      "37 Puscas G.",
+      "39 Sommariva D. (G)",
+      "2 Thorsby M.",
+      "14 Vogliacco A.",
+      "12 Alex Sandro",
+      "13 Huijsen D.",
+      "17 Iling Junior S.",
+      "14 Milik A.",
+      "41 Nicolussi Caviglia H.",
+      "47 Nonge J.",
+      "36 Perin M. (G)",
+      "23 Pinsoglio C. (G)",
+      "24 Rugani D.",
+      "22 Weah T.",
+      "15 Yildiz K.",
+      "Retegui M. Muscle Injury",
+      "Strootman K. Muscle Injury",
+      "De Sciglio M. Knee Injury",
+      "Fagioli N. Suspended",
+      "Kean M. Shin Injury",
+      "Pogba P. Doping",
+      "Rabiot A. Injury",
+      "Gilardino A.",
+      "Allegri M."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 14,
+    "away_substitute_count": 11,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 45,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 3,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 14,
+    "bench_boundary_score": 251.925
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 116,
+    "compact_lineup_text_count": 83,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 45,
+    "substitution_count": 7,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 14,
+    "structured_away_substitute_count": 11,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 14
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' There will be no more action in this match as the referee signals full time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' The ball goes behind for a corner. Juventus will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Substitution. Ridgeciano Haps (Genoa) on for Junior Messias."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 3 additional min. will be played."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Ruslan Malinovsky (Genoa) sees a yellow card. He should be more careful because one more challenge like that could result in a red card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' A cross into the box from Samuel Iling Junior (Juventus) is cleared."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Juventus failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Bremer (Juventus) wins himself enough space to meet the resulting corner and fires the ball at goal, but the keeper does well to stop his effort. The ball goes out of play. Juventus are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' The ball goes out of play and Juventus have been awarded a corner kick."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' It will be a substitution. Kenan Yildiz (Juventus) is ready to enter the pitch as Andrea Cambiaso walks off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Andrea Cambiaso (Juventus) sends over a cross, but he can't find any teammate inside the box. Poor delivery."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Alberto Gilardino prepares a substitution. Stefano Sabelli is replaced by Alessandro Vogliacco (Genoa)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' The resulting set piece from Juventus is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Federico Chiesa (Juventus) gets to the rebound and shoots, but the effort is blocked. The ball goes out of play. Juventus are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' A dangerous towering header by Mattia Bani (Genoa) from around the penalty spot goes just over the bar. This corner kick didn't change the score."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Albert Gudmundsson (Genoa) prepares to take a corner kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' This yellow card was deserved. The tackle by Milan Badelj (Genoa) was quite harsh and Davide Massa didn't hesitate to show him a yellow card."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Substitution. Fabio Miretti did his best and is replaced by Samuel Iling Junior (Juventus)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Genoa win a direct free kick in a dangerous mid-range position."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Arkadiusz Milik (Juventus) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Davide Massa ignores the protests."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Davide Massa shows a yellow card to Weston McKennie (Juventus), who isn't surprised as the tackle was really hard and late."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' We are about to witness a subsitution. Arkadiusz Milik (Juventus) for Dusan Vlahovic."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Massimiliano Allegri has decided to substitute Filip Kostic and he is replaced by Timothy Weah (Juventus)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Filip Kostic (Juventus) swings in a cross, but the ball is cleared to safety by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' The linesman points to the corner flag, Genoa are going to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Albert Gudmundsson (Genoa) fails to send a pass into the box as his effort is cut out. Genoa have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' The game is interrupted because of a yellow card that is shown to Danilo (Juventus)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Juventus quickly take a corner kick with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' A good clearance by a defender means the corner comes to nothing for Juventus."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Andrea Cambiaso (Juventus) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The ball is out of play. Juventus win a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' The linesman raises his flag. Stefano Sabelli (Genoa) is adjudged offside."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' One of the players from Juventus times his run too early and the referee blows his whistle for offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Federico Chiesa (Juventus) fails to find any of his teammates inside the box as his pass is blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' Federico Chiesa (Juventus) came close to scoring but should have done much better. His poor attempt from close range ended up in the gloves of Josep Martinez."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' A cross from a mid-range free kick, taken by Juventus, is intercepted by one of the defenders."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Davide Massa blows his whistle and signals a foul after Caleb Ekuban (Genoa) brought his opponent down."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Andrea Cambiaso (Juventus) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Weston McKennie (Juventus) finds himself some space to meet a beautiful cross from the free kick, and from near the penalty spot he attempts to score with a header. His effort lacks accuracy and goes well wide of the left post."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "48' 1 - 1 Goal! After receiving a sweet pass, Albert Gudmundsson (Genoa) unleashes a shot straight inside the left post. Good team effort!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' A cross from a mid-range free kick, taken by Genoa, is overhit and the ball goes out of play."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Alberto Gilardino makes a half-time substitution. Caleb Ekuban (Genoa) comes on in place of Johan Vasquez."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Everything is set for the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Johan Vasquez (Genoa) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' We will have 1 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Dusan Vlahovic (Juventus) commits a foul after unfairly battling his opponent for the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' A pass by Bremer (Juventus) ends up in no man's land, and the attacking effort comes to an end."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Radu Dragusin (Genoa) is penalised for a foul. Davide Massa had a clear view and blows his whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' The ball is behind the touchline and Genoa will take a throw-in."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Johan Vasquez (Genoa) wastes a golden opportunity from inside the six-yard box after firing the ball a few inches over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' The linesman makes the right call and Genoa will have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' A pass into the penalty area from Stefano Sabelli (Genoa) is intercepted by the defence. Genoa will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Filip Kostic (Juventus) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' The ball rebounds out to Milan Badelj (Genoa) on the edge of the box. He immediately strikes for goal, but sends the ball high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Genoa can’t profit from the corner as the defence clear the ball upfield."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Junior Messias (Genoa) sends a sweet pass into the penalty area, but one of the defenders averts the danger. The ball is out of play and the linesman points at the corner flag. Corner to Genoa."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Junior Messias (Genoa) passes the ball into the box but an opposing player clears. The referee and one of his assistants signal for a corner kick to Genoa."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "28' 0 - 1 GOAL! That’s a great strike from the spot by Federico Chiesa (Juventus) low into the left of the net, giving goalkeeper Josep Martinez no chance!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Federico Chiesa (Juventus) is heading towards the penalty spot to take it."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Referee Davide Massa sees the trip by Josep Martinez (Genoa) and doesn't hesitate to blow his whistle. The referee points to the penalty spot. PENALTY to Juventus!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Filip Kostic (Juventus) sends a cross into the box, but the opposition's defence clears the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' The ball is out of play. Genoa will take a throw-in."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Federico Chiesa (Juventus) had a good opportunity when he latched on to a cross from the wing, but his strike from the six-yard box wasn't accurate enough and the ball went inches over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Some great controlled play and passing in the middle of the pitch from Juventus."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Albert Gudmundsson (Genoa) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Morten Frendrup (Genoa) flights in the cross, but the defender is alert and clears to safety. The referee blows his whistle, Genoa are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' A fantastic block by a defender means that the corner from Genoa comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' A cross from a mid-range free kick, taken by Genoa, is intercepted by one of the defenders. Genoa force a corner. They send men into the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' The corner is swung in but Juventus can’t take advantage as a defender sweeps the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' A loose ball is pounced on by Federico Chiesa (Juventus) inside the box. He immediately fires in a shot towards the right side of the goal, but Josep Martinez is alert and makes a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Dusan Vlahovic (Juventus) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Filip Kostic (Juventus) crosses the ball from the free kick, but it goes out of play."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Morten Frendrup (Genoa) pulls the jersey of one of the opposition players and Davide Massa blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Manuel Locatelli (Juventus) shoots from outside the box, but his effort is blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Filip Kostic (Juventus) will deliver the corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' The ball has crossed the sideline. Juventus are taking a throw-in."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Koni De Winter (Genoa) approaches the edge of the box with intent and shoots, but Wojciech Szczesny rushes out to narrow the angle and smothers the ball. Good goalkeeping!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Genoa string together a series of short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' The referee and the linesman both signal a throw-in for Juventus."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' The linesman signals a throw-in for Juventus."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Today's match has just started, enjoy the game!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Juventus will kick the game off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Davide Massa was nominated as the referee for this game."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups You can have a look at the starting XIs of both teams in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our live text commentary, ladies and gentlemen! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 48,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "48' 1 - 1 Goal! After receiving a sweet pass, Albert Gudmundsson (Genoa) unleashes a shot straight inside the left post. Good team effort!",
+        "team_side": "home",
+        "team": "Genoa",
+        "player_team_side": "home",
+        "player_team": "Genoa",
+        "player": "Gudmundsson A.",
+        "shirt_number": 11,
+        "player_match_score": 140,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 28,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "28' 0 - 1 GOAL! That’s a great strike from the spot by Federico Chiesa (Juventus) low into the left of the net, giving goalkeeper Josep Martinez no chance!",
+        "team_side": "away",
+        "team": "Juventus",
+        "player_team_side": "away",
+        "player_team": "Juventus",
+        "player": "Chiesa F.",
+        "shirt_number": 7,
+        "player_match_score": 144,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' Ruslan Malinovsky (Genoa) sees a yellow card. He should be more careful because one more challenge like that could result in a red card."
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' This yellow card was deserved. The tackle by Milan Badelj (Genoa) was quite harsh and Davide Massa didn't hesitate to show him a yellow card.",
+        "team_side": "home",
+        "team": "Genoa",
+        "player": "Badelj M.",
+        "shirt_number": 47,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' Arkadiusz Milik (Juventus) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Davide Massa ignores the protests.",
+        "team_side": "away",
+        "team": "Juventus",
+        "player": "Milik A.",
+        "shirt_number": 14,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' Davide Massa shows a yellow card to Weston McKennie (Juventus), who isn't surprised as the tackle was really hard and late.",
+        "team_side": "away",
+        "team": "Juventus",
+        "player": "McKennie W.",
+        "shirt_number": 16,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' The game is interrupted because of a yellow card that is shown to Danilo (Juventus).",
+        "team_side": "away",
+        "team": "Juventus",
+        "player": "Danilo",
+        "shirt_number": 6,
+        "player_match_score": 149,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' Substitution. Ridgeciano Haps (Genoa) on for Junior Messias."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' It will be a substitution. Kenan Yildiz (Juventus) is ready to enter the pitch as Andrea Cambiaso walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' Alberto Gilardino prepares a substitution. Stefano Sabelli is replaced by Alessandro Vogliacco (Genoa)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 74,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "74' Substitution. Fabio Miretti did his best and is replaced by Samuel Iling Junior (Juventus)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' We are about to witness a subsitution. Arkadiusz Milik (Juventus) for Dusan Vlahovic."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' Massimiliano Allegri has decided to substitute Filip Kostic and he is replaced by Timothy Weah (Juventus)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Alberto Gilardino makes a half-time substitution. Caleb Ekuban (Genoa) comes on in place of Johan Vasquez."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+5' There will be no more action in this match as the referee signals full time."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 57,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "57' One of the players from Juventus times his run too early and the referee blows his whistle for offside."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 53,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "53' Davide Massa blows his whistle and signals a foul after Caleb Ekuban (Genoa) brought his opponent down."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+2' The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 40,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "40' Radu Dragusin (Genoa) is penalised for a foul. Davide Massa had a clear view and blows his whistle."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 27,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "27' Referee Davide Massa sees the trip by Josep Martinez (Genoa) and doesn't hesitate to blow his whistle. The referee points to the penalty spot. PENALTY to Juventus!"
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 18,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "18' Morten Frendrup (Genoa) flights in the cross, but the defender is alert and clears to safety. The referee blows his whistle, Genoa are awarded a corner kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 10,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "10' Morten Frendrup (Genoa) pulls the jersey of one of the opposition players and Davide Massa blows his whistle for a foul."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 2,
+    "detected_goal_count": 2,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 2,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 150,
+    "commentary_row_count": 86,
+    "removed_commentary_noise_count": 64,
+    "goal_event_count": 2,
+    "yellow_card_event_count": 5,
+    "red_card_event_count": 0,
+    "substitution_event_count": 7,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 2,
+      "detected_goal_count": 2
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 2,
+    "structured_goal_count": 2,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 5,
+    "structured_yellow_card_count": 4,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": false,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": true,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 2,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": true,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+      {
+        "event_type": "yellow_card",
+        "reason": "card_player_not_found",
+        "minute": 90,
+        "minute_raw": "90",
+        "text": "90' Ruslan Malinovsky (Genoa) sees a yellow card. He should be more careful because one more challenge like that could result in a red card."
+      }
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T09:04:13Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 86,
+      "error": null
+    }
+  }
+}

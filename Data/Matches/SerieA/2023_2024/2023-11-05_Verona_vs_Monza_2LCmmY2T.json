@@ -1,0 +1,2840 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/monza-4YSMlwj7/verona-rJVAIaHo/summary/stats/overall/?mid=2LCmmY2T",
+  "match_id": "2LCmmY2T",
+  "page_title": "VER 1-3 MON | Verona v Monza 05/11/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "05.11.2023 15:30",
+  "home_team": "Verona",
+  "away_team": "Monza",
+  "score": {
+    "home": "1",
+    "away": "3",
+    "display": "1 - 3"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.65",
+      "away": "0.78",
+      "raw_values": [
+        "0.65",
+        "0.78"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "46%",
+      "away": "54%",
+      "raw_values": [
+        "46%",
+        "54%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "16",
+      "away": "12",
+      "raw_values": [
+        "16",
+        "12"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "5",
+      "away": "6",
+      "raw_values": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "2",
+      "away": "6",
+      "raw_values": [
+        "2",
+        "6"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "71%\n(362/511)",
+      "away": "86%\n(423/492)",
+      "raw_values": [
+        "71%\n(362/511)",
+        "86%\n(423/492)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "1",
+      "away": "2",
+      "raw_values": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "6",
+      "away": "4",
+      "raw_values": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "5",
+      "away": "2",
+      "raw_values": [
+        "5",
+        "2"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "0",
+      "away": "0",
+      "raw_values": [
+        "0",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "12",
+      "away": "6",
+      "raw_values": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "18",
+      "away": "16",
+      "raw_values": [
+        "18",
+        "16"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "6",
+      "away": "12",
+      "raw_values": [
+        "6",
+        "12"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "3",
+      "away": "4",
+      "raw_values": [
+        "3",
+        "4"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.65",
+        "away": "0.78",
+        "raw_values": [
+          "0.65",
+          "0.78"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "46%",
+        "away": "54%",
+        "raw_values": [
+          "46%",
+          "54%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "16",
+        "away": "12",
+        "raw_values": [
+          "16",
+          "12"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "6",
+        "raw_values": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "6",
+        "raw_values": [
+          "2",
+          "6"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "71%\n(362/511)",
+        "away": "86%\n(423/492)",
+        "raw_values": [
+          "71%\n(362/511)",
+          "86%\n(423/492)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "6",
+        "away": "4",
+        "raw_values": [
+          "6",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "5",
+        "away": "2",
+        "raw_values": [
+          "5",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "12",
+        "away": "6",
+        "raw_values": [
+          "12",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "18",
+        "away": "16",
+        "raw_values": [
+          "18",
+          "16"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "12",
+        "raw_values": [
+          "6",
+          "12"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.12",
+        "away": "0.57",
+        "raw_values": [
+          "0.12",
+          "0.57"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "42%",
+        "away": "58%",
+        "raw_values": [
+          "42%",
+          "58%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "5",
+        "away": "7",
+        "raw_values": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "0",
+        "away": "4",
+        "raw_values": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "88%\n(161/184)",
+        "away": "89%\n(233/262)",
+        "raw_values": [
+          "88%\n(161/184)",
+          "89%\n(233/262)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "9",
+        "away": "1",
+        "raw_values": [
+          "9",
+          "1"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "9",
+        "away": "8",
+        "raw_values": [
+          "9",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "1",
+        "away": "9",
+        "raw_values": [
+          "1",
+          "9"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.53",
+        "away": "0.21",
+        "raw_values": [
+          "0.53",
+          "0.21"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "50%",
+        "away": "50%",
+        "raw_values": [
+          "50%",
+          "50%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "11",
+        "away": "5",
+        "raw_values": [
+          "11",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "61%\n(201/327)",
+        "away": "83%\n(190/230)",
+        "raw_values": [
+          "61%\n(201/327)",
+          "83%\n(190/230)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "0",
+        "raw_values": [
+          "4",
+          "0"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "9",
+        "away": "8",
+        "raw_values": [
+          "9",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "3",
+        "raw_values": [
+          "5",
+          "3"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Montipo",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Montipo",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Magnani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Magnani",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Dawidowicz",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Dawidowicz",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Terracciano",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Terracciano",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Faraoni",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Faraoni",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Lazovic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Lazovic",
+          "source": "formation"
+        },
+        {
+          "number": 90,
+          "name": "Folorunsho",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "90 Folorunsho",
+          "source": "formation"
+        },
+        {
+          "number": 33,
+          "name": "Duda",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Duda",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Doig",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Doig",
+          "source": "formation"
+        },
+        {
+          "number": 99,
+          "name": "Bonazzoli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "99 Bonazzoli",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Djuric",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Djuric",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Montipo L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Montipo L. (G)",
+          "formation_raw": "1 Montipo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Magnani G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Magnani G.",
+          "formation_raw": "23 Magnani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Dawidowicz P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Dawidowicz P.",
+          "formation_raw": "27 Dawidowicz",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Terracciano F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Terracciano F.",
+          "formation_raw": "24 Terracciano",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Faraoni D.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "5 Faraoni D. (C)",
+          "formation_raw": "5 Faraoni",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Lazovic D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Lazovic D.",
+          "formation_raw": "8 Lazovic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 90,
+          "name": "Folorunsho M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "90 Folorunsho M.",
+          "formation_raw": "90 Folorunsho",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 33,
+          "name": "Duda O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Duda O.",
+          "formation_raw": "33 Duda",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Doig J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Doig J.",
+          "formation_raw": "3 Doig",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 99,
+          "name": "Bonazzoli F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "99 Bonazzoli F.",
+          "formation_raw": "99 Bonazzoli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Djuric M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Djuric M.",
+          "formation_raw": "11 Djuric",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 2,
+          "name": "Amione B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Amione B.",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Berardi A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "22 Berardi A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 37,
+          "name": "Charlys",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Charlys",
+          "source": "detailed"
+        },
+        {
+          "number": 42,
+          "name": "Coppola D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Coppola D.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Cruz J. M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Cruz J. M.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Hien I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Hien I.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Hongla M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Hongla M.",
+          "source": "detailed"
+        },
+        {
+          "number": 77,
+          "name": "Mboula J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Mboula J.",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Ngonge C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Ngonge C.",
+          "source": "detailed"
+        },
+        {
+          "number": 34,
+          "name": "Perilli S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "34 Perilli S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Saponara R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Saponara R.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Serdar S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Serdar S.",
+          "source": "detailed"
+        },
+        {
+          "number": 31,
+          "name": "Suslov T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Suslov T.",
+          "source": "detailed"
+        },
+        {
+          "number": 38,
+          "name": "Tchatchoua J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Tchatchoua J.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "30",
+          "incoming": "Hien I.",
+          "outgoing": "Dawidowicz P.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Hien I. 6.1 Dawidowicz P. 30'"
+        },
+        {
+          "minute": "46",
+          "incoming": "Hongla M.",
+          "outgoing": "Doig J.",
+          "incoming_rating": 6.6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Hongla M. 6.6 Doig J. 46'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Ngonge C.",
+          "outgoing": "Lazovic D.",
+          "incoming_rating": 7.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ngonge C. 7.4 Lazovic D. 65'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Tchatchoua J.",
+          "outgoing": "Faraoni D.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Tchatchoua J. 6.4 Faraoni D. 75'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Saponara R.",
+          "outgoing": "Bonazzoli F.",
+          "incoming_rating": 6.2,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Saponara R. 6.2 Bonazzoli F. 75'"
+        }
+      ],
+      "coach": "Baroni M."
+    },
+    "away": {
+      "formation": "3-4-2-1",
+      "formation_players": [
+        {
+          "number": 16,
+          "name": "Di Gregorio",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Di Gregorio",
+          "source": "formation"
+        },
+        {
+          "number": 33,
+          "name": "D'Ambrosio",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 D'Ambrosio",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Mari",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mari",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Caldirola",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Caldirola",
+          "source": "formation"
+        },
+        {
+          "number": 84,
+          "name": "Ciurria",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "84 Ciurria",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Pessina",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "32 Pessina",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Gagliardini",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Gagliardini",
+          "source": "formation"
+        },
+        {
+          "number": 77,
+          "name": "Kyriakopoulos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Kyriakopoulos",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Colpani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Colpani",
+          "source": "formation"
+        },
+        {
+          "number": 80,
+          "name": "Vignato",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "80 Vignato",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Colombo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Colombo",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 16,
+          "name": "Di Gregorio M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Di Gregorio M. (G)",
+          "formation_raw": "16 Di Gregorio",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 33,
+          "name": "D'Ambrosio D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 D'Ambrosio D.",
+          "formation_raw": "33 D'Ambrosio",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Mari P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mari P.",
+          "formation_raw": "22 Mari",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Caldirola L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Caldirola L.",
+          "formation_raw": "5 Caldirola",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 84,
+          "name": "Ciurria P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "84 Ciurria P.",
+          "formation_raw": "84 Ciurria",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Pessina M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "32 Pessina M. (C)",
+          "formation_raw": "32 Pessina",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Gagliardini R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Gagliardini R.",
+          "formation_raw": "6 Gagliardini",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 77,
+          "name": "Kyriakopoulos G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Kyriakopoulos G.",
+          "formation_raw": "77 Kyriakopoulos",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Colpani A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Colpani A.",
+          "formation_raw": "28 Colpani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 80,
+          "name": "Vignato S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "80 Vignato S.",
+          "formation_raw": "80 Vignato",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Colombo L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Colombo L. 2",
+          "formation_raw": "9 Colombo",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 2
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 8,
+          "name": "Akpa Akpro J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Akpa Akpro J.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Bettella D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Bettella D.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Birindelli S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Birindelli S.",
+          "source": "detailed"
+        },
+        {
+          "number": 38,
+          "name": "Bondo W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Bondo W.",
+          "source": "detailed"
+        },
+        {
+          "number": 44,
+          "name": "Carboni A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Carboni A.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Carboni F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Carboni F.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Carboni V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Carboni V.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Donati G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Donati G.",
+          "source": "detailed"
+        },
+        {
+          "number": 66,
+          "name": "Gori S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "66 Gori S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Lamanna E.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Lamanna E. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Machin J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Machin J.",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Maric M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Maric M.",
+          "source": "detailed"
+        },
+        {
+          "number": 47,
+          "name": "Mota D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Mota D.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Pereira P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Pereira P.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Sorrentino A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Sorrentino A. (G)",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "60",
+          "incoming": "Birindelli S.",
+          "outgoing": "Ciurria P.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Birindelli S. 6.6 Ciurria P. 60'"
+        },
+        {
+          "minute": "66",
+          "incoming": "Carboni V.",
+          "outgoing": "Vignato S.",
+          "incoming_rating": 7.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Carboni V. 7.1 Vignato S. 66'"
+        },
+        {
+          "minute": "66",
+          "incoming": "Bondo W.",
+          "outgoing": "Colpani A.",
+          "incoming_rating": 6.7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bondo W. 6.7 Colpani A. 66'"
+        },
+        {
+          "minute": "85",
+          "incoming": "Mota D.",
+          "outgoing": "Colombo L.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Mota D. Colombo L. 85'"
+        },
+        {
+          "minute": "86",
+          "incoming": "Akpa Akpro J.",
+          "outgoing": "Gagliardini R.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Akpa Akpro J. Gagliardini R. 86'"
+        }
+      ],
+      "coach": "Palladino R."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Montipo",
+      "23 Magnani",
+      "27 Dawidowicz",
+      "24 Terracciano",
+      "5 Faraoni",
+      "8 Lazovic",
+      "90 Folorunsho",
+      "33 Duda",
+      "3 Doig",
+      "99 Bonazzoli",
+      "11 Djuric",
+      "16 Di Gregorio",
+      "33 D'Ambrosio",
+      "22 Mari",
+      "5 Caldirola",
+      "84 Ciurria",
+      "32 Pessina",
+      "6 Gagliardini",
+      "77 Kyriakopoulos",
+      "28 Colpani",
+      "80 Vignato",
+      "9 Colombo",
+      "Hien I. 6.1 Dawidowicz P. 30'",
+      "Hongla M. 6.6 Doig J. 46'",
+      "Ngonge C. 7.4 Lazovic D. 65'",
+      "Tchatchoua J. 6.4 Faraoni D. 75'",
+      "Saponara R. 6.2 Bonazzoli F. 75'",
+      "Birindelli S. 6.6 Ciurria P. 60'",
+      "Carboni V. 7.1 Vignato S. 66'",
+      "Bondo W. 6.7 Colpani A. 66'",
+      "Mota D. Colombo L. 85'",
+      "Akpa Akpro J. Gagliardini R. 86'",
+      "1 Montipo L. (G)",
+      "23 Magnani G.",
+      "27 Dawidowicz P.",
+      "24 Terracciano F.",
+      "5 Faraoni D. (C)",
+      "8 Lazovic D.",
+      "90 Folorunsho M.",
+      "33 Duda O.",
+      "3 Doig J.",
+      "99 Bonazzoli F.",
+      "11 Djuric M.",
+      "16 Di Gregorio M. (G)",
+      "33 D'Ambrosio D.",
+      "22 Mari P.",
+      "5 Caldirola L.",
+      "84 Ciurria P.",
+      "32 Pessina M. (C)",
+      "6 Gagliardini R.",
+      "77 Kyriakopoulos G.",
+      "28 Colpani A.",
+      "80 Vignato S.",
+      "9 Colombo L. 2",
+      "2 Amione B.",
+      "22 Berardi A. (G)",
+      "37 Charlys",
+      "42 Coppola D.",
+      "13 Cruz J. M.",
+      "6 Hien I.",
+      "18 Hongla M.",
+      "77 Mboula J.",
+      "26 Ngonge C.",
+      "34 Perilli S. (G)",
+      "20 Saponara R.",
+      "25 Serdar S.",
+      "31 Suslov T.",
+      "38 Tchatchoua J.",
+      "8 Akpa Akpro J.",
+      "18 Bettella D.",
+      "19 Birindelli S.",
+      "38 Bondo W.",
+      "44 Carboni A.",
+      "11 Carboni F.",
+      "21 Carboni V.",
+      "2 Donati G.",
+      "66 Gori S. (G)",
+      "1 Lamanna E. (G)",
+      "7 Machin J.",
+      "24 Maric M.",
+      "47 Mota D.",
+      "13 Pereira P.",
+      "23 Sorrentino A. (G)",
+      "Braaf J. Injury",
+      "Cabal J. Injury",
+      "Hrustic A. Injury",
+      "Caprari G. Knee Injury",
+      "Cittadini G. Injury",
+      "Izzo A. Injury",
+      "Papu Gomez Suspended",
+      "Baroni M.",
+      "Palladino R."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 14,
+    "away_substitute_count": 15,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 51,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 14,
+    "bench_boundary_score": 383.975
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 126,
+    "compact_lineup_text_count": 92,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 51,
+    "substitution_count": 10,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 14,
+    "structured_away_substitute_count": 15,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 14
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Giuseppe Collu is looking at his watch and immediately ends this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Good movement by Jackson Tchatchoua (Verona), but he can't find any of his teammates as the cross is poor. The ball goes out of play and Monza will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 4 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Cyril Ngonge (Verona) runs onto a pass and from the edge of the box tries his luck with a dipping shot. Unfortunately for him, the effort fizzes just over the bar."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "status": "confirmed",
+      "text": "86' 1 - 3 Goal! Cyril Ngonge plays it to Michael Folorunsho (Verona), whose deflected shot from inside the box goes past the helpless Michele Di Gregorio. 1:3."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Here is a change. Roberto Gagliardini is going off and Raffaele Palladino gives the last tactical orders to Jean-Daniel Akpa Akpro (Monza)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' A substitution has been made. Lorenzo Colombo goes off and Dany Mota (Monza) comes on."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "status": "confirmed",
+      "text": "84' 0 - 3 Georgios Kyriakopoulos takes over corner duties and expertly finds Luca Caldirola (Monza), who jumps highest and coolly plants a bullet header into the back of the net. The score is now 0:3."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Georgios Kyriakopoulos (Monza) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Michael Folorunsho (Verona) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Monza keep possession of the ball by producing short passes and one-two passes from player to player."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Marco Baroni has decided to make a change. Riccardo Saponara (Verona) replaces Federico Bonazzoli."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Jackson Tchatchoua (Verona) joins the action as a substitute, replacing Davide Faraoni."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "73' 0 - 2 Goal! Lorenzo Colombo (Monza) weaves his way past opponents, and he unleashes a magnificent effort from the edge of the box inside the left post. Lorenzo Montipo had no chance of reaching it. The score is 0:2."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Ondrej Duda (Verona) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Lorenzo Colombo (Monza) gets on the end of a pass on the edge of the box but his shot is blocked."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Giuseppe Collu shows a yellow card to Davide Faraoni (Verona) for his blatant foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Filippo Terracciano (Verona) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' The substitution is prepared. Warren Bondo (Monza) joins the action as a substitute, replacing Andrea Colpani."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Raffaele Palladino has decided to introduce fresh legs, with Valentin Carboni (Monza) replacing Samuele Vignato."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' It's time for a substitution. Cyril Ngonge (Verona) comes on in place of Darko Lazovic."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' The cross into the penalty area from Michael Folorunsho (Verona) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball is off of the pitch and it's a goal kick for Monza."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' Filippo Terracciano (Verona) receives a pass, beats an opponent and tries a long-range shot. It's a weak effort towards the bottom left corner and Michele Di Gregorio easily makes the save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' The defence had a hard time blocking out the strike from Federico Bonazzoli (Verona). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Raffaele Palladino decides to make a substitution. Patrick Ciurria will be replaced by Samuele Birindelli (Monza)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' Milan Djuric (Verona) leaps like a salmon to meet a lofted ball into the box, but his header from near the penalty spot fizzes narrowly wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Ondrej Duda (Verona) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Ondrej Duda (Verona) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. Verona have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Davide Faraoni (Verona) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Verona win a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Ondrej Duda (Verona) commits a rough foul. Giuseppe Collu stops the game and makes a call."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' The corner from Andrea Colpani (Monza) is hurriedly cleared."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Lorenzo Colombo (Monza) looks to break free, but an opposing player clears the ball away. The referee blows his whistle, Monza are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Unbelievable miss! Federico Bonazzoli (Verona) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar!"
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Half-time substitution. Josh Doig will not participate anymore and Martin Hongla (Verona) is coming on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Everything is set for the start of the second half."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' Giuseppe Collu has ended the first half by blowing the whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Monza are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' There will be a minimum of 3 min. of added time."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Yellow card. Lorenzo Colombo (Monza) goes into the book for a bad tackle on his opponent."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' The referee blows his whistle as Pablo Mari (Monza) was too aggressive in his challenge."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "41' 0 - 1 Goal! Andrea Colpani plays it to Lorenzo Colombo (Monza), whose deflected shot from inside the box goes past the helpless Lorenzo Montipo. 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Andrea Colpani (Monza) skips around Lorenzo Montipo and has the goal at his mercy but unbelievably misses the empty net. Hold your head in shame son!"
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Danilo D'Ambrosio (Monza) is penalised for a foul. Giuseppe Collu had a clear view and blows his whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Giangiacomo Magnani (Verona) seems to be alright and is okay to carry on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Giangiacomo Magnani (Verona) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' PENALTY APPEAL by Monza, but the referee thinks it was a fair challenge and play continues!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' OFF THE POST! Good play from Ondrej Duda (Verona) as skips past two defending players and from the edge of the box unleashes a decent strike that smashes against the crossbar!"
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Marco Baroni is forced to make a change. Pawel Dawidowicz (Verona) is not able to carry on due to injury. He is replaced by Isak Hien."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' The injury to Pawel Dawidowicz (Verona) looks like it might have ended his involvement in this match."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Danilo D'Ambrosio (Monza) commits a foul and is shown a yellow card without any hesitation from the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' The Monza players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Luca Caldirola (Monza) gives away a foul for a fierce tackle on an opponent."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Andrea Colpani (Monza) makes a slide tackle, but referee Giuseppe Collu di Cagliari blows for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Monza take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' The corner is swung in but Monza can’t take advantage as a defender sweeps the ball away. The ball is out of play and the linesman points at the corner flag. Corner to Monza."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Lorenzo Colombo (Monza) slaloms his way past challenges, but an opposing player does well to get the ball away. The linesman points to the corner flag, Monza are going to take it."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Ondrej Duda (Verona) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Andrea Colpani (Monza) gets on the ball and beats an opponent, but his run is stopped by the referee Giuseppe Collu di Cagliari who sees an offensive foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Lorenzo Colombo (Monza) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Lorenzo Montipo was alert and the score remained the same."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Michael Folorunsho (Verona) had an opportunity from long range. His low shot was directed towards the middle of the goal, but Michele Di Gregorio was alert and made a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Lorenzo Colombo (Monza) dribbles into the box, but Lorenzo Montipo is quick enough to come off his line and stop him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Pablo Mari (Monza) hits the left post with a rebound from just outside the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Monza have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Lorenzo Colombo (Monza) takes a brilliant touch after he latches on to a pass on the edge of the box and strikes the ball to the bottom left corner. The goalkeeper dives low and saves his attempt. Monza earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Monza failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Lorenzo Colombo (Monza) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag and Monza will take a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' A crossfield pass from Luca Caldirola (Monza) fails to find any of his teammates. The ball goes out of play and Verona will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Federico Bonazzoli (Verona) with a great individual effort and attempt from long range. The shot went towards the bottom right corner, but the goalkeeper was prepared and managed to keep the ball out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half has started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Monza will kick the game off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Giuseppe Collu di Cagliari will supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups Before the start of the game, you can see the starting lineups for today's clash."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "status": "confirmed",
+        "text": "86' 1 - 3 Goal! Cyril Ngonge plays it to Michael Folorunsho (Verona), whose deflected shot from inside the box goes past the helpless Michele Di Gregorio. 1:3.",
+        "team_side": "home",
+        "team": "Verona",
+        "player_team_side": "home",
+        "player_team": "Verona",
+        "player": "Folorunsho M.",
+        "shirt_number": 90,
+        "player_match_score": 140,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": true,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 3
+        },
+        "assist_player": "Ngonge C.",
+        "assist_shirt_number": 26,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 3
+        },
+        "status": "confirmed",
+        "text": "84' 0 - 3 Georgios Kyriakopoulos takes over corner duties and expertly finds Luca Caldirola (Monza), who jumps highest and coolly plants a bullet header into the back of the net. The score is now 0:3.",
+        "team_side": "away",
+        "team": "Monza",
+        "player_team_side": "away",
+        "player_team": "Monza",
+        "player": "Caldirola L.",
+        "shirt_number": 5,
+        "player_match_score": 143,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 3
+        },
+        "assist_player": "Kyriakopoulos G.",
+        "assist_shirt_number": 77,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "73' 0 - 2 Goal! Lorenzo Colombo (Monza) weaves his way past opponents, and he unleashes a magnificent effort from the edge of the box inside the left post. Lorenzo Montipo had no chance of reaching it. The score is 0:2.",
+        "team_side": "away",
+        "team": "Monza",
+        "player_team_side": "away",
+        "player_team": "Monza",
+        "player": "Colombo L.",
+        "shirt_number": 9,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 2
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 41,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "41' 0 - 1 Goal! Andrea Colpani plays it to Lorenzo Colombo (Monza), whose deflected shot from inside the box goes past the helpless Lorenzo Montipo. 0:1.",
+        "team_side": "away",
+        "team": "Monza",
+        "player_team_side": "away",
+        "player_team": "Monza",
+        "player": "Colombo L.",
+        "shirt_number": 9,
+        "player_match_score": 140,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": true,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": "Colpani A.",
+        "assist_shirt_number": 28,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 70,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "70' Giuseppe Collu shows a yellow card to Davide Faraoni (Verona) for his blatant foul.",
+        "team_side": "home",
+        "team": "Verona",
+        "player": "Faraoni D.",
+        "shirt_number": 5,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "45' Yellow card. Lorenzo Colombo (Monza) goes into the book for a bad tackle on his opponent.",
+        "team_side": "away",
+        "team": "Monza",
+        "player": "Colombo L.",
+        "shirt_number": 9,
+        "player_match_score": 134,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 26,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "26' Danilo D'Ambrosio (Monza) commits a foul and is shown a yellow card without any hesitation from the referee."
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Here is a change. Roberto Gagliardini is going off and Raffaele Palladino gives the last tactical orders to Jean-Daniel Akpa Akpro (Monza)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' A substitution has been made. Lorenzo Colombo goes off and Dany Mota (Monza) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' Marco Baroni has decided to make a change. Riccardo Saponara (Verona) replaces Federico Bonazzoli."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' Jackson Tchatchoua (Verona) joins the action as a substitute, replacing Davide Faraoni."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' The substitution is prepared. Warren Bondo (Monza) joins the action as a substitute, replacing Andrea Colpani."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' Raffaele Palladino has decided to introduce fresh legs, with Valentin Carboni (Monza) replacing Samuele Vignato."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' It's time for a substitution. Cyril Ngonge (Verona) comes on in place of Darko Lazovic."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 60,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "60' Raffaele Palladino decides to make a substitution. Patrick Ciurria will be replaced by Samuele Birindelli (Monza)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Half-time substitution. Josh Doig will not participate anymore and Martin Hongla (Verona) is coming on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 30,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "30' Marco Baroni is forced to make a change. Pawel Dawidowicz (Verona) is not able to carry on due to injury. He is replaced by Isak Hien."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 47,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "47' Lorenzo Colombo (Monza) looks to break free, but an opposing player clears the ball away. The referee blows his whistle, Monza are awarded a corner kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 43,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "43' The referee blows his whistle as Pablo Mari (Monza) was too aggressive in his challenge."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 38,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "38' Danilo D'Ambrosio (Monza) is penalised for a foul. Giuseppe Collu had a clear view and blows his whistle."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 16,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "16' Ondrej Duda (Verona) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 4,
+    "detected_goal_count": 4,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 4,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 134,
+    "commentary_row_count": 74,
+    "removed_commentary_noise_count": 60,
+    "goal_event_count": 4,
+    "yellow_card_event_count": 3,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 4,
+      "detected_goal_count": 4
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 4,
+    "structured_goal_count": 4,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 3,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 1,
+    "yellow_card_event_count": 3,
+    "structured_yellow_card_count": 2,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": false,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": true,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 2,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": true,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+      {
+        "event_type": "yellow_card",
+        "reason": "card_player_not_found",
+        "minute": 26,
+        "minute_raw": "26",
+        "text": "26' Danilo D'Ambrosio (Monza) commits a foul and is shown a yellow card without any hesitation from the referee."
+      }
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T08:48:55Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 74,
+      "error": null
+    }
+  }
+}

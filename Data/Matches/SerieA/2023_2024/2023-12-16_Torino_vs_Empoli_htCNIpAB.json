@@ -1,0 +1,2783 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/empoli-0ESCnI1H/torino-MZFZnvX4/summary/stats/overall/?mid=htCNIpAB",
+  "match_id": "htCNIpAB",
+  "page_title": "TOR 1-0 EMP | Torino v Empoli 16/12/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "16.12.2023 23:45",
+  "home_team": "Torino",
+  "away_team": "Empoli",
+  "score": {
+    "home": "1",
+    "away": "0",
+    "display": "1 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.55",
+      "away": "0.32",
+      "raw_values": [
+        "1.55",
+        "0.32"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "53%",
+      "away": "47%",
+      "raw_values": [
+        "53%",
+        "47%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "10",
+      "away": "7",
+      "raw_values": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "4",
+      "raw_values": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "80%\n(356/445)",
+      "away": "80%\n(329/411)",
+      "raw_values": [
+        "80%\n(356/445)",
+        "80%\n(329/411)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "4",
+      "away": "2",
+      "raw_values": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "2",
+      "away": "1",
+      "raw_values": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "2",
+      "away": "2",
+      "raw_values": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "12",
+      "away": "17",
+      "raw_values": [
+        "12",
+        "17"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "25",
+      "away": "14",
+      "raw_values": [
+        "25",
+        "14"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "15",
+      "away": "10",
+      "raw_values": [
+        "15",
+        "10"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "2",
+      "raw_values": [
+        "2",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.55",
+        "away": "0.32",
+        "raw_values": [
+          "1.55",
+          "0.32"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "53%",
+        "away": "47%",
+        "raw_values": [
+          "53%",
+          "47%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "10",
+        "away": "7",
+        "raw_values": [
+          "10",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "4",
+        "raw_values": [
+          "6",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "80%\n(356/445)",
+        "away": "80%\n(329/411)",
+        "raw_values": [
+          "80%\n(356/445)",
+          "80%\n(329/411)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "12",
+        "away": "17",
+        "raw_values": [
+          "12",
+          "17"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "25",
+        "away": "14",
+        "raw_values": [
+          "25",
+          "14"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "15",
+        "away": "10",
+        "raw_values": [
+          "15",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.51",
+        "away": "0.23",
+        "raw_values": [
+          "1.51",
+          "0.23"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "61%",
+        "away": "39%",
+        "raw_values": [
+          "61%",
+          "39%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "8",
+        "away": "3",
+        "raw_values": [
+          "8",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "83%\n(217/261)",
+        "away": "78%\n(134/172)",
+        "raw_values": [
+          "83%\n(217/261)",
+          "78%\n(134/172)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "1",
+        "raw_values": [
+          "4",
+          "1"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "9",
+        "raw_values": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "9",
+        "away": "7",
+        "raw_values": [
+          "9",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "5",
+        "raw_values": [
+          "7",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.04",
+        "away": "0.09",
+        "raw_values": [
+          "0.04",
+          "0.09"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "45%",
+        "away": "55%",
+        "raw_values": [
+          "45%",
+          "55%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "76%\n(139/184)",
+        "away": "82%\n(195/239)",
+        "raw_values": [
+          "76%\n(139/184)",
+          "82%\n(195/239)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "8",
+        "raw_values": [
+          "5",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "16",
+        "away": "7",
+        "raw_values": [
+          "16",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "5",
+        "raw_values": [
+          "8",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 32,
+          "name": "Milinkovic-Savic",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "32 Milinkovic-Savic",
+          "source": "formation"
+        },
+        {
+          "number": 61,
+          "name": "Tameze",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "61 Tameze",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Buongiorno",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Buongiorno",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Rodriguez",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "13 Rodriguez",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Bellanova",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Bellanova",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Ilic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ilic",
+          "source": "formation"
+        },
+        {
+          "number": 77,
+          "name": "Linetty",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Linetty",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Vlasic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Vlasic",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Vojvoda",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Vojvoda",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Sanabria",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Sanabria",
+          "source": "formation"
+        },
+        {
+          "number": 91,
+          "name": "Zapata",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "91 Zapata",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 32,
+          "name": "Milinkovic-Savic V.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "32 Milinkovic-Savic V. (G)",
+          "formation_raw": "32 Milinkovic-Savic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 61,
+          "name": "Tameze A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "61 Tameze A.",
+          "formation_raw": "61 Tameze",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Buongiorno A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Buongiorno A.",
+          "formation_raw": "4 Buongiorno",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Rodriguez R.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "13 Rodriguez R. (C)",
+          "formation_raw": "13 Rodriguez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Bellanova R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Bellanova R.",
+          "formation_raw": "19 Bellanova",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Ilic I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Ilic I.",
+          "formation_raw": "8 Ilic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 77,
+          "name": "Linetty K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Linetty K.",
+          "formation_raw": "77 Linetty",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Vlasic N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Vlasic N.",
+          "formation_raw": "16 Vlasic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Vojvoda M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Vojvoda M.",
+          "formation_raw": "27 Vojvoda",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Sanabria A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Sanabria A.",
+          "formation_raw": "9 Sanabria",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 91,
+          "name": "Zapata D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "91 Zapata D.",
+          "formation_raw": "91 Zapata",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 26,
+          "name": "Djidji K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Djidji K.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Gemello L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gemello L. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 66,
+          "name": "Gineitis G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "66 Gineitis G.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Karamoh Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Karamoh Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Lazaro V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Lazaro V.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Pellegri P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Pellegri P.",
+          "source": "detailed"
+        },
+        {
+          "number": 71,
+          "name": "Popa M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "71 Popa M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Radonjic N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Radonjic N.",
+          "source": "detailed"
+        },
+        {
+          "number": 28,
+          "name": "Ricci S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Ricci S.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Sazonov S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Sazonov S.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Seck D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Seck D.",
+          "source": "detailed"
+        },
+        {
+          "number": 93,
+          "name": "Soppy B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "93 Soppy B.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "65",
+          "incoming": "Lazaro V.",
+          "outgoing": "Vojvoda M.",
+          "incoming_rating": 6.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Lazaro V. 6.7 Vojvoda M. 65'"
+        },
+        {
+          "minute": "66",
+          "incoming": "Djidji K.",
+          "outgoing": "Tameze A.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Djidji K. 6.4 Tameze A. 66'"
+        },
+        {
+          "minute": "85",
+          "incoming": "Soppy B.",
+          "outgoing": "Bellanova R.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Soppy B. Bellanova R. 85'"
+        },
+        {
+          "minute": "90+6",
+          "incoming": "Pellegri P.",
+          "outgoing": "Zapata D.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Pellegri P. Zapata D. 90+6'"
+        }
+      ],
+      "coach": "Juric I."
+    },
+    "away": {
+      "formation": "4-3-1-2",
+      "formation_players": [
+        {
+          "number": 99,
+          "name": "Berisha",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Berisha",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Ebuehi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Ebuehi",
+          "source": "formation"
+        },
+        {
+          "number": 34,
+          "name": "Ismajli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Ismajli",
+          "source": "formation"
+        },
+        {
+          "number": 33,
+          "name": "Luperto",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "33 Luperto",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Cacace",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Cacace",
+          "source": "formation"
+        },
+        {
+          "number": 18,
+          "name": "Marin",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Marin",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Grassi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Grassi",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Maleh",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Maleh",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Fazzini",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Fazzini",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Cambiaghi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Cambiaghi",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Shpendi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Shpendi",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 99,
+          "name": "Berisha E.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Berisha E. (G)",
+          "formation_raw": "99 Berisha",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Ebuehi T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Ebuehi T.",
+          "formation_raw": "24 Ebuehi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 34,
+          "name": "Ismajli A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Ismajli A.",
+          "formation_raw": "34 Ismajli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 33,
+          "name": "Luperto S.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "33 Luperto S. (C)",
+          "formation_raw": "33 Luperto",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Cacace L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Cacace L.",
+          "formation_raw": "13 Cacace",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 18,
+          "name": "Marin R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Marin R.",
+          "formation_raw": "18 Marin",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Grassi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Grassi A.",
+          "formation_raw": "5 Grassi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Maleh Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Maleh Y.",
+          "formation_raw": "29 Maleh",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Fazzini J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Fazzini J.",
+          "formation_raw": "21 Fazzini",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Cambiaghi N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Cambiaghi N.",
+          "formation_raw": "28 Cambiaghi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Shpendi S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Shpendi S.",
+          "formation_raw": "7 Shpendi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 6,
+          "name": "Zima D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Zima D.",
+          "source": "detailed"
+        },
+        {
+          "number": 35,
+          "name": "Baldanzi T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "35 Baldanzi T.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Bastoni S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Bastoni S.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Cancellieri M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Cancellieri M.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Caprile E.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "25 Caprile E. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Destro M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Destro M.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Gyasi E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gyasi E.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Maldini D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Maldini D.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Perisan S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Perisan S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Ranocchia F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Ranocchia F.",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Walukiewicz S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Walukiewicz S.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "61",
+          "incoming": "Destro M.",
+          "outgoing": "Marin R.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Destro M. 6.4 Marin R. 61'"
+        },
+        {
+          "minute": "61",
+          "incoming": "Cancellieri M.",
+          "outgoing": "Shpendi S.",
+          "incoming_rating": 7.2,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Cancellieri M. 7.2 Shpendi S. 61'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Ranocchia F.",
+          "outgoing": "Grassi A.",
+          "incoming_rating": 6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ranocchia F. 6.0 Grassi A. 76'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Baldanzi T.",
+          "outgoing": "Maleh Y.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Baldanzi T. 6.3 Maleh Y. 76'"
+        },
+        {
+          "minute": "85",
+          "incoming": "Gyasi E.",
+          "outgoing": "Cambiaghi N.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Gyasi E. Cambiaghi N. 85'"
+        }
+      ],
+      "coach": "Andreazzoli A."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "32 Milinkovic-Savic",
+      "61 Tameze",
+      "4 Buongiorno",
+      "13 Rodriguez",
+      "19 Bellanova",
+      "8 Ilic",
+      "77 Linetty",
+      "16 Vlasic",
+      "27 Vojvoda",
+      "9 Sanabria",
+      "91 Zapata",
+      "99 Berisha",
+      "24 Ebuehi",
+      "34 Ismajli",
+      "33 Luperto",
+      "13 Cacace",
+      "18 Marin",
+      "5 Grassi",
+      "29 Maleh",
+      "21 Fazzini",
+      "28 Cambiaghi",
+      "7 Shpendi",
+      "Lazaro V. 6.7 Vojvoda M. 65'",
+      "Djidji K. 6.4 Tameze A. 66'",
+      "Soppy B. Bellanova R. 85'",
+      "Pellegri P. Zapata D. 90+6'",
+      "Destro M. 6.4 Marin R. 61'",
+      "Cancellieri M. 7.2 Shpendi S. 61'",
+      "Ranocchia F. 6.0 Grassi A. 76'",
+      "Baldanzi T. 6.3 Maleh Y. 76'",
+      "Gyasi E. Cambiaghi N. 85'",
+      "32 Milinkovic-Savic V. (G)",
+      "61 Tameze A.",
+      "4 Buongiorno A.",
+      "13 Rodriguez R. (C)",
+      "19 Bellanova R.",
+      "8 Ilic I.",
+      "77 Linetty K.",
+      "16 Vlasic N.",
+      "27 Vojvoda M.",
+      "9 Sanabria A.",
+      "91 Zapata D.",
+      "99 Berisha E. (G)",
+      "24 Ebuehi T.",
+      "34 Ismajli A.",
+      "33 Luperto S. (C)",
+      "13 Cacace L.",
+      "18 Marin R.",
+      "5 Grassi A.",
+      "29 Maleh Y.",
+      "21 Fazzini J.",
+      "28 Cambiaghi N.",
+      "7 Shpendi S.",
+      "26 Djidji K.",
+      "1 Gemello L. (G)",
+      "66 Gineitis G.",
+      "7 Karamoh Y.",
+      "20 Lazaro V.",
+      "11 Pellegri P.",
+      "71 Popa M. (G)",
+      "10 Radonjic N.",
+      "28 Ricci S.",
+      "15 Sazonov S.",
+      "23 Seck D.",
+      "93 Soppy B.",
+      "6 Zima D.",
+      "35 Baldanzi T.",
+      "30 Bastoni S.",
+      "20 Cancellieri M.",
+      "25 Caprile E. (G)",
+      "23 Destro M.",
+      "11 Gyasi E.",
+      "27 Maldini D.",
+      "1 Perisan S. (G)",
+      "22 Ranocchia F.",
+      "4 Walukiewicz S.",
+      "N'Guessan A. Injury",
+      "Schuurs P. Knee Injury",
+      "Bereszynski B. Muscle Injury",
+      "Caputo F. Muscle Injury",
+      "Guarino G. Injury",
+      "Kovalenko V. Injury",
+      "Pezzella G. Broken ankle",
+      "Juric I.",
+      "Andreazzoli A."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 12,
+    "away_substitute_count": 11,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 45,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 4,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 12,
+    "bench_boundary_score": 323.975
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 118,
+    "compact_lineup_text_count": 85,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 45,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 12,
+    "structured_away_substitute_count": 11,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 12
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' The referee blows his whistle for the final time to end this match."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Substitution. Pietro Pellegri (Torino) on for Duvan Zapata."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Liberato Cacace (Empoli) tricks his way to the edge of the box where he shoots at goal. The keeper scrambles to cover the effort, but it goes just wide of the left post. The ball goes out of play and Torino will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 6 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Livio Marinelli interrupts the game. One of the players from Torino won the ball, but his effort is adjudged unfair."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Sebastiano Luperto (Empoli) has tested the patience of referee Livio Marinelli and goes into the book for a previous late challenge."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' The referee signals a substitution. Brandon Soppy (Torino) is brought on as a substitute for Raoul Bellanova."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' The referee shows a yellow card to Nikola Vlasic (Torino). No wonder. A clear yellow for bad language."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' A substitution has been made. Nicolo Cambiaghi goes off and Emmanuel Gyasi (Empoli) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Torino are ruled offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Surely that's handball by one of the Empoli players in the box, but the referee just waves play on!"
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Liberato Cacace (Empoli) goes into the book for a horrible tackle. A yellow card is necessary in this case."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Livio Marinelli shows a yellow card to Alessandro Buongiorno (Torino) for his blatant foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Some great controlled play and passing in the middle of the pitch from Empoli."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' It will be a corner kick for Torino."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Aurelio Andreazzoli decides to make a substitution. Youssef Maleh will be replaced by Tommaso Baldanzi (Empoli)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Substitution. Alberto Grassi leaves the pitch and is replaced by Filippo Ranocchia (Empoli)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' That looked a certain handball by Sebastiano Luperto (Empoli) inside the box, but the ref wasn't having it and just played on. NO penalty!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Jacopo Fazzini (Empoli) fires the ball in from a mid-range free kick, but it blazes over the bar. The ball goes out of play and Torino will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Empoli earn a free kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' This yellow card was deserved. The tackle by Raoul Bellanova (Torino) was quite harsh and Livio Marinelli didn't hesitate to show him a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' A corner kick by Torino is thwarted by the well prepared Etrit Berisha (Empoli)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' The resulting set piece from Torino is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' The referee signals that it is time for a substitution and Koffi Djidji (Torino) comes onto the pitch so that Adrien Tameze can be given a rest."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Mergim Vojvoda comes off the pitch to be replaced by Valentino Lazaro (Torino)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Lovely run from Matteo Cancellieri (Empoli). He finds himself one-on-one with the goalkeeper, lines up a shot, but the keeper boldly launches himself to intercept the ball."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Here is a change. Stiven Shpendi is going off and Aurelio Andreazzoli gives the last tactical orders to Matteo Cancellieri (Empoli)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' The manager has decided to make a substitution and Razvan Marin (Empoli) walks off the pitch to be replaced by Mattia Destro."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Jacopo Fazzini (Empoli) is penalised for holding. Livio Marinelli signals a set piece."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' A good clearance by a defender means the corner comes to nothing for Empoli."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Empoli have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' A cross from the by-line finds Raoul Bellanova (Torino) unmarked on the penalty spot, but he is unable to find the target and sends his header well wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Nicolo Cambiaghi (Empoli) was close to scoring after he unleashed a powerful shot which went a whisker wide of the right post. The ball is off of the pitch and it's a goal kick for Torino."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Empoli control the tempo of the game by exchanging some accurate short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Youssef Maleh (Empoli) sends a teasing cross into the area, but Vanja Milinkovic-Savic intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The second half has just started."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' Livio Marinelli blows his whistle to signal the end of the first-half action."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' Karol Linetty (Torino) is booked after bringing down an opponent. Livio Marinelli had an easy-decision to make."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 4 min. of added time."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The goal by Empoli is DISALLOWED on the advice of the video assistant referee due to an offside."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' That looked like an offside in the build-up play and the referee Livio Marinelli is going to take a look using VAR."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' A goal, which was scored by Liberato Cacace (Empoli), was disallowed due to offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Empoli quickly take a corner kick with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Raoul Bellanova (Torino) outjumps his marker and heads the resulting corner way wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' The ball goes out of play. Torino are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' A fine lofted pass into the box, sent by Duvan Zapata (Torino), is intercepted by the opposition's defence. The linesman makes the right call and Torino will have a corner."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Here comes the VAR verdict. NO GOAL for Empoli due to an offside in the build-up play."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' The Empoli players halt their celebrations as referee Livio Marinelli makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Vanja Milinkovic-Savic (Torino) is able to continue to play."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Vanja Milinkovic-Savic (Torino) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Goal! Tyronne Ebuehi (Empoli) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the middle of the net. He makes it 1:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Empoli take a short corner instead of sending the ball into the penalty area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Ivan Ilic (Torino) shoots inside the box, but is denied by a timely block."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Karol Linetty (Torino) is obviously not following the Golden Rule: \"Treat others as you want to be treated.“ He makes a bad challenge and leaves Livio Marinelli with no other option than to blow for a foul."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "25' 1 - 0 It's a goal! Duvan Zapata (Torino) makes it 1:0. He jumped highest to connect with a perfect cross from Raoul Bellanova and planted his close-range header into the bottom left corner. Etrit Berisha was helpless."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Ardian Ismajli (Empoli) has picked up a minor injury, but it looks like he will be able to continue."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Ardian Ismajli (Empoli) picks up an injury."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' A player from Torino commits a rough challenge. Livio Marinelli blows for a foul and keeps the game under control."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' The linesman raises his flag as one of the players from Torino was in an offside position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Torino seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Torino have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Raoul Bellanova (Torino) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The ball goes out of play and Empoli will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Antonio Sanabria (Torino) has a goal ruled out for offside!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Tyronne Ebuehi (Empoli) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Antonio Sanabria (Torino) came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at Etrit Berisha."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Torino are bossing possession at the moment by exchanging some precise passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' The referee signals a corner kick to Torino."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Alberto Grassi (Empoli) is having a really tough time right now. We are about to find out how serious his injury is."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half has started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Torino will kick the game off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Livio Marinelli is introduced as the referee for today's match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups In the details of this match, you can glance at the lineups while the game is about to begin."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 25,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "25' 1 - 0 It's a goal! Duvan Zapata (Torino) makes it 1:0. He jumped highest to connect with a perfect cross from Raoul Bellanova and planted his close-range header into the bottom left corner. Etrit Berisha was helpless.",
+        "team_side": "home",
+        "team": "Torino",
+        "player_team_side": "home",
+        "player_team": "Torino",
+        "player": "Zapata D.",
+        "shirt_number": 91,
+        "player_match_score": 138,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": "Bellanova R.",
+        "assist_shirt_number": 19,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Sebastiano Luperto (Empoli) has tested the patience of referee Livio Marinelli and goes into the book for a previous late challenge.",
+        "team_side": "away",
+        "team": "Empoli",
+        "player": "Luperto S.",
+        "shirt_number": 33,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' The referee shows a yellow card to Nikola Vlasic (Torino). No wonder. A clear yellow for bad language.",
+        "team_side": "home",
+        "team": "Torino",
+        "player": "Vlasic N.",
+        "shirt_number": 16,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Liberato Cacace (Empoli) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+        "team_side": "away",
+        "team": "Empoli",
+        "player": "Cacace L.",
+        "shirt_number": 13,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 80,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "80' Livio Marinelli shows a yellow card to Alessandro Buongiorno (Torino) for his blatant foul.",
+        "team_side": "home",
+        "team": "Torino",
+        "player": "Buongiorno A.",
+        "shirt_number": 4,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' This yellow card was deserved. The tackle by Raoul Bellanova (Torino) was quite harsh and Livio Marinelli didn't hesitate to show him a yellow card.",
+        "team_side": "home",
+        "team": "Torino",
+        "player": "Bellanova R.",
+        "shirt_number": 19,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 4,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+4' Karol Linetty (Torino) is booked after bringing down an opponent. Livio Marinelli had an easy-decision to make.",
+        "team_side": "home",
+        "team": "Torino",
+        "player": "Linetty K.",
+        "shirt_number": 77,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' Substitution. Pietro Pellegri (Torino) on for Duvan Zapata."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' The referee signals a substitution. Brandon Soppy (Torino) is brought on as a substitute for Raoul Bellanova."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' A substitution has been made. Nicolo Cambiaghi goes off and Emmanuel Gyasi (Empoli) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Aurelio Andreazzoli decides to make a substitution. Youssef Maleh will be replaced by Tommaso Baldanzi (Empoli)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Substitution. Alberto Grassi leaves the pitch and is replaced by Filippo Ranocchia (Empoli)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' The referee signals that it is time for a substitution and Koffi Djidji (Torino) comes onto the pitch so that Adrien Tameze can be given a rest."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Mergim Vojvoda comes off the pitch to be replaced by Valentino Lazaro (Torino)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' Here is a change. Stiven Shpendi is going off and Aurelio Andreazzoli gives the last tactical orders to Matteo Cancellieri (Empoli)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' The manager has decided to make a substitution and Razvan Marin (Empoli) walks off the pitch to be replaced by Mattia Destro."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 31,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "31' Vanja Milinkovic-Savic (Torino) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "45' The goal by Empoli is DISALLOWED on the advice of the video assistant referee due to an offside.",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "away",
+        "team": "Empoli",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "45' That looked like an offside in the build-up play and the referee Livio Marinelli is going to take a look using VAR.",
+        "review_reason": "offside",
+        "decision": "review_completed",
+        "team_side": null,
+        "team": null,
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 34,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "34' Here comes the VAR verdict. NO GOAL for Empoli due to an offside in the build-up play.",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "away",
+        "team": "Empoli",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 32
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 32,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "32' The Empoli players halt their celebrations as referee Livio Marinelli makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "away",
+        "team": "Empoli",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 34
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 7,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+7' The referee blows his whistle for the final time to end this match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+5' Livio Marinelli blows his whistle to signal the end of the first-half action."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 1,
+    "detected_goal_count": 1,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 1,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 133,
+    "commentary_row_count": 74,
+    "removed_commentary_noise_count": 59,
+    "goal_event_count": 1,
+    "yellow_card_event_count": 6,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 4,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 1,
+      "detected_goal_count": 1
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 1,
+    "structured_goal_count": 1,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 1,
+    "yellow_card_event_count": 6,
+    "structured_yellow_card_count": 6,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 4,
+    "structured_var_event_count": 4,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 2,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": false,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 1,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T09:05:12Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 74,
+      "error": null
+    }
+  }
+}

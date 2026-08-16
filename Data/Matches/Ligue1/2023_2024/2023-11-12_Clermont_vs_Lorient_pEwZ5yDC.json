@@ -1,0 +1,2650 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/lorient-jgNAYRGi/summary/stats/overall/?mid=pEwZ5yDC",
+  "match_id": "pEwZ5yDC",
+  "page_title": "CLE 1-0 LOR | Clermont v Lorient 12/11/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "12.11.2023 18:00",
+  "home_team": "Clermont",
+  "away_team": "Lorient",
+  "score": {
+    "home": "1",
+    "away": "0",
+    "display": "1 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.25",
+      "away": "0.21",
+      "raw_values": [
+        "1.25",
+        "0.21"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "56%",
+      "away": "44%",
+      "raw_values": [
+        "56%",
+        "44%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "16",
+      "away": "10",
+      "raw_values": [
+        "16",
+        "10"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "6",
+      "away": "3",
+      "raw_values": [
+        "6",
+        "3"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "87%\n(464/534)",
+      "away": "86%\n(361/418)",
+      "raw_values": [
+        "87%\n(464/534)",
+        "86%\n(361/418)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "8",
+      "away": "6",
+      "raw_values": [
+        "8",
+        "6"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "2",
+      "away": "1",
+      "raw_values": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "1",
+      "raw_values": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "9",
+      "away": "15",
+      "raw_values": [
+        "9",
+        "15"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "7",
+      "away": "18",
+      "raw_values": [
+        "7",
+        "18"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "15",
+      "away": "10",
+      "raw_values": [
+        "15",
+        "10"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "3",
+      "away": "5",
+      "raw_values": [
+        "3",
+        "5"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.25",
+        "away": "0.21",
+        "raw_values": [
+          "1.25",
+          "0.21"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "56%",
+        "away": "44%",
+        "raw_values": [
+          "56%",
+          "44%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "16",
+        "away": "10",
+        "raw_values": [
+          "16",
+          "10"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "6",
+        "away": "3",
+        "raw_values": [
+          "6",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "87%\n(464/534)",
+        "away": "86%\n(361/418)",
+        "raw_values": [
+          "87%\n(464/534)",
+          "86%\n(361/418)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "8",
+        "away": "6",
+        "raw_values": [
+          "8",
+          "6"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "9",
+        "away": "15",
+        "raw_values": [
+          "9",
+          "15"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "18",
+        "raw_values": [
+          "7",
+          "18"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "15",
+        "away": "10",
+        "raw_values": [
+          "15",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.36",
+        "away": "0.10",
+        "raw_values": [
+          "0.36",
+          "0.10"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "59%",
+        "away": "41%",
+        "raw_values": [
+          "59%",
+          "41%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "10",
+        "away": "3",
+        "raw_values": [
+          "10",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "0",
+        "raw_values": [
+          "4",
+          "0"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "91%\n(270/297)",
+        "away": "90%\n(188/210)",
+        "raw_values": [
+          "91%\n(270/297)",
+          "90%\n(188/210)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "6",
+        "away": "2",
+        "raw_values": [
+          "6",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "4",
+        "away": "7",
+        "raw_values": [
+          "4",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "3",
+        "away": "8",
+        "raw_values": [
+          "3",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.89",
+        "away": "0.11",
+        "raw_values": [
+          "0.89",
+          "0.11"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "53%",
+        "away": "47%",
+        "raw_values": [
+          "53%",
+          "47%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "7",
+        "raw_values": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "82%\n(194/237)",
+        "away": "83%\n(173/208)",
+        "raw_values": [
+          "82%\n(194/237)",
+          "83%\n(173/208)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "8",
+        "raw_values": [
+          "5",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "4",
+        "away": "10",
+        "raw_values": [
+          "4",
+          "10"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "8",
+        "away": "6",
+        "raw_values": [
+          "8",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 99,
+          "name": "Diaw",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Diaw",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Pelmard",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Pelmard",
+          "source": "formation"
+        },
+        {
+          "number": 36,
+          "name": "Seidu",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "36 Seidu",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Caufriez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Caufriez",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Konate",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Konate",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Magnin",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 Magnin",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Keita",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Keita",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Allevinah",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Allevinah",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Neto Borges",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Neto Borges",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Cham",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cham",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Nicholson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Nicholson",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 99,
+          "name": "Diaw M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "99 Diaw M. (G)",
+          "formation_raw": "99 Diaw",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Pelmard A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Pelmard A.",
+          "formation_raw": "17 Pelmard",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 36,
+          "name": "Seidu A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "36 Seidu A.",
+          "formation_raw": "36 Seidu",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Caufriez M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Caufriez M.",
+          "formation_raw": "5 Caufriez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Konate C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Konate C.",
+          "formation_raw": "15 Konate",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Magnin Y.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 Magnin Y. (C)",
+          "formation_raw": "7 Magnin",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Keita H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Keita H.",
+          "formation_raw": "6 Keita",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Allevinah J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Allevinah J.",
+          "formation_raw": "11 Allevinah",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Neto Borges",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Neto Borges",
+          "formation_raw": "3 Neto Borges",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 10,
+          "name": "Cham M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cham M.",
+          "formation_raw": "10 Cham",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Nicholson S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Nicholson S.",
+          "formation_raw": "23 Nicholson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 9,
+          "name": "Andric K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Andric K.",
+          "source": "detailed"
+        },
+        {
+          "number": 91,
+          "name": "Bela J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "91 Bela J.",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Berkani S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Berkani S.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Boutobba B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Boutobba B.",
+          "source": "detailed"
+        },
+        {
+          "number": 95,
+          "name": "Kyei G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Kyei G.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Maurer A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Maurer A.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "N'Diaye M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 N'Diaye M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Ogier F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Ogier F.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Zeffane M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Zeffane M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "81",
+          "incoming": "Boutobba B.",
+          "outgoing": "Cham M.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Boutobba B. Cham M. 81'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Kyei G.",
+          "outgoing": "Nicholson S.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Kyei G. Nicholson S. 81'"
+        },
+        {
+          "minute": "90+2",
+          "incoming": "Maurer A.",
+          "outgoing": "Allevinah J.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Maurer A. Allevinah J. 90+2'"
+        }
+      ],
+      "coach": "Gastien P."
+    },
+    "away": {
+      "formation": "3-4-2-1",
+      "formation_players": [
+        {
+          "number": 38,
+          "name": "Mvogo",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "38 Mvogo",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Mendy",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Mendy",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Talbi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Talbi",
+          "source": "formation"
+        },
+        {
+          "number": 95,
+          "name": "Toure",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Toure",
+          "source": "formation"
+        },
+        {
+          "number": 93,
+          "name": "Mvuka Mugisha",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "93 Mvuka Mugisha",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Abergel",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "19 Abergel",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Makengo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Makengo",
+          "source": "formation"
+        },
+        {
+          "number": 12,
+          "name": "Yongwa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Yongwa",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Ponceau",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Ponceau",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Faivre",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Faivre",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Kroupi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Kroupi",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 38,
+          "name": "Mvogo Y.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "38 Mvogo Y. (G)",
+          "formation_raw": "38 Mvogo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Mendy F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Mendy F.",
+          "formation_raw": "13 Mendy",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Talbi M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Talbi M.",
+          "formation_raw": "3 Talbi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 95,
+          "name": "Toure I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Toure I.",
+          "formation_raw": "95 Toure",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 93,
+          "name": "Mvuka Mugisha J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "93 Mvuka Mugisha J.",
+          "formation_raw": "93 Mvuka Mugisha",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Abergel L.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "19 Abergel L. (C)",
+          "formation_raw": "19 Abergel",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Makengo J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Makengo J.",
+          "formation_raw": "17 Makengo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 12,
+          "name": "Yongwa D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Yongwa D.",
+          "formation_raw": "12 Yongwa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Ponceau J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Ponceau J.",
+          "formation_raw": "21 Ponceau",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Faivre R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Faivre R.",
+          "formation_raw": "10 Faivre",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Kroupi E. J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Kroupi E. J.",
+          "formation_raw": "22 Kroupi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 29,
+          "name": "Doucoure S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Doucoure S.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Gomis A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gomis A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Innocent B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Innocent B.",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Kalulu G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Kalulu G.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Laporte J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Laporte J.",
+          "source": "detailed"
+        },
+        {
+          "number": 37,
+          "name": "Le Bris T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Le Bris T.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Le Goff V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Le Goff V.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Ndiaye B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Ndiaye B.",
+          "source": "detailed"
+        },
+        {
+          "number": 26,
+          "name": "Pagis P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Pagis P.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Ndiaye B.",
+          "outgoing": "Mvuka Mugisha J.",
+          "incoming_rating": 6.9,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ndiaye B. 6.9 Mvuka Mugisha J. 46'"
+        },
+        {
+          "minute": "60",
+          "incoming": "Le Bris T.",
+          "outgoing": "Kroupi E. J.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Le Bris T. 6.3 Kroupi E. J. 60'"
+        },
+        {
+          "minute": "73",
+          "incoming": "Doucoure S.",
+          "outgoing": "Ponceau J.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Doucoure S. 6.4 Ponceau J. 73'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Kalulu G.",
+          "outgoing": "Mendy F.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Kalulu G. Mendy F. 88'"
+        }
+      ],
+      "coach": "Le Bris R."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "99 Diaw",
+      "17 Pelmard",
+      "36 Seidu",
+      "5 Caufriez",
+      "15 Konate",
+      "7 Magnin",
+      "6 Keita",
+      "11 Allevinah",
+      "3 Neto Borges",
+      "10 Cham",
+      "23 Nicholson",
+      "38 Mvogo",
+      "13 Mendy",
+      "3 Talbi",
+      "95 Toure",
+      "93 Mvuka Mugisha",
+      "19 Abergel",
+      "17 Makengo",
+      "12 Yongwa",
+      "21 Ponceau",
+      "10 Faivre",
+      "22 Kroupi",
+      "Boutobba B. Cham M. 81'",
+      "Kyei G. Nicholson S. 81'",
+      "Maurer A. Allevinah J. 90+2'",
+      "Ndiaye B. 6.9 Mvuka Mugisha J. 46'",
+      "Le Bris T. 6.3 Kroupi E. J. 60'",
+      "Doucoure S. 6.4 Ponceau J. 73'",
+      "Kalulu G. Mendy F. 88'",
+      "99 Diaw M. (G)",
+      "17 Pelmard A.",
+      "36 Seidu A.",
+      "5 Caufriez M.",
+      "15 Konate C.",
+      "7 Magnin Y. (C)",
+      "6 Keita H.",
+      "11 Allevinah J.",
+      "10 Cham M.",
+      "23 Nicholson S.",
+      "38 Mvogo Y. (G)",
+      "13 Mendy F.",
+      "3 Talbi M.",
+      "95 Toure I.",
+      "93 Mvuka Mugisha J.",
+      "19 Abergel L. (C)",
+      "17 Makengo J.",
+      "12 Yongwa D.",
+      "21 Ponceau J.",
+      "10 Faivre R.",
+      "22 Kroupi E. J.",
+      "9 Andric K.",
+      "91 Bela J.",
+      "24 Berkani S.",
+      "8 Boutobba B.",
+      "95 Kyei G.",
+      "20 Maurer A.",
+      "1 N'Diaye M. (G)",
+      "21 Ogier F.",
+      "2 Zeffane M.",
+      "29 Doucoure S.",
+      "1 Gomis A. (G)",
+      "8 Innocent B.",
+      "24 Kalulu G.",
+      "15 Laporte J.",
+      "37 Le Bris T.",
+      "25 Le Goff V.",
+      "33 Ndiaye B.",
+      "26 Pagis P.",
+      "Boisgard Q. Foot Injury",
+      "Kari A. Injury",
+      "Mendy B. Injury",
+      "Mouyokolo L. Injury",
+      "Sylla D. Injury",
+      "Tosin A. Injury",
+      "Gastien P.",
+      "Le Bris R."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 39,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 3,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 264
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 108,
+    "compact_lineup_text_count": 76,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 39,
+    "substitution_count": 7,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' Romain Lissorgue is looking at his watch and immediately ends this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' Lorient couldn't find the way to score from a long-range free kick as Mory Diaw (Clermont) leaped high and intercepted a cross."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Grejohn Kyei (Clermont) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' It will be a substitution. Aiman Maurer (Clermont) is ready to enter the pitch as Jim Allevinah walks off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' A fantastic block by a defender means that the corner from Lorient comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Lorient can’t profit from the corner as the defence clear the ball upfield. The ball is out of play. A goal-scoring opportunity from a corner for Lorient."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Sirine Doucoure (Lorient) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the top right corner is denied by a decent save from Mory Diaw. The linesman points to the corner flag, Lorient are going to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 5 min. of stoppage-time to be played."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' It's time for a substitution. That's the last involvement from Formose Mendy as he is replaced by Gedeon Kalulu (Lorient)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Grejohn Kyei (Clermont) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' The yellow card is received by Alidu Seidu (Clermont)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' The resulting corner from Darlin Yongwa (Lorient) only finds one of the defenders, who heads it out of danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' The free kick from long range, taken by Lorient, is intercepted by one of the defenders."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Pascal Gastien has decided to introduce fresh legs, with Grejohn Kyei (Clermont) replacing Shamar Nicholson."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' The game has come to an end for Muhammed Cham. He has contributed as much as he could today. He will be replaced by the fresh legs of Bilal Boutobba (Clermont)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' A cross from a mid-range free kick, taken by Lorient, is overhit and the ball goes out of play. The ball goes out of play and Clermont will have a goal kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Alidu Seidu (Clermont) should know this behaviour is beyond the rules. He was too careless with his challenge and left Romain Lissorgue no option but to blow his whistle. A free kick to Lorient."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Theo Le Bris (Lorient) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Clermont are happy showing off their ball keeping skills and that is only interrupted when the defender steps in."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Lorient have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Substitution. Sirine Doucoure (Lorient) has come on for Julien Ponceau."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "69' 1 - 0 Goal! Shamar Nicholson (Clermont) runs up to the ball, stops and waits for Yvon Mvogo to commit before slotting the penalty into the right of the goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Shamar Nicholson (Clermont) is going to take the penalty!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Here comes the VAR decision: PENALTY to Clermont!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' There's a break in play and referee Romain Lissorgue must have got a signal in his ear as he indicates he will check that earlier penalty claim by Clermont using VAR. This could be interesting!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Neto Borges (Clermont) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Isaak Toure (Lorient) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Shamar Nicholson (Clermont) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by Yvon Mvogo, who pulls off a superb save to keep the ball out of the net."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Here's the change. Eli Junior Kroupi leaves the pitch and Theo Le Bris (Lorient) comes on as a substitute."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Yohan Magnin (Clermont) dinks a fine lofted pass from the free kick. However, one of the defenders heads the ball out of danger."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Formose Mendy (Lorient) is shown a yellow card after a horrible tackle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Bassirou Ndiaye (Lorient) was too forceful with his tackle and Romain Lissorgue interrupted the game to signal a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Nothing comes of the resulting corner from Muhammed Cham (Clermont). The defence is alert and manages to cut it out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Jim Allevinah (Clermont) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag. It's a corner to Clermont."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Shamar Nicholson (Clermont) fires the ball in from a mid-range free kick, but it blazes over the bar."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Isaak Toure (Lorient) is booked after bringing down an opponent. Romain Lissorgue had an easy-decision to make."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Isaak Toure (Lorient) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' The game is interrupted now, Isaak Toure (Lorient) picks up a knock and the physio has to come on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Caution goes to Muhammed Cham (Clermont)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Muhammed Cham (Clermont) makes a rough challenge and the referee blows for a foul."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The referee stops play so that a substitution can be made and Bassirou Ndiaye (Lorient) comes onto the pitch for Joel Mvuka Mugisha."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Romain Lissorgue blows his whistle and the second half starts."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Yohan Magnin (Clermont) steps up to take the corner, but the ball just sails in among the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Neto Borges (Clermont) makes a driving run into the box but he cannot work any space for a shot. The ball goes out of play and Lorient will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' 1 additional min. will be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Yohan Magnin (Clermont) looks like he will be the one to take the corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Neto Borges (Clermont) whips a promising cross into the box, but the opposition's defence intercepts the ball. Good work from Clermont as they win a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Eli Junior Kroupi (Lorient) has picked up a minor injury, but it looks like he will be able to continue."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Eli Junior Kroupi (Lorient) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Neto Borges (Clermont) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Muhammed Cham (Clermont) takes a short corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Muhammed Cham (Clermont) swings in the corner, but it's comfortably cleared away. The ball goes out of play and Clermont have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Shamar Nicholson (Clermont) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the roof of the net. Yvon Mvogo has a clear sight of it and makes a comfortable save. The linesman makes the right call and Clermont will have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Montassar Talbi (Lorient) fails to deliver a cross from the free kick as his attempt is thwarted by the opposition's defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Andy Pelmard (Clermont) is penalised for holding. Romain Lissorgue signals a set piece. Lorient win a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Habib Keita (Clermont) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies well wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Neto Borges (Clermont) looks to break free, but an opposing player clears the ball away. The linesman signals a throw-in for Clermont."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Habib Keita (Clermont) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Jim Allevinah (Clermont) receives a lofted cross on the edge of the box and sends a shot to the middle of the goal. The goalkeeper had no trouble saving this one."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Habib Keita (Clermont) brings his opponent down with a tackle and Romain Lissorgue blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Jean-Victor Makengo (Lorient) fails to beat the offside trap and the linesman puts his flag up."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' The ball is laid off to Julien Ponceau (Lorient) on the edge of the box. He shoots through a crowd of players towards the roof of the net and forces Mory Diaw to make a decent save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Eli Junior Kroupi (Lorient) manages to beat his opponent to the ball, but he commits a foul in the process."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Darlin Yongwa (Lorient) gives away a foul for a clumsy challenge. Referee Romain Lissorgue saw the whole situation."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' This yellow card was deserved. The tackle by Cheick Oumar Konate (Clermont) was quite harsh and Romain Lissorgue didn't hesitate to show him a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Good team movement sets up Shamar Nicholson (Clermont) on the edge of the box, but he slices the ball narrowly wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Habib Keita (Clermont) takes a brilliant touch after he latches on to a pass on the edge of the box and strikes the ball to the bottom left corner. The goalkeeper dives low and saves his attempt."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Neto Borges (Clermont) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Muhammed Cham (Clermont) tries to find Jim Allevinah, but he puts too much power on the through ball. The ball is off of the pitch and it's a goal kick for Lorient."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Here we go, today's match is starting right now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Lorient will kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Romain Lissorgue will supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "69' 1 - 0 Goal! Shamar Nicholson (Clermont) runs up to the ball, stops and waits for Yvon Mvogo to commit before slotting the penalty into the right of the goal.",
+        "team_side": "home",
+        "team": "Clermont",
+        "player_team_side": "home",
+        "player_team": "Clermont",
+        "player": "Nicholson S.",
+        "shirt_number": 23,
+        "player_match_score": 135,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' The yellow card is received by Alidu Seidu (Clermont).",
+        "team_side": "home",
+        "team": "Clermont",
+        "player": "Seidu A.",
+        "shirt_number": 36,
+        "player_match_score": 138,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 57,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "57' Formose Mendy (Lorient) is shown a yellow card after a horrible tackle.",
+        "team_side": "away",
+        "team": "Lorient",
+        "player": "Mendy F.",
+        "shirt_number": 13,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 51,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "51' Isaak Toure (Lorient) is booked after bringing down an opponent. Romain Lissorgue had an easy-decision to make.",
+        "team_side": "away",
+        "team": "Lorient",
+        "player": "Toure I.",
+        "shirt_number": 95,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 10,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "10' This yellow card was deserved. The tackle by Cheick Oumar Konate (Clermont) was quite harsh and Romain Lissorgue didn't hesitate to show him a yellow card.",
+        "team_side": "home",
+        "team": "Clermont",
+        "player": "Konate C.",
+        "shirt_number": 15,
+        "player_match_score": 121,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+2' It will be a substitution. Aiman Maurer (Clermont) is ready to enter the pitch as Jim Allevinah walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' It's time for a substitution. That's the last involvement from Formose Mendy as he is replaced by Gedeon Kalulu (Lorient)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Pascal Gastien has decided to introduce fresh legs, with Grejohn Kyei (Clermont) replacing Shamar Nicholson."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' The game has come to an end for Muhammed Cham. He has contributed as much as he could today. He will be replaced by the fresh legs of Bilal Boutobba (Clermont)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' Substitution. Sirine Doucoure (Lorient) has come on for Julien Ponceau."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 60,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "60' Here's the change. Eli Junior Kroupi leaves the pitch and Theo Le Bris (Lorient) comes on as a substitute."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The referee stops play so that a substitution can be made and Bassirou Ndiaye (Lorient) comes onto the pitch for Joel Mvuka Mugisha."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' Here comes the VAR decision: PENALTY to Clermont!",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Clermont",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 67,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "67' There's a break in play and referee Romain Lissorgue must have got a signal in his ear as he indicates he will check that earlier penalty claim by Clermont using VAR. This could be interesting!",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Clermont",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' Grejohn Kyei (Clermont) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' Alidu Seidu (Clermont) should know this behaviour is beyond the rules. He was too careless with his challenge and left Romain Lissorgue no option but to blow his whistle. A free kick to Lorient."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Romain Lissorgue blows his whistle and the second half starts."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+2' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 22,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "22' Habib Keita (Clermont) brings his opponent down with a tackle and Romain Lissorgue blows his whistle for a foul."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 1,
+    "detected_goal_count": 1,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 1,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 135,
+    "commentary_row_count": 76,
+    "removed_commentary_noise_count": 59,
+    "goal_event_count": 1,
+    "yellow_card_event_count": 4,
+    "red_card_event_count": 0,
+    "substitution_event_count": 7,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 1,
+      "detected_goal_count": 1
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 1,
+    "structured_goal_count": 1,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 1,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 4,
+    "structured_yellow_card_count": 4,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 2,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": false,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 1,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T08:50:26Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 76,
+      "error": null
+    }
+  }
+}

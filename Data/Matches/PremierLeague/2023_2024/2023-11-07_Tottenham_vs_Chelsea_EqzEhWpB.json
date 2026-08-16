@@ -1,0 +1,3459 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/chelsea-4fGZN2oK/tottenham-UDg08Ohm/summary/stats/overall/?mid=EqzEhWpB",
+  "match_id": "EqzEhWpB",
+  "page_title": "TOT 1-4 CHE | Tottenham Hotspur v Chelsea 06/11/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "07.11.2023 00:00",
+  "home_team": "Tottenham",
+  "away_team": "Chelsea",
+  "score": {
+    "home": "1",
+    "away": "4",
+    "display": "1 - 4"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.86",
+      "away": "3.47",
+      "raw_values": [
+        "0.86",
+        "3.47"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "39%",
+      "away": "61%",
+      "raw_values": [
+        "39%",
+        "61%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "8",
+      "away": "17",
+      "raw_values": [
+        "8",
+        "17"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "5",
+      "away": "8",
+      "raw_values": [
+        "5",
+        "8"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "1",
+      "away": "6",
+      "raw_values": [
+        "1",
+        "6"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "0%\n(0/317)",
+      "away": "0%\n(0/502)",
+      "raw_values": [
+        "0%\n(0/317)",
+        "0%\n(0/502)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "3",
+      "away": "5",
+      "raw_values": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "2",
+      "away": "0",
+      "raw_values": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "3",
+      "away": "9",
+      "raw_values": [
+        "3",
+        "9"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "3",
+      "away": "7",
+      "raw_values": [
+        "3",
+        "7"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "27",
+      "away": "14",
+      "raw_values": [
+        "27",
+        "14"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "21",
+      "away": "12",
+      "raw_values": [
+        "21",
+        "12"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "12",
+      "away": "21",
+      "raw_values": [
+        "12",
+        "21"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "4",
+      "away": "4",
+      "raw_values": [
+        "4",
+        "4"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.86",
+        "away": "3.47",
+        "raw_values": [
+          "0.86",
+          "3.47"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "39%",
+        "away": "61%",
+        "raw_values": [
+          "39%",
+          "61%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "8",
+        "away": "17",
+        "raw_values": [
+          "8",
+          "17"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "8",
+        "raw_values": [
+          "5",
+          "8"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/317)",
+        "away": "0%\n(0/502)",
+        "raw_values": [
+          "0%\n(0/317)",
+          "0%\n(0/502)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "9",
+        "raw_values": [
+          "3",
+          "9"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "3",
+        "away": "7",
+        "raw_values": [
+          "3",
+          "7"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "27",
+        "away": "14",
+        "raw_values": [
+          "27",
+          "14"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "21",
+        "away": "12",
+        "raw_values": [
+          "21",
+          "12"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "12",
+        "away": "21",
+        "raw_values": [
+          "12",
+          "21"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "4",
+        "away": "4",
+        "raw_values": [
+          "4",
+          "4"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.17",
+        "away": "1.31",
+        "raw_values": [
+          "0.17",
+          "1.31"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "48%",
+        "away": "52%",
+        "raw_values": [
+          "48%",
+          "52%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "4",
+        "away": "7",
+        "raw_values": [
+          "4",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/182)",
+        "away": "0%\n(0/197)",
+        "raw_values": [
+          "0%\n(0/182)",
+          "0%\n(0/197)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "5",
+        "raw_values": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "11",
+        "away": "7",
+        "raw_values": [
+          "11",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "11",
+        "away": "5",
+        "raw_values": [
+          "11",
+          "5"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "10",
+        "raw_values": [
+          "7",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.69",
+        "away": "2.16",
+        "raw_values": [
+          "0.69",
+          "2.16"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "30%",
+        "away": "70%",
+        "raw_values": [
+          "30%",
+          "70%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "4",
+        "away": "10",
+        "raw_values": [
+          "4",
+          "10"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "6",
+        "raw_values": [
+          "2",
+          "6"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/135)",
+        "away": "0%\n(0/305)",
+        "raw_values": [
+          "0%\n(0/135)",
+          "0%\n(0/305)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "5",
+        "raw_values": [
+          "2",
+          "5"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "16",
+        "away": "7",
+        "raw_values": [
+          "16",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "7",
+        "raw_values": [
+          "10",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "11",
+        "raw_values": [
+          "5",
+          "11"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 13,
+          "name": "Vicario",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "13 Vicario",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Porro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Porro",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Romero",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Romero",
+          "source": "formation"
+        },
+        {
+          "number": 37,
+          "name": "van de Ven",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 van de Ven",
+          "source": "formation"
+        },
+        {
+          "number": 38,
+          "name": "Udogie",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Udogie",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Bissouma",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Bissouma",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Sarr",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Sarr",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Kulusevski",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Kulusevski",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Maddison",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Maddison",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Johnson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Johnson",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Son",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 Son",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 13,
+          "name": "Vicario G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "13 Vicario G. (G)",
+          "formation_raw": "13 Vicario",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Porro P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Porro P.",
+          "formation_raw": "23 Porro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Romero C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Romero C.",
+          "formation_raw": "17 Romero",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 37,
+          "name": "van de Ven M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 van de Ven M.",
+          "formation_raw": "37 van de Ven",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 38,
+          "name": "Udogie D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Udogie D.",
+          "formation_raw": "38 Udogie",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Bissouma Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Bissouma Y.",
+          "formation_raw": "8 Bissouma",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Sarr P. M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Sarr P. M.",
+          "formation_raw": "29 Sarr",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Kulusevski D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Kulusevski D.",
+          "formation_raw": "21 Kulusevski",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Maddison J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Maddison J.",
+          "formation_raw": "10 Maddison",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Johnson B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Johnson B.",
+          "formation_raw": "22 Johnson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Son Heung-Min",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "7 Son Heung-Min (C)",
+          "formation_raw": "7 Son",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 30,
+          "name": "Bentancur R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Bentancur R.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Dier E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Dier E.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "Emerson Royal",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Emerson Royal",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Forster F.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "20 Forster F. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Gil B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gil B.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Hojbjerg P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Hojbjerg P.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Lo Celso G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Lo Celso G.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Richarlison",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Richarlison",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Skipp O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Skipp O.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "34",
+          "incoming": "Dier E.",
+          "outgoing": "Johnson B.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Dier E. 6.1 Johnson B. 34'"
+        },
+        {
+          "minute": "45+1",
+          "incoming": "Hojbjerg P.",
+          "outgoing": "van de Ven M.",
+          "incoming_rating": 7.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Hojbjerg P. 7.4 van de Ven M. 45+1'"
+        },
+        {
+          "minute": "45+1",
+          "incoming": "Emerson Royal",
+          "outgoing": "Maddison J.",
+          "incoming_rating": 7.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Emerson Royal 7.3 Maddison J. 45+1'"
+        },
+        {
+          "minute": "61",
+          "incoming": "Bentancur R.",
+          "outgoing": "Sarr P. M.",
+          "incoming_rating": 5.8,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bentancur R. 5.8 Sarr P. M. 61'"
+        },
+        {
+          "minute": "61",
+          "incoming": "Skipp O.",
+          "outgoing": "Kulusevski D.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Skipp O. 6.1 Kulusevski D. 61'"
+        }
+      ],
+      "coach": "Postecoglou A."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Sanchez",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Sanchez",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "James",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "24 James",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Disasi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Disasi",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Thiago Silva",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Thiago Silva",
+          "source": "formation"
+        },
+        {
+          "number": 26,
+          "name": "Colwill",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Colwill",
+          "source": "formation"
+        },
+        {
+          "number": 25,
+          "name": "Caicedo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Caicedo",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Fernandez",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Fernandez",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Palmer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Palmer",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Gallagher",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Gallagher",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Sterling",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Sterling",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Jackson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Jackson",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Sanchez R.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Sanchez R. (G)",
+          "formation_raw": "1 Sanchez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "James R.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "24 James R. (C)",
+          "formation_raw": "24 James",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Disasi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Disasi A.",
+          "formation_raw": "2 Disasi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Thiago Silva",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Thiago Silva",
+          "formation_raw": "6 Thiago Silva",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 26,
+          "name": "Colwill L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Colwill L.",
+          "formation_raw": "26 Colwill",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 25,
+          "name": "Caicedo M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Caicedo M.",
+          "formation_raw": "25 Caicedo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Fernandez E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Fernandez E.",
+          "formation_raw": "8 Fernandez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Palmer C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Palmer C.",
+          "formation_raw": "20 Palmer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Gallagher C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Gallagher C.",
+          "formation_raw": "23 Gallagher",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Sterling R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Sterling R.",
+          "formation_raw": "7 Sterling",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Jackson N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Jackson N. 3",
+          "formation_raw": "15 Jackson",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 3
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 5,
+          "name": "Badiashile B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Badiashile B.",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "Cucurella M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Cucurella M.",
+          "source": "detailed"
+        },
+        {
+          "number": 36,
+          "name": "Deivid Washington",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "36 Deivid Washington",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Gusto M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Gusto M.",
+          "source": "detailed"
+        },
+        {
+          "number": 29,
+          "name": "Maatsen I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Maatsen I.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Madueke N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Madueke N.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Mudryk M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Mudryk M.",
+          "source": "detailed"
+        },
+        {
+          "number": 28,
+          "name": "Petrovic D.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "28 Petrovic D. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Ugochukwu L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Ugochukwu L.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Cucurella M.",
+          "outgoing": "Colwill L.",
+          "incoming_rating": 6.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Cucurella M. 6.8 Colwill L. 46'"
+        },
+        {
+          "minute": "58",
+          "incoming": "Mudryk M.",
+          "outgoing": "Fernandez E.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Mudryk M. 6.4 Fernandez E. 58'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Gusto M.",
+          "outgoing": "James R.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Gusto M. 6.3 James R. 77'"
+        },
+        {
+          "minute": "90+1",
+          "incoming": "Ugochukwu L.",
+          "outgoing": "Sterling R.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Ugochukwu L. Sterling R. 90+1'"
+        }
+      ],
+      "coach": "Pochettino M."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "13 Vicario",
+      "23 Porro",
+      "17 Romero",
+      "37 van de Ven",
+      "38 Udogie",
+      "8 Bissouma",
+      "29 Sarr",
+      "21 Kulusevski",
+      "10 Maddison",
+      "22 Johnson",
+      "7 Son",
+      "1 Sanchez",
+      "24 James",
+      "2 Disasi",
+      "6 Thiago Silva",
+      "26 Colwill",
+      "25 Caicedo",
+      "8 Fernandez",
+      "20 Palmer",
+      "23 Gallagher",
+      "7 Sterling",
+      "15 Jackson",
+      "Dier E. 6.1 Johnson B. 34'",
+      "Hojbjerg P. 7.4 van de Ven M. 45+1'",
+      "Emerson Royal 7.3 Maddison J. 45+1'",
+      "Bentancur R. 5.8 Sarr P. M. 61'",
+      "Skipp O. 6.1 Kulusevski D. 61'",
+      "Cucurella M. 6.8 Colwill L. 46'",
+      "Mudryk M. 6.4 Fernandez E. 58'",
+      "Gusto M. 6.3 James R. 77'",
+      "Ugochukwu L. Sterling R. 90+1'",
+      "13 Vicario G. (G)",
+      "23 Porro P.",
+      "17 Romero C.",
+      "37 van de Ven M.",
+      "38 Udogie D.",
+      "8 Bissouma Y.",
+      "29 Sarr P. M.",
+      "21 Kulusevski D.",
+      "10 Maddison J.",
+      "22 Johnson B.",
+      "7 Son Heung-Min (C)",
+      "1 Sanchez R. (G)",
+      "24 James R. (C)",
+      "2 Disasi A.",
+      "26 Colwill L.",
+      "25 Caicedo M.",
+      "8 Fernandez E.",
+      "20 Palmer C.",
+      "23 Gallagher C.",
+      "7 Sterling R.",
+      "15 Jackson N. 3",
+      "30 Bentancur R.",
+      "15 Dier E.",
+      "12 Emerson Royal",
+      "20 Forster F. (G)",
+      "11 Gil B.",
+      "5 Hojbjerg P.",
+      "18 Lo Celso G.",
+      "9 Richarlison",
+      "4 Skipp O.",
+      "5 Badiashile B.",
+      "3 Cucurella M.",
+      "36 Deivid Washington",
+      "27 Gusto M.",
+      "29 Maatsen I.",
+      "11 Madueke N.",
+      "10 Mudryk M.",
+      "28 Petrovic D. (G)",
+      "16 Ugochukwu L.",
+      "Davies B. Ankle Injury",
+      "Perisic I. Knee Injury",
+      "Sessegnon R. Thigh Injury",
+      "Solomon M. Knee Injury",
+      "Whiteman A. Ankle Injury",
+      "Bettinelli M. Injury",
+      "Broja A. Injury",
+      "Chalobah T. Thigh Injury",
+      "Chilwell B. Thigh Injury",
+      "Chukwuemeka C. Knee Injury",
+      "Fofana W. Knee Injury",
+      "Lavia R. Ankle Injury",
+      "Nkunku C. Knee Injury",
+      "Postecoglou A.",
+      "Pochettino M."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 39,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 119,
+    "compact_lineup_text_count": 85,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 39,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 10,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+10' That's it for today, Michael Oliver has blown his whistle and the game is over."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "status": "confirmed",
+      "text": "90+7' 1 - 4 Cole Palmer passes to Nicolas Jackson (Chelsea), who gets one-on-one with the keeper. His dummy grounds the keeper and he has a simple task lifting the ball over him into the net."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' What was Chimuanya Ugochukwu (Chelsea) thinking? He will not get away with that. The referee shows him a yellow card."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "status": "confirmed",
+      "text": "90+4' 1 - 3 It's in the back of the net! Conor Gallagher sprays a pass out to Nicolas Jackson (Chelsea), and he has an easy job to slot the ball into an empty net. The score is 1:3."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' Heung-Min Son (Tottenham) wasted a huge opportunity! The fans already began to celebrate as he unleashed a powerful shot from the edge of the box after a brilliant solo effort. The ball went towards the bottom right corner, but Robert Sanchez made a crucial save!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' The Tottenham players are exchanging some short passes."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Mauricio Pochettino decides to make a substitution. Raheem Sterling will be replaced by Chimuanya Ugochukwu (Chelsea)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' There will be a minimum of 9 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Guglielmo Vicario (Tottenham) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Mykhailo Mudryk (Chelsea) is booked after bringing down an opponent. Michael Oliver had an easy-decision to make."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Chelsea take a short corner instead of sending the ball into the penalty area."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Malo Gusto (Chelsea) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Now Chelsea have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Rodrigo Bentancur (Tottenham) wasted a great chance as he climbed high to connect with a cross from the free kick inside the penalty area. He produced a header which went wide of the right post by a whisker."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Malo Gusto (Chelsea) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Chelsea are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' The goal by Tottenham is DISALLOWED on the advice of the video assistant referee due to an offside."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' The Tottenham players joy may have been justified, because referee Michael Oliver is going use VAR to determine whether it was offside."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' The assistant referee raises his flag and the referee blows his whistle. Eric Dier (Tottenham) puts the ball into the net, but he is flagged for offside."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Substitution. Reece James will be replaced by Malo Gusto (Chelsea)."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Michael Oliver sticks with his original decision after the VAR review. No infringement and the goal stands!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' The Chelsea players halt their celebrations as referee Michael Oliver makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "75' 1 - 2 Goal! Nicolas Jackson (Chelsea) scores after an assist by Raheem Sterling that allowed him to tap in the ball into an empty net. The score is 1:2."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Neat passing move from Chelsea in order to create new attacking opportunities."
+    },
+    {
+      "type": "attendance",
+      "primary_type": "attendance",
+      "tags": [
+        "attendance"
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' The attendance is 61726."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Reece James (Chelsea) times his run too early and the linesman raises his flag for offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Lovely run from Marc Cucurella (Chelsea). He finds himself one-on-one with the goalkeeper, lines up a shot, but the keeper boldly launches himself to intercept the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' The linesman raises his flag. Mykhailo Mudryk (Chelsea) is adjudged offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' A quickly taken corner by Chelsea."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' One of the defenders reacts at the last minute to brilliantly block a pass from Reece James (Chelsea). Chelsea force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' We can have a look at the statistics now, particularly the total attempts – 5:12."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' The referee signals that it is time for a substitution and Oliver Skipp (Tottenham) is coming onto the pitch as Dejan Kulusevski cannot continue after picking up an injury."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Ange Postecoglou has decided to make a change. Rodrigo Bentancur (Tottenham) replaces Pape Matar Sarr."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Reece James (Chelsea) takes the chance to have an effort at goal from inside the box but misses to the left of the target."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Cole Palmer (Chelsea) plays a through ball inside the box, but it's too strong and Guglielmo Vicario comes off his line to intercept."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Nicolas Jackson (Chelsea) fails to beat the offside trap and the linesman puts his flag up."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' That will be all from Enzo Fernandez who is being replaced by the fresh legs of Mykhailo Mudryk (Chelsea)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Chelsea have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Nicolas Jackson (Chelsea) latched on to a cross inside the six-yard box and headed at goal. If it wasn't for one of the defenders making a save on the goal line, he would have been celebrating a goal now. The referee and his assistant both point at the corner flag. Chelsea will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "red_card",
+      "primary_type": "red_card",
+      "tags": [
+        "red_card",
+        "yellow_card"
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' Destiny Udogie (Tottenham) must have known he would be sent off for this foul, but he had to stop the opponent at all costs. Michael Oliver shows him a second yellow card and the game has ended for him."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Reece James (Chelsea) sends in a lofted cross from a mid-range free kick, but his poor effort goes out of play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Yves Bissouma (Tottenham) trips an opponent with a slide tackle. Michael Oliver stops the game and he could give him a card, but eventually decides on just a warning. That's a free kick to Chelsea."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Raheem Sterling (Chelsea) tested Guglielmo Vicario with a strike from just outside the box, but the effort is saved."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' The linesman raises his flag for offside before Marc Cucurella (Chelsea) heads on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Cole Palmer (Chelsea) creates a yard of space for himself and tries an effort from the edge of the box, but it goes just wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Guglielmo Vicario displays his ability to read the game and clears the danger after Nicolas Jackson (Chelsea) threatened to latch onto a through ball from just outside the box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The need to improve in the second half has brought about a change. Levi Colwill comes off for Marc Cucurella (Chelsea)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Everything is set for the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 13,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+13' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 10,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+10' The referee demonstrates he won't tolerate this behaviour. Pape Matar Sarr (Tottenham) is given a yellow card."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 10,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+10' It's like he was asking for a caution. Levi Colwill (Chelsea) receives a yellow card."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 10,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+10' Nicolas Jackson (Chelsea) takes his opponent down and receives a yellow card from the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 8,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+8' Chelsea are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+6' Flag goes up against Levi Colwill (Chelsea) and the referee blows his whistle for offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' Conor Gallagher (Chelsea) takes a short corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' An attempted cross from Raheem Sterling (Chelsea) is cleared. The ball goes out of play and Chelsea have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Cole Palmer (Chelsea) takes the corner which is cleared."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Raheem Sterling (Chelsea) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee points to the corner flag and Chelsea will take a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Micky van de Ven is being substituted because of an injury. Ange Postecoglou sends Pierre-Emile Hojbjerg (Tottenham) on the pitch."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Ange Postecoglou is forced to make a change. James Maddison (Tottenham) is unable to continue due to injury, Emerson Royal comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 12 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The injury to Micky van de Ven (Tottenham) looks like it might have ended his involvement in this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' James Maddison (Tottenham) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Referee Michael Oliver halts the game and wanders over to the touchline to talk to Ange Postecoglou, then shows him a yellow."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Pape Matar Sarr (Tottenham) drills a powerful shot from long range towards the middle of the goal, but Robert Sanchez makes a comfortable save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' A goal, which was scored by Nicolas Jackson (Chelsea), was disallowed due to offside."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "35' 1 - 1 Cole Palmer (Chelsea) brilliantly executes the penalty kick, sending the ball in off the right post! No chance for Guglielmo Vicario to stop this shot."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Cole Palmer (Chelsea) is heading towards the penalty spot to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Ange Postecoglou has decided to make a change due to the red card. Eric Dier is brought on as a substitute for Brennan Johnson (Tottenham)."
+    },
+    {
+      "type": "red_card",
+      "primary_type": "red_card",
+      "tags": [
+        "red_card"
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Cristian Gabriel Romero (Tottenham) is sent off by the referee for a disgraceful tackle that simply has no place in football! Chelsea are awarded a penalty kick!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Wait! The referee makes the VAR signal and he's going to review that incident in the box from earlier. This could be a penalty for Chelsea! Let's see what he decides."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' The referee looks satisfied after his VAR review and duly disallows the goal for offside. The Chelsea players look gutted."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' The Chelsea players joy may have been justified, because referee Michael Oliver is going use VAR to determine whether it was offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Moises Caicedo (Chelsea) has a goal ruled out for offside!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Enzo Fernandez (Chelsea) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Conor Gallagher (Chelsea) connects with the free kick and produces a header goalwards which is well blocked. The goalkeeper doesn't have to worry about that one."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Yves Bissouma (Tottenham) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play. Chelsea have a free kick from a promising distance."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Here comes the VAR verdict. NO GOAL for Chelsea due to a handball in the build-up play."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Houston, we have a problem! The referee has indicated that there will be a VAR review of the goal to look at a possible handball. The Chelsea players aren’t happy."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Goal! 1:1. Raheem Sterling (Chelsea) taps home from almost on the goal line after a lucky rebound fell at his feet."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "var",
+        "yellow_card"
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Relief for Destiny Udogie (Tottenham) as the ref sticks to his original yellow card decision after the VAR review."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' It's been a while since that contentious challenge by Destiny Udogie (Tottenham), but referee Michael Oliver must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Destiny Udogie (Tottenham) makes an awful challenge on his opponent and can count himself very lucky that the referee didn't issue a red card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Pedro Porro (Tottenham) overhits the corner kick and none of his teammates can their head on it."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' Brennan Johnson (Tottenham) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat. The referee blows his whistle, Tottenham are awarded a corner kick."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' Celebrations are cut short for Tottenham as the referee indicates NO GOAL after the VAR review shows it was offside!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Wait! Referee Michael Oliver immediately makes the VAR signal, most likely to see if there was an offside in the build-up play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Gooal! No wait, it's been ruled out for offside. Heung-Min Son (Tottenham) disagrees, but the linesman is sure about his call."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Axel Disasi (Chelsea) outjumps his marker inside the box and heads the resulting corner way wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Conor Gallagher (Chelsea) is about to take a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Nicolas Jackson (Chelsea) cuts inside his marker and unleashes a rocket of a shot from inside the box. The ball flies towards the bottom right corner, but it's kept out by magnificent save from Guglielmo Vicario. The ball goes behind for a corner. Chelsea will have an opportunity to threaten the opposition's goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' The shot by Pedro Porro (Tottenham) from the edge of the box low towards the middle of the goal lacks power and is easily saved by Robert Sanchez."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "6' 1 - 0 It's in the back of the net! Dejan Kulusevski (Tottenham) tries his luck from the edge of the box and his shot takes a deflection and goes past the stranded Robert Sanchez. He makes it 1:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Heung-Min Son (Tottenham) picks up a precise pass deep inside the box, but his strike is saved by the keeper."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Tottenham keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The match has just started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out and the match is about to start. Chelsea will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Let us introduce today's referee to you, and it's Michael Oliver."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups Both teams starting lineups are available now, so you can have a look at them."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 90,
+        "added_time": 7,
+        "score": {
+          "home": 1,
+          "away": 4
+        },
+        "status": "confirmed",
+        "text": "90+7' 1 - 4 Cole Palmer passes to Nicolas Jackson (Chelsea), who gets one-on-one with the keeper. His dummy grounds the keeper and he has a simple task lifting the ball over him into the net.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player_team_side": "away",
+        "player_team": "Chelsea",
+        "player": "Jackson N.",
+        "shirt_number": 15,
+        "player_match_score": 139,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 4
+        },
+        "assist_player": "Palmer C.",
+        "assist_shirt_number": 20,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 90,
+        "added_time": 4,
+        "score": {
+          "home": 1,
+          "away": 3
+        },
+        "status": "confirmed",
+        "text": "90+4' 1 - 3 It's in the back of the net! Conor Gallagher sprays a pass out to Nicolas Jackson (Chelsea), and he has an easy job to slot the ball into an empty net. The score is 1:3.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player_team_side": "away",
+        "player_team": "Chelsea",
+        "player": "Jackson N.",
+        "shirt_number": 15,
+        "player_match_score": 150,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 3
+        },
+        "assist_player": "Gallagher C.",
+        "assist_shirt_number": 23,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "75' 1 - 2 Goal! Nicolas Jackson (Chelsea) scores after an assist by Raheem Sterling that allowed him to tap in the ball into an empty net. The score is 1:2.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player_team_side": "away",
+        "player_team": "Chelsea",
+        "player": "Jackson N.",
+        "shirt_number": 15,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 2
+        },
+        "assist_player": "Sterling R.",
+        "assist_shirt_number": 7,
+        "assist_match_score": 130
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 35,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "35' 1 - 1 Cole Palmer (Chelsea) brilliantly executes the penalty kick, sending the ball in off the right post! No chance for Guglielmo Vicario to stop this shot.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player_team_side": "away",
+        "player_team": "Chelsea",
+        "player": "Palmer C.",
+        "shirt_number": 20,
+        "player_match_score": 134,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 6,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "6' 1 - 0 It's in the back of the net! Dejan Kulusevski (Tottenham) tries his luck from the edge of the box and his shot takes a deflection and goes past the stranded Robert Sanchez. He makes it 1:0.",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player_team_side": "home",
+        "player_team": "Tottenham",
+        "player": "Kulusevski D.",
+        "shirt_number": 21,
+        "player_match_score": 142,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": true,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 4,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+4' What was Chimuanya Ugochukwu (Chelsea) thinking? He will not get away with that. The referee shows him a yellow card.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": "Ugochukwu L.",
+        "shirt_number": 16,
+        "player_match_score": 115,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 89,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "89' Mykhailo Mudryk (Chelsea) is booked after bringing down an opponent. Michael Oliver had an easy-decision to make.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": "Mudryk M.",
+        "shirt_number": 10,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Malo Gusto (Chelsea) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": "Gusto M.",
+        "shirt_number": 27,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "red_card",
+        "primary_type": "red_card",
+        "tags": [
+          "red_card",
+          "yellow_card"
+        ],
+        "minute": 55,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "55' Destiny Udogie (Tottenham) must have known he would be sent off for this foul, but he had to stop the opponent at all costs. Michael Oliver shows him a second yellow card and the game has ended for him.",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": "Udogie D.",
+        "shirt_number": 38,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 10,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+10' The referee demonstrates he won't tolerate this behaviour. Pape Matar Sarr (Tottenham) is given a yellow card.",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": "Sarr P. M.",
+        "shirt_number": 29,
+        "player_match_score": 163,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 10,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+10' It's like he was asking for a caution. Levi Colwill (Chelsea) receives a yellow card.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": "Colwill L.",
+        "shirt_number": 26,
+        "player_match_score": 142,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 10,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+10' Nicolas Jackson (Chelsea) takes his opponent down and receives a yellow card from the referee.",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": "Jackson N.",
+        "shirt_number": 15,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "var",
+          "yellow_card"
+        ],
+        "minute": 20,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "20' Relief for Destiny Udogie (Tottenham) as the ref sticks to his original yellow card decision after the VAR review.",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": "Udogie D.",
+        "shirt_number": 38,
+        "player_match_score": 134,
+        "card_type": "yellow",
+        "is_var_decision": true,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+      {
+        "type": "red_card",
+        "primary_type": "red_card",
+        "tags": [
+          "red_card",
+          "yellow_card"
+        ],
+        "minute": 55,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "55' Destiny Udogie (Tottenham) must have known he would be sent off for this foul, but he had to stop the opponent at all costs. Michael Oliver shows him a second yellow card and the game has ended for him.",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": "Udogie D.",
+        "shirt_number": 38,
+        "player_match_score": 132,
+        "card_type": "red",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "red_card",
+        "primary_type": "red_card",
+        "tags": [
+          "red_card"
+        ],
+        "minute": 33,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "33' Cristian Gabriel Romero (Tottenham) is sent off by the referee for a disgraceful tackle that simply has no place in football! Chelsea are awarded a penalty kick!",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": "Romero C.",
+        "shirt_number": 17,
+        "player_match_score": 113,
+        "card_type": "red",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+1' Mauricio Pochettino decides to make a substitution. Raheem Sterling will be replaced by Chimuanya Ugochukwu (Chelsea)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Substitution. Reece James will be replaced by Malo Gusto (Chelsea)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' The referee signals that it is time for a substitution and Oliver Skipp (Tottenham) is coming onto the pitch as Dejan Kulusevski cannot continue after picking up an injury."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 61,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "61' Ange Postecoglou has decided to make a change. Rodrigo Bentancur (Tottenham) replaces Pape Matar Sarr."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 58,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "58' That will be all from Enzo Fernandez who is being replaced by the fresh legs of Mykhailo Mudryk (Chelsea)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' Ange Postecoglou is forced to make a change. James Maddison (Tottenham) is unable to continue due to injury, Emerson Royal comes on."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' The goal by Tottenham is DISALLOWED on the advice of the video assistant referee due to an offside.",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 80,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "80' The Tottenham players joy may have been justified, because referee Michael Oliver is going use VAR to determine whether it was offside.",
+        "review_reason": "offside",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Michael Oliver sticks with his original decision after the VAR review. No infringement and the goal stands!",
+        "review_reason": "goal",
+        "decision": "review_completed",
+        "team_side": null,
+        "team": null,
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 76
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' The Chelsea players halt their celebrations as referee Michael Oliver makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 77
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 31,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "31' Wait! The referee makes the VAR signal and he's going to review that incident in the box from earlier. This could be a penalty for Chelsea! Let's see what he decides.",
+        "review_reason": "penalty",
+        "decision": "review_started",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 30
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 30,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "30' The referee looks satisfied after his VAR review and duly disallows the goal for offside. The Chelsea players look gutted.",
+        "review_reason": "offside",
+        "decision": "review_completed",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 31
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 29,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "29' The Chelsea players joy may have been justified, because referee Michael Oliver is going use VAR to determine whether it was offside.",
+        "review_reason": "offside",
+        "decision": "review_completed",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 31
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 23,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "23' Here comes the VAR verdict. NO GOAL for Chelsea due to a handball in the build-up play.",
+        "review_reason": "goal",
+        "decision": "no_goal",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 23,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "23' Houston, we have a problem! The referee has indicated that there will be a VAR review of the goal to look at a possible handball. The Chelsea players aren’t happy.",
+        "review_reason": "goal",
+        "decision": "review_completed",
+        "team_side": "away",
+        "team": "Chelsea",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": null
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "var",
+          "yellow_card"
+        ],
+        "minute": 20,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "20' Relief for Destiny Udogie (Tottenham) as the ref sticks to his original yellow card decision after the VAR review.",
+        "review_reason": "yellow_card",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": "Udogie D.",
+        "shirt_number": 38,
+        "player_match_score": 134,
+        "is_var_event": true,
+        "related_event_minute": 19
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 19,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "19' It's been a while since that contentious challenge by Destiny Udogie (Tottenham), but referee Michael Oliver must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!",
+        "review_reason": "red_card",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": "Udogie D.",
+        "shirt_number": 38,
+        "player_match_score": 142,
+        "is_var_event": true,
+        "related_event_minute": 20
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 15,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "15' Celebrations are cut short for Tottenham as the referee indicates NO GOAL after the VAR review shows it was offside!",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "home",
+        "team": "Tottenham",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 14
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 14,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "14' Wait! Referee Michael Oliver immediately makes the VAR signal, most likely to see if there was an offside in the build-up play.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": null,
+        "team": null,
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 15
+      }
+    ],
+    "attendance": [
+      {
+        "type": "attendance",
+        "primary_type": "attendance",
+        "tags": [
+          "attendance"
+        ],
+        "minute": 71,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "71' The attendance is 61726."
+      }
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' The assistant referee raises his flag and the referee blows his whistle. Eric Dier (Tottenham) puts the ball into the net, but he is flagged for offside."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 13,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+13' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+6' Flag goes up against Levi Colwill (Chelsea) and the referee blows his whistle for offside."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 17,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "17' Brennan Johnson (Tottenham) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat. The referee blows his whistle, Tottenham are awarded a corner kick."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 5,
+    "detected_goal_count": 5,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 5,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 179,
+    "commentary_row_count": 100,
+    "removed_commentary_noise_count": 79,
+    "goal_event_count": 5,
+    "yellow_card_event_count": 8,
+    "red_card_event_count": 2,
+    "substitution_event_count": 6,
+    "var_event_count": 13,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 2,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 5,
+      "detected_goal_count": 5
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 5,
+    "structured_goal_count": 5,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 3,
+    "own_goal_count": 0,
+    "penalty_goal_count": 1,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 8,
+    "structured_yellow_card_count": 8,
+    "red_card_event_count": 2,
+    "structured_red_card_count": 2,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 13,
+    "structured_var_event_count": 13,
+    "var_player_resolved_count": 2,
+    "var_linked_event_count": 9,
+    "unlinked_var_event_count": 4,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": false,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 1,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T15:50:29Z",
+  "collector_profile": {
+    "competition_key": "premier_league",
+    "competition": "English Premier League",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 100,
+      "error": null
+    }
+  }
+}

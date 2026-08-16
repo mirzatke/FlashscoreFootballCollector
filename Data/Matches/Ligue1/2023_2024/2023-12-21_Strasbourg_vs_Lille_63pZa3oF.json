@@ -1,0 +1,2711 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/lille-pfDZL71o/strasbourg-nP6UzIU1/summary/stats/overall/?mid=63pZa3oF",
+  "match_id": "63pZa3oF",
+  "page_title": "STR 2-1 LIL | Strasbourg v Lille 20/12/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "21.12.2023 00:00",
+  "home_team": "Strasbourg",
+  "away_team": "Lille",
+  "score": {
+    "home": "2",
+    "away": "1",
+    "display": "2 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.70",
+      "away": "0.72",
+      "raw_values": [
+        "0.70",
+        "0.72"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "31%",
+      "away": "69%",
+      "raw_values": [
+        "31%",
+        "69%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "9",
+      "away": "9",
+      "raw_values": [
+        "9",
+        "9"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "2",
+      "away": "2",
+      "raw_values": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "5",
+      "raw_values": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "76%\n(199/262)",
+      "away": "87%\n(511/585)",
+      "raw_values": [
+        "76%\n(199/262)",
+        "87%\n(511/585)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "1",
+      "away": "2",
+      "raw_values": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "3",
+      "away": "3",
+      "raw_values": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "4",
+      "away": "4",
+      "raw_values": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "3",
+      "away": "2",
+      "raw_values": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "13",
+      "away": "22",
+      "raw_values": [
+        "13",
+        "22"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "15",
+      "away": "19",
+      "raw_values": [
+        "15",
+        "19"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "19",
+      "away": "10",
+      "raw_values": [
+        "19",
+        "10"
+      ]
+    },
+    {
+      "category": "Interceptions",
+      "home": "11",
+      "away": "3",
+      "raw_values": [
+        "11",
+        "3"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "1",
+      "away": "0",
+      "raw_values": [
+        "1",
+        "0"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 20,
+    "statistic_row_count": 15,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.70",
+        "away": "0.72",
+        "raw_values": [
+          "0.70",
+          "0.72"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "31%",
+        "away": "69%",
+        "raw_values": [
+          "31%",
+          "69%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "9",
+        "away": "9",
+        "raw_values": [
+          "9",
+          "9"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "76%\n(199/262)",
+        "away": "87%\n(511/585)",
+        "raw_values": [
+          "76%\n(199/262)",
+          "87%\n(511/585)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "4",
+        "away": "4",
+        "raw_values": [
+          "4",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "13",
+        "away": "22",
+        "raw_values": [
+          "13",
+          "22"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "15",
+        "away": "19",
+        "raw_values": [
+          "15",
+          "19"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "19",
+        "away": "10",
+        "raw_values": [
+          "19",
+          "10"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "11",
+        "away": "3",
+        "raw_values": [
+          "11",
+          "3"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.08",
+        "away": "0.67",
+        "raw_values": [
+          "0.08",
+          "0.67"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "34%",
+        "away": "66%",
+        "raw_values": [
+          "34%",
+          "66%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "2",
+        "away": "8",
+        "raw_values": [
+          "2",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "78%\n(127/163)",
+        "away": "89%\n(274/309)",
+        "raw_values": [
+          "78%\n(127/163)",
+          "89%\n(274/309)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "8",
+        "raw_values": [
+          "5",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "9",
+        "raw_values": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "6",
+        "away": "2",
+        "raw_values": [
+          "6",
+          "2"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.62",
+        "away": "0.05",
+        "raw_values": [
+          "0.62",
+          "0.05"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "27%",
+        "away": "73%",
+        "raw_values": [
+          "27%",
+          "73%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "7",
+        "away": "1",
+        "raw_values": [
+          "7",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "2",
+        "raw_values": [
+          "5",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "73%\n(72/99)",
+        "away": "86%\n(237/276)",
+        "raw_values": [
+          "73%\n(72/99)",
+          "86%\n(237/276)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "4",
+        "away": "1",
+        "raw_values": [
+          "4",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "8",
+        "away": "14",
+        "raw_values": [
+          "8",
+          "14"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "8",
+        "away": "10",
+        "raw_values": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "12",
+        "away": "6",
+        "raw_values": [
+          "12",
+          "6"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 20,
+    "statistic_row_count": 15,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 20,
+    "statistic_row_count": 15,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Sels",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Sels",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Guilbert",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Guilbert",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Perrin",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Perrin",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Sylla",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Sylla",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Senaya",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Senaya",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Sissoko",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Sissoko",
+          "source": "formation"
+        },
+        {
+          "number": 18,
+          "name": "Mwanga",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Mwanga",
+          "source": "formation"
+        },
+        {
+          "number": 26,
+          "name": "Bakwa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Bakwa",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Gameiro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Gameiro",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Diarra",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Diarra",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Emegha",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Emegha",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Sels M.",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Sels M. (G) (C)",
+          "formation_raw": "1 Sels",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Guilbert F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Guilbert F.",
+          "formation_raw": "2 Guilbert",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Perrin L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Perrin L.",
+          "formation_raw": "5 Perrin",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Sylla A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Sylla A.",
+          "formation_raw": "24 Sylla",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Senaya M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Senaya M.",
+          "formation_raw": "28 Senaya",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Sissoko I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Sissoko I.",
+          "formation_raw": "27 Sissoko",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 18,
+          "name": "Mwanga J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Mwanga J.",
+          "formation_raw": "18 Mwanga",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 26,
+          "name": "Bakwa D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Bakwa D.",
+          "formation_raw": "26 Bakwa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Gameiro K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Gameiro K.",
+          "formation_raw": "9 Gameiro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Diarra H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Diarra H.",
+          "formation_raw": "19 Diarra",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Emegha E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Emegha E.",
+          "formation_raw": "10 Emegha",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 23,
+          "name": "Angelo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Angelo",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Baseya S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Baseya S.",
+          "source": "detailed"
+        },
+        {
+          "number": 36,
+          "name": "Bellaarouch A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "36 Bellaarouch A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Deminguet J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Deminguet J.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Dion M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Dion M.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "El Mourabet S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 El Mourabet S.",
+          "source": "detailed"
+        },
+        {
+          "number": 40,
+          "name": "Sebas J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "40 Sebas J.",
+          "source": "detailed"
+        },
+        {
+          "number": 77,
+          "name": "Sobol E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Sobol E.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Sow S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Sow S.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "63",
+          "incoming": "Angelo",
+          "outgoing": "Gameiro K.",
+          "incoming_rating": 7.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Angelo 7.3 Gameiro K. 63'"
+        },
+        {
+          "minute": "86",
+          "incoming": "Sebas J.",
+          "outgoing": "Emegha E.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Sebas J. Emegha E. 86'"
+        },
+        {
+          "minute": "87",
+          "incoming": "Deminguet J.",
+          "outgoing": "Bakwa D.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Deminguet J. Bakwa D. 87'"
+        }
+      ],
+      "coach": "Vieira P."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 30,
+          "name": "Chevalier",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Chevalier",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Gudmundsson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Gudmundsson",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Yoro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Yoro",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Alexsandro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Alexsandro",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Ismaily",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Ismaily",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Bentaleb",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Bentaleb",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Andre",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "21 Andre",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Zhegrova",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Zhegrova",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Gomes",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Gomes",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Cabella",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cabella",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "David",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 David",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 30,
+          "name": "Chevalier L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Chevalier L. (G)",
+          "formation_raw": "30 Chevalier",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Gudmundsson G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Gudmundsson G.",
+          "formation_raw": "5 Gudmundsson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Yoro L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Yoro L.",
+          "formation_raw": "15 Yoro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Alexsandro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Alexsandro",
+          "formation_raw": "4 Alexsandro",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 31,
+          "name": "Ismaily",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Ismaily",
+          "formation_raw": "31 Ismaily",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 6,
+          "name": "Bentaleb N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Bentaleb N.",
+          "formation_raw": "6 Bentaleb",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Andre B.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "21 Andre B. (C)",
+          "formation_raw": "21 Andre",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Zhegrova E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Zhegrova E.",
+          "formation_raw": "23 Zhegrova",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Gomes A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Gomes A.",
+          "formation_raw": "8 Gomes",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Cabella R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cabella R.",
+          "formation_raw": "10 Cabella",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "David J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 David J.",
+          "formation_raw": "9 David",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 32,
+          "name": "Bouaddi A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Bouaddi A.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Haraldsson H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Haraldsson H.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Mannone V.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Mannone V. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Miramon I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Miramon I.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Ounas A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Ounas A.",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Santos T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Santos T.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Umtiti S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Umtiti S.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "Yazici Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Yazici Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Zedadka A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Zedadka A.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "68",
+          "incoming": "Yazici Y.",
+          "outgoing": "Gomes A.",
+          "incoming_rating": 6.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Yazici Y. 6.1 Gomes A. 68'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Ounas A.",
+          "outgoing": "Zhegrova E.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Ounas A. Zhegrova E. 81'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Haraldsson H.",
+          "outgoing": "David J.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Haraldsson H. David J. 81'"
+        }
+      ],
+      "coach": "Fonseca P."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Sels",
+      "2 Guilbert",
+      "5 Perrin",
+      "24 Sylla",
+      "28 Senaya",
+      "27 Sissoko",
+      "18 Mwanga",
+      "26 Bakwa",
+      "9 Gameiro",
+      "19 Diarra",
+      "10 Emegha",
+      "30 Chevalier",
+      "5 Gudmundsson",
+      "15 Yoro",
+      "4 Alexsandro",
+      "31 Ismaily",
+      "6 Bentaleb",
+      "21 Andre",
+      "23 Zhegrova",
+      "8 Gomes",
+      "10 Cabella",
+      "9 David",
+      "Angelo 7.3 Gameiro K. 63'",
+      "Sebas J. Emegha E. 86'",
+      "Deminguet J. Bakwa D. 87'",
+      "Yazici Y. 6.1 Gomes A. 68'",
+      "Ounas A. Zhegrova E. 81'",
+      "Haraldsson H. David J. 81'",
+      "1 Sels M. (G) (C)",
+      "2 Guilbert F.",
+      "5 Perrin L.",
+      "24 Sylla A.",
+      "28 Senaya M.",
+      "27 Sissoko I.",
+      "18 Mwanga J.",
+      "26 Bakwa D.",
+      "9 Gameiro K.",
+      "19 Diarra H.",
+      "10 Emegha E.",
+      "30 Chevalier L. (G)",
+      "5 Gudmundsson G.",
+      "15 Yoro L.",
+      "6 Bentaleb N.",
+      "21 Andre B. (C)",
+      "23 Zhegrova E.",
+      "8 Gomes A.",
+      "10 Cabella R.",
+      "9 David J.",
+      "23 Angelo",
+      "25 Baseya S.",
+      "36 Bellaarouch A. (G)",
+      "7 Deminguet J.",
+      "11 Dion M.",
+      "33 El Mourabet S.",
+      "40 Sebas J.",
+      "77 Sobol E.",
+      "13 Sow S.",
+      "32 Bouaddi A.",
+      "7 Haraldsson H.",
+      "1 Mannone V. (G)",
+      "20 Miramon I.",
+      "11 Ounas A.",
+      "22 Santos T.",
+      "14 Umtiti S.",
+      "12 Yazici Y.",
+      "13 Zedadka A.",
+      "Delaine T. Injury",
+      "Doukoure I. Injury",
+      "Fila K. Knee Injury",
+      "Mothiba L. Knee Injury",
+      "Nyamsi G. Injury",
+      "Cavaleiro I. Muscle Injury",
+      "Diakite B. Shoulder Injury",
+      "Djalo T. Knee Injury",
+      "Vieira P.",
+      "Fonseca P."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 38,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 3,
+    "away_bench_substitution_match_count": 3,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 216
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 108,
+    "compact_lineup_text_count": 76,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 38,
+    "substitution_count": 6,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Nothing more will happen in this game as the referee blows for full time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' Strasbourg quickly take a corner kick with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' Jeremy Sebas (Strasbourg) fires the ball at goal from inside the area, but it's well blocked. Good work from Strasbourg as they win a corner."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' The referee blows his whistle, Strasbourg are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' We will have 5 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' The resulting set piece from Strasbourg is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Strasbourg take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' The game has come to an end for Dilane Bakwa. He has contributed as much as he could today. He will be replaced by the fresh legs of Jessy Deminguet (Strasbourg)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' It's time for a substitution. That's the last involvement from Emanuel Emegha as he is replaced by Jeremy Sebas (Strasbourg)."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' The goal by Strasbourg won't count as it has been disallowed due to offside on the advice of the video assistant referee!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Wait! Referee Clement Turpin has indicated he is going to review the Strasbourg goal using VAR. It’s probably to see if there was an offside in the build-up."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' A superb goal from great team play! Dilane Bakwa (Strasbourg) latches on to a perfect pass and fires an excellent shot inside the left post. There is nothing a goalkeeper can do about shots like that."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Paulo Fonseca has decided to make a change. Hakon Arnar Haraldsson (Lille) replaces Jonathan David."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Today's match ends for Edon Zhegrova who will be replaced by Adam Ounas (Lille)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Lille are ruled offside."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Clement Turpin blows his whistle as Edon Zhegrova (Lille) used excessive force in the tackle during an attack."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "76' 2 - 1 Fantastic team goal! Junior Mwanga (Strasbourg) was set free in the area by Angelo and made no mistake with a lovely finish into the top of the net. 2:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Ibrahima Sissoko (Strasbourg) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' Junior Mwanga (Strasbourg) crashes a header just wide of the left post from close range after a searching cross. He should have scored! The ball goes out of play and Lille will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 70,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "70' Ibrahima Sissoko (Strasbourg) fails to find a teammate across the pitch with a long ball."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Paulo Fonseca prepares a substitution. Angel Gomes is replaced by Yusuf Yazici (Lille)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Emanuel Emegha (Strasbourg) climbs high to connect with a cross near the penalty spot but plants a header high over the bar. The ball is off of the pitch and it's a goal kick for Lille."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Another attempt to send the ball beyond the defence by Angelo (Strasbourg) is thwarted and cleared to safety."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' A spell of possession for Lille in an attempt to control the game."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "63' The substitution is prepared. Angelo (Strasbourg) joins the action as a substitute, replacing Kevin Gameiro."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Clement Turpin shows the yellow card to Edon Zhegrova (Lille) for a heavy challenge."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 60,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "60' Looks like Emanuel Emegha (Strasbourg) is struggling after picking up a knock. Hopefully he can run it off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Edon Zhegrova (Lille) takes the corner, but he overhits it and none of his teammates are able to reach the ball. The ball is off of the pitch and it's a goal kick for Strasbourg."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 56,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "56' Wow, what an escape. Jonathan David (Lille) has an effort from inside the box but it's brilliantly blocked. The ball is out of play. Lille will have a chance to score from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' The corner from Edon Zhegrova (Lille) is intercepted by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Edon Zhegrova (Lille) will take the free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Dilane Bakwa (Strasbourg) robs an opponent of the ball and explodes in anger when Clement Turpin blows for a foul. Lille win a free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Alexsandro (Lille) is having a really tough time right now. We are about to find out how serious his injury is."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' The resulting corner from Dilane Bakwa (Strasbourg) is cleared by the opposition's defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' A cross from a mid-range free kick, taken by Strasbourg, is intercepted by one of the defenders. Strasbourg get a corner."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Leny Yoro (Lille) makes an overly-aggressive challenge and Clement Turpin blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The game restarts for the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Edon Zhegrova (Lille) takes the free kick and curls the ball just over the crossbar. That was close!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Edon Zhegrova (Lille) takes the ball and sets it for the free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' 2 additional min. will be played."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' A yellow card for a tackle by Abakar Sylla (Strasbourg). Clement Turpin doesn't hesitate at all to make this decision."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Abakar Sylla (Strasbourg) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "41' 1 - 1 It's an own goal! Leny Yoro (Lille) puts the ball into his own net."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Edon Zhegrova (Lille) floats the ball in from the corner but it's intercepted."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Jonathan David (Lille) shoots inside the box, but is denied by a timely block. Lille force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Dilane Bakwa (Strasbourg) unleashes a rocket of a shot towards the right side of the goal, but the goalkeeper denies his attempt with a stunning save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Habib Diarra (Strasbourg) plays a through ball but overhits it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Strasbourg couldn't find the way to score from a long-range free kick as Lucas Chevalier (Lille) leaped high and intercepted a cross."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Benjamin Andre (Lille) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Clement Turpin ignores the protests."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' Alexsandro (Lille) gets to the ball from the resulting corner but blazes it well over the bar. The ball is off of the pitch and it's a goal kick for Strasbourg."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Lille will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Habib Diarra (Strasbourg) is clearly in an offside position after the ball is played through to him and the linesman raises his flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' The defence is alert as they clear a dangerous cross from Marvin Senaya (Strasbourg)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Gabriel Gudmundsson (Lille) gathers the pass and without hesitation smashes a shot in from long range, but it goes high over the bar. The ball goes out of play and Strasbourg will have a goal kick."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "20' 0 - 1 It's an own goal! An unlucky moment for Abakar Sylla (Strasbourg), who tries to clear a cross into the six-yard box but heads the ball behind his own keeper. The score is 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Remy Cabella (Lille) places a shot from the edge of the box towards the left side of the goal, but Matz Sels makes a terrific save to deny him. Nice play all round!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Habib Diarra (Strasbourg) gets on the ball and beats an opponent, but his run is stopped by the referee Clement Turpin who sees an offensive foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' The linesman raises his flag as one of the players from Lille was in an offside position."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Frederic Guilbert (Strasbourg) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' A long cross from the side is directed to the well-positioned Emanuel Emegha (Strasbourg), but the defence gets it clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Benjamin Andre (Lille) escapes without any punishment from the referee after using excessive force to foul his opponent."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' The foul by Ibrahima Sissoko (Strasbourg) was seen by Clement Turpin who didn't hesitate to blow the whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Dilane Bakwa (Strasbourg) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Dilane Bakwa (Strasbourg) tries to latch onto a through ball, but it's too long."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Edon Zhegrova (Lille) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' Edon Zhegrova (Lille) tries to send a pass but it's blocked. Lille have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Edon Zhegrova (Lille) receives a clever pass and shoots from mid-range. His shot looks like it's going in the bottom left corner, but Matz Sels has other ideas and makes a brilliant save. The ball is off of the pitch and it's a goal kick for Strasbourg."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half has just begun."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are on the pitch and Strasbourg will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Clement Turpin is the one to supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups Both teams starting lineups are available now, so you can have a look at them."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "76' 2 - 1 Fantastic team goal! Junior Mwanga (Strasbourg) was set free in the area by Angelo and made no mistake with a lovely finish into the top of the net. 2:1.",
+        "team_side": "home",
+        "team": "Strasbourg",
+        "player_team_side": "home",
+        "player_team": "Strasbourg",
+        "player": "Mwanga J.",
+        "shirt_number": 18,
+        "player_match_score": 137,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 1
+        },
+        "assist_player": "Angelo",
+        "assist_shirt_number": 23,
+        "assist_match_score": 135
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 41,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "41' 1 - 1 It's an own goal! Leny Yoro (Lille) puts the ball into his own net.",
+        "team_side": "home",
+        "team": "Strasbourg",
+        "player_team_side": "away",
+        "player_team": "Lille",
+        "player": "Yoro L.",
+        "shirt_number": 15,
+        "player_match_score": 139,
+        "goal_type": "own_goal",
+        "is_penalty": false,
+        "is_own_goal": true,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 20,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "20' 0 - 1 It's an own goal! An unlucky moment for Abakar Sylla (Strasbourg), who tries to clear a cross into the six-yard box but heads the ball behind his own keeper. The score is 0:1.",
+        "team_side": "away",
+        "team": "Lille",
+        "player_team_side": "home",
+        "player_team": "Strasbourg",
+        "player": "Sylla A.",
+        "shirt_number": 24,
+        "player_match_score": 143,
+        "goal_type": "own_goal",
+        "is_penalty": false,
+        "is_own_goal": true,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "62' Clement Turpin shows the yellow card to Edon Zhegrova (Lille) for a heavy challenge.",
+        "team_side": "away",
+        "team": "Lille",
+        "player": "Zhegrova E.",
+        "shirt_number": 23,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "45' A yellow card for a tackle by Abakar Sylla (Strasbourg). Clement Turpin doesn't hesitate at all to make this decision.",
+        "team_side": "home",
+        "team": "Strasbourg",
+        "player": "Sylla A.",
+        "shirt_number": 24,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 32,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "32' Benjamin Andre (Lille) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Clement Turpin ignores the protests.",
+        "team_side": "away",
+        "team": "Lille",
+        "player": "Andre B.",
+        "shirt_number": 21,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "87' The game has come to an end for Dilane Bakwa. He has contributed as much as he could today. He will be replaced by the fresh legs of Jessy Deminguet (Strasbourg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' It's time for a substitution. That's the last involvement from Emanuel Emegha as he is replaced by Jeremy Sebas (Strasbourg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Paulo Fonseca has decided to make a change. Hakon Arnar Haraldsson (Lille) replaces Jonathan David."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Today's match ends for Edon Zhegrova who will be replaced by Adam Ounas (Lille)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' Paulo Fonseca prepares a substitution. Angel Gomes is replaced by Yusuf Yazici (Lille)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 63,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "63' The substitution is prepared. Angelo (Strasbourg) joins the action as a substitute, replacing Kevin Gameiro."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' The goal by Strasbourg won't count as it has been disallowed due to offside on the advice of the video assistant referee!",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "home",
+        "team": "Strasbourg",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 86
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Wait! Referee Clement Turpin has indicated he is going to review the Strasbourg goal using VAR. It’s probably to see if there was an offside in the build-up.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Strasbourg",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 86
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' Nothing more will happen in this game as the referee blows for full time."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+2' The referee blows his whistle, Strasbourg are awarded a corner kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 80,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "80' Clement Turpin blows his whistle as Edon Zhegrova (Lille) used excessive force in the tackle during an attack."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 49,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "49' Leny Yoro (Lille) makes an overly-aggressive challenge and Clement Turpin blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+3' That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 9,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "9' The foul by Ibrahima Sissoko (Strasbourg) was seen by Clement Turpin who didn't hesitate to blow the whistle."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 3,
+    "detected_goal_count": 3,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 3,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 132,
+    "commentary_row_count": 74,
+    "removed_commentary_noise_count": 58,
+    "goal_event_count": 3,
+    "yellow_card_event_count": 3,
+    "red_card_event_count": 0,
+    "substitution_event_count": 6,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 3,
+      "detected_goal_count": 3
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 3,
+    "structured_goal_count": 3,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 2,
+    "penalty_goal_count": 0,
+    "header_goal_count": 1,
+    "yellow_card_event_count": 3,
+    "structured_yellow_card_count": 3,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T09:04:46Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 15,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 15,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 15,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 74,
+      "error": null
+    }
+  }
+}

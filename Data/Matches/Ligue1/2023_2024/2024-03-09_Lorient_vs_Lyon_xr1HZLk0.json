@@ -1,0 +1,2336 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/lorient-jgNAYRGi/lyon-2akflumR/summary/stats/overall/?mid=xr1HZLk0",
+  "match_id": "xr1HZLk0",
+  "page_title": "LOR 0-2 LYO | Lorient v Lyon 09/03/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "09.03.2024 20:00",
+  "home_team": "Lorient",
+  "away_team": "Lyon",
+  "score": {
+    "home": "0",
+    "away": "2",
+    "display": "0 - 2"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.06",
+      "away": "0.64",
+      "raw_values": [
+        "0.06",
+        "0.64"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "48%",
+      "away": "52%",
+      "raw_values": [
+        "48%",
+        "52%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "9",
+      "away": "13",
+      "raw_values": [
+        "9",
+        "13"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "0",
+      "away": "6",
+      "raw_values": [
+        "0",
+        "6"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "4",
+      "away": "7",
+      "raw_values": [
+        "4",
+        "7"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "86%\n(426/494)",
+      "away": "88%\n(471/536)",
+      "raw_values": [
+        "86%\n(426/494)",
+        "88%\n(471/536)"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "7",
+      "away": "3",
+      "raw_values": [
+        "7",
+        "3"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "2",
+      "away": "4",
+      "raw_values": [
+        "2",
+        "4"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "0",
+      "raw_values": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "7",
+      "away": "11",
+      "raw_values": [
+        "7",
+        "11"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "18",
+      "away": "17",
+      "raw_values": [
+        "18",
+        "17"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "10",
+      "away": "7",
+      "raw_values": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "category": "Interceptions",
+      "home": "6",
+      "away": "10",
+      "raw_values": [
+        "6",
+        "10"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "4",
+      "away": "0",
+      "raw_values": [
+        "4",
+        "0"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.06",
+        "away": "0.64",
+        "raw_values": [
+          "0.06",
+          "0.64"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "48%",
+        "away": "52%",
+        "raw_values": [
+          "48%",
+          "52%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "9",
+        "away": "13",
+        "raw_values": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "6",
+        "raw_values": [
+          "0",
+          "6"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "7",
+        "raw_values": [
+          "4",
+          "7"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "86%\n(426/494)",
+        "away": "88%\n(471/536)",
+        "raw_values": [
+          "86%\n(426/494)",
+          "88%\n(471/536)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "11",
+        "raw_values": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "18",
+        "away": "17",
+        "raw_values": [
+          "18",
+          "17"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "10",
+        "away": "7",
+        "raw_values": [
+          "10",
+          "7"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "6",
+        "away": "10",
+        "raw_values": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "4",
+        "away": "0",
+        "raw_values": [
+          "4",
+          "0"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.02",
+        "away": "0.34",
+        "raw_values": [
+          "0.02",
+          "0.34"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "44%",
+        "away": "56%",
+        "raw_values": [
+          "44%",
+          "56%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "2",
+        "away": "6",
+        "raw_values": [
+          "2",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "85%\n(206/241)",
+        "away": "90%\n(271/301)",
+        "raw_values": [
+          "85%\n(206/241)",
+          "90%\n(271/301)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "7",
+        "raw_values": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "5",
+        "away": "7",
+        "raw_values": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.04",
+        "away": "0.30",
+        "raw_values": [
+          "0.04",
+          "0.30"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "52%",
+        "away": "48%",
+        "raw_values": [
+          "52%",
+          "48%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "7",
+        "away": "7",
+        "raw_values": [
+          "7",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "87%\n(220/253)",
+        "away": "85%\n(200/235)",
+        "raw_values": [
+          "87%\n(220/253)",
+          "85%\n(200/235)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "0",
+        "raw_values": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "13",
+        "away": "10",
+        "raw_values": [
+          "13",
+          "10"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "3",
+        "raw_values": [
+          "5",
+          "3"
+        ]
+      },
+      {
+        "category": "Interceptions",
+        "home": "4",
+        "away": "8",
+        "raw_values": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-2-1",
+      "formation_players": [
+        {
+          "number": 38,
+          "name": "Mvogo",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "38 Mvogo",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Adjei",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Adjei",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Laporte",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Laporte",
+          "source": "formation"
+        },
+        {
+          "number": 95,
+          "name": "Toure",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Toure",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Katseris",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Katseris",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Abergel",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "19 Abergel",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Bakayoko",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Bakayoko",
+          "source": "formation"
+        },
+        {
+          "number": 37,
+          "name": "Le Bris",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Le Bris",
+          "source": "formation"
+        },
+        {
+          "number": 44,
+          "name": "Kari",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Kari",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Ponceau",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Ponceau",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Bamba",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Bamba",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 38,
+          "name": "Mvogo Y.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "38 Mvogo Y. (G)",
+          "formation_raw": "38 Mvogo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Adjei N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Adjei N.",
+          "formation_raw": "32 Adjei",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Laporte J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Laporte J.",
+          "formation_raw": "15 Laporte",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 95,
+          "name": "Toure I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "95 Toure I.",
+          "formation_raw": "95 Toure",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Katseris P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Katseris P.",
+          "formation_raw": "7 Katseris",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Abergel L.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "19 Abergel L. (C)",
+          "formation_raw": "19 Abergel",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Bakayoko T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Bakayoko T.",
+          "formation_raw": "14 Bakayoko",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 37,
+          "name": "Le Bris T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Le Bris T.",
+          "formation_raw": "37 Le Bris",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 44,
+          "name": "Kari A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Kari A.",
+          "formation_raw": "44 Kari",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Ponceau J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Ponceau J.",
+          "formation_raw": "21 Ponceau",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Bamba M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Bamba M.",
+          "formation_raw": "9 Bamba",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 10,
+          "name": "Bouanani B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Bouanani B.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Dieng B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Dieng B.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Gomis A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gomis A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 24,
+          "name": "Kalulu G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Kalulu G.",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Kroupi E. J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Kroupi E. J.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Louza I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Louza I.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Mendy F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Mendy F.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Tosin A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Tosin A.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "Yongwa D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Yongwa D.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "73",
+          "incoming": "Tosin A.",
+          "outgoing": "Ponceau J.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Tosin A. 6.5 Ponceau J. 73'"
+        },
+        {
+          "minute": "73",
+          "incoming": "Bouanani B.",
+          "outgoing": "Kari A.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bouanani B. 6.5 Kari A. 73'"
+        },
+        {
+          "minute": "73",
+          "incoming": "Louza I.",
+          "outgoing": "Bakayoko T.",
+          "incoming_rating": 6.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Louza I. 6.3 Bakayoko T. 73'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Dieng B.",
+          "outgoing": "Bamba M.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Dieng B. Bamba M. 81'"
+        },
+        {
+          "minute": "81",
+          "incoming": "Kroupi E. J.",
+          "outgoing": "Laporte J.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Kroupi E. J. Laporte J. 81'"
+        }
+      ],
+      "coach": "Le Bris R."
+    },
+    "away": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Lopes",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Lopes",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Mata",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mata",
+          "source": "formation"
+        },
+        {
+          "number": 12,
+          "name": "O'Brien",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 O'Brien",
+          "source": "formation"
+        },
+        {
+          "number": 55,
+          "name": "Caleta-Car",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "55 Caleta-Car",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Tagliafico",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Tagliafico",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Caqueret",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Caqueret",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Matic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Matic",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Tolisso",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Tolisso",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Fofana",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Fofana",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Balde",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Balde",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Benrahma",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Benrahma",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Lopes A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Lopes A. (G)",
+          "formation_raw": "1 Lopes",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Mata C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mata C.",
+          "formation_raw": "22 Mata",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 12,
+          "name": "O'Brien J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 O'Brien J.",
+          "formation_raw": "12 O'Brien",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 55,
+          "name": "Caleta-Car D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "55 Caleta-Car D.",
+          "formation_raw": "55 Caleta-Car",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Tagliafico N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Tagliafico N.",
+          "formation_raw": "3 Tagliafico",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Caqueret M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Caqueret M.",
+          "formation_raw": "6 Caqueret",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 31,
+          "name": "Matic N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Matic N.",
+          "formation_raw": "31 Matic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Tolisso C.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "8 Tolisso C. (C)",
+          "formation_raw": "8 Tolisso",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Fofana M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Fofana M.",
+          "formation_raw": "11 Fofana",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Balde M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Balde M.",
+          "formation_raw": "7 Balde",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Benrahma S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Benrahma S.",
+          "formation_raw": "17 Benrahma",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 14,
+          "name": "Adryelson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Adryelson",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Akouokou P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Akouokou P.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Cherki R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Cherki R.",
+          "source": "detailed"
+        },
+        {
+          "number": 34,
+          "name": "Diawara M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Diawara M.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Henrique",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Henrique",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Kumbedi S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Kumbedi S.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Lovren D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Lovren D.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Lucas Perri",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Lucas Perri (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Orban G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Orban G.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "66",
+          "incoming": "Cherki R.",
+          "outgoing": "Fofana M.",
+          "incoming_rating": 7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Cherki R. 7.0 Fofana M. 66'"
+        },
+        {
+          "minute": "66",
+          "incoming": "Orban G.",
+          "outgoing": "Balde M.",
+          "incoming_rating": 6.1,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Orban G. 6.1 Balde M. 66'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Henrique",
+          "outgoing": "Benrahma S.",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Henrique 6.5 Benrahma S. 76'"
+        },
+        {
+          "minute": "90+1",
+          "incoming": "Diawara M.",
+          "outgoing": "Matic N.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Diawara M. Matic N. 90+1'"
+        }
+      ],
+      "coach": "Sage P."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "38 Mvogo",
+      "32 Adjei",
+      "15 Laporte",
+      "95 Toure",
+      "7 Katseris",
+      "19 Abergel",
+      "14 Bakayoko",
+      "37 Le Bris",
+      "44 Kari",
+      "21 Ponceau",
+      "9 Bamba",
+      "1 Lopes",
+      "22 Mata",
+      "12 O'Brien",
+      "55 Caleta-Car",
+      "3 Tagliafico",
+      "6 Caqueret",
+      "31 Matic",
+      "8 Tolisso",
+      "11 Fofana",
+      "7 Balde",
+      "17 Benrahma",
+      "Tosin A. 6.5 Ponceau J. 73'",
+      "Bouanani B. 6.5 Kari A. 73'",
+      "Louza I. 6.3 Bakayoko T. 73'",
+      "Dieng B. Bamba M. 81'",
+      "Kroupi E. J. Laporte J. 81'",
+      "Cherki R. 7.0 Fofana M. 66'",
+      "Orban G. 6.1 Balde M. 66'",
+      "Henrique 6.5 Benrahma S. 76'",
+      "Diawara M. Matic N. 90+1'",
+      "38 Mvogo Y. (G)",
+      "32 Adjei N.",
+      "15 Laporte J.",
+      "95 Toure I.",
+      "7 Katseris P.",
+      "19 Abergel L. (C)",
+      "14 Bakayoko T.",
+      "37 Le Bris T.",
+      "44 Kari A.",
+      "21 Ponceau J.",
+      "9 Bamba M.",
+      "1 Lopes A. (G)",
+      "22 Mata C.",
+      "12 O'Brien J.",
+      "55 Caleta-Car D.",
+      "3 Tagliafico N.",
+      "6 Caqueret M.",
+      "31 Matic N.",
+      "8 Tolisso C. (C)",
+      "11 Fofana M.",
+      "7 Balde M.",
+      "17 Benrahma S.",
+      "10 Bouanani B.",
+      "11 Dieng B.",
+      "1 Gomis A. (G)",
+      "24 Kalulu G.",
+      "22 Kroupi E. J.",
+      "6 Louza I.",
+      "13 Mendy F.",
+      "27 Tosin A.",
+      "12 Yongwa D.",
+      "14 Adryelson",
+      "4 Akouokou P.",
+      "18 Cherki R.",
+      "34 Diawara M.",
+      "21 Henrique",
+      "20 Kumbedi S.",
+      "5 Lovren D.",
+      "23 Lucas Perri (G)",
+      "9 Orban G.",
+      "Le Bris R.",
+      "Sage P."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 106,
+    "compact_lineup_text_count": 73,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 9,
+    "coach_candidate_count": 2,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Nothing more will happen in this game as the referee blows for full time."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Nemanja Matic goes off the pitch and Mahamadou Diawara (Lyon) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' There will be a minimum of 4 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Nathaniel Adjei (Lorient) got the ball on the edge of the box and smashed a first-time shot, but his effort flew high over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Eli Junior Kroupi (Lorient) receives a deflected pass on the edge of the box and smashes the ball at goal. Unfortunately for him, it's well wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Lyon try to maintain the tempo of the game by taking a quick free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' The game is interrupted. Imran Louza (Lorient) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did. It's a free kick to Lyon, but they probably won't attempt a direct shot on goal from here."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Regis Le Bris has decided to make a change. Eli Junior Kroupi (Lorient) replaces Julien Laporte."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' Mohamed Bamba comes off the pitch to be replaced by Bamba Dieng (Lorient)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Lyon can’t profit from the corner as the defence clear the ball upfield."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Rayan Cherki (Lyon) is unlucky with a goal-bound effort from the edge of the box. A brilliant save by Yvon Mvogo stops the ball from hitting the bottom left corner. Lyon will take a corner kick."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' The foul by Badredine Bouanani (Lorient) was seen by Mathieu Vernice who didn't hesitate to blow the whistle."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Said Benrahma (Lyon) is not able to continue due to his injury and will be replaced by Henrique."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Said Benrahma (Lyon) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' The referee stops play so that a substitution can be made and Tiemoue Bakayoko leaves the pitch and Imran Louza (Lorient) comes on."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Here comes a substitution. Ayman Kari is given a rest as he is replaced by Badredine Bouanani (Lorient)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' It is time for a substitution. Aiyegun Tosin (Lorient) is on for Julien Ponceau."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Pierre Sage has decided to introduce fresh legs, with Gift Orban (Lyon) replacing Mama Balde."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Substitution. Malick Fofana did his best and is replaced by Rayan Cherki (Lyon)."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "64' 0 - 2 Mama Balde (Lyon) goes on mazy run which culminates with a one-on-one with the keeper. He keeps his cool and calmly dispatches the ball into the net."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Said Benrahma (Lyon) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Said Benrahma (Lyon) blasts the ball from just outside the box, but his attempt is blocked by the defender. Lyon have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Julien Ponceau (Lorient) will try to find the head of one of his teammates from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' The corner kick from Said Benrahma (Lyon) is headed out of the penalty area by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' Said Benrahma (Lyon) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out for a corner. Lyon can continue in their attacking effort."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "52' 0 - 1 Goal! Clinton Mata clips a neat ball into the box in the direction of Nicolas Tagliafico (Lyon), who jumps highest and steers a bullet header from the centre of the box into the top of the net. Yvon Mvogo had no chance of stopping that. 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' The ball is cleared out of defence to the edge of the box where Laurent Abergel (Lorient) hits a first-time shot back towards goal. Unfortunately for him, the ball flashes high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Theo Le Bris (Lorient) sends a cross into the box, but Anthony Lopes comes off his line to gather the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The game restarts for the second half."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Mathieu Vernice has ended the first half by blowing the whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Mohamed Bamba (Lorient) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Lorient are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' A free kick into the box, taken by Corentin Tolisso (Lyon), is comfortably cleared by the opposition's defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Julien Ponceau (Lorient) trips an opponent with a slide tackle. Mathieu Vernice stops the game and he could give him a card, but eventually decides on just a warning. Lyon win a free kick and will be able to apply some pressure on the opposition goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' The resulting set piece from Lyon is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Mama Balde (Lyon) races towards goal but the defender gets back well to make a challenge. The ball goes out of play. Lyon are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Corentin Tolisso (Lyon) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "25' Julien Ponceau (Lorient) puts a dangerous cross into the box, but the corner is cleared by the first man."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Anthony Lopes leaps to intercept the corner kick from Julien Ponceau (Lorient)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' What a chance that is! Clinton Mata (Lyon) displays good awareness near the penalty spot to get on the end of a cross, but he sends his header narrowly wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Julien Ponceau (Lorient) whips in a cross from the corner, but Anthony Lopes is well positioned and punches the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Theo Le Bris (Lorient) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Lorient will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Said Benrahma (Lyon) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Mama Balde (Lyon) steps up to send the ball in."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Corentin Tolisso (Lyon) has a lack of options after running onto a pass, so shoots from long range. It's a decent effort towards the bottom left corner, but Yvon Mvogo pulls off a comfortable save to deny him. The referee blows his whistle, Lyon are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' A cross from a corner kick by Lyon is too strong and the ball goes well out of play. The ball goes out of play and Lorient will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' The defence is alert as they clear a dangerous cross from Malick Fofana (Lyon). The ball is out of play. Lyon win a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' A cross from a mid-range free kick, taken by Lorient, is intercepted by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The match has just started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are on the pitch and Lyon will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Mathieu Vernice is the one to supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups Before the start of the game, you can see the starting lineups for today's clash."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "64' 0 - 2 Mama Balde (Lyon) goes on mazy run which culminates with a one-on-one with the keeper. He keeps his cool and calmly dispatches the ball into the net.",
+        "team_side": "away",
+        "team": "Lyon",
+        "player_team_side": "away",
+        "player_team": "Lyon",
+        "player": "Balde M.",
+        "shirt_number": 7,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 2
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 52,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "52' 0 - 1 Goal! Clinton Mata clips a neat ball into the box in the direction of Nicolas Tagliafico (Lyon), who jumps highest and steers a bullet header from the centre of the box into the top of the net. Yvon Mvogo had no chance of stopping that. 0:1.",
+        "team_side": "away",
+        "team": "Lyon",
+        "player_team_side": "away",
+        "player_team": "Lyon",
+        "player": "Tagliafico N.",
+        "shirt_number": 3,
+        "player_match_score": 148,
+        "goal_type": "header",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": true,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": "Mata C.",
+        "assist_shirt_number": 22,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+1' Nemanja Matic goes off the pitch and Mahamadou Diawara (Lyon) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Regis Le Bris has decided to make a change. Eli Junior Kroupi (Lorient) replaces Julien Laporte."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "81' Mohamed Bamba comes off the pitch to be replaced by Bamba Dieng (Lorient)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Said Benrahma (Lyon) is not able to continue due to his injury and will be replaced by Henrique."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' The referee stops play so that a substitution can be made and Tiemoue Bakayoko leaves the pitch and Imran Louza (Lorient) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' Here comes a substitution. Ayman Kari is given a rest as he is replaced by Badredine Bouanani (Lorient)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' It is time for a substitution. Aiyegun Tosin (Lorient) is on for Julien Ponceau."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' Pierre Sage has decided to introduce fresh legs, with Gift Orban (Lyon) replacing Mama Balde."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' Substitution. Malick Fofana did his best and is replaced by Rayan Cherki (Lyon)."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+5' Nothing more will happen in this game as the referee blows for full time."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' The foul by Badredine Bouanani (Lorient) was seen by Mathieu Vernice who didn't hesitate to blow the whistle."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 11,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "11' Corentin Tolisso (Lyon) has a lack of options after running onto a pass, so shoots from long range. It's a decent effort towards the bottom left corner, but Yvon Mvogo pulls off a comfortable save to deny him. The referee blows his whistle, Lyon are awarded a corner kick."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 2,
+    "detected_goal_count": 2,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 2,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 94,
+    "commentary_row_count": 54,
+    "removed_commentary_noise_count": 40,
+    "goal_event_count": 2,
+    "yellow_card_event_count": 0,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 2,
+      "detected_goal_count": 2
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 2,
+    "structured_goal_count": 2,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 1,
+    "yellow_card_event_count": 0,
+    "structured_yellow_card_count": 0,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T15:43:41Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 54,
+      "error": null
+    }
+  }
+}

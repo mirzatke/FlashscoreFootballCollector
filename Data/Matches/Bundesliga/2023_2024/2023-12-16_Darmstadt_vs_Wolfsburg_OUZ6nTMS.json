@@ -1,0 +1,2385 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/wolfsburg-nwkTahLL/summary/stats/overall/?mid=OUZ6nTMS",
+  "match_id": "OUZ6nTMS",
+  "page_title": "DAR 0-1 WOL | Darmstadt v Wolfsburg 16/12/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "16.12.2023 18:30",
+  "home_team": "Darmstadt",
+  "away_team": "Wolfsburg",
+  "score": {
+    "home": "0",
+    "away": "1",
+    "display": "0 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "0.71",
+      "away": "0.78",
+      "raw_values": [
+        "0.71",
+        "0.78"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "62%",
+      "away": "38%",
+      "raw_values": [
+        "62%",
+        "38%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "14",
+      "away": "11",
+      "raw_values": [
+        "14",
+        "11"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "4",
+      "away": "3",
+      "raw_values": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "7",
+      "away": "7",
+      "raw_values": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "88%\n(506/575)",
+      "away": "77%\n(236/307)",
+      "raw_values": [
+        "88%\n(506/575)",
+        "77%\n(236/307)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "0",
+      "raw_values": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "0",
+      "away": "1",
+      "raw_values": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "10",
+      "away": "8",
+      "raw_values": [
+        "10",
+        "8"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "0",
+      "away": "0",
+      "raw_values": [
+        "0",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "10",
+      "away": "15",
+      "raw_values": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "15",
+      "away": "24",
+      "raw_values": [
+        "15",
+        "24"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "16",
+      "away": "10",
+      "raw_values": [
+        "16",
+        "10"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "4",
+      "raw_values": [
+        "2",
+        "4"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.71",
+        "away": "0.78",
+        "raw_values": [
+          "0.71",
+          "0.78"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "62%",
+        "away": "38%",
+        "raw_values": [
+          "62%",
+          "38%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "14",
+        "away": "11",
+        "raw_values": [
+          "14",
+          "11"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "7",
+        "away": "7",
+        "raw_values": [
+          "7",
+          "7"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "88%\n(506/575)",
+        "away": "77%\n(236/307)",
+        "raw_values": [
+          "88%\n(506/575)",
+          "77%\n(236/307)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "10",
+        "away": "8",
+        "raw_values": [
+          "10",
+          "8"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "10",
+        "away": "15",
+        "raw_values": [
+          "10",
+          "15"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "15",
+        "away": "24",
+        "raw_values": [
+          "15",
+          "24"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "16",
+        "away": "10",
+        "raw_values": [
+          "16",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.12",
+        "away": "0.34",
+        "raw_values": [
+          "0.12",
+          "0.34"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "55%",
+        "away": "45%",
+        "raw_values": [
+          "55%",
+          "45%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "5",
+        "away": "6",
+        "raw_values": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "87%\n(245/282)",
+        "away": "82%\n(157/192)",
+        "raw_values": [
+          "87%\n(245/282)",
+          "82%\n(157/192)"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "5",
+        "raw_values": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "9",
+        "raw_values": [
+          "5",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "13",
+        "raw_values": [
+          "7",
+          "13"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "10",
+        "away": "5",
+        "raw_values": [
+          "10",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.59",
+        "away": "0.44",
+        "raw_values": [
+          "0.59",
+          "0.44"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "70%",
+        "away": "30%",
+        "raw_values": [
+          "70%",
+          "30%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "9",
+        "away": "5",
+        "raw_values": [
+          "9",
+          "5"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "5",
+        "raw_values": [
+          "5",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "89%\n(261/293)",
+        "away": "69%\n(79/115)",
+        "raw_values": [
+          "89%\n(261/293)",
+          "69%\n(79/115)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "6",
+        "away": "3",
+        "raw_values": [
+          "6",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "5",
+        "away": "6",
+        "raw_values": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "8",
+        "away": "11",
+        "raw_values": [
+          "8",
+          "11"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-1-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Schuhen",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Schuhen",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Klarer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Klarer",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Gjasula",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Gjasula",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Isherwood",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Isherwood",
+          "source": "formation"
+        },
+        {
+          "number": 38,
+          "name": "Riedel",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Riedel",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Schnellhardt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Schnellhardt",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Franjic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Franjic",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Karic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Karic",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Pfeiffer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Pfeiffer",
+          "source": "formation"
+        },
+        {
+          "number": 18,
+          "name": "Honsak",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Honsak",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Skarke",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Skarke",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Schuhen M.",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Schuhen M. (G) (C)",
+          "formation_raw": "1 Schuhen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Klarer C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Klarer C.",
+          "formation_raw": "14 Klarer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Gjasula K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Gjasula K.",
+          "formation_raw": "23 Gjasula",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Isherwood T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Isherwood T.",
+          "formation_raw": "3 Isherwood",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 38,
+          "name": "Riedel C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Riedel C.",
+          "formation_raw": "38 Riedel",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Schnellhardt F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Schnellhardt F.",
+          "formation_raw": "8 Schnellhardt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Franjic B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Franjic B.",
+          "formation_raw": "28 Franjic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Karic E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Karic E.",
+          "formation_raw": "19 Karic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Pfeiffer L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Pfeiffer L.",
+          "formation_raw": "24 Pfeiffer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 18,
+          "name": "Honsak M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Honsak M.",
+          "formation_raw": "18 Honsak",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Skarke T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Skarke T.",
+          "formation_raw": "27 Skarke",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 26,
+          "name": "Bader M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Bader M.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Behrens M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "13 Behrens M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Brunst A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Brunst A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Kempe T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Kempe T.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Maglica M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Maglica M.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Muller A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Muller A.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Muller J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Muller J.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Ronstadt F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Ronstadt F.",
+          "source": "detailed"
+        },
+        {
+          "number": 42,
+          "name": "Torsiello F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Torsiello F.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "75",
+          "incoming": "Torsiello F.",
+          "outgoing": "Riedel C.",
+          "incoming_rating": 6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Torsiello F. 6.0 Riedel C. 75'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Bader M.",
+          "outgoing": "Honsak M.",
+          "incoming_rating": 6.6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bader M. 6.6 Honsak M. 75'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Ronstadt F.",
+          "outgoing": "Klarer C.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ronstadt F. 6.5 Klarer C. 75'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Maglica M.",
+          "outgoing": "Isherwood T.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Maglica M. Isherwood T. 84'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Kempe T.",
+          "outgoing": "Schnellhardt F.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Kempe T. Schnellhardt F. 84'"
+        }
+      ],
+      "coach": "Lieberknecht T."
+    },
+    "away": {
+      "formation": "3-3-2-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Casteels",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Casteels",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Bornauw",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bornauw",
+          "source": "formation"
+        },
+        {
+          "number": 25,
+          "name": "Jenz",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Jenz",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Lacroix",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Lacroix",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Baku",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Baku",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Vranckx",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Vranckx",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Maehle",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Maehle",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Svanberg",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Svanberg",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Gerhardt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Gerhardt",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Wind",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Wind",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Majer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Majer",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Casteels K.",
+          "goalkeeper": true,
+          "captain": true,
+          "raw": "1 Casteels K. (G) (C)",
+          "formation_raw": "1 Casteels",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Bornauw S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bornauw S.",
+          "formation_raw": "3 Bornauw",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 25,
+          "name": "Jenz M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Jenz M.",
+          "formation_raw": "25 Jenz",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Lacroix M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Lacroix M.",
+          "formation_raw": "4 Lacroix",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Baku R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Baku R.",
+          "formation_raw": "20 Baku",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Vranckx A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Vranckx A.",
+          "formation_raw": "6 Vranckx",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Maehle J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Maehle J.",
+          "formation_raw": "21 Maehle",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Svanberg M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Svanberg M.",
+          "formation_raw": "32 Svanberg",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 31,
+          "name": "Gerhardt Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Gerhardt Y.",
+          "formation_raw": "31 Gerhardt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Wind J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Wind J.",
+          "formation_raw": "23 Wind",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Majer L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Majer L.",
+          "formation_raw": "19 Majer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 41,
+          "name": "Amoako K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Amoako K.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Cerny V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Cerny V.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Cozza N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Cozza N.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Fischer K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Fischer K.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Kaminski J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Kaminski J.",
+          "source": "detailed"
+        },
+        {
+          "number": 40,
+          "name": "Paredes K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "40 Paredes K.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "Pervan P.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "12 Pervan P. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Tomas T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Tomas T.",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Zesiger C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Zesiger C.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "87",
+          "incoming": "Kaminski J.",
+          "outgoing": "Majer L.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Kaminski J. Majer L. 87'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Paredes K.",
+          "outgoing": "Gerhardt Y.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Paredes K. Gerhardt Y. 88'"
+        },
+        {
+          "minute": "90+5",
+          "incoming": "Amoako K.",
+          "outgoing": "Svanberg M.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Amoako K. Svanberg M. 90+5'"
+        },
+        {
+          "minute": "90+6",
+          "incoming": "Zesiger C.",
+          "outgoing": "Baku R.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Zesiger C. Baku R. 90+6'"
+        }
+      ],
+      "coach": "Kovac N."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Schuhen",
+      "14 Klarer",
+      "23 Gjasula",
+      "3 Isherwood",
+      "38 Riedel",
+      "8 Schnellhardt",
+      "28 Franjic",
+      "19 Karic",
+      "24 Pfeiffer",
+      "18 Honsak",
+      "27 Skarke",
+      "1 Casteels",
+      "3 Bornauw",
+      "25 Jenz",
+      "4 Lacroix",
+      "20 Baku",
+      "6 Vranckx",
+      "21 Maehle",
+      "32 Svanberg",
+      "31 Gerhardt",
+      "23 Wind",
+      "19 Majer",
+      "Torsiello F. 6.0 Riedel C. 75'",
+      "Bader M. 6.6 Honsak M. 75'",
+      "Ronstadt F. 6.5 Klarer C. 75'",
+      "Maglica M. Isherwood T. 84'",
+      "Kempe T. Schnellhardt F. 84'",
+      "Kaminski J. Majer L. 87'",
+      "Paredes K. Gerhardt Y. 88'",
+      "Amoako K. Svanberg M. 90+5'",
+      "Zesiger C. Baku R. 90+6'",
+      "1 Schuhen M. (G) (C)",
+      "14 Klarer C.",
+      "23 Gjasula K.",
+      "3 Isherwood T.",
+      "38 Riedel C.",
+      "8 Schnellhardt F.",
+      "28 Franjic B.",
+      "19 Karic E.",
+      "24 Pfeiffer L.",
+      "18 Honsak M.",
+      "27 Skarke T.",
+      "1 Casteels K. (G) (C)",
+      "3 Bornauw S.",
+      "25 Jenz M.",
+      "4 Lacroix M.",
+      "20 Baku R.",
+      "6 Vranckx A.",
+      "21 Maehle J.",
+      "32 Svanberg M.",
+      "31 Gerhardt Y.",
+      "23 Wind J.",
+      "19 Majer L.",
+      "26 Bader M.",
+      "13 Behrens M. (G)",
+      "30 Brunst A. (G)",
+      "11 Kempe T.",
+      "5 Maglica M.",
+      "16 Muller A.",
+      "20 Muller J.",
+      "17 Ronstadt F.",
+      "42 Torsiello F.",
+      "41 Amoako K.",
+      "7 Cerny V.",
+      "8 Cozza N.",
+      "2 Fischer K.",
+      "16 Kaminski J.",
+      "40 Paredes K.",
+      "12 Pervan P. (G)",
+      "11 Tomas T.",
+      "5 Zesiger C.",
+      "Holland F. Illness",
+      "Hornby F. Ankle Injury",
+      "Manu B. M. Ankle Injury",
+      "Mehlem M. Broken Leg",
+      "Nurnberger F. Ankle Injury",
+      "Zimmermann C. Illness",
+      "Arnold M. Yellow Cards",
+      "Lange F. Ankle Injury",
+      "Nmecha L. Knee Injury",
+      "Rogerio Muscle Injury",
+      "Sarr A. Knee Injury",
+      "Wimmer P. Ankle Injury",
+      "Lieberknecht T.",
+      "Kovac N."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 324
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 118,
+    "compact_lineup_text_count": 85,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 9,
+    "coach_candidate_count": 4,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 8,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+8' That's the end of the match."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Robert Hartmann shows a yellow card to Klaus Gjasula (Darmstadt) for his blatant foul."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' Here is a change. Ridle Baku is going off and Niko Kovac gives the last tactical orders to Cedric Zesiger (Wolfsburg)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Possibly concussed, Mattias Svanberg (Wolfsburg) leaves the field to be replaced by Kofi Jeremy Amoako."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' The game is interrupted now, Mattias Svanberg (Wolfsburg) picks up a knock and the physio has to come on."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Robert Hartmann blows his whistle as Matej Maglica (Darmstadt) used excessive force in the tackle during an attack."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 4 additional min. will be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Tobias Kempe (Darmstadt) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Niko Kovac prepares a substitution. Yannick Gerhardt is replaced by Kevin Paredes (Wolfsburg)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Substitution. Jakub Kaminski (Wolfsburg) in, Lovro Majer out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Tobias Kempe (Darmstadt) launches a cross from the corner, but Koen Casteels is alert to thwart the effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Tobias Kempe (Darmstadt) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Torsten Lieberknecht has decided to introduce fresh legs, with Tobias Kempe (Darmstadt) replacing Fabian Schnellhardt."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' The manager has decided to make a substitution and Thomas Poppler Isherwood walks off the pitch to be replaced by Matej Maglica (Darmstadt)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Joakim Maehle (Wolfsburg) has the goal in his sights after a good run to the edge of the box, but his weak effort flies high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' That was close by Emir Karic (Darmstadt)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Emir Karic (Darmstadt) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' The corner is swung in but Darmstadt can’t take advantage as a defender sweeps the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Luca Pfeiffer (Darmstadt) is obviously very disappointed with his shot from the rebound. He aims exactly at the goalkeeper's gloves. This should have been an easy goal! Darmstadt force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Fabian Schnellhardt (Darmstadt) steadies himself and bends in a shot from the edge of the box towards the right side of the goal, but Koen Casteels has it covered and makes a comfortable save."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' The substitution has been made. Frank Ronstadt (Darmstadt) has replaced Christoph Klarer."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Matthias Bader (Darmstadt) joins the action as a substitute, replacing Mathias Honsak."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Torsten Lieberknecht has decided to substitute Clemens Riedel and he is replaced by Fabio Torsiello (Darmstadt)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' The corner from Lovro Majer (Wolfsburg) is cleared away by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Lovro Majer (Wolfsburg) whips in a cross from the corner, but Marcel Schuhen is well positioned and punches the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Mattias Svanberg (Wolfsburg) wastes a good opportunity as his pass into the box is blocked by the defence. The ball goes out of play. Wolfsburg are awarded a corner kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Mathias Honsak (Darmstadt) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Robert Hartmann ignores the protests."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 63,
+      "added_time": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "63' 0 - 1 Goal! Lovro Majer (Wolfsburg) neatly controls a decent pass from Jonas Wind. He looks up and smashes an unstoppable drive into the bottom left corner from the edge of the box. 0:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Mathias Honsak (Darmstadt) rises above the defenders and places a towering header towards the middle of the goal, but Koen Casteels is prepared to thwart his effort."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' A good clearance by a defender means the corner comes to nothing for Darmstadt."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' Mathias Honsak (Darmstadt) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Darmstadt have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Lovro Majer (Wolfsburg) sends the corner into the box, but Marcel Schuhen intercepts it and averts the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' The ball is whipped in from the corner by Lovro Majer (Wolfsburg), but one of the defenders gets it clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Lovro Majer (Wolfsburg) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' A fine lofted pass into the box, sent by Bartol Franjic (Darmstadt), is intercepted by the opposition's defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The second half has just started."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+6' Robert Hartmann blows his whistle to signal the end of the first-half action."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' There will be a minimum of 5 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' The corner is aimed towards the penalty spot where it's met by Clemens Riedel (Darmstadt), but his timing is poor and it flies high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Fabian Schnellhardt (Darmstadt) is about to take a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Some patient build-up play from Darmstadt as they look to unlock the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' The percentage of ball possession is – 50:50. Total attempts – 3:4."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' Fabian Schnellhardt (Darmstadt) misses a promising chance to score from the free kick, but Koen Casteels makes a decent save."
+    },
+    {
+      "type": "red_card",
+      "primary_type": "red_card",
+      "tags": [
+        "red_card"
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Maxence Lacroix (Wolfsburg) makes a horrible challenge on his opponent and receives a red card from the referee!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Yannick Gerhardt (Wolfsburg) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Fabian Schnellhardt (Darmstadt) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Clemens Riedel (Darmstadt) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The ball is out of play. A goal-scoring opportunity from a corner for Darmstadt."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Christoph Klarer (Darmstadt) fouls an opponent during an attacking move."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Wolfsburg can’t profit from the corner as the defence clear the ball upfield."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Wolfsburg have been awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Yannick Gerhardt (Wolfsburg) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Wolfsburg have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' Fabian Schnellhardt (Darmstadt) puts a cross into the box from the free kick, but the defender gets there first."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half has started."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out and the match is about to start. Wolfsburg will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Robert Hartmann is the one to supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 63,
+        "added_time": null,
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "63' 0 - 1 Goal! Lovro Majer (Wolfsburg) neatly controls a decent pass from Jonas Wind. He looks up and smashes an unstoppable drive into the bottom left corner from the edge of the box. 0:1.",
+        "team_side": "away",
+        "team": "Wolfsburg",
+        "player_team_side": "away",
+        "player_team": "Wolfsburg",
+        "player": "Majer L.",
+        "shirt_number": 19,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 0,
+          "away": 1
+        },
+        "assist_player": "Wind J.",
+        "assist_shirt_number": 23,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' Robert Hartmann shows a yellow card to Klaus Gjasula (Darmstadt) for his blatant foul.",
+        "team_side": "home",
+        "team": "Darmstadt",
+        "player": "Gjasula K.",
+        "shirt_number": 23,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "69' Mathias Honsak (Darmstadt) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Robert Hartmann ignores the protests.",
+        "team_side": "home",
+        "team": "Darmstadt",
+        "player": "Honsak M.",
+        "shirt_number": 18,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+      {
+        "type": "red_card",
+        "primary_type": "red_card",
+        "tags": [
+          "red_card"
+        ],
+        "minute": 27,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "27' Maxence Lacroix (Wolfsburg) makes a horrible challenge on his opponent and receives a red card from the referee!",
+        "team_side": "away",
+        "team": "Wolfsburg",
+        "player": "Lacroix M.",
+        "shirt_number": 4,
+        "player_match_score": 132,
+        "card_type": "red",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+6' Here is a change. Ridle Baku is going off and Niko Kovac gives the last tactical orders to Cedric Zesiger (Wolfsburg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+5' Possibly concussed, Mattias Svanberg (Wolfsburg) leaves the field to be replaced by Kofi Jeremy Amoako."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Niko Kovac prepares a substitution. Yannick Gerhardt is replaced by Kevin Paredes (Wolfsburg)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "87' Substitution. Jakub Kaminski (Wolfsburg) in, Lovro Majer out."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' Torsten Lieberknecht has decided to introduce fresh legs, with Tobias Kempe (Darmstadt) replacing Fabian Schnellhardt."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' The manager has decided to make a substitution and Thomas Poppler Isherwood walks off the pitch to be replaced by Matej Maglica (Darmstadt)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' The substitution has been made. Frank Ronstadt (Darmstadt) has replaced Christoph Klarer."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' Matthias Bader (Darmstadt) joins the action as a substitute, replacing Mathias Honsak."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 75,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "75' Torsten Lieberknecht has decided to substitute Clemens Riedel and he is replaced by Fabio Torsiello (Darmstadt)."
+      }
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+2' Robert Hartmann blows his whistle as Matej Maglica (Darmstadt) used excessive force in the tackle during an attack."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 6,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+6' Robert Hartmann blows his whistle to signal the end of the first-half action."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 1,
+    "detected_goal_count": 1,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 1,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 102,
+    "commentary_row_count": 58,
+    "removed_commentary_noise_count": 44,
+    "goal_event_count": 1,
+    "yellow_card_event_count": 2,
+    "red_card_event_count": 1,
+    "substitution_event_count": 9,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 1,
+      "detected_goal_count": 1
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 1,
+    "structured_goal_count": 1,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 2,
+    "structured_yellow_card_count": 2,
+    "red_card_event_count": 1,
+    "structured_red_card_count": 1,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T08:59:05Z",
+  "collector_profile": {
+    "competition_key": "bundesliga",
+    "competition": "German Bundesliga",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 58,
+      "error": null
+    }
+  }
+}

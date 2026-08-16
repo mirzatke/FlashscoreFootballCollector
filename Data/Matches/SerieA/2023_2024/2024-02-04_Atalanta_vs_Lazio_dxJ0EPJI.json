@@ -1,0 +1,2830 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/atalanta-8C9JjMXu/lazio-URcSl02h/summary/stats/overall/?mid=dxJ0EPJI",
+  "match_id": "dxJ0EPJI",
+  "page_title": "ATA 3-1 LAZ | Atalanta v Lazio 04/02/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "04.02.2024 21:00",
+  "home_team": "Atalanta",
+  "away_team": "Lazio",
+  "score": {
+    "home": "3",
+    "away": "1",
+    "display": "3 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "2.42",
+      "away": "1.07",
+      "raw_values": [
+        "2.42",
+        "1.07"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "53%",
+      "away": "47%",
+      "raw_values": [
+        "53%",
+        "47%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "19",
+      "away": "7",
+      "raw_values": [
+        "19",
+        "7"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "5",
+      "away": "1",
+      "raw_values": [
+        "5",
+        "1"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "6",
+      "away": "1",
+      "raw_values": [
+        "6",
+        "1"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "86%\n(477/555)",
+      "away": "84%\n(416/495)",
+      "raw_values": [
+        "86%\n(477/555)",
+        "84%\n(416/495)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "3",
+      "raw_values": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "9",
+      "away": "3",
+      "raw_values": [
+        "9",
+        "3"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "5",
+      "away": "3",
+      "raw_values": [
+        "5",
+        "3"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "1",
+      "raw_values": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "13",
+      "away": "13",
+      "raw_values": [
+        "13",
+        "13"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "7",
+      "away": "25",
+      "raw_values": [
+        "7",
+        "25"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "13",
+      "away": "14",
+      "raw_values": [
+        "13",
+        "14"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "0",
+      "away": "2",
+      "raw_values": [
+        "0",
+        "2"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "2.42",
+        "away": "1.07",
+        "raw_values": [
+          "2.42",
+          "1.07"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "53%",
+        "away": "47%",
+        "raw_values": [
+          "53%",
+          "47%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "19",
+        "away": "7",
+        "raw_values": [
+          "19",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "6",
+        "away": "1",
+        "raw_values": [
+          "6",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "86%\n(477/555)",
+        "away": "84%\n(416/495)",
+        "raw_values": [
+          "86%\n(477/555)",
+          "84%\n(416/495)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "9",
+        "away": "3",
+        "raw_values": [
+          "9",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "5",
+        "away": "3",
+        "raw_values": [
+          "5",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "13",
+        "away": "13",
+        "raw_values": [
+          "13",
+          "13"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "7",
+        "away": "25",
+        "raw_values": [
+          "7",
+          "25"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "13",
+        "away": "14",
+        "raw_values": [
+          "13",
+          "14"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.61",
+        "away": "0.09",
+        "raw_values": [
+          "1.61",
+          "0.09"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "56%",
+        "away": "44%",
+        "raw_values": [
+          "56%",
+          "44%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "12",
+        "away": "1",
+        "raw_values": [
+          "12",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "86%\n(228/265)",
+        "away": "85%\n(177/208)",
+        "raw_values": [
+          "86%\n(228/265)",
+          "85%\n(177/208)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "4",
+        "away": "0",
+        "raw_values": [
+          "4",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "6",
+        "away": "7",
+        "raw_values": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "5",
+        "away": "15",
+        "raw_values": [
+          "5",
+          "15"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.81",
+        "away": "0.98",
+        "raw_values": [
+          "0.81",
+          "0.98"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "50%",
+        "away": "50%",
+        "raw_values": [
+          "50%",
+          "50%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "86%\n(249/290)",
+        "away": "83%\n(239/287)",
+        "raw_values": [
+          "86%\n(249/290)",
+          "83%\n(239/287)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "2",
+        "away": "10",
+        "raw_values": [
+          "2",
+          "10"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "8",
+        "raw_values": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-4-1-2",
+      "formation_players": [
+        {
+          "number": 29,
+          "name": "Carnesecchi",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "29 Carnesecchi",
+          "source": "formation"
+        },
+        {
+          "number": 42,
+          "name": "Scalvini",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Scalvini",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Djimsiti",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Djimsiti",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Kolasinac",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Kolasinac",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Holm",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Holm",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "de Roon",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "15 de Roon",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Ederson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Ederson",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Ruggeri",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Ruggeri",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Pasalic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Pasalic",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "De Ketelaere",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 De Ketelaere",
+          "source": "formation"
+        },
+        {
+          "number": 59,
+          "name": "Miranchuk",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "59 Miranchuk",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 29,
+          "name": "Carnesecchi M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "29 Carnesecchi M. (G)",
+          "formation_raw": "29 Carnesecchi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 42,
+          "name": "Scalvini G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "42 Scalvini G.",
+          "formation_raw": "42 Scalvini",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Djimsiti B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Djimsiti B.",
+          "formation_raw": "19 Djimsiti",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Kolasinac S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Kolasinac S.",
+          "formation_raw": "23 Kolasinac",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Holm E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Holm E.",
+          "formation_raw": "3 Holm",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "De Roon M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "15 De Roon M. (C)",
+          "formation_raw": "15 de Roon",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Ederson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Ederson",
+          "formation_raw": "13 Ederson",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 22,
+          "name": "Ruggeri M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Ruggeri M.",
+          "formation_raw": "22 Ruggeri",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Pasalic M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Pasalic M.",
+          "formation_raw": "8 Pasalic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "De Ketelaere C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 De Ketelaere C. 2",
+          "formation_raw": "17 De Ketelaere",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 2
+        },
+        {
+          "number": 59,
+          "name": "Miranchuk Al.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "59 Miranchuk Al.",
+          "formation_raw": "59 Miranchuk",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 20,
+          "name": "Bakker M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Bakker M.",
+          "source": "detailed"
+        },
+        {
+          "number": 43,
+          "name": "Bonfanti G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "43 Bonfanti G.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Hateboer H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Hateboer H.",
+          "source": "detailed"
+        },
+        {
+          "number": 44,
+          "name": "Mendicino L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Mendicino L.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Muriel L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Muriel L.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Musso J.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Musso J. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 31,
+          "name": "Rossi F.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "31 Rossi F. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 90,
+          "name": "Scamacca G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "90 Scamacca G.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Toloi R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Toloi R.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Toure E. B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Toure E. B.",
+          "source": "detailed"
+        },
+        {
+          "number": 77,
+          "name": "Zappacosta D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Zappacosta D.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "64",
+          "incoming": "Hateboer H.",
+          "outgoing": "Holm E.",
+          "incoming_rating": 6.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Hateboer H. 6.7 Holm E. 64'"
+        },
+        {
+          "minute": "64",
+          "incoming": "Scamacca G.",
+          "outgoing": "Miranchuk Al.",
+          "incoming_rating": 7.6,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Scamacca G. 7.6 Miranchuk Al. 64'"
+        },
+        {
+          "minute": "79",
+          "incoming": "Muriel L.",
+          "outgoing": "De Ketelaere C.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Muriel L. 6.1 De Ketelaere C. 79'"
+        },
+        {
+          "minute": "79",
+          "incoming": "Toloi R.",
+          "outgoing": "Pasalic M.",
+          "incoming_rating": 6.1,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Toloi R. 6.1 Pasalic M. 79'"
+        },
+        {
+          "minute": "90+1",
+          "incoming": "Mendicino L.",
+          "outgoing": "Ederson",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 12,
+          "split_match_score": 48,
+          "raw": "Mendicino L. Ederson 90+1'"
+        }
+      ],
+      "coach": "Gasperini G."
+    },
+    "away": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 94,
+          "name": "Provedel",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "94 Provedel",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Lazzari",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Lazzari",
+          "source": "formation"
+        },
+        {
+          "number": 34,
+          "name": "Gila",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Gila",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Romagnoli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Romagnoli",
+          "source": "formation"
+        },
+        {
+          "number": 77,
+          "name": "Marusic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Marusic",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Guendouzi",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Guendouzi",
+          "source": "formation"
+        },
+        {
+          "number": 65,
+          "name": "Rovella",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "65 Rovella",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Luis Alberto",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "10 Luis Alberto",
+          "source": "formation"
+        },
+        {
+          "number": 18,
+          "name": "Isaksen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Isaksen",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Castellanos",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Castellanos",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Felipe Anderson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Felipe Anderson",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 94,
+          "name": "Provedel I.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "94 Provedel I. (G)",
+          "formation_raw": "94 Provedel",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Lazzari M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Lazzari M.",
+          "formation_raw": "29 Lazzari",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 34,
+          "name": "Gila M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Gila M.",
+          "formation_raw": "34 Gila",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Romagnoli A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Romagnoli A.",
+          "formation_raw": "13 Romagnoli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 77,
+          "name": "Marusic A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Marusic A.",
+          "formation_raw": "77 Marusic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Guendouzi M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Guendouzi M.",
+          "formation_raw": "8 Guendouzi",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 65,
+          "name": "Rovella N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "65 Rovella N.",
+          "formation_raw": "65 Rovella",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Luis Alberto",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "10 Luis Alberto (C)",
+          "formation_raw": "10 Luis Alberto",
+          "source": "formation_detail_match",
+          "match_score": 17
+        },
+        {
+          "number": 18,
+          "name": "Isaksen G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Isaksen G.",
+          "formation_raw": "18 Isaksen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Castellanos T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Castellanos T.",
+          "formation_raw": "19 Castellanos",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Felipe Anderson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Felipe Anderson",
+          "formation_raw": "7 Felipe Anderson",
+          "source": "formation_fallback",
+          "match_score": 0
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 15,
+          "name": "Casale N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Casale N.",
+          "source": "detailed"
+        },
+        {
+          "number": 70,
+          "name": "Fernandes S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "70 Fernandes S.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Hysaj E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Hysaj E.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Immobile C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Immobile C.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Kamada D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Kamada D.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Kamenovic D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Kamenovic D.",
+          "source": "detailed"
+        },
+        {
+          "number": 35,
+          "name": "Mandas C.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "35 Mandas C. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Pedro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Pedro",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "Pellegrini Lu.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Pellegrini Lu.",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Sepe L.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "33 Sepe L. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Vecino M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Vecino M.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Casale N.",
+          "outgoing": "Gila M.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Casale N. 6.3 Gila M. 46'"
+        },
+        {
+          "minute": "46",
+          "incoming": "Pellegrini Lu.",
+          "outgoing": "Lazzari M.",
+          "incoming_rating": 6.2,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Pellegrini Lu. 6.2 Lazzari M. 46'"
+        },
+        {
+          "minute": "64",
+          "incoming": "Pedro",
+          "outgoing": "Isaksen G.",
+          "incoming_rating": 6.9,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Pedro 6.9 Isaksen G. 64'"
+        },
+        {
+          "minute": "64",
+          "incoming": "Immobile C.",
+          "outgoing": "Castellanos T.",
+          "incoming_rating": 7.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Immobile C. 7.6 Castellanos T. 64'"
+        },
+        {
+          "minute": "69",
+          "incoming": "Vecino M.",
+          "outgoing": "Luis Alberto",
+          "incoming_rating": 6.5,
+          "side": "away",
+          "side_match_score": 12,
+          "split_match_score": null,
+          "raw": "Vecino M. 6.5 Luis Alberto 69'"
+        }
+      ],
+      "coach": "Sarri M."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "29 Carnesecchi",
+      "42 Scalvini",
+      "19 Djimsiti",
+      "23 Kolasinac",
+      "3 Holm",
+      "15 de Roon",
+      "13 Ederson",
+      "22 Ruggeri",
+      "8 Pasalic",
+      "17 De Ketelaere",
+      "59 Miranchuk",
+      "94 Provedel",
+      "29 Lazzari",
+      "34 Gila",
+      "13 Romagnoli",
+      "77 Marusic",
+      "8 Guendouzi",
+      "65 Rovella",
+      "10 Luis Alberto",
+      "18 Isaksen",
+      "19 Castellanos",
+      "7 Felipe Anderson",
+      "Hateboer H. 6.7 Holm E. 64'",
+      "Scamacca G. 7.6 Miranchuk Al. 64'",
+      "Muriel L. 6.1 De Ketelaere C. 79'",
+      "Toloi R. 6.1 Pasalic M. 79'",
+      "Mendicino L. Ederson 90+1'",
+      "Casale N. 6.3 Gila M. 46'",
+      "Pellegrini Lu. 6.2 Lazzari M. 46'",
+      "Pedro 6.9 Isaksen G. 64'",
+      "Immobile C. 7.6 Castellanos T. 64'",
+      "Vecino M. 6.5 Luis Alberto 69'",
+      "29 Carnesecchi M. (G)",
+      "42 Scalvini G.",
+      "19 Djimsiti B.",
+      "23 Kolasinac S.",
+      "3 Holm E.",
+      "15 De Roon M. (C)",
+      "22 Ruggeri M.",
+      "8 Pasalic M.",
+      "17 De Ketelaere C. 2",
+      "59 Miranchuk Al.",
+      "94 Provedel I. (G)",
+      "29 Lazzari M.",
+      "34 Gila M.",
+      "13 Romagnoli A.",
+      "77 Marusic A.",
+      "8 Guendouzi M.",
+      "65 Rovella N.",
+      "10 Luis Alberto (C)",
+      "18 Isaksen G.",
+      "19 Castellanos T.",
+      "20 Bakker M.",
+      "43 Bonfanti G.",
+      "33 Hateboer H.",
+      "44 Mendicino L.",
+      "9 Muriel L.",
+      "1 Musso J. (G)",
+      "31 Rossi F. (G)",
+      "90 Scamacca G.",
+      "2 Toloi R.",
+      "10 Toure E. B.",
+      "77 Zappacosta D.",
+      "15 Casale N.",
+      "70 Fernandes S.",
+      "23 Hysaj E.",
+      "17 Immobile C.",
+      "6 Kamada D.",
+      "16 Kamenovic D.",
+      "35 Mandas C. (G)",
+      "9 Pedro",
+      "3 Pellegrini Lu.",
+      "33 Sepe L. (G)",
+      "5 Vecino M.",
+      "Hien I. Thigh Injury",
+      "Koopmeiners T. Ankle Injury",
+      "Lookman A. International duty",
+      "Palomino J. L. Hamstring Injury",
+      "Vorlicky L. Knee Injury",
+      "Cataldi D. Yellow Cards",
+      "Patric Shoulder Injury",
+      "Zaccagni M. Toe Injury",
+      "Gasperini G.",
+      "Sarri M."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 11,
+    "away_substitute_count": 11,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 42,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 11,
+    "bench_boundary_score": 360
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 120,
+    "compact_lineup_text_count": 84,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 42,
+    "substitution_count": 10,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 11,
+    "structured_away_substitute_count": 11,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 11
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' That's all for today as the game is over."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+4' The Lazio players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Ederson comes off the pitch to be replaced by Leonardo Mendicino (Atalanta)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' The fourth official shows 4 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 89,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "89' Lazio hold the ball and display nice passing from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' One of the Atalanta players commits a holding foul and the referee reaches for his whistle."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "84' 3 - 1 Goal! Ciro Immobile (Lazio) wins the battle of wills and sends an unstoppable penalty past Marco Carnesecchi into the bottom right corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Ciro Immobile (Lazio) is heading towards the penalty spot to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Berat Djimsiti (Atalanta) tackles a bit over-zealously and Marco Guida blows for a foul. That's a penalty to Lazio! They have a good chance to score now."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Here is a change. Mario Pasalic is going off and Gian Piero Gasperini gives the last tactical orders to Rafael Toloi (Atalanta)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Substitution. Luis Muriel (Atalanta) in, Charles De Ketelaere out."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' The whistle blows and Ederson (Atalanta) is booked for an infringement."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "76' 3 - 0 An amazing individual effort from Charles De Ketelaere (Atalanta) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 3:0. Ivan Provedel was helpless."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Atalanta control the tempo of the game by exchanging some accurate short passes."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' The game is interrupted. One of the players from Lazio is cautioned for aggressive play."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' The referee stops play so that a substitution can be made and Matias Vecino (Lazio) replaces Luis Alberto."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Marco Guida blows the whistle, Matteo Ruggeri (Atalanta) is penalised for a foul."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Maurizio Sarri has decided to substitute Taty Castellanos and he is replaced by Ciro Immobile (Lazio)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Today's match ends for Gustav Isaksen who will be replaced by Pedro (Lazio)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Gian Piero Gasperini has decided to make a change. Gianluca Scamacca (Atalanta) replaces Aleksey Miranchuk."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Substitution. Hans Hateboer (Atalanta) receives a signal from the referee and is now allowed to enter the pitch as Emil Holm walks off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Lazio keep possession of the ball by producing short passes and one-two passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' 3:0 - the latest stats for both teams in respect of shots on target."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Marco Guida interrupts the game. One of the players from Atalanta won the ball, but his effort is adjudged unfair."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 55,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "55' The Lazio players are exchanging short passes in an attempt to create a shooting opportunity."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Gustav Isaksen (Lazio) is first to the rebound inside the box but sends his effort well wide of the left post. The ball is off of the pitch and it's a goal kick for Atalanta."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 51,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "51' Lazio are seeing far more of the ball now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' Atalanta have a chance to score from a corner kick, but the ball is cleared by a defender."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Nicolo Rovella (Lazio) is awarded a yellow card for his behaviour."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Maurizio Sarri has decided to introduce fresh legs, with Nicolo Casale (Lazio) replacing Mario Gila."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The referee signals that it is time for a substitution and Luca Pellegrini (Lazio) will replace Manuel Lazzari."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The referee blows his whistle to signal the start of the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Marco Guida blows his whistle to signal the end of the first-half action."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Luis Alberto (Lazio) picked up a yellow card for saying too much to the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Giorgio Scalvini (Atalanta) beats his marker in the air and aims a header at goal from the free kick, but the close-range effort flashes just over the bar. The ball goes out of play and Lazio will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' 1 additional min. will be played."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Felipe Anderson (Lazio) is booked after bringing down an opponent. Marco Guida had an easy-decision to make."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Lazio are bossing possession at the moment by exchanging some precise passes from player to player."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Lazio can’t profit from the corner as the defence clear the ball upfield."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "43' 2 - 0 Goal! Charles De Ketelaere (Atalanta) puts the ball into the middle of the goal past the outstretched arm of Ivan Provedel."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Charles De Ketelaere (Atalanta) is going to take the penalty!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' The Atalanta players are happy as the referee awards a PENALTY after the VAR review!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Referee Marco Guida makes the VAR signal and is going to check whether it’s a penalty. Let’s see what happens!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Surely that's handball by one of the Lazio players in the box, but the referee just waves play on!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Aleksey Miranchuk (Atalanta) will take the corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' A fantastic block by a defender means that the corner from Atalanta comes to nothing."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' A corner kick by Atalanta is thwarted by the well prepared Ivan Provedel (Lazio)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' A spell of possession for Atalanta in an attempt to control the game."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' The number of shots on goal at present is 2:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Atalanta are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Giorgio Scalvini (Atalanta) brings his opponent down with a tackle and Marco Guida blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Charles De Ketelaere (Atalanta) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Some great controlled play and passing from Lazio. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' A player from Atalanta commits a rough challenge. Marco Guida blows for a foul and keeps the game under control."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Matteo Guendouzi (Lazio) jumps into a tackle and Marco Guida signals a foul."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "16' 1 - 0 Goal! Mario Pasalic (Atalanta) with a wonderful piece of finishing. He makes a yard for himself after a well-taken pass inside the box and strikes the ball into the bottom left corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' One of the Lazio players tripped an opponent and conceded a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Lazio enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' Mario Pasalic (Atalanta) takes his opponent down and receives a yellow card from the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Atalanta are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' The resulting set piece from Atalanta is comfortably intercepted by one of the defending players."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Atalanta keep the ball and are displaying some tiki-taka style passing at the moment."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The referee blows his whistle and we are underway."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Atalanta will kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Let us introduce today's referee to you, and it's Marco Guida."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "84' 3 - 1 Goal! Ciro Immobile (Lazio) wins the battle of wills and sends an unstoppable penalty past Marco Carnesecchi into the bottom right corner.",
+        "team_side": "away",
+        "team": "Lazio",
+        "player_team_side": "away",
+        "player_team": "Lazio",
+        "player": "Immobile C.",
+        "shirt_number": 17,
+        "player_match_score": 135,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "76' 3 - 0 An amazing individual effort from Charles De Ketelaere (Atalanta) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 3:0. Ivan Provedel was helpless.",
+        "team_side": "home",
+        "team": "Atalanta",
+        "player_team_side": "home",
+        "player_team": "Atalanta",
+        "player": "De Ketelaere C.",
+        "shirt_number": 17,
+        "player_match_score": 149,
+        "goal_type": "penalty",
+        "is_penalty": true,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 43,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "43' 2 - 0 Goal! Charles De Ketelaere (Atalanta) puts the ball into the middle of the goal past the outstretched arm of Ivan Provedel.",
+        "team_side": "home",
+        "team": "Atalanta",
+        "player_team_side": "home",
+        "player_team": "Atalanta",
+        "player": "De Ketelaere C.",
+        "shirt_number": 17,
+        "player_match_score": 145,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 16,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "16' 1 - 0 Goal! Mario Pasalic (Atalanta) with a wonderful piece of finishing. He makes a yard for himself after a well-taken pass inside the box and strikes the ball into the bottom left corner.",
+        "team_side": "home",
+        "team": "Atalanta",
+        "player_team_side": "home",
+        "player_team": "Atalanta",
+        "player": "Pasalic M.",
+        "shirt_number": 8,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' The whistle blows and Ederson (Atalanta) is booked for an infringement.",
+        "team_side": "home",
+        "team": "Atalanta",
+        "player": "Ederson",
+        "shirt_number": 13,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' The game is interrupted. One of the players from Lazio is cautioned for aggressive play."
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 47,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "47' Nicolo Rovella (Lazio) is awarded a yellow card for his behaviour.",
+        "team_side": "away",
+        "team": "Lazio",
+        "player": "Rovella N.",
+        "shirt_number": 65,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' Luis Alberto (Lazio) picked up a yellow card for saying too much to the referee.",
+        "team_side": "away",
+        "team": "Lazio",
+        "player": "Luis Alberto",
+        "shirt_number": 10,
+        "player_match_score": 153,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "45' Felipe Anderson (Lazio) is booked after bringing down an opponent. Marco Guida had an easy-decision to make.",
+        "team_side": "away",
+        "team": "Lazio",
+        "player": "Felipe Anderson",
+        "shirt_number": 7,
+        "player_match_score": 152,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 9,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "9' Mario Pasalic (Atalanta) takes his opponent down and receives a yellow card from the referee.",
+        "team_side": "home",
+        "team": "Atalanta",
+        "player": "Pasalic M.",
+        "shirt_number": 8,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+1' Ederson comes off the pitch to be replaced by Leonardo Mendicino (Atalanta)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' Here is a change. Mario Pasalic is going off and Gian Piero Gasperini gives the last tactical orders to Rafael Toloi (Atalanta)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 79,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "79' Substitution. Luis Muriel (Atalanta) in, Charles De Ketelaere out."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "69' The referee stops play so that a substitution can be made and Matias Vecino (Lazio) replaces Luis Alberto."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' Maurizio Sarri has decided to substitute Taty Castellanos and he is replaced by Ciro Immobile (Lazio)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' Today's match ends for Gustav Isaksen who will be replaced by Pedro (Lazio)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' Gian Piero Gasperini has decided to make a change. Gianluca Scamacca (Atalanta) replaces Aleksey Miranchuk."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 64,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "64' Substitution. Hans Hateboer (Atalanta) receives a signal from the referee and is now allowed to enter the pitch as Emil Holm walks off."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Maurizio Sarri has decided to introduce fresh legs, with Nicolo Casale (Lazio) replacing Mario Gila."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The referee signals that it is time for a substitution and Luca Pellegrini (Lazio) will replace Manuel Lazzari."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 43,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "43' The Atalanta players are happy as the referee awards a PENALTY after the VAR review!",
+        "review_reason": "penalty",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Atalanta",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 42
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 42,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "42' Referee Marco Guida makes the VAR signal and is going to check whether it’s a penalty. Let’s see what happens!",
+        "review_reason": "penalty",
+        "decision": "review_started",
+        "team_side": null,
+        "team": null,
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 43
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 67,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "67' Marco Guida blows the whistle, Matteo Ruggeri (Atalanta) is penalised for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The referee blows his whistle to signal the start of the second half."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+2' Marco Guida blows his whistle to signal the end of the first-half action."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 26,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "26' Giorgio Scalvini (Atalanta) brings his opponent down with a tackle and Marco Guida blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 1,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "1' The referee blows his whistle and we are underway."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 4,
+    "detected_goal_count": 4,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 4,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 121,
+    "commentary_row_count": 68,
+    "removed_commentary_noise_count": 53,
+    "goal_event_count": 4,
+    "yellow_card_event_count": 6,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 4,
+      "detected_goal_count": 4
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 4,
+    "structured_goal_count": 4,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 2,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 6,
+    "structured_yellow_card_count": 5,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": false,
+    "all_structured_events_resolved": false,
+    "event_count_mismatch": true,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 2,
+    "has_event_count_warning": true,
+    "has_identity_resolution_error": true,
+    "has_score_integrity_error": false,
+    "validation_severity": "warning",
+    "is_valid": true,
+    "unmatched_events": [
+      {
+        "event_type": "yellow_card",
+        "reason": "card_player_not_found",
+        "minute": 73,
+        "minute_raw": "73",
+        "text": "73' The game is interrupted. One of the players from Lazio is cautioned for aggressive play."
+      }
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T15:43:40Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 68,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,2842 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/toulouse-MLmY2yB1/summary/stats/overall/?mid=nJyc89HD",
+  "match_id": "nJyc89HD",
+  "page_title": "TOU 1-2 HAV | Toulouse v Le Havre 05/11/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "05.11.2023 18:00",
+  "home_team": "Toulouse",
+  "away_team": "Le Havre",
+  "score": {
+    "home": "1",
+    "away": "2",
+    "display": "1 - 2"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.80",
+      "away": "0.98",
+      "raw_values": [
+        "1.80",
+        "0.98"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "52%",
+      "away": "48%",
+      "raw_values": [
+        "52%",
+        "48%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "17",
+      "away": "15",
+      "raw_values": [
+        "17",
+        "15"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "5",
+      "away": "7",
+      "raw_values": [
+        "5",
+        "7"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "4",
+      "away": "6",
+      "raw_values": [
+        "4",
+        "6"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "83%\n(379/458)",
+      "away": "82%\n(348/426)",
+      "raw_values": [
+        "83%\n(379/458)",
+        "82%\n(348/426)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "2",
+      "away": "2",
+      "raw_values": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "7",
+      "away": "4",
+      "raw_values": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "2",
+      "raw_values": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "14",
+      "away": "11",
+      "raw_values": [
+        "14",
+        "11"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "22",
+      "away": "16",
+      "raw_values": [
+        "22",
+        "16"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "9",
+      "away": "12",
+      "raw_values": [
+        "9",
+        "12"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.80",
+        "away": "0.98",
+        "raw_values": [
+          "1.80",
+          "0.98"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "52%",
+        "away": "48%",
+        "raw_values": [
+          "52%",
+          "48%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "17",
+        "away": "15",
+        "raw_values": [
+          "17",
+          "15"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "7",
+        "raw_values": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "6",
+        "raw_values": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "83%\n(379/458)",
+        "away": "82%\n(348/426)",
+        "raw_values": [
+          "83%\n(379/458)",
+          "82%\n(348/426)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "14",
+        "away": "11",
+        "raw_values": [
+          "14",
+          "11"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "22",
+        "away": "16",
+        "raw_values": [
+          "22",
+          "16"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "9",
+        "away": "12",
+        "raw_values": [
+          "9",
+          "12"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.98",
+        "away": "0.31",
+        "raw_values": [
+          "0.98",
+          "0.31"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "58%",
+        "away": "42%",
+        "raw_values": [
+          "58%",
+          "42%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "7",
+        "away": "7",
+        "raw_values": [
+          "7",
+          "7"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "3",
+        "raw_values": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "86%\n(213/248)",
+        "away": "81%\n(146/181)",
+        "raw_values": [
+          "86%\n(213/248)",
+          "81%\n(146/181)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "4",
+        "away": "1",
+        "raw_values": [
+          "4",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "7",
+        "raw_values": [
+          "7",
+          "7"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "12",
+        "away": "8",
+        "raw_values": [
+          "12",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "7",
+        "raw_values": [
+          "7",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.82",
+        "away": "0.67",
+        "raw_values": [
+          "0.82",
+          "0.67"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "47%",
+        "away": "53%",
+        "raw_values": [
+          "47%",
+          "53%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "10",
+        "away": "8",
+        "raw_values": [
+          "10",
+          "8"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "4",
+        "away": "4",
+        "raw_values": [
+          "4",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "79%\n(166/210)",
+        "away": "82%\n(202/245)",
+        "raw_values": [
+          "79%\n(166/210)",
+          "82%\n(202/245)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "2",
+        "raw_values": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "8",
+        "raw_values": [
+          "10",
+          "8"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "2",
+        "away": "5",
+        "raw_values": [
+          "2",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 50,
+          "name": "Restes",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "50 Restes",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Desler",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Desler",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Costa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Costa",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "Nicolaisen",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "2 Nicolaisen",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Suazo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Suazo",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Schmidt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Schmidt",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Spierings",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Spierings",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Casseres",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Casseres",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Donnum",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Donnum",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Magri",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Magri",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Dallinga",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Dallinga",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 50,
+          "name": "Restes G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "50 Restes G. (G)",
+          "formation_raw": "50 Restes",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Desler M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Desler M.",
+          "formation_raw": "3 Desler",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Costa L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Costa L.",
+          "formation_raw": "6 Costa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "Nicolaisen R.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "2 Nicolaisen R. (C)",
+          "formation_raw": "2 Nicolaisen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Suazo G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Suazo G.",
+          "formation_raw": "17 Suazo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Schmidt N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Schmidt N.",
+          "formation_raw": "20 Schmidt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Spierings S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Spierings S.",
+          "formation_raw": "4 Spierings",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Casseres C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Casseres C.",
+          "formation_raw": "24 Casseres",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Donnum A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Donnum A.",
+          "formation_raw": "15 Donnum",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Magri F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Magri F.",
+          "formation_raw": "19 Magri",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Dallinga T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Dallinga T.",
+          "formation_raw": "9 Dallinga",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 21,
+          "name": "Bangre M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Bangre M.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Begraoui Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Begraoui Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 10,
+          "name": "Cissoko I.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Cissoko I.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Diarra M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Diarra M.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Dominguez A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Dominguez A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Gelabert Pina C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gelabert Pina C.",
+          "source": "detailed"
+        },
+        {
+          "number": 12,
+          "name": "Kamanzi W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "12 Kamanzi W.",
+          "source": "detailed"
+        },
+        {
+          "number": 25,
+          "name": "Keben K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Keben K.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Sierro V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Sierro V.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "68",
+          "incoming": "Diarra M.",
+          "outgoing": "Costa L.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Diarra M. 6.5 Costa L. 68'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Begraoui Y.",
+          "outgoing": "Dallinga T.",
+          "incoming_rating": 6.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Begraoui Y. 6.3 Dallinga T. 77'"
+        },
+        {
+          "minute": "77",
+          "incoming": "Sierro V.",
+          "outgoing": "Schmidt N.",
+          "incoming_rating": 6.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Sierro V. 6.7 Schmidt N. 77'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Bangre M.",
+          "outgoing": "Magri F.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Bangre M. Magri F. 88'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Cissoko I.",
+          "outgoing": "Donnum A.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Cissoko I. Donnum A. 88'"
+        }
+      ],
+      "coach": "Martinez C."
+    },
+    "away": {
+      "formation": "3-4-2-1",
+      "formation_players": [
+        {
+          "number": 30,
+          "name": "Desmas",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Desmas",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Salmier",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Salmier",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Youte Kinkoue",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Youte Kinkoue",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Lloris",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Lloris",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Nego",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Nego",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Kuzyaev",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Kuzyaev",
+          "source": "formation"
+        },
+        {
+          "number": 94,
+          "name": "Toure",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "94 Toure",
+          "source": "formation"
+        },
+        {
+          "number": 23,
+          "name": "Casimir",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Casimir",
+          "source": "formation"
+        },
+        {
+          "number": 29,
+          "name": "Grandsir",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Grandsir",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Alioui",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Alioui",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Bayo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Bayo",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 30,
+          "name": "Desmas A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "30 Desmas A. (G)",
+          "formation_raw": "30 Desmas",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Salmier Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Salmier Y.",
+          "formation_raw": "22 Salmier",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Youte Kinkoue E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Youte Kinkoue E.",
+          "formation_raw": "6 Youte Kinkoue",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Lloris G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Lloris G.",
+          "formation_raw": "4 Lloris",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Nego L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Nego L.",
+          "formation_raw": "7 Nego",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Kuzyaev D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Kuzyaev D.",
+          "formation_raw": "14 Kuzyaev",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 94,
+          "name": "Toure A.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "94 Toure A. (C)",
+          "formation_raw": "94 Toure",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 23,
+          "name": "Casimir J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Casimir J.",
+          "formation_raw": "23 Casimir",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 29,
+          "name": "Grandsir S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Grandsir S.",
+          "formation_raw": "29 Grandsir",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Alioui N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Alioui N.",
+          "formation_raw": "10 Alioui",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Bayo M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Bayo M. 2",
+          "formation_raw": "9 Bayo",
+          "source": "formation_detail_match",
+          "match_score": 14,
+          "goals": 2
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 15,
+          "name": "Diawara K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Diawara K.",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "El Hajjam O.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 El Hajjam O.",
+          "source": "detailed"
+        },
+        {
+          "number": 1,
+          "name": "Gorgelin M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Gorgelin M. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Joujou A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Joujou A.",
+          "source": "detailed"
+        },
+        {
+          "number": 8,
+          "name": "Kechta Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Kechta Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Logbo A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Logbo A.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Mbemba N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Mbemba N.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Ndiaye R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Ndiaye R.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Sabbi E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Sabbi E.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "72",
+          "incoming": "Kechta Y.",
+          "outgoing": "Alioui N.",
+          "incoming_rating": 7.5,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Kechta Y. 7.5 Alioui N. 72'"
+        },
+        {
+          "minute": "72",
+          "incoming": "Sabbi E.",
+          "outgoing": "Casimir J.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Sabbi E. 6.4 Casimir J. 72'"
+        },
+        {
+          "minute": "72",
+          "incoming": "Joujou A.",
+          "outgoing": "Grandsir S.",
+          "incoming_rating": 6.6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Joujou A. 6.6 Grandsir S. 72'"
+        },
+        {
+          "minute": "82",
+          "incoming": "Ndiaye R.",
+          "outgoing": "Toure A.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Ndiaye R. Toure A. 82'"
+        },
+        {
+          "minute": "90+2",
+          "incoming": "El Hajjam O.",
+          "outgoing": "Nego L.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "El Hajjam O. Nego L. 90+2'"
+        }
+      ],
+      "coach": "Elsner L."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "50 Restes",
+      "3 Desler",
+      "6 Costa",
+      "2 Nicolaisen",
+      "17 Suazo",
+      "20 Schmidt",
+      "4 Spierings",
+      "24 Casseres",
+      "15 Donnum",
+      "19 Magri",
+      "9 Dallinga",
+      "30 Desmas",
+      "22 Salmier",
+      "6 Youte Kinkoue",
+      "4 Lloris",
+      "7 Nego",
+      "14 Kuzyaev",
+      "94 Toure",
+      "23 Casimir",
+      "29 Grandsir",
+      "10 Alioui",
+      "9 Bayo",
+      "Diarra M. 6.5 Costa L. 68'",
+      "Begraoui Y. 6.3 Dallinga T. 77'",
+      "Sierro V. 6.7 Schmidt N. 77'",
+      "Bangre M. Magri F. 88'",
+      "Cissoko I. Donnum A. 88'",
+      "Kechta Y. 7.5 Alioui N. 72'",
+      "Sabbi E. 6.4 Casimir J. 72'",
+      "Joujou A. 6.6 Grandsir S. 72'",
+      "Ndiaye R. Toure A. 82'",
+      "El Hajjam O. Nego L. 90+2'",
+      "50 Restes G. (G)",
+      "3 Desler M.",
+      "6 Costa L.",
+      "2 Nicolaisen R. (C)",
+      "17 Suazo G.",
+      "20 Schmidt N.",
+      "4 Spierings S.",
+      "24 Casseres C.",
+      "15 Donnum A.",
+      "19 Magri F.",
+      "9 Dallinga T.",
+      "30 Desmas A. (G)",
+      "22 Salmier Y.",
+      "6 Youte Kinkoue E.",
+      "4 Lloris G.",
+      "7 Nego L.",
+      "14 Kuzyaev D.",
+      "94 Toure A. (C)",
+      "23 Casimir J.",
+      "29 Grandsir S.",
+      "10 Alioui N.",
+      "9 Bayo M. 2",
+      "21 Bangre M.",
+      "14 Begraoui Y.",
+      "10 Cissoko I.",
+      "23 Diarra M.",
+      "30 Dominguez A. (G)",
+      "11 Gelabert Pina C.",
+      "12 Kamanzi W.",
+      "25 Keben K.",
+      "8 Sierro V.",
+      "15 Diawara K.",
+      "17 El Hajjam O.",
+      "1 Gorgelin M. (G)",
+      "21 Joujou A.",
+      "8 Kechta Y.",
+      "20 Logbo A.",
+      "18 Mbemba N.",
+      "19 Ndiaye R.",
+      "11 Sabbi E.",
+      "Aboukhlal Z. Knee Injury",
+      "Aradj Y. Injury",
+      "Genreau D. Injury",
+      "Zanden O. Surgery",
+      "Operi C. Muscle Injury",
+      "Sangante A. Yellow Cards",
+      "Targhalline O. Muscle Injury",
+      "Martinez C.",
+      "Elsner L."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 360
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 115,
+    "compact_lineup_text_count": 81,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 10,
+    "coach_candidate_count": 4,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 10,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+10' The referee checks his watch and blows his whistle to signal the end of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 9,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+9' It's a free kick to Toulouse, but they probably won't attempt a direct shot on goal from here."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "confirmed",
+      "text": "90+5' 1 - 2 Goal! Mohamed Bayo (Le Havre) gathered the ball off a rebound inside the box and fired home into the top left corner."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' The referee stops play so that a substitution can be made and Oualid El Hajjam comes onto the pitch for Loic Nego (Le Havre)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' We will have 12 min. of added time."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Frank Magri comes off the pitch to be replaced by Mamady Bangre (Toulouse)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Carles Martinez has decided to introduce fresh legs, with Ibrahim Cissoko (Toulouse) replacing Aron Donnum."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' The referee signals a corner kick to Le Havre."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Ibrahim Cissoko (Toulouse) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' The referee is firm and issues Rassoul Ndiaye (Le Havre) a deserved yellow card."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "83' 1 - 1 Mohamed Bayo (Le Havre) displayed brilliant individual skill before blasting in a shot from inside the box. His terrific effort went straight into the bottom right corner, via a ricochet in off the post. Guillaume Restes had no chance. The score sheet now reads 1:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 83,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "83' Le Havre have a goal ruled out for offside!"
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' The referee allows time for a substitution. Abdoulaye Toure (Le Havre) will be replaced by Rassoul Ndiaye."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "81' A cross from a mid-range free kick, taken by Toulouse, is intercepted by one of the defenders."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' The linesman makes the right call and Le Havre will have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Yanis Begraoui (Toulouse) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but Arthur Desmas easily deals with the threat."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' Niklas Schmidt (Toulouse) goes off the pitch and Vincent Sierro comes on."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 77,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "77' The referee signals that it is time for a substitution and Yanis Begraoui is coming onto the pitch as Thijs Dallinga (Toulouse) cannot continue after picking up an injury."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' Daler Kuzyaev (Le Havre) takes the corner but it's cleared."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Luka Elsner prepares a substitution. Josue Casimir is replaced by Emmanuel Sabbi (Le Havre)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Substitution. Yassine Kechta has come on for Nabil Alioui (Le Havre)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' A substitution has been made. Samuel Grandsir goes off and Antoine Joujou (Le Havre) comes on."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' We are about to witness a subsitution. Moussa Diarra for Logan Costa (Toulouse)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Frank Magri (Toulouse) has a sight of goal and shoots from long range but his ambitious effort flies just wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Frank Magri (Toulouse) latches on to an accurate cross on the edge of the penalty box and sends the ball towards goal, but it's too easy for the keeper."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 64,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "64' Samuel Grandsir (Le Havre) sends a pass into the penalty area, but the opponent manages to cut it out."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Josue Casimir (Le Havre) swings in a cross, but the ball is cleared to safety by one of the defending players."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Everything seems to be alright after the game was interrupted, the referee blows his whistle and the match can continue."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' The game is interrupted."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' The linesman raises his flag as one of the players from Le Havre was in an offside position."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Referee Marc Bollengier points to the centre spot to indicate that the goal stands after the VAR review. Thijs Dallinga (Toulouse) goes wild in celebration. Thijs Dallinga (Toulouse) received a delightful pass inside the box before slotting the ball past the goalkeeper. What a brilliant finish!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Thijs Dallinga (Toulouse) puts the ball into the back of the net, but referee Marc Bollengier immediately signals a VAR review. Let's see what happens. Big moment in the game."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' The assistant referee raises his flag and the referee blows his whistle. Thijs Dallinga (Toulouse) puts the ball into the net, but he is flagged for offside."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Le Havre earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Loic Nego (Le Havre) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the bottom right corner is, however, superbly saved by Guillaume Restes! Le Havre will have a chance to score from a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The whistle blows and Marc Bollengier starts the second half."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 45,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+5' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Niklas Schmidt (Toulouse) violates the laws of the game and is shown a deserved yellow card by the referee."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+3' Thijs Dallinga (Toulouse) can't convert the spot kick. It goes narrowly over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Thijs Dallinga (Toulouse) will take the responsibility and he is already preparing the ball."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' The referee shows the yellow card to Josue Casimir (Le Havre)."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' It’s a PENALTY to Toulouse after the VAR review!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' It's been a while since that incident in the box, but the ref must have received some information as he makes the VAR signal. He's going to review that earlier penalty shout! What a chance for Toulouse."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' There will be a minimum of 5 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' There's a melee in the box, but the referee isn't interested in the appeals from Toulouse for a penalty. Play continues."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 43,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "43' Stijn Spierings (Toulouse) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 40,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "40' Marc Bollengier blows for a foul after Loic Nego (Le Havre) was too aggressive in the battle for the ball. Toulouse are awarded the free kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Josue Casimir (Le Havre) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' The ball is out of play and Le Havre manage to earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Samuel Grandsir (Le Havre) finds himself in space on the edge of the box and smashes a glorious looking effort towards the right side of the goal, but Guillaume Restes thwarts him with a great two-handed save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 33,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "33' Niklas Schmidt (Toulouse) tries to send a pass but it's blocked."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Yoann Salmier (Le Havre) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 30,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "30' Booking. Logan Costa (Toulouse) receives a caution from the referee."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Josue Casimir (Le Havre) commits a rough challenge and Marc Bollengier blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Aron Donnum (Toulouse) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' It looked like the long-range shot by Nabil Alioui (Le Havre) would end up in the net, but the effort went painfully wide of the left post. The goalkeeper was quite lucky this time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 23,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "23' Aron Donnum (Toulouse) sends a teasing cross into the area, but Arthur Desmas intercepts the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' The Toulouse players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 20,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "20' Mohamed Bayo (Le Havre) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 17,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "17' A pass by Stijn Spierings (Toulouse) ends up in no man's land, and the attacking effort comes to an end."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Aron Donnum (Toulouse) sends a sweet pass into the penalty area, but one of the defenders averts the danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' Cristian Casseres (Toulouse) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Logan Costa (Toulouse) sees his header crash off the left post after meeting a corner kick inside the six-yard box. The goalkeeper would have been helpless."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 13,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "13' Niklas Schmidt (Toulouse) will take the corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 12,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "12' Stijn Spierings (Toulouse) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. The linesman points to the corner flag, Toulouse are going to take it."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Nabil Alioui (Le Havre) takes the corner which is cleared."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' Now Toulouse have a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' A player from Le Havre commits a rough challenge. Marc Bollengier blows for a foul and keeps the game under control. Toulouse win a free kick and will be able to apply some pressure on the opposition goal."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' A pass into the penalty area from Frank Magri (Toulouse) is intercepted by the defence."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' The game is interrupted now, Yoann Salmier (Le Havre) picks up a knock and the physio has to come on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 7,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "7' Le Havre failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' The defender bravely blocks the shot from Mohamed Bayo (Le Havre) inside the box. The ball is out of play. Le Havre will have a chance to score from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Niklas Schmidt (Toulouse) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 5,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "5' Thijs Dallinga (Toulouse) latches onto a loose ball inside the box but slams it just wide of the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Cristian Casseres (Toulouse) swings a cross into the box, but it's far too close to Arthur Desmas, who smothers the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Here we go, today's match is starting right now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are on the pitch and Toulouse will have the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Marc Bollengier got the nomination for today's game and will try his best to be a fair judge and not make any mistakes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 90,
+        "added_time": 5,
+        "score": {
+          "home": 1,
+          "away": 2
+        },
+        "status": "confirmed",
+        "text": "90+5' 1 - 2 Goal! Mohamed Bayo (Le Havre) gathered the ball off a rebound inside the box and fired home into the top left corner.",
+        "team_side": "away",
+        "team": "Le Havre",
+        "player_team_side": "away",
+        "player_team": "Le Havre",
+        "player": "Bayo M.",
+        "shirt_number": 9,
+        "player_match_score": 136,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 2
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 83,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "83' 1 - 1 Mohamed Bayo (Le Havre) displayed brilliant individual skill before blasting in a shot from inside the box. His terrific effort went straight into the bottom right corner, via a ricochet in off the post. Guillaume Restes had no chance. The score sheet now reads 1:1.",
+        "team_side": "away",
+        "team": "Le Havre",
+        "player_team_side": "away",
+        "player_team": "Le Havre",
+        "player": "Bayo M.",
+        "shirt_number": 9,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' The referee is firm and issues Rassoul Ndiaye (Le Havre) a deserved yellow card.",
+        "team_side": "away",
+        "team": "Le Havre",
+        "player": "Ndiaye R.",
+        "shirt_number": 19,
+        "player_match_score": 138,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+3' Niklas Schmidt (Toulouse) violates the laws of the game and is shown a deserved yellow card by the referee.",
+        "team_side": "home",
+        "team": "Toulouse",
+        "player": "Schmidt N.",
+        "shirt_number": 20,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' The referee shows the yellow card to Josue Casimir (Le Havre).",
+        "team_side": "away",
+        "team": "Le Havre",
+        "player": "Casimir J.",
+        "shirt_number": 23,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+2' The referee stops play so that a substitution can be made and Oualid El Hajjam comes onto the pitch for Loic Nego (Le Havre)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Frank Magri comes off the pitch to be replaced by Mamady Bangre (Toulouse)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' Carles Martinez has decided to introduce fresh legs, with Ibrahim Cissoko (Toulouse) replacing Aron Donnum."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 82,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "82' The referee allows time for a substitution. Abdoulaye Toure (Le Havre) will be replaced by Rassoul Ndiaye."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' Niklas Schmidt (Toulouse) goes off the pitch and Vincent Sierro comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 77,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "77' The referee signals that it is time for a substitution and Yanis Begraoui is coming onto the pitch as Thijs Dallinga (Toulouse) cannot continue after picking up an injury."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' Luka Elsner prepares a substitution. Josue Casimir is replaced by Emmanuel Sabbi (Le Havre)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' Substitution. Yassine Kechta has come on for Nabil Alioui (Le Havre)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 72,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "72' A substitution has been made. Samuel Grandsir goes off and Antoine Joujou (Le Havre) comes on."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' We are about to witness a subsitution. Moussa Diarra for Logan Costa (Toulouse)."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 49,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "49' Referee Marc Bollengier points to the centre spot to indicate that the goal stands after the VAR review. Thijs Dallinga (Toulouse) goes wild in celebration. Thijs Dallinga (Toulouse) received a delightful pass inside the box before slotting the ball past the goalkeeper. What a brilliant finish!",
+        "review_reason": "goal",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Toulouse",
+        "player": "Dallinga T.",
+        "shirt_number": 9,
+        "player_match_score": 157,
+        "is_var_event": true,
+        "related_event_minute": 46
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 49,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "49' Thijs Dallinga (Toulouse) puts the ball into the back of the net, but referee Marc Bollengier immediately signals a VAR review. Let's see what happens. Big moment in the game.",
+        "review_reason": "unknown",
+        "decision": "review_completed",
+        "team_side": "home",
+        "team": "Toulouse",
+        "player": "Dallinga T.",
+        "shirt_number": 9,
+        "player_match_score": 132,
+        "is_var_event": true,
+        "related_event_minute": 46
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' It’s a PENALTY to Toulouse after the VAR review!",
+        "review_reason": "penalty",
+        "decision": "penalty",
+        "team_side": "home",
+        "team": "Toulouse",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 46
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 45,
+        "added_time": 1,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+1' It's been a while since that incident in the box, but the ref must have received some information as he makes the VAR signal. He's going to review that earlier penalty shout! What a chance for Toulouse.",
+        "review_reason": "penalty",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Toulouse",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 46
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 10,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+10' The referee checks his watch and blows his whistle to signal the end of this match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 59,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "59' Everything seems to be alright after the game was interrupted, the referee blows his whistle and the match can continue."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 49,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "49' The assistant referee raises his flag and the referee blows his whistle. Thijs Dallinga (Toulouse) puts the ball into the net, but he is flagged for offside."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 45,
+        "added_time": 5,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+5' The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 28,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "28' Josue Casimir (Le Havre) commits a rough challenge and Marc Bollengier blows his whistle for a foul."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 3,
+    "detected_goal_count": 2,
+    "goal_count_matches_final_score": false,
+    "score_bearing_event_count": 2,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 141,
+    "commentary_row_count": 81,
+    "removed_commentary_noise_count": 60,
+    "goal_event_count": 2,
+    "yellow_card_event_count": 3,
+    "red_card_event_count": 0,
+    "substitution_event_count": 10,
+    "var_event_count": 4,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": false,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 3,
+      "detected_goal_count": 2
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 2,
+    "structured_goal_count": 2,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 3,
+    "structured_yellow_card_count": 3,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 4,
+    "structured_var_event_count": 4,
+    "var_player_resolved_count": 2,
+    "var_linked_event_count": 4,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T08:46:54Z",
+  "collector_profile": {
+    "competition_key": "ligue_1",
+    "competition": "French Ligue 1",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 306,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 81,
+      "error": null
+    }
+  }
+}

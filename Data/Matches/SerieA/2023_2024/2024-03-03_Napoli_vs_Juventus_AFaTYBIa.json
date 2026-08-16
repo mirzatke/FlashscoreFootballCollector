@@ -1,0 +1,2703 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/juventus-C06aJvIB/napoli-69Dxbc61/summary/stats/overall/?mid=AFaTYBIa",
+  "match_id": "AFaTYBIa",
+  "page_title": "NAP 2-1 JUV | Napoli v Juventus 03/03/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "03.03.2024 23:45",
+  "home_team": "Napoli",
+  "away_team": "Juventus",
+  "score": {
+    "home": "2",
+    "away": "1",
+    "display": "2 - 1"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "2.32",
+      "away": "1.33",
+      "raw_values": [
+        "2.32",
+        "1.33"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "71%",
+      "away": "29%",
+      "raw_values": [
+        "71%",
+        "29%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "14",
+      "away": "18",
+      "raw_values": [
+        "14",
+        "18"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "7",
+      "away": "4",
+      "raw_values": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "2",
+      "away": "1",
+      "raw_values": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "89%\n(580/652)",
+      "away": "75%\n(199/265)",
+      "raw_values": [
+        "89%\n(580/652)",
+        "75%\n(199/265)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "1",
+      "away": "4",
+      "raw_values": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "4",
+      "away": "10",
+      "raw_values": [
+        "4",
+        "10"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "3",
+      "away": "4",
+      "raw_values": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "1",
+      "raw_values": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "17",
+      "away": "9",
+      "raw_values": [
+        "17",
+        "9"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "20",
+      "away": "17",
+      "raw_values": [
+        "20",
+        "17"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "6",
+      "away": "16",
+      "raw_values": [
+        "6",
+        "16"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "3",
+      "away": "5",
+      "raw_values": [
+        "3",
+        "5"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "2.32",
+        "away": "1.33",
+        "raw_values": [
+          "2.32",
+          "1.33"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "71%",
+        "away": "29%",
+        "raw_values": [
+          "71%",
+          "29%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "14",
+        "away": "18",
+        "raw_values": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "7",
+        "away": "4",
+        "raw_values": [
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "89%\n(580/652)",
+        "away": "75%\n(199/265)",
+        "raw_values": [
+          "89%\n(580/652)",
+          "75%\n(199/265)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "10",
+        "raw_values": [
+          "4",
+          "10"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "3",
+        "away": "4",
+        "raw_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "17",
+        "away": "9",
+        "raw_values": [
+          "17",
+          "9"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "20",
+        "away": "17",
+        "raw_values": [
+          "20",
+          "17"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "6",
+        "away": "16",
+        "raw_values": [
+          "6",
+          "16"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "3",
+        "away": "5",
+        "raw_values": [
+          "3",
+          "5"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.20",
+        "away": "0.72",
+        "raw_values": [
+          "1.20",
+          "0.72"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "69%",
+        "away": "31%",
+        "raw_values": [
+          "69%",
+          "31%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "11",
+        "away": "9",
+        "raw_values": [
+          "11",
+          "9"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "88%\n(311/353)",
+        "away": "74%\n(117/158)",
+        "raw_values": [
+          "88%\n(311/353)",
+          "74%\n(117/158)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "3",
+        "away": "6",
+        "raw_values": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "3",
+        "away": "2",
+        "raw_values": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "3",
+        "raw_values": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "6",
+        "raw_values": [
+          "10",
+          "6"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "1",
+        "away": "7",
+        "raw_values": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.12",
+        "away": "0.61",
+        "raw_values": [
+          "1.12",
+          "0.61"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "73%",
+        "away": "27%",
+        "raw_values": [
+          "73%",
+          "27%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "3",
+        "away": "9",
+        "raw_values": [
+          "3",
+          "9"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "2",
+        "away": "3",
+        "raw_values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "90%\n(269/299)",
+        "away": "77%\n(82/107)",
+        "raw_values": [
+          "90%\n(269/299)",
+          "77%\n(82/107)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "0",
+        "away": "2",
+        "raw_values": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "10",
+        "away": "6",
+        "raw_values": [
+          "10",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "10",
+        "away": "11",
+        "raw_values": [
+          "10",
+          "11"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "5",
+        "away": "9",
+        "raw_values": [
+          "5",
+          "9"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Meret",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Meret",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Di Lorenzo",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "22 Di Lorenzo",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Rrahmani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Rrahmani",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Juan Jesus",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Juan Jesus",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Olivera",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Olivera",
+          "source": "formation"
+        },
+        {
+          "number": 99,
+          "name": "Anguissa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "99 Anguissa",
+          "source": "formation"
+        },
+        {
+          "number": 68,
+          "name": "Lobotka",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "68 Lobotka",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Traore",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Traore",
+          "source": "formation"
+        },
+        {
+          "number": 21,
+          "name": "Politano",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Politano",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Osimhen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Osimhen",
+          "source": "formation"
+        },
+        {
+          "number": 77,
+          "name": "Kvaratskhelia",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Kvaratskhelia",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Meret A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Meret A. (G)",
+          "formation_raw": "1 Meret",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Di Lorenzo G.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "22 Di Lorenzo G. (C)",
+          "formation_raw": "22 Di Lorenzo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Rrahmani A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Rrahmani A.",
+          "formation_raw": "13 Rrahmani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Juan Jesus",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Juan Jesus",
+          "formation_raw": "5 Juan Jesus",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 17,
+          "name": "Olivera M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Olivera M.",
+          "formation_raw": "17 Olivera",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 99,
+          "name": "Anguissa F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "99 Anguissa F.",
+          "formation_raw": "99 Anguissa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 68,
+          "name": "Lobotka S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "68 Lobotka S.",
+          "formation_raw": "68 Lobotka",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Traore H. J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Traore H. J.",
+          "formation_raw": "8 Traore",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 21,
+          "name": "Politano M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Politano M.",
+          "formation_raw": "21 Politano",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Osimhen V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Osimhen V.",
+          "formation_raw": "9 Osimhen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 77,
+          "name": "Kvaratskhelia K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Kvaratskhelia K.",
+          "formation_raw": "77 Kvaratskhelia",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 14,
+          "name": "Contini N.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "14 Contini N. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 32,
+          "name": "Dendoncker L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Dendoncker L.",
+          "source": "detailed"
+        },
+        {
+          "number": 95,
+          "name": "Gollini P.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "95 Gollini P. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 29,
+          "name": "Lindstrom J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "29 Lindstrom J.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Mazzocchi P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Mazzocchi P.",
+          "source": "detailed"
+        },
+        {
+          "number": 3,
+          "name": "Natan",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Natan",
+          "source": "detailed"
+        },
+        {
+          "number": 55,
+          "name": "Ostigard L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "55 Ostigard L.",
+          "source": "detailed"
+        },
+        {
+          "number": 81,
+          "name": "Raspadori G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "81 Raspadori G.",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Rui M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Rui M.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Simeone G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Simeone G.",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Zielinski P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Zielinski P.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "65",
+          "incoming": "Ostigard L.",
+          "outgoing": "Rrahmani A.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Ostigard L. 6.4 Rrahmani A. 65'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Zielinski P.",
+          "outgoing": "Traore H. J.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Zielinski P. 6.4 Traore H. J. 65'"
+        },
+        {
+          "minute": "65",
+          "incoming": "Raspadori G.",
+          "outgoing": "Politano M.",
+          "incoming_rating": 7.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Raspadori G. 7.7 Politano M. 65'"
+        },
+        {
+          "minute": "90+3",
+          "incoming": "Lindstrom J.",
+          "outgoing": "Kvaratskhelia K.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Lindstrom J. Kvaratskhelia K. 90+3'"
+        }
+      ],
+      "coach": "Calzona F."
+    },
+    "away": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Szczesny",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Szczesny",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Rugani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Rugani",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Bremer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bremer",
+          "source": "formation"
+        },
+        {
+          "number": 12,
+          "name": "Alex Sandro",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "12 Alex Sandro",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Cambiaso",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Cambiaso",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Miretti",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Miretti",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Locatelli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Locatelli",
+          "source": "formation"
+        },
+        {
+          "number": 26,
+          "name": "Alcaraz",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Alcaraz",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Iling Junior",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Iling Junior",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Chiesa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Chiesa",
+          "source": "formation"
+        },
+        {
+          "number": 9,
+          "name": "Vlahovic",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Vlahovic",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Szczesny W.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Szczesny W. (G)",
+          "formation_raw": "1 Szczesny",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Rugani D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "24 Rugani D.",
+          "formation_raw": "24 Rugani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Bremer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Bremer",
+          "formation_raw": "3 Bremer",
+          "source": "formation_fallback",
+          "match_score": 5
+        },
+        {
+          "number": 12,
+          "name": "Alex Sandro",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "12 Alex Sandro (C)",
+          "formation_raw": "12 Alex Sandro",
+          "source": "formation_detail_match",
+          "match_score": 17
+        },
+        {
+          "number": 27,
+          "name": "Cambiaso A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Cambiaso A.",
+          "formation_raw": "27 Cambiaso",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Miretti F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Miretti F.",
+          "formation_raw": "20 Miretti",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Locatelli M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Locatelli M.",
+          "formation_raw": "5 Locatelli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 26,
+          "name": "Alcaraz C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "26 Alcaraz C.",
+          "formation_raw": "26 Alcaraz",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Iling Junior S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Iling Junior S.",
+          "formation_raw": "17 Iling Junior",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Chiesa F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Chiesa F.",
+          "formation_raw": "7 Chiesa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 9,
+          "name": "Vlahovic D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Vlahovic D.",
+          "formation_raw": "9 Vlahovic",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 38,
+          "name": "Daffara G.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "38 Daffara G. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 6,
+          "name": "Danilo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "6 Danilo",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Djalo T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Djalo T.",
+          "source": "detailed"
+        },
+        {
+          "number": 4,
+          "name": "Gatti F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Gatti F.",
+          "source": "detailed"
+        },
+        {
+          "number": 11,
+          "name": "Kostic F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Kostic F.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Milik A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Milik A.",
+          "source": "detailed"
+        },
+        {
+          "number": 41,
+          "name": "Nicolussi Caviglia H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "41 Nicolussi Caviglia H.",
+          "source": "detailed"
+        },
+        {
+          "number": 47,
+          "name": "Nonge J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Nonge J. 2",
+          "source": "detailed",
+          "goals": 2
+        },
+        {
+          "number": 23,
+          "name": "Pinsoglio C.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Pinsoglio C. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 22,
+          "name": "Weah T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Weah T.",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Yildiz K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Yildiz K.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "66",
+          "incoming": "Weah T.",
+          "outgoing": "Cambiaso A.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Weah T. 6.3 Cambiaso A. 66'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Nonge J.",
+          "outgoing": "Miretti F.",
+          "incoming_rating": 6,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Nonge J. 6.0 Miretti F. 76'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Yildiz K.",
+          "outgoing": "Iling Junior S.",
+          "incoming_rating": 6.2,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Yildiz K. 6.2 Iling Junior S. 76'"
+        },
+        {
+          "minute": "90",
+          "incoming": "Milik A.",
+          "outgoing": "Alcaraz C.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Milik A. Alcaraz C. 90'"
+        }
+      ],
+      "coach": "Allegri M."
+    },
+    "unassigned_substitutions": [
+      {
+        "minute": "90",
+        "incoming": "Danilo",
+        "outgoing": "Nonge J.",
+        "incoming_rating": null,
+        "side": null,
+        "side_match_score": 0,
+        "split_match_score": 12,
+        "raw": "Danilo Nonge J. 90'"
+      }
+    ],
+    "raw": [
+      "1 Meret",
+      "22 Di Lorenzo",
+      "13 Rrahmani",
+      "5 Juan Jesus",
+      "17 Olivera",
+      "99 Anguissa",
+      "68 Lobotka",
+      "8 Traore",
+      "21 Politano",
+      "9 Osimhen",
+      "77 Kvaratskhelia",
+      "1 Szczesny",
+      "24 Rugani",
+      "3 Bremer",
+      "12 Alex Sandro",
+      "27 Cambiaso",
+      "20 Miretti",
+      "5 Locatelli",
+      "26 Alcaraz",
+      "17 Iling Junior",
+      "7 Chiesa",
+      "9 Vlahovic",
+      "Ostigard L. 6.4 Rrahmani A. 65'",
+      "Zielinski P. 6.4 Traore H. J. 65'",
+      "Raspadori G. 7.7 Politano M. 65'",
+      "Lindstrom J. Kvaratskhelia K. 90+3'",
+      "Weah T. 6.3 Cambiaso A. 66'",
+      "Nonge J. 6.0 Miretti F. 76'",
+      "Yildiz K. 6.2 Iling Junior S. 76'",
+      "Milik A. Alcaraz C. 90'",
+      "Danilo Nonge J. 90'",
+      "1 Meret A. (G)",
+      "22 Di Lorenzo G. (C)",
+      "13 Rrahmani A.",
+      "17 Olivera M.",
+      "99 Anguissa F.",
+      "68 Lobotka S.",
+      "8 Traore H. J.",
+      "21 Politano M.",
+      "9 Osimhen V.",
+      "77 Kvaratskhelia K.",
+      "1 Szczesny W. (G)",
+      "24 Rugani D.",
+      "12 Alex Sandro (C)",
+      "27 Cambiaso A.",
+      "20 Miretti F.",
+      "5 Locatelli M.",
+      "26 Alcaraz C.",
+      "17 Iling Junior S.",
+      "7 Chiesa F.",
+      "9 Vlahovic D.",
+      "14 Contini N. (G)",
+      "32 Dendoncker L.",
+      "95 Gollini P. (G)",
+      "29 Lindstrom J.",
+      "30 Mazzocchi P.",
+      "3 Natan",
+      "55 Ostigard L.",
+      "81 Raspadori G.",
+      "6 Rui M.",
+      "18 Simeone G.",
+      "20 Zielinski P.",
+      "38 Daffara G. (G)",
+      "6 Danilo",
+      "33 Djalo T.",
+      "4 Gatti F.",
+      "11 Kostic F.",
+      "14 Milik A.",
+      "41 Nicolussi Caviglia H.",
+      "47 Nonge J. 2",
+      "23 Pinsoglio C. (G)",
+      "22 Weah T.",
+      "15 Yildiz K.",
+      "Cajuste J. Muscle Injury",
+      "Ngonge C. Muscle Injury",
+      "De Sciglio M. Muscle Injury",
+      "Fagioli N. Suspended",
+      "Kean M. Shin Injury",
+      "McKennie W. Shoulder Injury",
+      "Perin M. Injury",
+      "Pogba P. Doping",
+      "Rabiot A. Injury",
+      "Calzona F.",
+      "Allegri M."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 11,
+    "away_substitute_count": 11,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 42,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "unassigned_substitution_count": 1,
+    "home_bench_substitution_match_count": 4,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 11,
+    "bench_boundary_score": 288
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 119,
+    "compact_lineup_text_count": 84,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 42,
+    "substitution_count": 9,
+    "coach_candidate_count": 3,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 11,
+    "structured_away_substitute_count": 11,
+    "matched_starting_detail_count": 20,
+    "formation_fallback_count": 2,
+    "bench_boundary_index": 11
+  },
+  "commentary": [
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' That's it for today, Maurizio Mariani has blown his whistle and the game is over."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 5,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+5' Referee Maurizio Mariani halts the game and wanders over to the touchline to talk to Francesco Calzona, then shows him a yellow."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Khvicha Kvaratskhelia will be replaced by Jesper Lindstrom (Napoli)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Federico Chiesa (Juventus) is afforded space inside the box after collecting a pass, but the chance is wasted as his shot goes harmlessly over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' The ball goes out of play. Juventus are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+2' Manuel Locatelli (Juventus) delivers a crossfield pass, but the ball is cut out before it reaches its intended target. The ball is out of play. Juventus win a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 5 min. of stoppage-time to be played."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Massimiliano Allegri prepares a substitution. Joseph Nonge Boende is replaced by Danilo (Juventus)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' Carlos Alcaraz comes off the pitch to be replaced by Arkadiusz Milik (Juventus)."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "88' 2 - 1 Goal! The rebound fell to Giacomo Raspadori (Napoli) and he fired home from close range. The score is 2:1."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' Victor Osimhen (Napoli) threw away the opportunity to score from the penalty kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "87' Victor Osimhen (Napoli) will take the responsibility and he is already preparing the ball."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' Joseph Nonge Boende (Juventus) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Maurizio Mariani didn't think twice about pulling it out of his pocket."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 86,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "86' It’s a PENALTY to Napoli after the VAR review!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Wait! The referee makes the VAR signal and he's going to review that incident in the box from earlier. This could be a penalty for Napoli! Let's see what he decides."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 81,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "status": "confirmed",
+      "text": "81' 1 - 1 Federico Chiesa (Juventus) takes a great first touch to control a killer pass on the edge of the box and drills a shot into the bottom left corner in trademark fashion."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Giovanni Di Lorenzo (Napoli) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Here is a change. Samuel Iling Junior is going off and Massimiliano Allegri gives the last tactical orders to Kenan Yildiz (Juventus)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Substitution. Joseph Nonge Boende (Juventus) on for Fabio Miretti."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Dusan Vlahovic (Juventus) fails to beat the offside trap and the linesman puts his flag up."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Bremer (Juventus) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 72,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "72' Bremer (Juventus) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' Carlos Alcaraz (Juventus) picks up the rebound just a few yards out of the box. He attempts to beat the goalkeeper with a fine shot, but the goalkeeper is on hand to deny him."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' The referee stops play so that a substitution can be made and Andrea Cambiaso trots off the pitch and is replaced by Timothy Weah (Juventus)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' The referee signals that it is time for a substitution and Giacomo Raspadori (Napoli) is coming onto the pitch as Matteo Politano cannot continue after picking up an injury."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Francesco Calzona has decided to introduce fresh legs, with Piotr Zielinski (Napoli) replacing Hamed Junior Traore."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Amir Rrahmani goes off the pitch and Leo Ostigard (Napoli) comes on."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' What a sweet touch by Dusan Vlahovic (Juventus) as he collects a pass deep inside the box and decides to go for goal. It's on target but easy for Alex Meret to hold."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Alex Sandro (Juventus) pulls the jersey of one of the opposition players and Maurizio Mariani blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Napoli quickly take a corner kick with a short pass."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' CHANCE! Andrea Cambiaso (Juventus) picks up a perfect pass inside the box, makes himself some space for a shot, but his effort goes just over the crossbar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 49,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "49' Dusan Vlahovic (Juventus) comes close as his long-range free kick goes a whisker wide of the right post."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' Maurizio Mariani shows a yellow card to Hamed Junior Traore (Napoli) for a tough tackle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 47,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "47' A pass from Federico Chiesa (Juventus) is intercepted by Alex Meret and the move breaks down."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The second half gets underway."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' The first half of today's match has just finished."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+1' Hamed Junior Traore (Napoli) fashions a shot from the edge of the box after receiving an accurate pass. Wojciech Szczesny makes a stunning save to stop the effort from flying into the top right corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' The fourth official shows 1 min. of added time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Wasted opportunity. Dusan Vlahovic (Juventus) gets to the rebound inside the box and smashes the ball just wide of the right post."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "42' 1 - 0 Goal! Khvicha Kvaratskhelia (Napoli) unleashes a first-time shot from inside the box and beats the goalkeeper into the bottom left corner. 1:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' A long pass finds Hamed Junior Traore (Napoli) unmarked, he looks up and hits a weak shot from mid-range which drifts well wide of the left post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' A quickly taken corner by Napoli."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 38,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "38' Matteo Politano (Napoli) reacts well to latch onto a rebound inside the box, but his shot is well blocked. The referee blows his whistle, Napoli are awarded a corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 37,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "37' Khvicha Kvaratskhelia (Napoli) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Wojciech Szczesny makes a decent save to deny his effort directed low to the middle of the target."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 36,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "36' Fabio Miretti (Juventus) collects a sweet pass on the edge of the box and in one movement smashes a shot in on goal, but it balloons high over the bar."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 34,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "34' Dusan Vlahovic (Juventus) gathers the ball inside the box and produces a snap shot. The ball only rattles the right post."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Samuel Iling Junior (Juventus) sprints into the box to get on the end of a cross and directs a shot goalwards that flies a whisker wide of the left post. Unlucky!"
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Maurizio Mariani shows the yellow card to Andrea Cambiaso (Juventus) for a heavy challenge."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 28,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "28' Maurizio Mariani interrupts the game for a tactical foul by Andrea Cambiaso (Juventus)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 27,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "27' Matteo Politano (Napoli) misses a promising chance to score from the free kick, but Wojciech Szczesny makes a decent save."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Bremer (Juventus) picks up a caution."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 26,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "26' Bremer (Juventus) brings his opponent down. Maurizio Mariani has a clear sight of it and blows his whistle for a foul. Napoli win a free kick. It's a promising situation for a direct shot."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 24,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "24' Giovanni Di Lorenzo (Napoli) has a great chance inside the box following a rebound off a defender, but somehow he gets underneath the ball and it flies high over the bar."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Khvicha Kvaratskhelia (Napoli) is penalised for a foul. Maurizio Mariani had a clear view and blows his whistle."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 21,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "21' Samuel Iling Junior (Juventus) fashions a shot from the edge of the box after receiving an accurate pass. Alex Meret makes a stunning save to stop the effort from flying into the bottom left corner."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Dusan Vlahovic (Juventus) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Maurizio Mariani ignores the protests."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 18,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "18' Foul! Dusan Vlahovic (Juventus) is penalised for pulling back his opponent."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 14,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "14' Carlos Alcaraz (Juventus) is penalised for holding. Maurizio Mariani signals a set piece."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Dusan Vlahovic (Juventus) receives a lofted pass in the goal area and unleashes a dangerous header which sails narrowly wide of the right post!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 6,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "6' A pass from Giovanni Di Lorenzo (Napoli) is intercepted by Wojciech Szczesny and the move breaks down."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 2,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "2' Samuel Iling Junior (Juventus) crosses the ball into the box, but one of the defending players averts the threat."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' The first half of this match is about to start."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "The players are out at last! Juventus will take the kick-off."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Maurizio Mariani will supervise the game today."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups You can have a look at the starting XIs of both teams in the details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "88' 2 - 1 Goal! The rebound fell to Giacomo Raspadori (Napoli) and he fired home from close range. The score is 2:1.",
+        "team_side": "home",
+        "team": "Napoli",
+        "player_team_side": "home",
+        "player_team": "Napoli",
+        "player": "Raspadori G.",
+        "shirt_number": 81,
+        "player_match_score": 139,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 81,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "status": "confirmed",
+        "text": "81' 1 - 1 Federico Chiesa (Juventus) takes a great first touch to control a killer pass on the edge of the box and drills a shot into the bottom left corner in trademark fashion.",
+        "team_side": "away",
+        "team": "Juventus",
+        "player_team_side": "away",
+        "player_team": "Juventus",
+        "player": "Chiesa F.",
+        "shirt_number": 7,
+        "player_match_score": 134,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 1
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 42,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "42' 1 - 0 Goal! Khvicha Kvaratskhelia (Napoli) unleashes a first-time shot from inside the box and beats the goalkeeper into the bottom left corner. 1:0.",
+        "team_side": "home",
+        "team": "Napoli",
+        "player_team_side": "home",
+        "player_team": "Napoli",
+        "player": "Kvaratskhelia K.",
+        "shirt_number": 77,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' Joseph Nonge Boende (Juventus) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Maurizio Mariani didn't think twice about pulling it out of his pocket.",
+        "team_side": "away",
+        "team": "Juventus",
+        "player": "Nonge J.",
+        "shirt_number": 47,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 47,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "47' Maurizio Mariani shows a yellow card to Hamed Junior Traore (Napoli) for a tough tackle.",
+        "team_side": "home",
+        "team": "Napoli",
+        "player": "Traore H. J.",
+        "shirt_number": 8,
+        "player_match_score": 160,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 28,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "28' Maurizio Mariani shows the yellow card to Andrea Cambiaso (Juventus) for a heavy challenge.",
+        "team_side": "away",
+        "team": "Juventus",
+        "player": "Cambiaso A.",
+        "shirt_number": 27,
+        "player_match_score": 139,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 18,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "18' Dusan Vlahovic (Juventus) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Maurizio Mariani ignores the protests.",
+        "team_side": "away",
+        "team": "Juventus",
+        "player": "Vlahovic D.",
+        "shirt_number": 9,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' Khvicha Kvaratskhelia will be replaced by Jesper Lindstrom (Napoli)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' Massimiliano Allegri prepares a substitution. Joseph Nonge Boende is replaced by Danilo (Juventus)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 90,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "90' Carlos Alcaraz comes off the pitch to be replaced by Arkadiusz Milik (Juventus)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Here is a change. Samuel Iling Junior is going off and Massimiliano Allegri gives the last tactical orders to Kenan Yildiz (Juventus)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Substitution. Joseph Nonge Boende (Juventus) on for Fabio Miretti."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' The referee stops play so that a substitution can be made and Andrea Cambiaso trots off the pitch and is replaced by Timothy Weah (Juventus)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' The referee signals that it is time for a substitution and Giacomo Raspadori (Napoli) is coming onto the pitch as Matteo Politano cannot continue after picking up an injury."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Francesco Calzona has decided to introduce fresh legs, with Piotr Zielinski (Napoli) replacing Hamed Junior Traore."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 65,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "65' Amir Rrahmani goes off the pitch and Leo Ostigard (Napoli) comes on."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 86,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "86' It’s a PENALTY to Napoli after the VAR review!",
+        "review_reason": "penalty",
+        "decision": "penalty",
+        "team_side": "home",
+        "team": "Napoli",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 85
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 85,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "85' Wait! The referee makes the VAR signal and he's going to review that incident in the box from earlier. This could be a penalty for Napoli! Let's see what he decides.",
+        "review_reason": "penalty",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Napoli",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 86
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 59,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "59' Alex Sandro (Juventus) pulls the jersey of one of the opposition players and Maurizio Mariani blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 38,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "38' Matteo Politano (Napoli) reacts well to latch onto a rebound inside the box, but his shot is well blocked. The referee blows his whistle, Napoli are awarded a corner kick."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 26,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "26' Bremer (Juventus) brings his opponent down. Maurizio Mariani has a clear sight of it and blows his whistle for a foul. Napoli win a free kick. It's a promising situation for a direct shot."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 22,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "22' Khvicha Kvaratskhelia (Napoli) is penalised for a foul. Maurizio Mariani had a clear view and blows his whistle."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 3,
+    "detected_goal_count": 3,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 3,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 117,
+    "commentary_row_count": 67,
+    "removed_commentary_noise_count": 50,
+    "goal_event_count": 3,
+    "yellow_card_event_count": 4,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 3,
+      "detected_goal_count": 3
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 3,
+    "structured_goal_count": 3,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 4,
+    "structured_yellow_card_count": 4,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T16:03:26Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 67,
+      "error": null
+    }
+  }
+}

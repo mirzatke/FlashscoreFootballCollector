@@ -1,0 +1,2863 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/brentford-xYe7DwID/burnley-z3dmTMMO/summary/stats/overall/?mid=6aMJDzIC",
+  "match_id": "6aMJDzIC",
+  "page_title": "BRE 3-0 BUR | Brentford v Burnley 21/10/2023, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "21.10.2023 18:00",
+  "home_team": "Brentford",
+  "away_team": "Burnley",
+  "score": {
+    "home": "3",
+    "away": "0",
+    "display": "3 - 0"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "2.06",
+      "away": "0.17",
+      "raw_values": [
+        "2.06",
+        "0.17"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "50%",
+      "away": "50%",
+      "raw_values": [
+        "50%",
+        "50%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "23",
+      "away": "6",
+      "raw_values": [
+        "23",
+        "6"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "10",
+      "away": "1",
+      "raw_values": [
+        "10",
+        "1"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "5",
+      "away": "5",
+      "raw_values": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "0%\n(0/443)",
+      "away": "0%\n(0/437)",
+      "raw_values": [
+        "0%\n(0/443)",
+        "0%\n(0/437)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "5",
+      "away": "4",
+      "raw_values": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "category": "Red cards",
+      "home": "0",
+      "away": "1",
+      "raw_values": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "13",
+      "away": "5",
+      "raw_values": [
+        "13",
+        "5"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "2",
+      "away": "2",
+      "raw_values": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "14",
+      "away": "16",
+      "raw_values": [
+        "14",
+        "16"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "18",
+      "away": "12",
+      "raw_values": [
+        "18",
+        "12"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "14",
+      "away": "12",
+      "raw_values": [
+        "14",
+        "12"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "1",
+      "away": "7",
+      "raw_values": [
+        "1",
+        "7"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "2.06",
+        "away": "0.17",
+        "raw_values": [
+          "2.06",
+          "0.17"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "50%",
+        "away": "50%",
+        "raw_values": [
+          "50%",
+          "50%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "23",
+        "away": "6",
+        "raw_values": [
+          "23",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "10",
+        "away": "1",
+        "raw_values": [
+          "10",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "5",
+        "away": "5",
+        "raw_values": [
+          "5",
+          "5"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/443)",
+        "away": "0%\n(0/437)",
+        "raw_values": [
+          "0%\n(0/443)",
+          "0%\n(0/437)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "5",
+        "away": "4",
+        "raw_values": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "13",
+        "away": "5",
+        "raw_values": [
+          "13",
+          "5"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "2",
+        "raw_values": [
+          "2",
+          "2"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "14",
+        "away": "16",
+        "raw_values": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "18",
+        "away": "12",
+        "raw_values": [
+          "18",
+          "12"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "14",
+        "away": "12",
+        "raw_values": [
+          "14",
+          "12"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "7",
+        "raw_values": [
+          "1",
+          "7"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.89",
+        "away": "0.11",
+        "raw_values": [
+          "1.89",
+          "0.11"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "55%",
+        "away": "45%",
+        "raw_values": [
+          "55%",
+          "45%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "15",
+        "away": "3",
+        "raw_values": [
+          "15",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "7",
+        "away": "1",
+        "raw_values": [
+          "7",
+          "1"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "4",
+        "away": "2",
+        "raw_values": [
+          "4",
+          "2"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/225)",
+        "away": "0%\n(0/185)",
+        "raw_values": [
+          "0%\n(0/225)",
+          "0%\n(0/185)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "8",
+        "away": "2",
+        "raw_values": [
+          "8",
+          "2"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "2",
+        "away": "1",
+        "raw_values": [
+          "2",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "6",
+        "raw_values": [
+          "7",
+          "6"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "13",
+        "away": "9",
+        "raw_values": [
+          "13",
+          "9"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "6",
+        "raw_values": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "6",
+        "raw_values": [
+          "1",
+          "6"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.17",
+        "away": "0.06",
+        "raw_values": [
+          "0.17",
+          "0.06"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "45%",
+        "away": "55%",
+        "raw_values": [
+          "45%",
+          "55%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "8",
+        "away": "3",
+        "raw_values": [
+          "8",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "3",
+        "away": "0",
+        "raw_values": [
+          "3",
+          "0"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "1",
+        "away": "3",
+        "raw_values": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "0%\n(0/218)",
+        "away": "0%\n(0/252)",
+        "raw_values": [
+          "0%\n(0/218)",
+          "0%\n(0/252)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Red cards",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "3",
+        "raw_values": [
+          "5",
+          "3"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "7",
+        "away": "10",
+        "raw_values": [
+          "7",
+          "10"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "5",
+        "away": "3",
+        "raw_values": [
+          "5",
+          "3"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "10",
+        "away": "6",
+        "raw_values": [
+          "10",
+          "6"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "0",
+        "away": "1",
+        "raw_values": [
+          "0",
+          "1"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "4-3-3",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Flekken",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Flekken",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Ajer",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Ajer",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Collins",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Collins",
+          "source": "formation"
+        },
+        {
+          "number": 5,
+          "name": "Pinnock",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Pinnock",
+          "source": "formation"
+        },
+        {
+          "number": 27,
+          "name": "Janelt",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Janelt",
+          "source": "formation"
+        },
+        {
+          "number": 15,
+          "name": "Onyeka",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Onyeka",
+          "source": "formation"
+        },
+        {
+          "number": 6,
+          "name": "Norgaard",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "6 Norgaard",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Jensen",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Jensen",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Mbeumo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Mbeumo",
+          "source": "formation"
+        },
+        {
+          "number": 7,
+          "name": "Maupay",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Maupay",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Wissa",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Wissa",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Flekken M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Flekken M. (G)",
+          "formation_raw": "1 Flekken",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Ajer K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Ajer K.",
+          "formation_raw": "20 Ajer",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Collins N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Collins N.",
+          "formation_raw": "22 Collins",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 5,
+          "name": "Pinnock E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Pinnock E.",
+          "formation_raw": "5 Pinnock",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 27,
+          "name": "Janelt V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Janelt V.",
+          "formation_raw": "27 Janelt",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 15,
+          "name": "Onyeka F.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Onyeka F.",
+          "formation_raw": "15 Onyeka",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 6,
+          "name": "Norgaard C.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "6 Norgaard C. (C)",
+          "formation_raw": "6 Norgaard",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Jensen M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Jensen M.",
+          "formation_raw": "8 Jensen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Mbeumo B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Mbeumo B.",
+          "formation_raw": "19 Mbeumo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 7,
+          "name": "Maupay N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Maupay N.",
+          "formation_raw": "7 Maupay",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Wissa Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Wissa Y.",
+          "formation_raw": "11 Wissa",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 38,
+          "name": "Brierley E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Brierley E.",
+          "source": "detailed"
+        },
+        {
+          "number": 14,
+          "name": "Ghoddos S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Ghoddos S.",
+          "source": "detailed"
+        },
+        {
+          "number": 36,
+          "name": "Kim Ji-Soo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "36 Kim Ji-Soo",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Mee B.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Mee B.",
+          "source": "detailed"
+        },
+        {
+          "number": 37,
+          "name": "Olakigbe M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "37 Olakigbe M.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Roerslev Rasmussen M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Roerslev Rasmussen M.",
+          "source": "detailed"
+        },
+        {
+          "number": 21,
+          "name": "Strakosha T.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "21 Strakosha T. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 33,
+          "name": "Yarmolyuk Y.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "33 Yarmolyuk Y.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Zanka",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Zanka",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "76",
+          "incoming": "Yarmolyuk Y.",
+          "outgoing": "Jensen M.",
+          "incoming_rating": 6.4,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Yarmolyuk Y. 6.4 Jensen M. 76'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Roerslev Rasmussen M.",
+          "outgoing": "Ajer K.",
+          "incoming_rating": 6.5,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Roerslev Rasmussen M. 6.5 Ajer K. 76'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Ghoddos S.",
+          "outgoing": "Onyeka F.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Ghoddos S. Onyeka F. 84'"
+        },
+        {
+          "minute": "88",
+          "incoming": "Olakigbe M.",
+          "outgoing": "Maupay N.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Olakigbe M. Maupay N. 88'"
+        }
+      ],
+      "coach": "Frank T."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Trafford",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Trafford",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Roberts",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Roberts",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Al Dakhil",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Al Dakhil",
+          "source": "formation"
+        },
+        {
+          "number": 2,
+          "name": "O'Shea",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 O'Shea",
+          "source": "formation"
+        },
+        {
+          "number": 3,
+          "name": "Taylor",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Taylor",
+          "source": "formation"
+        },
+        {
+          "number": 24,
+          "name": "Cullen",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "24 Cullen",
+          "source": "formation"
+        },
+        {
+          "number": 16,
+          "name": "Berge",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Berge",
+          "source": "formation"
+        },
+        {
+          "number": 31,
+          "name": "Tresor Ndayishimiye",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Tresor Ndayishimiye",
+          "source": "formation"
+        },
+        {
+          "number": 25,
+          "name": "Amdouni",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Amdouni",
+          "source": "formation"
+        },
+        {
+          "number": 47,
+          "name": "Odobert",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Odobert",
+          "source": "formation"
+        },
+        {
+          "number": 17,
+          "name": "Foster",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Foster",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Trafford J.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Trafford J. (G)",
+          "formation_raw": "1 Trafford",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Roberts C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Roberts C.",
+          "formation_raw": "14 Roberts",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Al Dakhil A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Al Dakhil A.",
+          "formation_raw": "28 Al Dakhil",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 2,
+          "name": "O'Shea D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 O'Shea D.",
+          "formation_raw": "2 O'Shea",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 3,
+          "name": "Taylor C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "3 Taylor C.",
+          "formation_raw": "3 Taylor",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 24,
+          "name": "Cullen J.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "24 Cullen J. (C)",
+          "formation_raw": "24 Cullen",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 16,
+          "name": "Berge S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "16 Berge S.",
+          "formation_raw": "16 Berge",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 31,
+          "name": "Tresor Ndayishimiye M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "31 Tresor Ndayishimiye M.",
+          "formation_raw": "31 Tresor Ndayishimiye",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 25,
+          "name": "Amdouni Z.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "25 Amdouni Z.",
+          "formation_raw": "25 Amdouni",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 47,
+          "name": "Odobert W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Odobert W.",
+          "formation_raw": "47 Odobert",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 17,
+          "name": "Foster L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Foster L.",
+          "formation_raw": "17 Foster",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 8,
+          "name": "Brownhill J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Brownhill J.",
+          "source": "detailed"
+        },
+        {
+          "number": 34,
+          "name": "Bruun Larsen J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "34 Bruun Larsen J. 2",
+          "source": "detailed",
+          "goals": 2
+        },
+        {
+          "number": 4,
+          "name": "Cork J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Cork J.",
+          "source": "detailed"
+        },
+        {
+          "number": 44,
+          "name": "Delcroix H.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Delcroix H.",
+          "source": "detailed"
+        },
+        {
+          "number": 30,
+          "name": "Koleosho L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "30 Koleosho L.",
+          "source": "detailed"
+        },
+        {
+          "number": 49,
+          "name": "Muric A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "49 Muric A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 15,
+          "name": "Redmond N.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "15 Redmond N.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Rodriguez J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Rodriguez J.",
+          "source": "detailed"
+        },
+        {
+          "number": 19,
+          "name": "Zaroury A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Zaroury A.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Koleosho L.",
+          "outgoing": "Odobert W.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Koleosho L. 6.3 Odobert W. 46'"
+        },
+        {
+          "minute": "66",
+          "incoming": "Bruun Larsen J.",
+          "outgoing": "Tresor Ndayishimiye M.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Bruun Larsen J. 6.3 Tresor Ndayishimiye M. 66'"
+        },
+        {
+          "minute": "66",
+          "incoming": "Brownhill J.",
+          "outgoing": "Berge S.",
+          "incoming_rating": 6.4,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Brownhill J. 6.4 Berge S. 66'"
+        },
+        {
+          "minute": "76",
+          "incoming": "Redmond N.",
+          "outgoing": "Amdouni Z.",
+          "incoming_rating": 6.3,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Redmond N. 6.3 Amdouni Z. 76'"
+        }
+      ],
+      "coach": "Kompany V."
+    },
+    "unassigned_substitutions": [
+      {
+        "minute": "80",
+        "incoming": "Delcroix H.",
+        "outgoing": "Bruun Larsen J.",
+        "incoming_rating": 6.5,
+        "side": null,
+        "side_match_score": 0,
+        "split_match_score": null,
+        "raw": "Delcroix H. 6.5 Bruun Larsen J. 80'"
+      }
+    ],
+    "raw": [
+      "1 Flekken",
+      "20 Ajer",
+      "22 Collins",
+      "5 Pinnock",
+      "27 Janelt",
+      "15 Onyeka",
+      "6 Norgaard",
+      "8 Jensen",
+      "19 Mbeumo",
+      "7 Maupay",
+      "11 Wissa",
+      "1 Trafford",
+      "14 Roberts",
+      "28 Al Dakhil",
+      "2 O'Shea",
+      "3 Taylor",
+      "24 Cullen",
+      "16 Berge",
+      "31 Tresor Ndayishimiye",
+      "25 Amdouni",
+      "47 Odobert",
+      "17 Foster",
+      "Yarmolyuk Y. 6.4 Jensen M. 76'",
+      "Roerslev Rasmussen M. 6.5 Ajer K. 76'",
+      "Ghoddos S. Onyeka F. 84'",
+      "Olakigbe M. Maupay N. 88'",
+      "Koleosho L. 6.3 Odobert W. 46'",
+      "Bruun Larsen J. 6.3 Tresor Ndayishimiye M. 66'",
+      "Brownhill J. 6.4 Berge S. 66'",
+      "Redmond N. 6.3 Amdouni Z. 76'",
+      "Delcroix H. 6.5 Bruun Larsen J. 80'",
+      "1 Flekken M. (G)",
+      "20 Ajer K.",
+      "22 Collins N.",
+      "5 Pinnock E.",
+      "27 Janelt V.",
+      "15 Onyeka F.",
+      "6 Norgaard C. (C)",
+      "8 Jensen M.",
+      "19 Mbeumo B.",
+      "7 Maupay N.",
+      "11 Wissa Y.",
+      "1 Trafford J. (G)",
+      "14 Roberts C.",
+      "28 Al Dakhil A.",
+      "2 O'Shea D.",
+      "3 Taylor C.",
+      "24 Cullen J. (C)",
+      "16 Berge S.",
+      "31 Tresor Ndayishimiye M.",
+      "25 Amdouni Z.",
+      "47 Odobert W.",
+      "17 Foster L.",
+      "38 Brierley E.",
+      "14 Ghoddos S.",
+      "36 Kim Ji-Soo",
+      "16 Mee B.",
+      "37 Olakigbe M.",
+      "30 Roerslev Rasmussen M.",
+      "21 Strakosha T. (G)",
+      "33 Yarmolyuk Y.",
+      "13 Zanka",
+      "8 Brownhill J.",
+      "34 Bruun Larsen J. 2",
+      "4 Cork J.",
+      "44 Delcroix H.",
+      "30 Koleosho L.",
+      "49 Muric A. (G)",
+      "15 Redmond N.",
+      "9 Rodriguez J.",
+      "19 Zaroury A.",
+      "Baptiste S. Shoulder Injury",
+      "Damsgaard M. Knock",
+      "Dasilva J. Thigh Injury",
+      "Henry R. Knee Injury",
+      "Hickey A. Yellow Cards",
+      "Lewis-Potter K. Calf Injury",
+      "Schade K. Hip Injury",
+      "Toney I. Suspended",
+      "Benson M. Ankle Injury",
+      "Beyer J. Knock",
+      "Ekdal H. Knee Injury",
+      "Gudmundsson J. Muscle Injury",
+      "Obafemi M. Thigh Injury",
+      "Frank T.",
+      "Kompany V."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 9,
+    "away_substitute_count": 9,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 40,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "unassigned_substitution_count": 1,
+    "home_bench_substitution_match_count": 4,
+    "away_bench_substitution_match_count": 4,
+    "bench_boundary_index": 9,
+    "bench_boundary_score": 288
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 119,
+    "compact_lineup_text_count": 86,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 40,
+    "substitution_count": 9,
+    "coach_candidate_count": 5,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 9,
+    "structured_away_substitute_count": 9,
+    "matched_starting_detail_count": 22,
+    "formation_fallback_count": 0,
+    "bench_boundary_index": 9
+  },
+  "commentary": [
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 90,
+      "added_time": 7,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+7' There will be no more action in this match as the referee signals full time."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 6,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+6' The cross into the penalty area from Bryan Mbeumo (Brentford) needed to be more accurate in order to create a goal-scoring opportunity for his team."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 90,
+      "added_time": 3,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+3' Saman Ghoddos (Brentford) goes in the referee's notebook after being shown a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": 1,
+      "score": null,
+      "status": "confirmed",
+      "text": "90+1' Bryan Mbeumo (Brentford) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 90,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "90' 7 additional min. will be played."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 88,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "88' The referee stops play so that a substitution can be made and Michael Olakigbe (Brentford) comes onto the pitch for Neal Maupay."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 87,
+      "added_time": null,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "87' 3 - 0 The ball rebounds a long way out to the feet of Saman Ghoddos (Brentford), who immediately sends it back towards goal. He hits it extremely well. James Trafford is helpless against the projectile, which deflects in off the right post. The score changes to 3:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 85,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "85' Vitaly Janelt (Brentford) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 84,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "84' Thomas Frank has decided to substitute Frank Onyeka and he is replaced by Saman Ghoddos (Brentford)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 82,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "82' Burnley enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 80,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "80' Forced substitution due to red card. Jacob Bruun Larsen comes off the pitch to be replaced by Hannes Delcroix (Burnley)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 79,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "79' Bryan Mbeumo (Brentford) stands over the free kick and opts to take it himself, but it is straight at James Trafford."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card",
+        "period"
+      ],
+      "minute": 78,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "78' Joshua Smith blows his whistle and Connor Roberts (Burnley) is shown a second yellow card for his foul. His manager will not be pleased. He has lot of time to think about it as he walks off."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Substitution. Zeki Amdouni is replaced by Nathan Redmond (Burnley)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' Thomas Frank decides to make a substitution. Kristoffer Ajer will be replaced by Mads Roerslev Rasmussen (Brentford)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 76,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "76' The referee stops play so that a substitution can be made and Mathias Jensen trots off the pitch and is replaced by Yegor Yarmolyuk (Brentford)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 75,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "75' Luca Koleosho (Burnley) latches on to an accurate pass inside the box and shoots towards goal, but it goes well wide of the right post. The ball goes out of play and Brentford will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 74,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "74' We can have a look at the statistics now, shots on target are 8:1."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 73,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "73' Jacob Bruun Larsen (Burnley) makes an overly-aggressive challenge and Joshua Smith blows his whistle for a foul."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 71,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "71' A good clearance by a defender means the corner comes to nothing for Burnley."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 69,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "69' Mathias Jensen (Brentford) is cautioned by the referee, who shows him a yellow card."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 68,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "68' Dara O'Shea (Burnley) was trying to get to the ball but clattered into the legs of the opponent as well. Joshua Smith blows his whistle for an infringement."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' James Trafford (Burnley) is able to continue to play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 67,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "67' It doesn’t look good for James Trafford (Burnley); looks like he’ll have to leave the pitch!"
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' Here is a change. Sander Berge is going off and Vincent Kompany gives the last tactical orders to Josh Brownhill (Burnley)."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 66,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "66' The referee allows time for a substitution. Mike Tresor Ndayishimiye will be replaced by Jacob Bruun Larsen (Burnley)."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 65,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "65' Mathias Jensen (Brentford) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar. The ball goes out of play and Burnley will have a goal kick."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "62' 2 - 0 Goal! Bryan Mbeumo (Brentford) shows perfect technique and produces a first-time effort from just outside the box that goes into the top left corner. It's 2:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 62,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "62' Mike Tresor Ndayishimiye (Burnley) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' Referee Joshua Smith halts the game and wanders over to the touchline to talk to Thomas Frank, then shows him a yellow."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 61,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "61' The Brentford players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 59,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "59' Charlie Taylor (Burnley) sends a long ball across the pitch, but it misses its target. The ball goes out of play and Brentford will have a goal kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 58,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "58' The ball possession is 48:52."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' A pass by Kristoffer Ajer (Brentford) ends up in no man's land, and the attacking effort comes to an end."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 57,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "57' Luca Koleosho (Burnley) sends a cross into the box, but Mark Flekken comes off his line to gather the ball."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 54,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "54' Mike Tresor Ndayishimiye (Burnley) wastes a good opportunity as his pass into the box is blocked by the defence."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 53,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "53' Frank Onyeka (Brentford) will have to be careful for the rest of the match as he is shown a yellow card."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Burnley earn a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 52,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "52' Luca Koleosho (Burnley) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The referee and one of his assistants signal for a corner kick to Burnley."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' The ball is out of play. Burnley will have a chance to score from a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' Burnley seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 50,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "50' PENALTY APPEAL by Brentford, but the referee thinks it was a fair challenge and play continues!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 48,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "48' Luca Koleosho (Burnley) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Kristoffer Ajer (Brentford) commits a foul and is shown a yellow card without any hesitation from the referee."
+    },
+    {
+      "type": "substitution",
+      "primary_type": "substitution",
+      "tags": [
+        "substitution"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' Half-time substitution. Vincent Kompany decided to make a change. Wilson Odobert is replaced by Luca Koleosho (Burnley)."
+    },
+    {
+      "type": "period",
+      "primary_type": "period",
+      "tags": [
+        "period"
+      ],
+      "minute": 46,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "46' The referee blows his whistle to signal the start of the second half."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 4,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+4' The first half of today's match has just finished."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Josh Cullen (Burnley) is cautioned by the referee for a foul that he committed a little earlier."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": 2,
+      "score": null,
+      "status": "confirmed",
+      "text": "45+2' Mike Tresor Ndayishimiye (Burnley) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' 4 min. of stoppage-time to be played."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 45,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "45' Brentford take a short corner kick."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 44,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "44' Neal Maupay (Brentford) finds himself in space on the edge of the box and smashes a glorious looking effort towards the roof of the net, but James Trafford thwarts him with a great two-handed save. Brentford force their opponents to concede a corner."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 42,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "42' Connor Roberts (Burnley) is yellow-carded."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' The referee signals a corner kick to Brentford."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' Bryan Mbeumo (Brentford) looks to break free, but an opposing player clears the ball away."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 41,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "41' 58:42 – the ratio of ball possession."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 39,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "39' Brentford control the tempo of the game by exchanging some accurate short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 35,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "35' Brentford will have a chance to score from a corner kick."
+    },
+    {
+      "type": "yellow_card",
+      "primary_type": "yellow_card",
+      "tags": [
+        "yellow_card"
+      ],
+      "minute": 32,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "32' The whistle is blown for an infringement and Sander Berge (Burnley) receives a yellow card!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 31,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "31' Shots on target – 4:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 29,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "29' Bryan Mbeumo (Brentford) will take a corner kick."
+    },
+    {
+      "type": "goal",
+      "primary_type": "goal",
+      "tags": [
+        "goal"
+      ],
+      "minute": 25,
+      "added_time": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "confirmed",
+      "text": "25' 1 - 0 Goal! Bryan Mbeumo plays a pass to the feet of Yoane Wissa (Brentford), and he shoots into the bottom left corner from inside the box. It's 1:0."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 22,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "22' Great teamplay by Burnley as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 19,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "19' Kristoffer Ajer (Brentford) sends a lofted cross into the box which is headed clear."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 16,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "16' Bryan Mbeumo (Brentford) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 15,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "15' 54:46 – this is the current ball possession ratio."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 11,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "11' The Brentford players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 10,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "10' Mike Tresor Ndayishimiye (Burnley) gets there first and whips in a shot at goal that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Brentford."
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 9,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "9' The goal by Brentford won't count as it has been disallowed due to offside on the advice of the video assistant referee!"
+    },
+    {
+      "type": "var_review",
+      "primary_type": "var_review",
+      "tags": [
+        "var"
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' The Brentford players halt their celebrations as referee Joshua Smith makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 8,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "8' Neal Maupay (Brentford) converts his chance into a goal!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 4,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "4' The Brentford players are exchanging some short passes."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 3,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "3' Neat passing move from Brentford in order to create new attacking opportunities."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": 1,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "1' Today's match has just started, enjoy the game!"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Joshua Smith was nominated as the referee for this game."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups We now know the starting lineups. You can find them in the match details of this match."
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Show lineups"
+    },
+    {
+      "type": "commentary",
+      "primary_type": "commentary",
+      "tags": [
+      ],
+      "minute": null,
+      "added_time": null,
+      "score": null,
+      "status": "confirmed",
+      "text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+    }
+  ],
+  "events": {
+    "goals": [
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 87,
+        "added_time": null,
+        "score": {
+          "home": 3,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "87' 3 - 0 The ball rebounds a long way out to the feet of Saman Ghoddos (Brentford), who immediately sends it back towards goal. He hits it extremely well. James Trafford is helpless against the projectile, which deflects in off the right post. The score changes to 3:0.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player_team_side": "home",
+        "player_team": "Brentford",
+        "player": "Ghoddos S.",
+        "shirt_number": 14,
+        "player_match_score": 145,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": true,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 3,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 62,
+        "added_time": null,
+        "score": {
+          "home": 2,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "62' 2 - 0 Goal! Bryan Mbeumo (Brentford) shows perfect technique and produces a first-time effort from just outside the box that goes into the top left corner. It's 2:0.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player_team_side": "home",
+        "player_team": "Brentford",
+        "player": "Mbeumo B.",
+        "shirt_number": 19,
+        "player_match_score": 135,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 2,
+          "away": 0
+        },
+        "assist_player": null,
+        "assist_shirt_number": null,
+        "assist_match_score": null
+      },
+      {
+        "type": "goal",
+        "primary_type": "goal",
+        "tags": [
+          "goal"
+        ],
+        "minute": 25,
+        "added_time": null,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "status": "confirmed",
+        "text": "25' 1 - 0 Goal! Bryan Mbeumo plays a pass to the feet of Yoane Wissa (Brentford), and he shoots into the bottom left corner from inside the box. It's 1:0.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player_team_side": "home",
+        "player_team": "Brentford",
+        "player": "Wissa Y.",
+        "shirt_number": 11,
+        "player_match_score": 144,
+        "goal_type": "regular",
+        "is_penalty": false,
+        "is_own_goal": false,
+        "is_header": false,
+        "is_deflected": false,
+        "is_var_decision": false,
+        "score_after": {
+          "home": 1,
+          "away": 0
+        },
+        "assist_player": "Mbeumo B.",
+        "assist_shirt_number": 19,
+        "assist_match_score": 130
+      }
+    ],
+    "yellow_cards": [
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 90,
+        "added_time": 3,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+3' Saman Ghoddos (Brentford) goes in the referee's notebook after being shown a yellow card.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Ghoddos S.",
+        "shirt_number": 14,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card",
+          "period"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Joshua Smith blows his whistle and Connor Roberts (Burnley) is shown a second yellow card for his foul. His manager will not be pleased. He has lot of time to think about it as he walks off.",
+        "team_side": "away",
+        "team": "Burnley",
+        "player": "Roberts C.",
+        "shirt_number": 14,
+        "player_match_score": 138,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 69,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "69' Mathias Jensen (Brentford) is cautioned by the referee, who shows him a yellow card.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Jensen M.",
+        "shirt_number": 8,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 53,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "53' Frank Onyeka (Brentford) will have to be careful for the rest of the match as he is shown a yellow card.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Onyeka F.",
+        "shirt_number": 15,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Kristoffer Ajer (Brentford) commits a foul and is shown a yellow card without any hesitation from the referee.",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": "Ajer K.",
+        "shirt_number": 20,
+        "player_match_score": 132,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 45,
+        "added_time": 2,
+        "score": null,
+        "status": "confirmed",
+        "text": "45+2' Josh Cullen (Burnley) is cautioned by the referee for a foul that he committed a little earlier.",
+        "team_side": "away",
+        "team": "Burnley",
+        "player": "Cullen J.",
+        "shirt_number": 24,
+        "player_match_score": 133,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card"
+        ],
+        "minute": 32,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "32' The whistle is blown for an infringement and Sander Berge (Burnley) receives a yellow card!",
+        "team_side": "away",
+        "team": "Burnley",
+        "player": "Berge S.",
+        "shirt_number": 16,
+        "player_match_score": 140,
+        "card_type": "yellow",
+        "is_var_decision": false,
+        "is_overturned": false
+      }
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 88,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "88' The referee stops play so that a substitution can be made and Michael Olakigbe (Brentford) comes onto the pitch for Neal Maupay."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 84,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "84' Thomas Frank has decided to substitute Frank Onyeka and he is replaced by Saman Ghoddos (Brentford)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 80,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "80' Forced substitution due to red card. Jacob Bruun Larsen comes off the pitch to be replaced by Hannes Delcroix (Burnley)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Substitution. Zeki Amdouni is replaced by Nathan Redmond (Burnley)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' Thomas Frank decides to make a substitution. Kristoffer Ajer will be replaced by Mads Roerslev Rasmussen (Brentford)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 76,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "76' The referee stops play so that a substitution can be made and Mathias Jensen trots off the pitch and is replaced by Yegor Yarmolyuk (Brentford)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' Here is a change. Sander Berge is going off and Vincent Kompany gives the last tactical orders to Josh Brownhill (Burnley)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 66,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "66' The referee allows time for a substitution. Mike Tresor Ndayishimiye will be replaced by Jacob Bruun Larsen (Burnley)."
+      },
+      {
+        "type": "substitution",
+        "primary_type": "substitution",
+        "tags": [
+          "substitution"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' Half-time substitution. Vincent Kompany decided to make a change. Wilson Odobert is replaced by Luca Koleosho (Burnley)."
+      }
+    ],
+    "var": [
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 9,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "9' The goal by Brentford won't count as it has been disallowed due to offside on the advice of the video assistant referee!",
+        "review_reason": "offside",
+        "decision": "no_goal",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 8
+      },
+      {
+        "type": "var_review",
+        "primary_type": "var_review",
+        "tags": [
+          "var"
+        ],
+        "minute": 8,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "8' The Brentford players halt their celebrations as referee Joshua Smith makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play.",
+        "review_reason": "offside",
+        "decision": "review_started",
+        "team_side": "home",
+        "team": "Brentford",
+        "player": null,
+        "shirt_number": null,
+        "player_match_score": null,
+        "is_var_event": true,
+        "related_event_minute": 9
+      }
+    ],
+    "attendance": [
+    ],
+    "periods": [
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 90,
+        "added_time": 7,
+        "score": null,
+        "status": "confirmed",
+        "text": "90+7' There will be no more action in this match as the referee signals full time."
+      },
+      {
+        "type": "yellow_card",
+        "primary_type": "yellow_card",
+        "tags": [
+          "yellow_card",
+          "period"
+        ],
+        "minute": 78,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "78' Joshua Smith blows his whistle and Connor Roberts (Burnley) is shown a second yellow card for his foul. His manager will not be pleased. He has lot of time to think about it as he walks off."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 73,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "73' Jacob Bruun Larsen (Burnley) makes an overly-aggressive challenge and Joshua Smith blows his whistle for a foul."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 68,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "68' Dara O'Shea (Burnley) was trying to get to the ball but clattered into the legs of the opponent as well. Joshua Smith blows his whistle for an infringement."
+      },
+      {
+        "type": "period",
+        "primary_type": "period",
+        "tags": [
+          "period"
+        ],
+        "minute": 46,
+        "added_time": null,
+        "score": null,
+        "status": "confirmed",
+        "text": "46' The referee blows his whistle to signal the start of the second half."
+      }
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 3,
+    "detected_goal_count": 3,
+    "goal_count_matches_final_score": true,
+    "score_bearing_event_count": 3,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 139,
+    "commentary_row_count": 78,
+    "removed_commentary_noise_count": 61,
+    "goal_event_count": 3,
+    "yellow_card_event_count": 7,
+    "red_card_event_count": 0,
+    "substitution_event_count": 9,
+    "var_event_count": 2,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 1,
+    "goal_count_matches_final_score": true,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 3,
+      "detected_goal_count": 3
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 3,
+    "structured_goal_count": 3,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 1,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 7,
+    "structured_yellow_card_count": 7,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 2,
+    "structured_var_event_count": 2,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 2,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T15:39:58Z",
+  "collector_profile": {
+    "competition_key": "premier_league",
+    "competition": "English Premier League",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 78,
+      "error": null
+    }
+  }
+}

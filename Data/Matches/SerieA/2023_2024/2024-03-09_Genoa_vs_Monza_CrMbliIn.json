@@ -1,0 +1,1561 @@
+﻿{
+  "source_url": "https://www.flashscore.com/match/football/genoa-d0PJxeie/monza-4YSMlwj7/summary/stats/overall/?mid=CrMbliIn",
+  "match_id": "CrMbliIn",
+  "page_title": "GEN 2-3 MON | Genoa v Monza 09/03/2024, Stats - Flashscore.com | Match",
+  "competition": "WORLD CUP",
+  "status": "FINISHED",
+  "date_time": "09.03.2024 23:45",
+  "home_team": "Genoa",
+  "away_team": "Monza",
+  "score": {
+    "home": "2",
+    "away": "3",
+    "display": "2 - 3"
+  },
+  "statistics": [
+    {
+      "category": "Expected goals (xG)",
+      "home": "1.99",
+      "away": "1.65",
+      "raw_values": [
+        "1.99",
+        "1.65"
+      ]
+    },
+    {
+      "category": "Ball possession",
+      "home": "62%",
+      "away": "38%",
+      "raw_values": [
+        "62%",
+        "38%"
+      ]
+    },
+    {
+      "category": "Total shots",
+      "home": "22",
+      "away": "9",
+      "raw_values": [
+        "22",
+        "9"
+      ]
+    },
+    {
+      "category": "Shots on target",
+      "home": "6",
+      "away": "5",
+      "raw_values": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "category": "Corner kicks",
+      "home": "10",
+      "away": "1",
+      "raw_values": [
+        "10",
+        "1"
+      ]
+    },
+    {
+      "category": "Passes",
+      "home": "87%\n(401/461)",
+      "away": "75%\n(213/284)",
+      "raw_values": [
+        "87%\n(401/461)",
+        "75%\n(213/284)"
+      ]
+    },
+    {
+      "category": "Yellow cards",
+      "home": "1",
+      "away": "1",
+      "raw_values": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Shots off target",
+      "home": "9",
+      "away": "3",
+      "raw_values": [
+        "9",
+        "3"
+      ]
+    },
+    {
+      "category": "Blocked shots",
+      "home": "7",
+      "away": "1",
+      "raw_values": [
+        "7",
+        "1"
+      ]
+    },
+    {
+      "category": "Offsides",
+      "home": "1",
+      "away": "0",
+      "raw_values": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Free kicks",
+      "home": "10",
+      "away": "11",
+      "raw_values": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "category": "Throw ins",
+      "home": "22",
+      "away": "12",
+      "raw_values": [
+        "22",
+        "12"
+      ]
+    },
+    {
+      "category": "Fouls",
+      "home": "11",
+      "away": "10",
+      "raw_values": [
+        "11",
+        "10"
+      ]
+    },
+    {
+      "category": "Goalkeeper saves",
+      "home": "2",
+      "away": "4",
+      "raw_values": [
+        "2",
+        "4"
+      ]
+    }
+  ],
+  "diagnostics_statistics_overall": {
+    "statistic_period": "overall",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "statistics_by_period": {
+    "overall": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.99",
+        "away": "1.65",
+        "raw_values": [
+          "1.99",
+          "1.65"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "62%",
+        "away": "38%",
+        "raw_values": [
+          "62%",
+          "38%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "22",
+        "away": "9",
+        "raw_values": [
+          "22",
+          "9"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "6",
+        "away": "5",
+        "raw_values": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "10",
+        "away": "1",
+        "raw_values": [
+          "10",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "87%\n(401/461)",
+        "away": "75%\n(213/284)",
+        "raw_values": [
+          "87%\n(401/461)",
+          "75%\n(213/284)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "9",
+        "away": "3",
+        "raw_values": [
+          "9",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "7",
+        "away": "1",
+        "raw_values": [
+          "7",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "10",
+        "away": "11",
+        "raw_values": [
+          "10",
+          "11"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "22",
+        "away": "12",
+        "raw_values": [
+          "22",
+          "12"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "11",
+        "away": "10",
+        "raw_values": [
+          "11",
+          "10"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "2",
+        "away": "4",
+        "raw_values": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    "first_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "0.23",
+        "away": "1.10",
+        "raw_values": [
+          "0.23",
+          "1.10"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "65%",
+        "away": "35%",
+        "raw_values": [
+          "65%",
+          "35%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "6",
+        "away": "6",
+        "raw_values": [
+          "6",
+          "6"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "0",
+        "away": "3",
+        "raw_values": [
+          "0",
+          "3"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "3",
+        "away": "1",
+        "raw_values": [
+          "3",
+          "1"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "90%\n(258/287)",
+        "away": "78%\n(123/158)",
+        "raw_values": [
+          "90%\n(258/287)",
+          "78%\n(123/158)"
+        ]
+      },
+      {
+        "category": "Yellow cards",
+        "home": "1",
+        "away": "1",
+        "raw_values": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "4",
+        "away": "3",
+        "raw_values": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "2",
+        "away": "0",
+        "raw_values": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "0",
+        "away": "0",
+        "raw_values": [
+          "0",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "6",
+        "away": "3",
+        "raw_values": [
+          "6",
+          "3"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "13",
+        "away": "9",
+        "raw_values": [
+          "13",
+          "9"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "4",
+        "away": "5",
+        "raw_values": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      }
+    ],
+    "second_half": [
+      {
+        "category": "Expected goals (xG)",
+        "home": "1.76",
+        "away": "0.55",
+        "raw_values": [
+          "1.76",
+          "0.55"
+        ]
+      },
+      {
+        "category": "Ball possession",
+        "home": "59%",
+        "away": "41%",
+        "raw_values": [
+          "59%",
+          "41%"
+        ]
+      },
+      {
+        "category": "Total shots",
+        "home": "16",
+        "away": "3",
+        "raw_values": [
+          "16",
+          "3"
+        ]
+      },
+      {
+        "category": "Shots on target",
+        "home": "6",
+        "away": "2",
+        "raw_values": [
+          "6",
+          "2"
+        ]
+      },
+      {
+        "category": "Corner kicks",
+        "home": "7",
+        "away": "0",
+        "raw_values": [
+          "7",
+          "0"
+        ]
+      },
+      {
+        "category": "Passes",
+        "home": "82%\n(143/174)",
+        "away": "71%\n(90/126)",
+        "raw_values": [
+          "82%\n(143/174)",
+          "71%\n(90/126)"
+        ]
+      },
+      {
+        "category": "Shots off target",
+        "home": "5",
+        "away": "0",
+        "raw_values": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "category": "Blocked shots",
+        "home": "5",
+        "away": "1",
+        "raw_values": [
+          "5",
+          "1"
+        ]
+      },
+      {
+        "category": "Offsides",
+        "home": "1",
+        "away": "0",
+        "raw_values": [
+          "1",
+          "0"
+        ]
+      },
+      {
+        "category": "Free kicks",
+        "home": "4",
+        "away": "8",
+        "raw_values": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "category": "Throw ins",
+        "home": "9",
+        "away": "3",
+        "raw_values": [
+          "9",
+          "3"
+        ]
+      },
+      {
+        "category": "Fouls",
+        "home": "7",
+        "away": "5",
+        "raw_values": [
+          "7",
+          "5"
+        ]
+      },
+      {
+        "category": "Goalkeeper saves",
+        "home": "1",
+        "away": "4",
+        "raw_values": [
+          "1",
+          "4"
+        ]
+      }
+    ]
+  },
+  "diagnostics_statistics_first_half": {
+    "statistic_period": "first_half",
+    "raw_statistic_row_count": 19,
+    "statistic_row_count": 14,
+    "duplicate_statistic_row_count": 5
+  },
+  "diagnostics_statistics_second_half": {
+    "statistic_period": "second_half",
+    "raw_statistic_row_count": 18,
+    "statistic_row_count": 13,
+    "duplicate_statistic_row_count": 5
+  },
+  "lineups": {
+    "home": {
+      "formation": "3-5-2",
+      "formation_players": [
+        {
+          "number": 1,
+          "name": "Martinez",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Martinez",
+          "source": "formation"
+        },
+        {
+          "number": 14,
+          "name": "Vogliacco",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Vogliacco",
+          "source": "formation"
+        },
+        {
+          "number": 13,
+          "name": "Bani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Bani",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "De Winter",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 De Winter",
+          "source": "formation"
+        },
+        {
+          "number": 20,
+          "name": "Sabelli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Sabelli",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Strootman",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Strootman",
+          "source": "formation"
+        },
+        {
+          "number": 47,
+          "name": "Badelj",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "47 Badelj",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Frendrup",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Frendrup",
+          "source": "formation"
+        },
+        {
+          "number": 10,
+          "name": "Junior Messias",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Junior Messias",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Gudmundsson",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gudmundsson",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Retegui",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Retegui",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 1,
+          "name": "Martinez J.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "1 Martinez J. (G)",
+          "formation_raw": "1 Martinez",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 14,
+          "name": "Vogliacco A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "14 Vogliacco A.",
+          "formation_raw": "14 Vogliacco",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 13,
+          "name": "Bani M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Bani M.",
+          "formation_raw": "13 Bani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "De Winter K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 De Winter K.",
+          "formation_raw": "4 De Winter",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 20,
+          "name": "Sabelli S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Sabelli S.",
+          "formation_raw": "20 Sabelli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Strootman K.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Strootman K.",
+          "formation_raw": "8 Strootman",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 47,
+          "name": "Badelj M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "47 Badelj M. (C)",
+          "formation_raw": "47 Badelj",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Frendrup M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "32 Frendrup M.",
+          "formation_raw": "32 Frendrup",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 10,
+          "name": "Junior Messias",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "10 Junior Messias",
+          "formation_raw": "10 Junior Messias",
+          "source": "formation_fallback",
+          "match_score": 0
+        },
+        {
+          "number": 11,
+          "name": "Gudmundsson A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Gudmundsson A.",
+          "formation_raw": "11 Gudmundsson",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Retegui M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Retegui M.",
+          "formation_raw": "19 Retegui",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 5,
+          "name": "Bohinen E.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Bohinen E.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Cittadini G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "23 Cittadini G.",
+          "source": "detailed"
+        },
+        {
+          "number": 18,
+          "name": "Ekuban C.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "18 Ekuban C.",
+          "source": "detailed"
+        },
+        {
+          "number": 16,
+          "name": "Leali N.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Leali N. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 17,
+          "name": "Malinovskyi R.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "17 Malinovskyi R.",
+          "source": "detailed"
+        },
+        {
+          "number": 53,
+          "name": "Pittino T.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "53 Pittino T.",
+          "source": "detailed"
+        },
+        {
+          "number": 39,
+          "name": "Sommariva D.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "39 Sommariva D. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 90,
+          "name": "Spence D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "90 Spence D.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Thorsby M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Thorsby M.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Vitinha",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Vitinha",
+          "source": "detailed"
+        },
+        {
+          "number": 5,
+          "name": "Caldirola L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "5 Caldirola L.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "46",
+          "incoming": "Spence D.",
+          "outgoing": "Vogliacco A.",
+          "incoming_rating": 6.3,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Spence D. 6.3 Vogliacco A. 46'"
+        },
+        {
+          "minute": "46",
+          "incoming": "Vitinha",
+          "outgoing": "Strootman K.",
+          "incoming_rating": 7.2,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Vitinha 7.2 Strootman K. 46'"
+        },
+        {
+          "minute": "46",
+          "incoming": "Malinovskyi R.",
+          "outgoing": "Frendrup M.",
+          "incoming_rating": 6.7,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Malinovskyi R. 6.7 Frendrup M. 46'"
+        },
+        {
+          "minute": "84",
+          "incoming": "Ekuban C.",
+          "outgoing": "Sabelli S.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Ekuban C. Sabelli S. 84'"
+        },
+        {
+          "minute": "87",
+          "incoming": "Thorsby M.",
+          "outgoing": "Badelj M.",
+          "incoming_rating": null,
+          "side": "home",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Thorsby M. Badelj M. 87'"
+        }
+      ],
+      "coach": "Gilardino A."
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "formation_players": [
+        {
+          "number": 16,
+          "name": "Di Gregorio",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Di Gregorio",
+          "source": "formation"
+        },
+        {
+          "number": 19,
+          "name": "Birindelli",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Birindelli",
+          "source": "formation"
+        },
+        {
+          "number": 4,
+          "name": "Izzo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Izzo",
+          "source": "formation"
+        },
+        {
+          "number": 22,
+          "name": "Mari",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mari",
+          "source": "formation"
+        },
+        {
+          "number": 44,
+          "name": "Carboni",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Carboni",
+          "source": "formation"
+        },
+        {
+          "number": 8,
+          "name": "Akpa Akpro",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Akpa Akpro",
+          "source": "formation"
+        },
+        {
+          "number": 38,
+          "name": "Bondo",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Bondo",
+          "source": "formation"
+        },
+        {
+          "number": 28,
+          "name": "Colpani",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Colpani",
+          "source": "formation"
+        },
+        {
+          "number": 32,
+          "name": "Pessina",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "32 Pessina",
+          "source": "formation"
+        },
+        {
+          "number": 47,
+          "name": "Mota",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Mota",
+          "source": "formation"
+        },
+        {
+          "number": 11,
+          "name": "Djuric",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Djuric",
+          "source": "formation"
+        }
+      ],
+      "starting": [
+        {
+          "number": 16,
+          "name": "Di Gregorio M.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "16 Di Gregorio M. (G)",
+          "formation_raw": "16 Di Gregorio",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 19,
+          "name": "Birindelli S.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "19 Birindelli S.",
+          "formation_raw": "19 Birindelli",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 4,
+          "name": "Izzo A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "4 Izzo A.",
+          "formation_raw": "4 Izzo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 22,
+          "name": "Mari P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "22 Mari P.",
+          "formation_raw": "22 Mari",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 44,
+          "name": "Carboni A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "44 Carboni A.",
+          "formation_raw": "44 Carboni",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 8,
+          "name": "Akpa Akpro J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "8 Akpa Akpro J.",
+          "formation_raw": "8 Akpa Akpro",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 38,
+          "name": "Bondo W.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "38 Bondo W.",
+          "formation_raw": "38 Bondo",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 28,
+          "name": "Colpani A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "28 Colpani A.",
+          "formation_raw": "28 Colpani",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 32,
+          "name": "Pessina M.",
+          "goalkeeper": false,
+          "captain": true,
+          "raw": "32 Pessina M. (C)",
+          "formation_raw": "32 Pessina",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 47,
+          "name": "Mota D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "47 Mota D.",
+          "formation_raw": "47 Mota",
+          "source": "formation_detail_match",
+          "match_score": 14
+        },
+        {
+          "number": 11,
+          "name": "Djuric M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "11 Djuric M.",
+          "formation_raw": "11 Djuric",
+          "source": "formation_detail_match",
+          "match_score": 14
+        }
+      ],
+      "substitutes": [
+        {
+          "number": 21,
+          "name": "Carboni V.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "21 Carboni V.",
+          "source": "detailed"
+        },
+        {
+          "number": 84,
+          "name": "Ciurria P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "84 Ciurria P.",
+          "source": "detailed"
+        },
+        {
+          "number": 9,
+          "name": "Colombo L.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "9 Colombo L.",
+          "source": "detailed"
+        },
+        {
+          "number": 2,
+          "name": "Donati G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "2 Donati G.",
+          "source": "detailed"
+        },
+        {
+          "number": 66,
+          "name": "Gori S.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "66 Gori S. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 77,
+          "name": "Kyriakopoulos G.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "77 Kyriakopoulos G.",
+          "source": "detailed"
+        },
+        {
+          "number": 7,
+          "name": "Machin J.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "7 Machin J.",
+          "source": "detailed"
+        },
+        {
+          "number": 27,
+          "name": "Maldini D.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "27 Maldini D.",
+          "source": "detailed"
+        },
+        {
+          "number": 13,
+          "name": "Pereira P.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "13 Pereira P.",
+          "source": "detailed"
+        },
+        {
+          "number": 79,
+          "name": "Popovic M.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "79 Popovic M.",
+          "source": "detailed"
+        },
+        {
+          "number": 23,
+          "name": "Sorrentino A.",
+          "goalkeeper": true,
+          "captain": false,
+          "raw": "23 Sorrentino A. (G)",
+          "source": "detailed"
+        },
+        {
+          "number": 20,
+          "name": "Zerbin A.",
+          "goalkeeper": false,
+          "captain": false,
+          "raw": "20 Zerbin A.",
+          "source": "detailed"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute": "63",
+          "incoming": "Kyriakopoulos G.",
+          "outgoing": "Colpani A.",
+          "incoming_rating": 6.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Kyriakopoulos G. 6.8 Colpani A. 63'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Maldini D.",
+          "outgoing": "Mota D.",
+          "incoming_rating": 7.8,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Maldini D. 7.8 Mota D. 75'"
+        },
+        {
+          "minute": "75",
+          "incoming": "Carboni V.",
+          "outgoing": "Akpa Akpro J.",
+          "incoming_rating": 7,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": null,
+          "raw": "Carboni V. 7.0 Akpa Akpro J. 75'"
+        },
+        {
+          "minute": "86",
+          "incoming": "Machin J.",
+          "outgoing": "Pessina M.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Machin J. Pessina M. 86'"
+        },
+        {
+          "minute": "86",
+          "incoming": "Pereira P.",
+          "outgoing": "Birindelli S.",
+          "incoming_rating": null,
+          "side": "away",
+          "side_match_score": 9,
+          "split_match_score": 39,
+          "raw": "Pereira P. Birindelli S. 86'"
+        }
+      ],
+      "coach": "Palladino R."
+    },
+    "unassigned_substitutions": [
+    ],
+    "raw": [
+      "1 Martinez",
+      "14 Vogliacco",
+      "13 Bani",
+      "4 De Winter",
+      "20 Sabelli",
+      "8 Strootman",
+      "47 Badelj",
+      "32 Frendrup",
+      "10 Junior Messias",
+      "11 Gudmundsson",
+      "19 Retegui",
+      "16 Di Gregorio",
+      "19 Birindelli",
+      "4 Izzo",
+      "22 Mari",
+      "44 Carboni",
+      "8 Akpa Akpro",
+      "38 Bondo",
+      "28 Colpani",
+      "32 Pessina",
+      "47 Mota",
+      "11 Djuric",
+      "Spence D. 6.3 Vogliacco A. 46'",
+      "Vitinha 7.2 Strootman K. 46'",
+      "Malinovskyi R. 6.7 Frendrup M. 46'",
+      "Ekuban C. Sabelli S. 84'",
+      "Thorsby M. Badelj M. 87'",
+      "Kyriakopoulos G. 6.8 Colpani A. 63'",
+      "Maldini D. 7.8 Mota D. 75'",
+      "Carboni V. 7.0 Akpa Akpro J. 75'",
+      "Machin J. Pessina M. 86'",
+      "Pereira P. Birindelli S. 86'",
+      "1 Martinez J. (G)",
+      "14 Vogliacco A.",
+      "13 Bani M.",
+      "4 De Winter K.",
+      "20 Sabelli S.",
+      "8 Strootman K.",
+      "47 Badelj M. (C)",
+      "32 Frendrup M.",
+      "11 Gudmundsson A.",
+      "19 Retegui M.",
+      "16 Di Gregorio M. (G)",
+      "19 Birindelli S.",
+      "4 Izzo A.",
+      "22 Mari P.",
+      "44 Carboni A.",
+      "8 Akpa Akpro J.",
+      "38 Bondo W.",
+      "28 Colpani A.",
+      "32 Pessina M. (C)",
+      "47 Mota D.",
+      "11 Djuric M.",
+      "5 Bohinen E.",
+      "23 Cittadini G.",
+      "18 Ekuban C.",
+      "16 Leali N. (G)",
+      "17 Malinovskyi R.",
+      "53 Pittino T.",
+      "39 Sommariva D. (G)",
+      "90 Spence D.",
+      "2 Thorsby M.",
+      "9 Vitinha",
+      "5 Caldirola L.",
+      "21 Carboni V.",
+      "84 Ciurria P.",
+      "9 Colombo L.",
+      "2 Donati G.",
+      "66 Gori S. (G)",
+      "77 Kyriakopoulos G.",
+      "7 Machin J.",
+      "27 Maldini D.",
+      "13 Pereira P.",
+      "79 Popovic M.",
+      "23 Sorrentino A. (G)",
+      "20 Zerbin A.",
+      "Ankeye D. Injury",
+      "Haps R. Injury",
+      "Matturro A. Surgery",
+      "Vasquez J. Yellow Cards",
+      "Caprari G. Knee Injury",
+      "Papu Gomez Suspended",
+      "Vignato S. Muscle Injury",
+      "Gilardino A.",
+      "Palladino R."
+    ]
+  },
+  "lineup_validation": {
+    "home_formation_count": 11,
+    "away_formation_count": 11,
+    "home_starting_count": 11,
+    "away_starting_count": 11,
+    "home_substitute_count": 11,
+    "away_substitute_count": 12,
+    "home_starting_formation_overlap": 11,
+    "away_starting_formation_overlap": 11,
+    "home_starting_valid": true,
+    "away_starting_valid": true,
+    "detailed_player_count": 44,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "unassigned_substitution_count": 0,
+    "home_bench_substitution_match_count": 5,
+    "away_bench_substitution_match_count": 5,
+    "bench_boundary_index": 11,
+    "bench_boundary_score": 359.975
+  },
+  "diagnostics_lineups": {
+    "raw_lineup_row_count": 120,
+    "compact_lineup_text_count": 85,
+    "formation_zone_count": 22,
+    "used_formation_player_count": 22,
+    "detailed_player_count": 44,
+    "substitution_count": 10,
+    "coach_candidate_count": 4,
+    "home_coach_found": true,
+    "away_coach_found": true,
+    "structured_home_starting_count": 11,
+    "structured_away_starting_count": 11,
+    "structured_home_substitute_count": 11,
+    "structured_away_substitute_count": 12,
+    "matched_starting_detail_count": 21,
+    "formation_fallback_count": 1,
+    "bench_boundary_index": 11
+  },
+  "commentary": [
+  ],
+  "events": {
+    "goals": [
+    ],
+    "yellow_cards": [
+    ],
+    "red_cards": [
+    ],
+    "substitutions": [
+    ],
+    "var": [
+    ],
+    "attendance": [
+    ],
+    "periods": [
+    ],
+    "overturned": [
+    ]
+  },
+  "commentary_validation": {
+    "expected_goal_count_from_score": 5,
+    "detected_goal_count": 0,
+    "goal_count_matches_final_score": false,
+    "score_bearing_event_count": 0,
+    "overturned_event_count": 0
+  },
+  "diagnostics_commentary": {
+    "raw_commentary_row_count": 0,
+    "commentary_row_count": 0,
+    "removed_commentary_noise_count": 0,
+    "goal_event_count": 0,
+    "yellow_card_event_count": 0,
+    "red_card_event_count": 0,
+    "substitution_event_count": 0,
+    "var_event_count": 0,
+    "overturned_event_count": 0,
+    "multi_tag_event_count": 0,
+    "goal_count_matches_final_score": false,
+    "commentary_event_validation": {
+      "expected_goal_count_from_score": 5,
+      "detected_goal_count": 0
+    }
+  },
+  "player_stats_availability": {
+    "supported_by_profile": false,
+    "expected_category_count": 7,
+    "collected_category_count": 0,
+    "status": "not_available",
+    "reason": "player_stats_not_available_for_selected_competition_season",
+    "missing_categories": [
+      "top_stats",
+      "shots",
+      "attack",
+      "passes",
+      "defense",
+      "goalkeeping",
+      "general"
+    ]
+  },
+  "structured_events_validation": {
+    "goal_event_count": 0,
+    "structured_goal_count": 0,
+    "unmatched_goal_scorer_count": 0,
+    "assist_player_count": 0,
+    "own_goal_count": 0,
+    "penalty_goal_count": 0,
+    "header_goal_count": 0,
+    "yellow_card_event_count": 0,
+    "structured_yellow_card_count": 0,
+    "red_card_event_count": 0,
+    "structured_red_card_count": 0,
+    "overturned_card_event_count": 0,
+    "structured_overturned_card_count": 0,
+    "var_event_count": 0,
+    "structured_var_event_count": 0,
+    "var_player_resolved_count": 0,
+    "var_linked_event_count": 0,
+    "unlinked_var_event_count": 0,
+    "linked_overturned_card_count": 0,
+    "unlinked_overturned_card_count": 0,
+    "invalid_var_decision_flag_count": 0,
+    "all_var_events_linked": true,
+    "all_overturned_cards_linked": true,
+    "all_goal_scorers_resolved": true,
+    "all_cards_resolved": true,
+    "all_structured_events_resolved": true,
+    "event_count_mismatch": false,
+    "has_critical_event_mismatch": false,
+    "critical_error_count": 0,
+    "warning_count": 0,
+    "has_event_count_warning": false,
+    "has_identity_resolution_error": false,
+    "has_score_integrity_error": false,
+    "validation_severity": "ok",
+    "is_valid": true,
+    "unmatched_events": [
+    ]
+  },
+  "schema_version": "3.20",
+  "source": "flashscore",
+  "collected_at_utc": "2026-08-16T16:06:06Z",
+  "collector_profile": {
+    "competition_key": "serie_a",
+    "competition": "Italian Serie A",
+    "season": "2023/2024",
+    "season_key": "2023_2024",
+    "expected_match_count": 380,
+    "supports_player_stats": false
+  },
+  "collection_coverage": {
+    "statistics_match": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_first_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 14,
+      "error": null
+    },
+    "statistics_second_half": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 13,
+      "error": null
+    },
+    "statistics_extra_time": {
+      "coverage": 0,
+      "status": "not_applicable",
+      "row_count": 0,
+      "error": null
+    },
+    "lineups": {
+      "coverage": 1,
+      "status": "collected",
+      "row_count": 4,
+      "error": null
+    },
+    "player_stats_top_stats": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_shots": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_attack": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_passes": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_defense": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_goalkeeping": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "player_stats_general": {
+      "coverage": 0,
+      "status": "not_available",
+      "row_count": 0,
+      "error": null
+    },
+    "commentary": {
+      "coverage": 0,
+      "status": "empty",
+      "row_count": 0,
+      "error": null
+    }
+  }
+}
