@@ -12,7 +12,8 @@ uses
   Collector.Scripts in 'Source\Collector.Scripts.pas',
   Collector.Profiles in 'Source\Collector.Profiles.pas',
   Collector.StructuredEvents in 'Source\Collector.StructuredEvents.pas',
-  Collector.Utils in 'Source\Collector.Utils.pas';
+  Collector.Utils in 'Source\Collector.Utils.pas',
+  Collector.Dashboard in 'Source\Collector.Dashboard.pas';
 
 {$R *.res}
 
@@ -20,5 +21,6 @@ begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
   Application.CreateForm(TMainForm, MainForm);
+  ApplyCollectorDashboard(MainForm);
   Application.Run;
 end.
