@@ -80,8 +80,8 @@ begin
     Exit;
   end;
 
-  { League season captions are presentation only. URL behaviour is defined by
-    TSeasonProfile.Kind, not by comparing the selected caption later. }
+  { Season captions are presentation values only. URL behaviour is defined by
+    TSeasonProfile.Kind, not by comparing the selected caption in URL code. }
   AItems.Add('2026/2027');
   AItems.Add('2025/2026');
   AItems.Add('2024/2025');
@@ -171,7 +171,7 @@ begin
           [ACountrySlug, ALeagueSlug, ASeason.UrlSeasonSlug]);
       end;
   else
-    raise EArgumentOutOfRangeException.Create('Unknown season kind.');
+    raise EArgumentException.Create('Unknown season kind.');
   end;
 end;
 
