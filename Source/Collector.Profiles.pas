@@ -198,7 +198,14 @@ begin
   BuildLeagueUrls(ASeason, ACountrySlug, ALeagueSlug,
     AProfile.ResultsUrl, AProfile.FixturesUrl);
 
-  AProfile.ExpectedMatchCount := AExpectedMatchCount;
+  { For current seasons the results page contains only matches completed so far.
+    ExpectedMatchCount = 0 disables full-season completeness validation while
+    archive seasons keep their exact expected total. }
+  if ASeason.Kind = skCurrent then
+    AProfile.ExpectedMatchCount := 0
+  else
+    AProfile.ExpectedMatchCount := AExpectedMatchCount;
+
   AProfile.IsArchive2022 := False;
   AProfile.SupportsPlayerStats := ASeason.SupportsPlayerStats;
   AProfile.RegularSeasonRoundsOnly := True;
@@ -237,6 +244,7 @@ begin
     else if SameText(ASeasonCaption, '2026') then
     begin
       AProfile.SeasonKind := skCurrent;
+      AProfile.ExpectedMatchCount := 0;
       AProfile.OutputDirectory := 'Data\Matches\WC\WC_2026';
       AProfile.ProcessedFile := 'Data\processed_matches.json';
       AProfile.QueueFile := 'Data\match_queue.json';
