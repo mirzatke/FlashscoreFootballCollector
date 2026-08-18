@@ -49,6 +49,13 @@ type
     constructor CreateDashboard(const AForm: TForm);
   end;
 
+const
+  CBackColor = TColor($00F9F5F1);
+  CHeaderColor = TColor($002A170F);
+  CMutedColor = TColor($008B7464);
+  CTextColor = TColor($002A170F);
+  CBarColor = TColor($00F0E8E2);
+
 function TDashboardController.FindTopPanel(const AAlign: TAlign): TPanel;
 var
   I: Integer;
@@ -123,7 +130,7 @@ begin
   CaptionLabel.Caption := ACaption;
   CaptionLabel.Font.Name := 'Segoe UI Semibold';
   CaptionLabel.Font.Size := 8;
-  CaptionLabel.Font.Color := RGB(100, 116, 139);
+  CaptionLabel.Font.Color := CMutedColor;
 
   Result := TLabel.Create(Self);
   Result.Parent := Card;
@@ -131,7 +138,7 @@ begin
   Result.Caption := '0';
   Result.Font.Name := 'Segoe UI Semibold';
   Result.Font.Size := 18;
-  Result.Font.Color := RGB(15, 23, 42);
+  Result.Font.Color := CTextColor;
 end;
 
 constructor TDashboardController.CreateDashboard(const AForm: TForm);
@@ -154,12 +161,13 @@ var
   InfoLabel: TLabel;
   ModeCombo: TComboBox;
   I: Integer;
+  ModeIndex: Integer;
 begin
   if FForm = nil then
     Exit;
 
   FForm.Caption := 'Flashscore Football Collector v46';
-  FForm.Color := RGB(241, 245, 249);
+  FForm.Color := CBackColor;
   FForm.Font.Name := 'Segoe UI';
   FForm.Font.Size := 10;
   FForm.Constraints.MinWidth := 1180;
@@ -173,17 +181,13 @@ begin
   if FHeaderPanel <> nil then
   begin
     FHeaderPanel.Height := 68;
-    FHeaderPanel.Color := RGB(15, 23, 42);
+    FHeaderPanel.Color := CHeaderColor;
     FHeaderPanel.ParentBackground := False;
     for I := 0 to FHeaderPanel.ControlCount - 1 do
       if FHeaderPanel.Controls[I] is TLabel then
       begin
         TLabel(FHeaderPanel.Controls[I]).Font.Name := 'Segoe UI';
-        if I = 0 then
-        begin
-          TLabel(FHeaderPanel.Controls[I]).Caption := 'Flashscore Collector';
-          TLabel(FHeaderPanel.Controls[I]).Font.Name := 'Segoe UI Semibold';
-        end;
+        TLabel(FHeaderPanel.Controls[I]).Font.Color := clWhite;
       end;
   end;
 
@@ -199,14 +203,16 @@ begin
     ModeCombo := nil;
     for I := 0 to FSetupPanel.ControlCount - 1 do
       if FSetupPanel.Controls[I] is TComboBox then
-        if TComboBox(FSetupPanel.Controls[I]).Items.IndexOf('Full season / tournament') >= 0 then
+      begin
+        ModeIndex := TComboBox(FSetupPanel.Controls[I]).Items.IndexOf(
+          'Full season / tournament');
+        if ModeIndex >= 0 then
         begin
           ModeCombo := TComboBox(FSetupPanel.Controls[I]);
+          ModeCombo.Items[ModeIndex] := 'Current season update / full season';
           Break;
         end;
-    if ModeCombo <> nil then
-      ModeCombo.Items[ModeCombo.Items.IndexOf('Full season / tournament')] :=
-        'Current season update / full season';
+      end;
   end;
 
   if FBottomPanel <> nil then
@@ -214,7 +220,7 @@ begin
     FLogMemo := TMemo(FindControlRecursive(FBottomPanel, TMemo));
     FBottomPanel.Height := 34;
     FBottomPanel.Padding.SetBounds(0, 0, 0, 0);
-    FBottomPanel.Color := RGB(226, 232, 240);
+    FBottomPanel.Color := CBarColor;
     FBottomPanel.ParentBackground := False;
 
     FActivityLabel := TLabel.Create(Self);
@@ -223,7 +229,7 @@ begin
     FActivityLabel.Layout := tlCenter;
     FActivityLabel.Caption := '  Ready';
     FActivityLabel.Font.Size := 9;
-    FActivityLabel.Font.Color := RGB(71, 85, 105);
+    FActivityLabel.Font.Color := CMutedColor;
   end;
 
   if FBrowserPanel = nil then
@@ -267,14 +273,14 @@ begin
     FLogMemo.WordWrap := False;
     FLogMemo.Font.Name := 'Consolas';
     FLogMemo.Font.Size := 9;
-    FLogMemo.Color := RGB(248, 250, 252);
+    FLogMemo.Color := clWhite;
   end;
 
   OverviewBody := TPanel.Create(Self);
   OverviewBody.Parent := OverviewTab;
   OverviewBody.Align := alClient;
   OverviewBody.BevelOuter := bvNone;
-  OverviewBody.Color := RGB(241, 245, 249);
+  OverviewBody.Color := CBackColor;
   OverviewBody.ParentBackground := False;
 
   TitleLabel := TLabel.Create(Self);
@@ -283,7 +289,7 @@ begin
   TitleLabel.Caption := 'Collection overview';
   TitleLabel.Font.Name := 'Segoe UI Semibold';
   TitleLabel.Font.Size := 16;
-  TitleLabel.Font.Color := RGB(15, 23, 42);
+  TitleLabel.Font.Color := CTextColor;
 
   FMatchesValue := NewCard(OverviewBody, 22, 68, 150, 86, 'MATCHES');
   FCollectedValue := NewCard(OverviewBody, 184, 68, 150, 86, 'COLLECTED');
@@ -306,11 +312,11 @@ begin
   InfoLabel.WordWrap := True;
   InfoLabel.Caption :=
     'Collector status' + sLineBreak + sLineBreak +
-    'Statistics  •  Half statistics  •  Extra time' + sLineBreak +
-    'Lineups  •  Player stats  •  Commentary  •  JSON' + sLineBreak + sLineBreak +
-    'Use Browser for Flashscore, Log for full diagnostics, and Output for file information.';
+    'Statistics  |  Half statistics  |  Extra time' + sLineBreak +
+    'Lineups  |  Player stats  |  Commentary  |  JSON' + sLineBreak + sLineBreak +
+    'Browser shows Flashscore; Log keeps full diagnostics; Output shows file information.';
   InfoLabel.Font.Size := 10;
-  InfoLabel.Font.Color := RGB(71, 85, 105);
+  InfoLabel.Font.Color := CMutedColor;
 
   InfoLabel := TLabel.Create(Self);
   InfoLabel.Parent := OutputTab;
@@ -322,7 +328,7 @@ begin
     sLineBreak + sLineBreak +
     'Use Open output to open the folder or View latest JSON to inspect the newest file.';
   InfoLabel.Font.Size := 11;
-  InfoLabel.Font.Color := RGB(51, 65, 85);
+  InfoLabel.Font.Color := CMutedColor;
 
   FTimer := TTimer.Create(Self);
   FTimer.Interval := 500;
@@ -338,6 +344,7 @@ var
   P: Integer;
   TotalText: string;
   CollectedText: string;
+  PendingValue: Integer;
 begin
   if FActivityLabel <> nil then
   begin
@@ -371,17 +378,21 @@ begin
     FCollectedValue.Caption := CollectedText;
 
   if (FPendingValue <> nil) and (FProgressBar <> nil) then
-    FPendingValue.Caption := IntToStr(
-      System.Math.Max(0, FProgressBar.Max - FProgressBar.Position));
+  begin
+    PendingValue := FProgressBar.Max - FProgressBar.Position;
+    if PendingValue < 0 then
+      PendingValue := 0;
+    FPendingValue.Caption := IntToStr(PendingValue);
+  end;
 
   if FStateValue <> nil then
   begin
-    if (FProgressBar <> nil) and (FProgressBar.Position > 0) and
-       (FProgressBar.Position < FProgressBar.Max) then
-      FStateValue.Caption := 'RUNNING'
-    else if (FStatusLabel <> nil) and
-      (Pos('error', LowerCase(FStatusLabel.Caption)) > 0) then
+    if (FStatusLabel <> nil) and
+       (Pos('error', LowerCase(FStatusLabel.Caption)) > 0) then
       FStateValue.Caption := 'ERROR'
+    else if (FProgressBar <> nil) and (FProgressBar.Position > 0) and
+            (FProgressBar.Position < FProgressBar.Max) then
+      FStateValue.Caption := 'RUNNING'
     else
       FStateValue.Caption := 'READY';
   end;
@@ -389,9 +400,8 @@ end;
 
 procedure ApplyCollectorDashboard(const AForm: TForm);
 begin
-  if AForm = nil then
-    Exit;
-  TDashboardController.CreateDashboard(AForm);
+  if AForm <> nil then
+    TDashboardController.CreateDashboard(AForm);
 end;
 
 end.
